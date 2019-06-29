@@ -1,0 +1,100 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,AFTABAUTO,Q3 Financials,0,0,0,q3 financials
+1,2019-04-24,AFTABAUTO,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+2,2019-01-31,AFTABAUTO,Q2 Financials,0,0,0,q2 financials
+3,2019-01-24,AFTABAUTO,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2019-01-16,AFTABAUTO,Dividend Disbursement,0,0,0,dividend disbursement
+5,2018-11-20,AFTABAUTO,Resumption after record date,0,0,1,resumption after record date
+6,2018-11-19,AFTABAUTO,Suspension for Record date,0,0,0,suspension for record date
+7,2018-11-15,AFTABAUTO,Spot News,1,0,0,spot news
+8,2018-11-15,AFTABAUTO,Q1 Financials,1,0,0,q1 financials
+9,2018-11-08,AFTABAUTO,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+10,2018-10-29,AFTABAUTO,Price Limit Open,0,0,0,price limit open
+12,2018-10-29,AFTABAUTO,Dividend Declaration,0,0,0,dividend declaration
+13,2018-10-18,AFTABAUTO,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+14,2018-04-26,AFTABAUTO,Q3 Financials,1,0,0,q3 financials
+15,2018-04-22,AFTABAUTO,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+16,2018-04-22,AFTABAUTO,Credit Rating Result,0,0,0,credit rating result
+17,2018-01-30,AFTABAUTO,Q2 Financials,0,0,0,q2 financials
+18,2018-01-24,AFTABAUTO,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+19,2018-01-18,AFTABAUTO,Dividend Disbursement,0,0,0,dividend disbursement
+20,2017-11-15,AFTABAUTO,Q1 Financials,1,0,0,q1 financials
+21,2017-11-09,AFTABAUTO,Resumption after record date,0,0,0,resumption after record date
+22,2017-11-08,AFTABAUTO,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+23,2017-11-08,AFTABAUTO,Suspension for Record Date,0,0,0,suspension for record date
+24,2017-11-06,AFTABAUTO,Spot News,0,0,0,spot news
+25,2017-10-22,AFTABAUTO,Price Limit Open,1,0,0,price limit open
+27,2017-10-22,AFTABAUTO,Dividend Declaration,1,0,0,dividend declaration
+28,2017-10-12,AFTABAUTO,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+29,2017-04-30,AFTABAUTO,Q3 Financials,0,0,1,q3 financials
+30,2017-04-24,AFTABAUTO,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+31,2017-03-30,AFTABAUTO,Credit Rating Result,1,0,0,credit rating result
+32,2017-01-30,AFTABAUTO,Dividend Disbursement,0,0,0,dividend disbursement
+33,2017-01-29,AFTABAUTO,Q2 Financials,0,0,0,q2 financials
+34,2017-01-24,AFTABAUTO, Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+35,2016-11-28,AFTABAUTO,Resumption after record date,0,1,0,resumption after record date
+36,2016-11-27,AFTABAUTO,Suspension for record date,0,0,1,suspension for record date
+37,2016-11-23,AFTABAUTO,Spot for AGM,0,0,0,spot for agm
+38,2016-11-14,AFTABAUTO,Q1 Financials,0,1,1,q1 financials
+39,2016-11-07,AFTABAUTO,Board Meeting,0,1,0,board meeting
+40,2016-10-30,AFTABAUTO,Price Limit Open,0,0,0,price limit open
+41,2016-10-30,AFTABAUTO,Dividend Declaration,0,0,0,dividend declaration
+42,2016-10-19,AFTABAUTO,Board Meeting,0,0,0,board meeting
+43,2016-07-10,AFTABAUTO,Unaudited Financial Information,0,0,1,unaudited financial information
+44,2016-06-26,AFTABAUTO,Board Meeting,1,1,0,board meeting
+45,2016-05-17,AFTABAUTO, Change of Financial year,1,1,1,change of financial year
+46,2016-04-13,AFTABAUTO,Credit Rating Result,0,0,0,credit rating result
+47,2016-03-31,AFTABAUTO,Q2 Financials,1,0,0,q2 financials
+48,2016-03-24,AFTABAUTO, Board Meeting,0,0,0,board meeting
+49,2016-01-27,AFTABAUTO,Cash Dividend Disbursement,0,0,0,cash dividend disbursement
+50,2016-01-17,AFTABAUTO,Q1,0,1,0,q1
+51,2016-01-07,AFTABAUTO,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+52,2015-12-06,AFTABAUTO,Resumption after Record date,0,0,1,resumption after record date
+53,2015-12-03,AFTABAUTO,Suspension for Record Date,1,0,0,suspension for record date
+54,2015-12-01,AFTABAUTO,Confirmation of sale and buy of Sponsor/Director in Block Market,1,1,1,confirmation of sale and buy of sponsordirector in block market
+55,2015-12-01,AFTABAUTO,Spot for AGM,1,1,1,spot for agm
+56,2015-11-24,AFTABAUTO,Declaration of sale and buy of Sponsor/Director in Block Market,1,0,0,declaration of sale and buy of sponsordirector in block market
+57,2015-11-16,AFTABAUTO,Price Limit Open,0,0,0,price limit open
+58,2015-11-16,AFTABAUTO,Dividend Declaration,0,0,0,dividend declaration
+59,2015-11-05,AFTABAUTO,Board Meeting,1,0,0,board meeting
+60,2015-06-30,AFTABAUTO,Q3 Financials,1,0,0,q3 financials
+61,2015-05-18,AFTABAUTO,Query Response,1,1,0,query response
+62,2015-03-30,AFTABAUTO,Half Yearly Financials,0,1,0,half yearly financials
+63,2015-01-11,AFTABAUTO,Q1 earnings,0,0,1,q1 earnings
+64,2014-11-30,AFTABAUTO,trade resume,0,0,1,trade resume
+65,2014-11-27,AFTABAUTO,trade suspension,1,0,0,trade suspension
+66,2014-11-25,AFTABAUTO,trade suspension,1,0,1,trade suspension
+67,2014-11-18,AFTABAUTO,no price limit,0,1,0,no price limit
+68,2014-11-18,AFTABAUTO,17% cash dividend,0,1,0,17 cash dividend
+69,2014-11-13,AFTABAUTO,Board meeting,0,0,0,board meeting
+70,2014-06-19,AFTABAUTO,Q3 Earnings,0,0,0,q3 earnings
+71,2014-05-11,AFTABAUTO,Credit Rating,0,1,0,credit rating
+72,2014-05-07,AFTABAUTO,Sponsors intention to sell her share,1,0,0,sponsors intention to sell her share
+73,2014-03-25,AFTABAUTO,Q2 earning,0,0,1,q2 earning
+74,2014-01-13,AFTABAUTO,Q1 Earnings,0,0,0,q1 earnings
+75,2014-01-12,AFTABAUTO,bonus shares credited,0,0,0,bonus shares credited
+76,2013-12-05,AFTABAUTO,trade resume,0,0,0,trade resume
+77,2013-12-04,AFTABAUTO,trade suspension,0,0,0,trade suspension
+78,2013-12-01,AFTABAUTO,spot market trade,0,0,1,spot market trade
+79,2013-11-25,AFTABAUTO,8% Cash & 12% Stock Dividend,0,1,1,8 cash  12 stock dividend
+80,2013-11-20,AFTABAUTO,Board Meeting,0,0,0,board meeting
+81,2013-08-05,AFTABAUTO,Credit Rating,1,0,0,credit rating
+82,2013-07-11,AFTABAUTO,Directors News,0,0,0,directors news
+83,2013-03-31,AFTABAUTO,H/Y Earnings,1,0,1,hy earnings
+84,2013-01-03,AFTABAUTO,Bonus Share,0,0,0,bonus share
+85,2012-11-29,AFTABAUTO,spot market trading,1,0,0,spot market trading
+86,2012-11-26,AFTABAUTO,corporate declaration,0,1,0,corporate declaration
+87,2012-07-03,AFTABAUTO,- (Q3): As per un-audited...,1,0,0,q3: as per un-audited
+88,2012-07-03,AFTABAUTO,- (continuation of news...,1,0,0,continuation of news
+89,2012-03-29,AFTABAUTO,- Whereas consolidated profit after tax...,0,0,0,whereas consolidated profit after tax
+90,2012-03-29,AFTABAUTO,- As per un-audited half yearly accounts...,0,0,0,as per un-audited half yearly accounts
+91,2012-01-12,AFTABAUTO,- The Credit Rating Agency...,0,0,0,the credit rating agency
+92,2012-01-05,AFTABAUTO,- The Company has informed...,1,0,0,the company has informed
+93,2011-12-21,AFTABAUTO,- Mr. Shafiul Islam...,1,1,0,mr. shafiul islam
+94,2011-12-18,AFTABAUTO,- Mr. Shafiul Islam...,0,0,0,mr. shafiul islam
+95,2011-12-05,AFTABAUTO,- Normal trading...,0,0,0,normal trading
+96,2011-11-29,AFTABAUTO,- Trading of the shares...,0,1,0,trading of the shares
+97,2011-11-24,AFTABAUTO,- In connection...,0,0,0,in connection
+98,2011-11-22,AFTABAUTO,- There will be no price...,1,0,0,there will be no price
+99,2011-11-22,AFTABAUTO,- The Board of Directors...,1,0,0,the board of directors
+100,2011-11-17,AFTABAUTO,- As per regulation...,1,0,0,as per regulation

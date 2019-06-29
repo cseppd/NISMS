@@ -1,0 +1,111 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-28,BSCCL,Q3 Financials,0,0,0,q3 financials
+1,2019-04-17,BSCCL,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+2,2019-02-25,BSCCL,Query Response,0,0,1,query response
+4,2019-01-31,BSCCL,Q2 Financials,1,0,0,q2 financials
+5,2019-01-24,BSCCL,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+6,2019-01-21,BSCCL,Query Response,0,1,1,query response
+7,2018-12-11,BSCCL,Cash Dividend Disbursement,0,0,0,cash dividend disbursement
+8,2018-11-22,BSCCL,Qualified Opinion,0,0,0,qualified opinion
+9,2018-11-14,BSCCL,Q1 Financials,0,0,0,q1 financials
+10,2018-11-08,BSCCL,Prohibition on providing loan facilities to purchase securities,1,0,0,prohibition on providing loan facilities to purchase securities
+11,2018-11-08,BSCCL,Category Change,1,0,0,category change
+12,2018-11-06,BSCCL,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+13,2018-10-18,BSCCL,Resumption after Record Date,0,0,0,resumption after record date
+14,2018-10-17,BSCCL,Suspension for Record Date,0,0,0,suspension for record date
+15,2018-10-15,BSCCL,Spot News,1,0,0,spot news
+16,2018-09-30,BSCCL,Price Limit Open,0,0,1,price limit open
+17,2018-09-30,BSCCL,Dividend Declaration,0,0,1,dividend declaration
+18,2018-09-18,BSCCL,Reschedule of Board Meeting under LR 19(1),0,0,0,reschedule of board meeting under lr 191
+19,2018-09-17,BSCCL,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+20,2018-09-04,BSCCL,Query Response,1,1,0,query response
+21,2018-04-22,BSCCL,Q3 Financials,0,0,0,q3 financials
+22,2018-04-10,BSCCL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+23,2018-01-29,BSCCL,Q2 Financials,0,0,0,q2 financials
+24,2018-01-16,BSCCL,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+25,2017-11-20,BSCCL,Dividend Disbursement,1,0,1,dividend disbursement
+26,2017-11-12,BSCCL,Q1 Financials,0,0,1,q1 financials
+27,2017-11-07,BSCCL,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+28,2017-10-11,BSCCL,Basis for Qualified Opinion,0,0,0,basis for qualified opinion
+29,2017-09-21,BSCCL,Date change of AGM,1,0,0,date change of agm
+30,2017-09-20,BSCCL,Resumption after Record Date,0,1,0,resumption after record date
+31,2017-09-19,BSCCL,Suspension for Record Date,0,0,1,suspension for record date
+32,2017-09-17,BSCCL,Spot News,0,0,0,spot news
+33,2017-09-17,BSCCL,Commercial Operation of the 2nd Submarine Cable System,0,0,0,commercial operation of the 2nd submarine cable system
+34,2017-09-17,BSCCL,Date change of AGM,0,0,0,date change of agm
+35,2017-08-20,BSCCL,Furnishing e-TIN Number and Information for Margin Account Holders,0,0,0,furnishing e-tin number and information for margin account holders
+36,2017-08-20,BSCCL,Price Limit Open,0,0,0,price limit open
+37,2017-08-20,BSCCL,Dividend Declaration,0,0,0,dividend declaration
+38,2017-08-10,BSCCL,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+39,2017-04-30,BSCCL,Q3 Financials,0,0,0,q3 financials
+40,2017-04-19,BSCCL,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+41,2017-01-29,BSCCL,Q2 Financials,0,0,0,q2 financials
+42,2017-01-23,BSCCL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+43,2016-11-14,BSCCL,Q1 Financials,0,0,0,q1 financials
+44,2016-11-08,BSCCL,Board Meeting,1,0,0,board meeting
+45,2016-10-30,BSCCL,Dividend Disbursement,1,0,0,dividend disbursement
+46,2016-09-07,BSCCL,Resumption after record date,0,1,0,resumption after record date
+47,2016-09-06,BSCCL,Suspension for record date,0,0,1,suspension for record date
+48,2016-09-04,BSCCL,Spot for AGM,0,1,0,spot for agm
+49,2016-08-16,BSCCL, Furnishing e-TIN Number and Information for Margin Account Holders,1,0,0,furnishing e-tin number and information for margin account holders
+50,2016-08-16,BSCCL,Price Limit Open,1,0,0,price limit open
+51,2016-08-16,BSCCL,Dividend Declaration,1,0,0,dividend declaration
+52,2016-08-07,BSCCL,Board Meeting,0,0,0,board meeting
+53,2016-04-25,BSCCL,Q3 Financials,0,0,0,q3 financials
+54,2016-04-17,BSCCL,Board Meeting,0,1,0,board meeting
+55,2016-01-25,BSCCL,Q2 Financials,0,0,0,q2 financials
+56,2016-01-19,BSCCL,Board Meeting,1,0,0,board meeting
+57,2016-01-11,BSCCL,Postponement of Board Meeting schedule under LR 16(1),0,0,1,postponement of board meeting schedule under lr 161
+58,2016-01-07,BSCCL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+59,2015-11-09,BSCCL,Q1 Financials,0,0,0,q1 financials
+60,2015-11-04,BSCCL,Dividend Disbursement,1,0,0,dividend disbursement
+61,2015-11-03,BSCCL,Board Meeting,1,1,0,board meeting
+62,2015-09-29,BSCCL,Resumption News after Record Date,0,0,0,resumption news after record date
+63,2015-09-28,BSCCL,Suspension News for Record Date,0,0,0,suspension news for record date
+64,2015-09-21,BSCCL, Spot News for AGM,0,1,0,spot news for agm
+65,2015-09-07,BSCCL,Change of Record date,0,0,0,change of record date
+66,2015-09-06,BSCCL,Price Limit Open,1,0,0,price limit open
+67,2015-09-06,BSCCL,Dividend Declaration,1,0,0,dividend declaration
+68,2015-08-30,BSCCL,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+69,2015-06-07,BSCCL,Contract signing with BSNL of India,0,0,0,contract signing with bsnl of india
+70,2015-06-02,BSCCL,Granting Nationwide ISP License in favor of BSCCL by BTRC,0,0,0,granting nationwide isp license in favor of bsccl by btrc
+71,2015-05-18,BSCCL,Query Response,1,0,0,query response
+72,2015-05-13,BSCCL,Q3 Financials,0,1,0,q3 financials
+73,2015-04-23,BSCCL,Quarterly Earnings,0,0,0,quarterly earnings
+74,2015-02-23,BSCCL,Query Response,1,1,1,query response
+75,2015-02-01,BSCCL,Query Response,0,0,1,query response
+76,2015-01-29,BSCCL,H/Y,1,0,0,hy
+77,2015-01-14,BSCCL,Q2 earnings,1,1,0,q2 earnings
+78,2014-11-13,BSCCL,dividend credited,1,0,0,dividend credited
+79,2014-11-06,BSCCL,appoints new MD,0,0,0,appoints new md
+80,2014-11-06,BSCCL,Q1 earnings,0,0,0,q1 earnings
+81,2014-10-01,BSCCL,Co. Secretary as acting MD,0,1,0,co. secretary as acting md
+82,2014-09-04,BSCCL,trade resume,0,0,0,trade resume
+83,2014-09-03,BSCCL,trade suspension,1,0,0,trade suspension
+84,2014-09-01,BSCCL,Spot Market and Block/Odd lot transactions,0,1,1,spot market and blockodd lot transactions
+85,2014-08-25,BSCCL,dividend declaration,0,1,0,dividend declaration
+86,2014-08-25,BSCCL,no price limit,0,1,0,no price limit
+87,2014-08-19,BSCCL,Board meeting,1,0,0,board meeting
+88,2014-05-14,BSCCL,& BSNL signed a Memorandum of Understanding,0,0,0,bsnl signed a memorandum of understanding
+89,2014-04-29,BSCCL,Q3 Earning,0,1,0,q3 earning
+90,2014-01-19,BSCCL,H/Y,0,1,0,hy
+91,2013-11-13,BSCCL,credited bonus shares,0,0,0,credited bonus shares
+92,2013-10-30,BSCCL,Q1 Earnings,0,1,0,q1 earnings
+93,2013-09-26,BSCCL,Trade Resume After Record Date,0,0,0,trade resume after record date
+94,2013-09-25,BSCCL,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+95,2013-09-22,BSCCL,Trade Resume on  Record Date,0,0,1,trade resume on  record date
+96,2013-09-11,BSCCL,No Price limit,0,0,0,no price limit
+97,2013-09-11,BSCCL,Corporate Action,0,0,0,corporate action
+98,2013-09-05,BSCCL,Boared Meeting,0,0,0,boared meeting
+99,2013-06-12,BSCCL,Approved Commercial Operation of IIG,1,0,0,approved commercial operation of iig
+100,2013-04-29,BSCCL,Q3 Earnings,1,0,0,q3 earnings
+101,2013-04-29,BSCCL,Land Purchase,1,0,0,land purchase
+102,2013-03-12,BSCCL,credit rating,1,1,0,credit rating
+103,2013-01-17,BSCCL,(H/Y) Accounts,0,0,0,hy accounts
+104,2012-12-10,BSCCL,Market category change,1,1,0,market category change
+105,2012-11-28,BSCCL,bonus share credited,1,1,0,bonus share credited
+106,2012-11-08,BSCCL,Auditor statement,0,0,0,auditor statement
+107,2012-09-24,BSCCL,trade will resume after record date,0,1,0,trade will resume after record date
+108,2012-09-23,BSCCL,trading will be suspended on record date,0,0,1,trading will be suspended on record date
+109,2012-09-20,BSCCL,awarded International Internet Gateway (IIG) License,0,0,0,awarded international internet gateway iig license
+110,2012-09-18,BSCCL,trading will be in the spot market,1,1,0,trading will be in the spot market

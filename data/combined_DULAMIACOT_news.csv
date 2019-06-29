@@ -1,0 +1,112 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-29,DULAMIACOT,Q3 Financials,0,1,0,q3 financials
+1,2019-04-23,DULAMIACOT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-02-07,DULAMIACOT,Query Response,1,0,0,query response
+3,2019-01-28,DULAMIACOT,NOCFPS for 6 months period and approval of proposal for BMRE,1,0,1,nocfps for 6 months period and approval of proposal for bmre
+4,2019-01-28,DULAMIACOT,Q2 Financials,1,0,1,q2 financials
+5,2019-01-21,DULAMIACOT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+6,2018-11-18,DULAMIACOT,Resumption after record date,0,0,1,resumption after record date
+7,2018-11-15,DULAMIACOT,Suspension for Record Date,0,0,0,suspension for record date
+8,2018-11-15,DULAMIACOT,Q1 Financials,0,0,0,q1 financials
+9,2018-11-12,DULAMIACOT,Reschedule of Board Meeting under LR 16(1),0,1,1,reschedule of board meeting under lr 161
+10,2018-11-11,DULAMIACOT,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+11,2018-11-04,DULAMIACOT,Spot News,0,1,0,spot news
+12,2018-10-28,DULAMIACOT,Price Limit Open,1,0,1,price limit open
+13,2018-10-28,DULAMIACOT,Dividend Declaration,1,0,1,dividend declaration
+14,2018-10-18,DULAMIACOT,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+15,2018-10-02,DULAMIACOT,Query Response,0,0,1,query response
+16,2018-08-30,DULAMIACOT,Query Response,0,0,0,query response
+17,2018-08-06,DULAMIACOT,Query Response,0,0,1,query response
+18,2018-08-06,DULAMIACOT,Q3 Financials (Repeat News),0,0,1,q3 financials repeat news
+19,2018-04-30,DULAMIACOT,Q3 Financials,0,0,0,q3 financials
+20,2018-04-22,DULAMIACOT,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+21,2018-02-08,DULAMIACOT,Query Response,1,0,0,query response
+22,2018-01-31,DULAMIACOT,Q2 Financials,0,1,0,q2 financials
+23,2018-01-25,DULAMIACOT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+24,2018-01-03,DULAMIACOT,Query Response,0,1,0,query response
+25,2017-12-13,DULAMIACOT,Query Response (Repeat News),1,1,0,query response repeat news
+26,2017-12-12,DULAMIACOT,Query Response,1,1,1,query response
+27,2017-11-20,DULAMIACOT,Resumption after record date,0,0,0,resumption after record date
+28,2017-11-19,DULAMIACOT,Suspension for Record Date,1,0,0,suspension for record date
+29,2017-11-15,DULAMIACOT,Query Response,0,1,0,query response
+30,2017-11-14,DULAMIACOT,Q1 Financials (Repeat News),1,0,1,q1 financials repeat news
+31,2017-11-06,DULAMIACOT,Spot News,1,0,1,spot news
+32,2017-11-02,DULAMIACOT,Q1 Financials (Repeat),0,0,0,q1 financials repeat
+33,2017-10-30,DULAMIACOT,Q1 Financials,1,1,0,q1 financials
+34,2017-10-30,DULAMIACOT,Price Limit Open,1,1,0,price limit open
+35,2017-10-30,DULAMIACOT,Dividend Declaration,1,1,0,dividend declaration
+36,2017-10-23,DULAMIACOT,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+37,2017-08-29,DULAMIACOT,Query Response (Repeat News),0,0,0,query response repeat news
+38,2017-08-28,DULAMIACOT,Query Response,1,0,0,query response
+39,2017-07-17,DULAMIACOT,Query Response,0,0,0,query response
+40,2017-07-16,DULAMIACOT,Q3 Financials (Repeat),1,0,0,q3 financials repeat
+41,2017-04-27,DULAMIACOT,Q3 Financials,0,0,0,q3 financials
+42,2017-04-23,DULAMIACOT,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+43,2017-01-29,DULAMIACOT,Q2 Financials,1,0,0,q2 financials
+44,2017-01-19,DULAMIACOT,Board Meeting,0,0,0,board meeting
+45,2017-01-16,DULAMIACOT,Query Response,0,0,0,query response
+46,2016-11-14,DULAMIACOT,Resumption after,0,0,1,resumption after
+47,2016-11-13,DULAMIACOT,Suspension for,0,0,0,suspension for
+48,2016-10-31,DULAMIACOT,Spot for AGM,0,1,1,spot for agm
+49,2016-10-24,DULAMIACOT,Q1 Financials,0,1,1,q1 financials
+50,2016-10-24,DULAMIACOT,Price Limit Open,0,1,1,price limit open
+51,2016-10-24,DULAMIACOT,Dividend Declaration,0,1,1,dividend declaration
+52,2016-10-17,DULAMIACOT,Board Meeting,0,0,1,board meeting
+53,2016-05-03,DULAMIACOT,Q3 Financials,0,0,0,q3 financials
+54,2016-04-27,DULAMIACOT,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+55,2016-01-31,DULAMIACOT,Q2 Financials,1,0,0,q2 financials
+56,2015-11-17,DULAMIACOT,Resumption News after Record date,0,0,1,resumption news after record date
+57,2015-11-16,DULAMIACOT,Suspension News,0,0,0,suspension news
+58,2015-11-03,DULAMIACOT,Spot News for AGM,0,0,1,spot news for agm
+59,2015-10-27,DULAMIACOT,Q1 Financials,0,0,1,q1 financials
+60,2015-10-27,DULAMIACOT,Price Limit Open,0,0,1,price limit open
+61,2015-10-27,DULAMIACOT,Dividend Declaration,0,0,1,dividend declaration
+62,2015-10-21,DULAMIACOT,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+63,2015-04-30,DULAMIACOT,Q3 Financials,0,0,0,q3 financials
+64,2015-02-17,DULAMIACOT,Query Response,0,0,0,query response
+65,2015-01-29,DULAMIACOT,H/Y,0,0,0,hy
+66,2014-12-10,DULAMIACOT,DSE query,1,0,0,dse query
+67,2014-11-27,DULAMIACOT,trade resume,0,0,0,trade resume
+68,2014-11-26,DULAMIACOT,trade suspension,0,0,0,trade suspension
+69,2014-11-20,DULAMIACOT,audit report,0,0,0,audit report
+70,2014-11-13,DULAMIACOT,Spot Market,0,0,0,spot market
+71,2014-11-06,DULAMIACOT,Q1 earnings,0,0,0,q1 earnings
+72,2014-11-06,DULAMIACOT,no price limit,0,0,0,no price limit
+73,2014-11-06,DULAMIACOT,dividend declaration,0,0,0,dividend declaration
+74,2014-11-03,DULAMIACOT,Board Meeting,0,0,0,board meeting
+75,2014-10-28,DULAMIACOT,Board meeting rescheduled,0,0,0,board meeting rescheduled
+76,2014-10-27,DULAMIACOT,Board Meeting,0,0,0,board meeting
+77,2014-04-30,DULAMIACOT,Q3 Earning,0,0,0,q3 earning
+78,2014-01-30,DULAMIACOT,H/Y Earnings,0,0,0,hy earnings
+79,2014-01-16,DULAMIACOT,DSE query,1,0,0,dse query
+80,2013-12-03,DULAMIACOT,AGM date changed,0,1,0,agm date changed
+81,2013-11-14,DULAMIACOT,Trade Resume After Record Date,0,0,0,trade resume after record date
+82,2013-11-13,DULAMIACOT,trade suspension on record date,1,0,0,trade suspension on record date
+83,2013-11-07,DULAMIACOT,Q1 earnings,0,0,0,q1 earnings
+84,2013-11-06,DULAMIACOT,new AGM date,1,0,0,new agm date
+85,2013-10-31,DULAMIACOT,Trade Suspension on Record date,0,0,0,trade suspension on record date
+86,2013-10-27,DULAMIACOT,No Price Limit,0,0,0,no price limit
+87,2013-10-27,DULAMIACOT,Corporate Action,0,0,0,corporate action
+88,2013-10-23,DULAMIACOT,Board Meeting,0,0,0,board meeting
+89,2013-09-24,DULAMIACOT,Decided to file a law-suit in Ortho Rin Adalat for Recovery its Loan,1,0,1,decided to file a law-suit in ortho rin adalat for recovery its loan
+90,2013-09-17,DULAMIACOT,No Undisclosed price Sensitive Information,0,1,1,no undisclosed price sensitive information
+91,2013-04-30,DULAMIACOT,Q3 Earnings,0,0,0,q3 earnings
+92,2012-11-18,DULAMIACOT,Spot Market trading,0,0,0,spot market trading
+93,2012-11-13,DULAMIACOT,Q1 Earnings 2012,1,0,0,q1 earnings 2012
+94,2012-11-11,DULAMIACOT,will have no price limit today,0,1,1,will have no price limit today
+95,2012-11-11,DULAMIACOT,corporate declaration,0,1,1,corporate declaration
+96,2012-11-08,DULAMIACOT,Board Meeting,0,0,0,board meeting
+97,2012-09-20,DULAMIACOT,responses to DSE query,0,0,0,responses to dse query
+98,2012-01-30,DULAMIACOT,- As per un-audited...,1,0,0,as per un-audited
+99,2011-12-13,DULAMIACOT,- Auditor Observation...,0,0,1,auditor observation
+100,2011-11-27,DULAMIACOT,- Trading of the shares...,0,1,0,trading of the shares
+101,2011-11-24,DULAMIACOT,- Trading of the shares...,0,0,0,trading of the shares
+102,2011-11-13,DULAMIACOT,- As per un-audited...,0,0,0,as per un-audited
+103,2011-11-13,DULAMIACOT,- Trading of the shares...,0,0,0,trading of the shares
+104,2011-10-31,DULAMIACOT,- There will be no price...,0,0,0,there will be no price
+105,2011-10-31,DULAMIACOT,- The Board of Directors...,0,0,0,the board of directors
+106,2011-10-27,DULAMIACOT,- Normal trading of the shares...,0,0,0,normal trading of the shares
+107,2011-10-26,DULAMIACOT,- Trading of the shares...,0,0,0,trading of the shares
+108,2011-10-26,DULAMIACOT,- As per regulation...,0,0,0,as per regulation
+109,2011-10-13,DULAMIACOT,- Trading of the shares...,0,0,0,trading of the shares
+110,2011-10-11,DULAMIACOT,- The Company has informed...,0,0,0,the company has informed

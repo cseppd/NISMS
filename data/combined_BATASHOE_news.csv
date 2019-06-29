@@ -1,0 +1,162 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-28,BATASHOE,Reason for significant deviation in NOCFPS in the audited disclosure,0,0,0,reason for significant deviation in nocfps in the audited disclosure
+1,2019-04-28,BATASHOE,Q1 Financials,0,0,0,q1 financials
+2,2019-04-28,BATASHOE,Price Limit Open,0,0,0,price limit open
+4,2019-04-28,BATASHOE,Dividend Declaration,0,0,0,dividend declaration
+5,2019-04-16,BATASHOE,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+6,2019-04-16,BATASHOE,Board Meeting schedule under LR 19(1),0,0,1,board meeting schedule under lr 191
+7,2019-01-08,BATASHOE,Interim Dividend Disbursement,0,1,0,interim dividend disbursement
+8,2018-12-11,BATASHOE,Resumption after record date,0,1,0,resumption after record date
+10,2018-12-11,BATASHOE,Updating information,0,1,0,updating information
+11,2018-12-10,BATASHOE,Suspension for Record date,1,0,1,suspension for record date
+12,2018-12-06,BATASHOE,Spot for Interim dividend entitlement,0,0,0,spot for interim dividend entitlement
+13,2018-11-20,BATASHOE,Price Limit Open,0,0,1,price limit open
+14,2018-11-20,BATASHOE,Interim Dividend Declaration,0,0,1,interim dividend declaration
+15,2018-11-13,BATASHOE,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+16,2018-10-28,BATASHOE,Q3 Financials,0,1,0,q3 financials
+17,2018-10-21,BATASHOE,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+18,2018-07-29,BATASHOE,Q2 Financials,0,0,1,q2 financials
+19,2018-07-19,BATASHOE,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+20,2018-07-18,BATASHOE,Dividend Disbursement,1,0,0,dividend disbursement
+21,2018-06-04,BATASHOE,Credit Rating Result,0,1,0,credit rating result
+23,2018-05-24,BATASHOE,Updating information,1,0,0,updating information
+24,2018-05-23,BATASHOE,Resumption after record date,0,1,0,resumption after record date
+25,2018-05-22,BATASHOE,Suspension for Record Date,0,0,1,suspension for record date
+26,2018-05-20,BATASHOE,Spot News,1,1,0,spot news
+27,2018-04-30,BATASHOE,Q1 Financials,0,0,0,q1 financials
+28,2018-04-30,BATASHOE,Price Limit Open,0,0,0,price limit open
+30,2018-04-30,BATASHOE,Dividend Declaration,0,0,0,dividend declaration
+31,2018-04-18,BATASHOE,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+32,2018-04-18,BATASHOE,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+33,2017-12-24,BATASHOE,Interim Dividend Disbursement,1,0,1,interim dividend disbursement
+34,2017-12-07,BATASHOE,Resumption after record date,0,0,0,resumption after record date
+35,2017-12-07,BATASHOE,Information for Merchant Banks/Brokerage houses regarding Margin Loan,0,0,0,information for merchant banksbrokerage houses regarding margin loan
+36,2017-12-06,BATASHOE,Suspension for Record Date,0,0,0,suspension for record date
+37,2017-12-04,BATASHOE,Spot for interim dividend entitlement,1,1,0,spot for interim dividend entitlement
+38,2017-11-19,BATASHOE,Price Limit Open,0,0,1,price limit open
+39,2017-11-19,BATASHOE,Interim Dividend Declaration,0,0,1,interim dividend declaration
+40,2017-11-12,BATASHOE,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+41,2017-10-31,BATASHOE,Q3 Financials,1,1,0,q3 financials
+42,2017-10-24,BATASHOE,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+43,2017-07-30,BATASHOE,Q2 Financials,0,1,1,q2 financials
+44,2017-07-24,BATASHOE,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+45,2017-07-19,BATASHOE,Dividend Disbursement,1,0,0,dividend disbursement
+46,2017-06-11,BATASHOE,Credit Rating Result,0,1,0,credit rating result
+47,2017-05-23,BATASHOE,Information for Margin Account Holders,1,0,1,information for margin account holders
+48,2017-05-22,BATASHOE,Resumption after Record Date,0,1,0,resumption after record date
+49,2017-05-21,BATASHOE,Suspension for Record Date,1,0,1,suspension for record date
+50,2017-05-17,BATASHOE,Spot News,0,0,0,spot news
+51,2017-04-27,BATASHOE,Updating e-TIN information,1,0,0,updating e-tin information
+52,2017-04-27,BATASHOE,Q1 Financials,1,0,0,q1 financials
+53,2017-04-27,BATASHOE,Price Limit Open,1,0,0,price limit open
+55,2017-04-27,BATASHOE,Dividend Declaration,1,0,0,dividend declaration
+56,2017-04-19,BATASHOE,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+57,2017-04-19,BATASHOE,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+58,2016-12-29,BATASHOE, Interim Dividend Disbursement,0,0,0,interim dividend disbursement
+59,2016-12-18,BATASHOE,Resumption after record date,0,0,0,resumption after record date
+60,2016-12-18,BATASHOE,Information for Merchant Banks,0,0,0,information for merchant banks
+61,2016-12-15,BATASHOE,Suspension for Record Date,0,0,0,suspension for record date
+62,2016-12-12,BATASHOE,Spot for Interim dividend entitlement,1,0,0,spot for interim dividend entitlement
+63,2016-11-24,BATASHOE,Price Limit Open,0,0,0,price limit open
+64,2016-11-24,BATASHOE,Interim Dividend Declaration,0,0,0,interim dividend declaration
+65,2016-11-20,BATASHOE,Board Meeting schedule under LR 16(1) (Additional Information),0,0,0,board meeting schedule under lr 161 additional information
+66,2016-11-20,BATASHOE,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+67,2016-10-30,BATASHOE,Q3 Financials,1,0,0,q3 financials
+68,2016-10-24,BATASHOE,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+69,2016-08-21,BATASHOE,Resumption after record date,0,0,0,resumption after record date
+70,2016-08-18,BATASHOE,Suspension news for record date,0,0,0,suspension news for record date
+71,2016-08-16,BATASHOE,Spot for AGM,0,1,0,spot for agm
+72,2016-07-31,BATASHOE,Price Limit Open,0,0,1,price limit open
+73,2016-07-31,BATASHOE,Dividend Declaration and Re-fixation,0,0,1,dividend declaration and re-fixation
+74,2016-07-31,BATASHOE,Q2 Financials,0,0,1,q2 financials
+75,2016-07-19,BATASHOE,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+76,2016-06-28,BATASHOE,Interim Dividend Disbursement,1,1,1,interim dividend disbursement
+77,2016-05-26,BATASHOE,Credit Rating,0,0,0,credit rating
+78,2016-05-26,BATASHOE,Information for Brokerage,0,0,0,information for brokerage
+79,2016-05-24,BATASHOE,Resumption after Record date,0,0,0,resumption after record date
+80,2016-05-22,BATASHOE,Suspension news for record date,0,0,0,suspension news for record date
+81,2016-05-22,BATASHOE,Postponement of AGM,0,0,0,postponement of agm
+82,2016-05-18,BATASHOE,Spot News,0,0,0,spot news
+83,2016-05-02,BATASHOE,Price Limit Open,0,0,1,price limit open
+84,2016-05-02,BATASHOE,Dividend Declaration,0,0,1,dividend declaration
+85,2016-04-19,BATASHOE, Reschedule of Board Meeting,0,0,1,reschedule of board meeting
+86,2016-04-19,BATASHOE,Board Meeting,0,0,1,board meeting
+87,2016-04-19,BATASHOE, Board Meeting,0,0,1,board meeting
+88,2015-12-23,BATASHOE, interim dividend,1,1,0,interim dividend
+89,2015-12-14,BATASHOE,Resumption after Record date,0,1,0,resumption after record date
+90,2015-12-13,BATASHOE,Suspension for Record Date,1,0,1,suspension for record date
+91,2015-12-13,BATASHOE,Information for Brokerage houses,1,0,1,information for brokerage houses
+92,2015-12-09,BATASHOE,Spot for Interim Dividend,0,1,0,spot for interim dividend
+93,2015-11-24,BATASHOE,Price Limit Open,0,0,1,price limit open
+94,2015-11-24,BATASHOE,Interim Dividend,0,0,1,interim dividend
+95,2015-11-18,BATASHOE,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+96,2015-10-27,BATASHOE,Q3 Financials,0,1,0,q3 financials
+97,2015-10-20,BATASHOE,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+98,2015-07-30,BATASHOE,Q2 Financials,0,0,0,q2 financials
+99,2015-07-23,BATASHOE,Dividend Disbursement,1,0,0,dividend disbursement
+100,2015-06-14,BATASHOE,Information for Brokerage houses relating to Margin Account Holders,0,0,1,information for brokerage houses relating to margin account holders
+101,2015-06-04,BATASHOE,Credit Rating result,1,0,0,credit rating result
+102,2015-05-10,BATASHOE,Resumption News after Record Date,0,1,0,resumption news after record date
+103,2015-05-07,BATASHOE,Suspension News for Record Date,0,0,0,suspension news for record date
+104,2015-05-05,BATASHOE,Spot Market Trading,0,1,0,spot market trading
+105,2015-04-29,BATASHOE,Q1 Financials,1,1,0,q1 financials
+106,2015-04-29,BATASHOE,Furnishing 12 digits e-TIN Number,1,1,0,furnishing 12 digits e-tin number
+107,2015-04-29,BATASHOE,Price Limit Open,1,1,0,price limit open
+108,2015-04-29,BATASHOE,Dividend Declaration,1,1,0,dividend declaration
+109,2015-04-22,BATASHOE,Board Meeting,0,1,0,board meeting
+110,2015-01-25,BATASHOE,Closing of Share Liaison Office,1,0,1,closing of share liaison office
+111,2014-12-22,BATASHOE,has sent the interim dividend,1,1,1,has sent the interim dividend
+112,2014-12-04,BATASHOE,trade resume,0,0,0,trade resume
+113,2014-12-03,BATASHOE,trade suspension,0,0,0,trade suspension
+114,2014-12-01,BATASHOE,Spot Market,1,1,0,spot market
+115,2014-11-25,BATASHOE,no price limit,1,1,0,no price limit
+116,2014-11-25,BATASHOE,interim cash dividend,1,1,0,interim cash dividend
+117,2014-10-27,BATASHOE,Q3 Earnings,1,0,1,q3 earnings
+118,2014-07-22,BATASHOE,H/Y Earnings,1,0,0,hy earnings
+119,2014-07-16,BATASHOE,sent the final dividend warrants,1,0,0,sent the final dividend warrants
+120,2014-07-02,BATASHOE,Credit Rating,1,1,0,credit rating
+121,2014-05-08,BATASHOE,trade resume,0,0,0,trade resume
+122,2014-05-07,BATASHOE,trade suspended,0,0,0,trade suspended
+123,2014-05-05,BATASHOE,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+124,2014-04-29,BATASHOE,Q1 Earning,1,1,0,q1 earning
+125,2014-04-24,BATASHOE,no price limit,0,0,0,no price limit
+126,2014-04-24,BATASHOE,recommended 105% final cash dividend,0,0,0,recommended 105 final cash dividend
+127,2014-04-21,BATASHOE,new Chairman & MD,0,1,1,new chairman  md
+128,2014-04-21,BATASHOE,Board Meeting,0,1,1,board meeting
+129,2013-12-23,BATASHOE,interim dividend warrant,0,1,0,interim dividend warrant
+130,2013-12-05,BATASHOE,trade resume,0,0,0,trade resume
+131,2013-12-04,BATASHOE,trade suspension,0,0,0,trade suspension
+132,2013-12-01,BATASHOE,spot market trade,1,0,0,spot market trade
+133,2013-11-25,BATASHOE,195% Cash Dividend,0,0,0,195 cash dividend
+134,2013-10-29,BATASHOE,Q3 Earnings,1,0,0,q3 earnings
+135,2013-07-18,BATASHOE,dividend warrants,1,0,0,dividend warrants
+136,2013-05-27,BATASHOE,Credit Rating,0,0,1,credit rating
+137,2013-05-07,BATASHOE,Trade Suspension on record date,0,0,0,trade suspension on record date
+138,2013-05-02,BATASHOE,Spot Market Trading,0,0,0,spot market trading
+139,2013-04-30,BATASHOE,Q1 Earnings,0,0,0,q1 earnings
+140,2013-04-25,BATASHOE,no price limit,0,0,0,no price limit
+141,2013-04-25,BATASHOE,Corporate Declaration,0,0,0,corporate declaration
+142,2013-04-23,BATASHOE,Board Meeting,1,1,0,board meeting
+143,2012-12-27,BATASHOE,interim dividend,1,0,0,interim dividend
+144,2012-12-10,BATASHOE,trade will resume after record date,0,0,0,trade will resume after record date
+145,2012-12-09,BATASHOE,trade will remain suspended on record date,1,0,0,trade will remain suspended on record date
+146,2012-12-04,BATASHOE,Spot market trading,0,0,0,spot market trading
+147,2012-11-29,BATASHOE,will have no price limit due to dividend declaration,0,0,0,will have no price limit due to dividend declaration
+148,2012-11-29,BATASHOE,Interim Cash Dividend,0,0,0,interim cash dividend
+149,2012-10-22,BATASHOE,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+150,2012-09-30,BATASHOE,business restructuring,0,1,0,business restructuring
+151,2012-07-29,BATASHOE,- The Company has informed...,0,0,0,the company has informed
+152,2012-04-26,BATASHOE,- Normal trading of the shares...,0,0,0,normal trading of the shares
+153,2012-04-25,BATASHOE,- Trading of the shares...,1,0,0,trading of the shares
+154,2012-04-22,BATASHOE,- Trading of the shares...,1,0,1,trading of the shares
+155,2012-04-17,BATASHOE,- The Board of Directors...,0,0,0,the board of directors
+156,2012-04-17,BATASHOE,- There will be no price limit...,0,0,0,there will be no price limit
+157,2012-01-23,BATASHOE,- The Credit Rating Agency...,1,0,0,the credit rating agency
+158,2011-12-20,BATASHOE,- The Company has informed...,1,1,1,the company has informed
+159,2011-12-05,BATASHOE,- Normal trading...,0,0,0,normal trading
+160,2011-11-29,BATASHOE,- Trading of the shares...,0,1,1,trading of the shares
+161,2011-11-22,BATASHOE,- There will be no price...,1,0,0,there will be no price
+162,2011-11-22,BATASHOE,- The Company has declared...,1,0,0,the company has declared
+163,2011-10-31,BATASHOE,- As per un-audited...,0,1,0,as per un-audited
+165,2011-08-01,BATASHOE,- The Company has informed...,1,0,1,the company has informed
+167,2011-07-20,BATASHOE,- As per un-audited...,1,1,0,as per un-audited

@@ -1,0 +1,102 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-29,ARAMITCEM,Q3 Financials,1,1,0,q3 financials
+1,2019-04-23,ARAMITCEM,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-01-31,ARAMITCEM,Q2 Financials,0,0,0,q2 financials
+3,2019-01-21,ARAMITCEM,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+4,2019-01-03,ARAMITCEM,Query Response,1,0,0,query response
+5,2018-11-25,ARAMITCEM,Credit Rating Result,0,1,0,credit rating result
+6,2018-11-18,ARAMITCEM,Resumption after record date,0,0,1,resumption after record date
+7,2018-11-15,ARAMITCEM,Suspension for Record Date,0,0,0,suspension for record date
+8,2018-11-04,ARAMITCEM,Spot News,1,1,0,spot news
+9,2018-10-29,ARAMITCEM,Q1 Financials,0,0,0,q1 financials
+10,2018-10-29,ARAMITCEM,Price Limit Open,0,0,0,price limit open
+11,2018-10-29,ARAMITCEM,Dividend Declaration,0,0,0,dividend declaration
+12,2018-10-18,ARAMITCEM,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+13,2018-10-18,ARAMITCEM,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+14,2018-04-30,ARAMITCEM,Q3 Financials,0,0,0,q3 financials
+15,2018-04-22,ARAMITCEM,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+16,2018-01-31,ARAMITCEM,Q2 Financials,0,1,0,q2 financials
+17,2018-01-23,ARAMITCEM,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+18,2017-12-11,ARAMITCEM,Query Response,0,1,1,query response
+19,2017-12-10,ARAMITCEM,Q1 Financials (Repeat),1,0,1,q1 financials repeat
+20,2017-11-16,ARAMITCEM,Resumption after record date,0,0,0,resumption after record date
+21,2017-11-15,ARAMITCEM,Suspension for Record Date,1,0,0,suspension for record date
+22,2017-11-02,ARAMITCEM,Spot News,1,0,0,spot news
+23,2017-10-29,ARAMITCEM,Q1 Financials,1,1,1,q1 financials
+24,2017-10-29,ARAMITCEM,Prohibition on providing loan facilities to purchase securities,1,1,1,prohibition on providing loan facilities to purchase securities
+25,2017-10-29,ARAMITCEM,Category Change,1,1,1,category change
+26,2017-10-29,ARAMITCEM,Price Limit Open,1,1,1,price limit open
+27,2017-10-29,ARAMITCEM,Dividend Declaration,1,1,1,dividend declaration
+28,2017-10-26,ARAMITCEM,Credit Rating Result,1,0,0,credit rating result
+29,2017-10-19,ARAMITCEM,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+30,2017-10-19,ARAMITCEM,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+31,2017-09-11,ARAMITCEM,Query Response,0,0,0,query response
+32,2017-04-30,ARAMITCEM,Q3 Financials,0,0,0,q3 financials
+33,2017-04-20,ARAMITCEM,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+34,2017-01-31,ARAMITCEM,Q2 Financials,1,1,0,q2 financials
+35,2017-01-29,ARAMITCEM,Board Meeting,0,0,1,board meeting
+36,2017-01-15,ARAMITCEM,Dividend Disbursement,1,0,0,dividend disbursement
+37,2016-12-29,ARAMITCEM,Commencement of commercial production of Unit-2,1,0,0,commencement of commercial production of unit-2
+38,2016-11-17,ARAMITCEM,Resumption after record date,1,0,0,resumption after record date
+39,2016-11-16,ARAMITCEM,Suspension for record date,1,1,0,suspension for record date
+40,2016-11-14,ARAMITCEM,Spot for AGM,0,0,1,spot for agm
+41,2016-10-30,ARAMITCEM,Q1 Financials,0,1,0,q1 financials
+42,2016-10-30,ARAMITCEM,Price Limit Open,0,1,0,price limit open
+43,2016-10-30,ARAMITCEM,Dividend Declaration,0,1,0,dividend declaration
+44,2016-10-24,ARAMITCEM,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+45,2016-10-20,ARAMITCEM,Board meeting,1,0,0,board meeting
+46,2016-06-29,ARAMITCEM,Credit Rating Result,1,0,0,credit rating result
+47,2016-05-26,ARAMITCEM,Resumption after record,0,0,0,resumption after record
+48,2016-05-25,ARAMITCEM,Suspension news,0,0,0,suspension news
+49,2016-05-22,ARAMITCEM,Spot for interim dividend,1,0,1,spot for interim dividend
+50,2016-05-02,ARAMITCEM,Price Limit Open,1,1,0,price limit open
+51,2016-05-02,ARAMITCEM,Interim Dividend Declaration,1,1,0,interim dividend declaration
+52,2016-04-21,ARAMITCEM,Board Meeting,1,0,0,board meeting
+53,2015-11-30,ARAMITCEM,Address Change of Share Office,0,1,0,address change of share office
+54,2015-11-01,ARAMITCEM,Q3,0,1,0,q3
+55,2015-08-02,ARAMITCEM,Q2 Financials,0,1,1,q2 financials
+56,2015-07-12,ARAMITCEM,Query Response,0,0,0,query response
+57,2015-05-13,ARAMITCEM,Resumption News after Record Date,0,1,0,resumption news after record date
+58,2015-05-10,ARAMITCEM,Spot News for AGM,1,0,1,spot news for agm
+59,2015-05-04,ARAMITCEM,Q1,1,1,1,q1
+60,2015-05-04,ARAMITCEM,Price Limit Open,1,1,1,price limit open
+61,2015-05-04,ARAMITCEM,Dividend Declaration,1,1,1,dividend declaration
+62,2015-04-26,ARAMITCEM,Board Meeting,0,0,0,board meeting
+63,2014-10-29,ARAMITCEM,Q3 Earnings,0,0,0,q3 earnings
+64,2014-10-22,ARAMITCEM,	Credit Rating,1,0,0,credit rating
+65,2014-07-24,ARAMITCEM,H/Y Earnings,1,0,0,hy earnings
+66,2014-05-08,ARAMITCEM,Rights shares credited,0,0,0,rights shares credited
+67,2014-04-27,ARAMITCEM,Quaterly Earning,0,0,0,quaterly earning
+68,2014-03-20,ARAMITCEM,trade resume,0,0,0,trade resume
+69,2014-03-19,ARAMITCEM,trade suspension,0,0,0,trade suspension
+70,2014-03-13,ARAMITCEM,trade suspension,0,0,0,trade suspension
+71,2014-03-11,ARAMITCEM,10% cash dividend,1,0,0,10 cash dividend
+72,2014-01-22,ARAMITCEM,new Chairman & MD,0,0,0,new chairman  md
+73,2014-01-09,ARAMITCEM,trade resume,0,0,0,trade resume
+74,2014-01-08,ARAMITCEM,trade suspension,1,0,0,trade suspension
+75,2014-01-02,ARAMITCEM,trade suspension on record date,1,0,0,trade suspension on record date
+76,2013-12-12,ARAMITCEM,Right issue subscription & record date,0,0,0,right issue subscription  record date
+77,2013-12-10,ARAMITCEM,1R:1 Right approved,1,0,0,1r:1 right approved
+78,2013-10-24,ARAMITCEM,Q3 Earnings,0,0,0,q3 earnings
+79,2013-10-06,ARAMITCEM,Didn't Consider The Right Issue,0,0,0,didn't consider the right issue
+80,2013-09-08,ARAMITCEM,Credit Rating,1,1,0,credit rating
+81,2013-07-28,ARAMITCEM,Q2 Earnings,1,1,0,q2 earnings
+82,2013-05-07,ARAMITCEM,Trade Suspension on Record Date,1,0,1,trade suspension on record date
+83,2013-05-02,ARAMITCEM,Spot Market Trading,1,0,0,spot market trading
+84,2013-04-29,ARAMITCEM,Q1 Earnings,0,0,0,q1 earnings
+85,2013-04-29,ARAMITCEM,Corporate Declaration,0,0,0,corporate declaration
+86,2013-04-24,ARAMITCEM,Board Meeting,1,0,0,board meeting
+87,2012-10-31,ARAMITCEM,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+88,2012-05-10,ARAMITCEM,- Normal trading ...,0,0,0,normal trading
+89,2012-05-09,ARAMITCEM,- Trading of the shares...,0,0,0,trading of the shares
+90,2012-04-24,ARAMITCEM,- The Company has further informed...,0,0,0,the company has further informed
+91,2012-04-23,ARAMITCEM,- As per regulation ...,0,0,0,as per regulation
+92,2011-10-27,ARAMITCEM,- Normal trading of the shares...,0,0,0,normal trading of the shares
+93,2011-10-26,ARAMITCEM,- Trading of the shares...,0,0,0,trading of the shares
+94,2011-10-16,ARAMITCEM,- As per un-audited...,0,0,0,as per un-audited
+95,2011-10-16,ARAMITCEM,- The Company has informed...,0,0,0,the company has informed
+96,2011-10-16,ARAMITCEM,- As per un-audited...,0,0,0,as per un-audited
+97,2011-07-31,ARAMITCEM,-(H/Y): As per un-audited...,0,0,0,-hy: as per un-audited
+99,2011-07-25,ARAMITCEM,- The Company has informed...,1,0,1,the company has informed
+100,2011-07-10,ARAMITCEM,- In response to a DSE query...,1,0,0,in response to a dse query
+101,2011-07-07,ARAMITCEM,- In response to a CSE query...,1,0,0,in response to a cse query

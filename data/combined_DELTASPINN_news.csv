@@ -1,0 +1,120 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-25,DELTASPINN,Q3 Financials,0,0,0,q3 financials
+1,2019-04-18,DELTASPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-01-31,DELTASPINN,Q2 Financials,0,0,0,q2 financials
+3,2019-01-28,DELTASPINN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+4,2019-01-07,DELTASPINN,Prohibition on providing loan facilities to purchase securities,1,0,1,prohibition on providing loan facilities to purchase securities
+5,2019-01-07,DELTASPINN,Category Change,1,0,1,category change
+6,2018-11-15,DELTASPINN,Q1 Financials,0,0,0,q1 financials
+7,2018-11-12,DELTASPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+8,2018-10-10,DELTASPINN,Credit Rating Result,0,0,0,credit rating result
+9,2018-04-30,DELTASPINN,Q3 Financials,0,0,0,q3 financials
+10,2018-04-24,DELTASPINN,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+11,2018-01-21,DELTASPINN,Q2 Financials,0,0,0,q2 financials
+12,2018-01-11,DELTASPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+13,2017-11-19,DELTASPINN,Resumption after record date,0,0,1,resumption after record date
+14,2017-11-16,DELTASPINN,Suspension for Record Date,1,0,0,suspension for record date
+15,2017-11-14,DELTASPINN,Q1 Financials,1,0,1,q1 financials
+16,2017-11-14,DELTASPINN,Spot News,1,0,1,spot news
+17,2017-11-07,DELTASPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+18,2017-10-29,DELTASPINN,Price Limit Open,0,1,1,price limit open
+20,2017-10-29,DELTASPINN,Dividend Declaration & mortgage of Sponsors' holding against Loan,0,1,1,dividend declaration  mortgage of sponsors' holding against loan
+21,2017-10-19,DELTASPINN,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+22,2017-04-30,DELTASPINN,Q3 Financials,0,0,0,q3 financials
+23,2017-04-24,DELTASPINN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+24,2017-01-31,DELTASPINN,Q2 Financials,0,1,0,q2 financials
+25,2017-01-26,DELTASPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+26,2017-01-16,DELTASPINN,Prohibition on providing loan facilities to purchase securities,1,1,0,prohibition on providing loan facilities to purchase securities
+27,2017-01-16,DELTASPINN,Category Change,1,1,0,category change
+28,2017-01-16,DELTASPINN,Dividend Disbursement,1,1,0,dividend disbursement
+29,2016-11-20,DELTASPINN,Suspension for record date,1,0,0,suspension for record date
+30,2016-11-16,DELTASPINN,Spot for EGM & AGM,0,0,0,spot for egm  agm
+31,2016-11-16,DELTASPINN,Q1 Financials,0,0,0,q1 financials
+32,2016-11-10,DELTASPINN,Board Meeting,0,0,0,board meeting
+33,2016-11-10,DELTASPINN,Board Meeting,0,0,0,board meeting
+34,2016-11-01,DELTASPINN,Price Limit Open,1,0,0,price limit open
+35,2016-11-01,DELTASPINN,Dividend Declaration & Increasing Authorized Capital,1,0,0,dividend declaration  increasing authorized capital
+36,2016-05-11,DELTASPINN,Credit Rating Result,0,0,0,credit rating result
+37,2016-04-28,DELTASPINN,Q3 Financials,0,0,0,q3 financials
+38,2016-04-24,DELTASPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+39,2016-01-31,DELTASPINN,Q2 Financials,0,1,0,q2 financials
+40,2016-01-24,DELTASPINN,Board Meeting,1,0,0,board meeting
+41,2015-12-30,DELTASPINN,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+42,2015-12-30,DELTASPINN,Category Change,0,0,0,category change
+43,2015-12-08,DELTASPINN,Venue of the AGM,0,0,1,venue of the agm
+44,2015-11-26,DELTASPINN,Resumption News after Record date,0,0,0,resumption news after record date
+45,2015-11-25,DELTASPINN,Suspension News for Record Date,0,0,0,suspension news for record date
+46,2015-11-23,DELTASPINN,Spot News for AGM,0,0,0,spot news for agm
+47,2015-11-15,DELTASPINN,Q1,0,0,1,q1
+48,2015-11-10,DELTASPINN,Board Meeting,0,0,1,board meeting
+49,2015-11-09,DELTASPINN,Board Meeting,0,0,0,board meeting
+50,2015-11-05,DELTASPINN,Price Limit Open,0,0,0,price limit open
+51,2015-11-05,DELTASPINN,Dividend Declaration,0,0,0,dividend declaration
+52,2015-10-27,DELTASPINN,Board Meeting,0,1,0,board meeting
+53,2015-04-30,DELTASPINN,Q3,0,0,0,q3
+54,2015-03-30,DELTASPINN,Credit Rating,0,0,0,credit rating
+55,2015-02-02,DELTASPINN,Half Yearly Financials,0,0,0,half yearly financials
+56,2014-12-18,DELTASPINN,Trade resume,0,0,0,trade resume
+57,2014-12-17,DELTASPINN,Trade suspended on record date,0,0,0,trade suspended on record date
+58,2014-12-14,DELTASPINN,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+59,2014-12-08,DELTASPINN,EGM,1,0,0,egm
+60,2014-11-16,DELTASPINN,Q1,0,0,0,q1
+61,2014-09-18,DELTASPINN, has credited the bonus shares,0,0,0,has credited the bonus shares
+62,2014-08-14,DELTASPINN,trade resume,0,0,0,trade resume
+63,2014-08-13,DELTASPINN,trade suspension,1,0,0,trade suspension
+64,2014-08-11,DELTASPINN,Spot Market Transaction,0,0,1,spot market transaction
+65,2014-08-04,DELTASPINN,no price limit,0,1,1,no price limit
+66,2014-08-04,DELTASPINN,recommended 10% cash dividend,0,1,1,recommended 10 cash dividend
+67,2014-07-24,DELTASPINN,Board Meeting,1,0,0,board meeting
+68,2014-04-28,DELTASPINN,Trade Resume,0,0,0,trade resume
+69,2014-04-27,DELTASPINN,Trade suspended on record date,0,0,0,trade suspended on record date
+70,2014-04-23,DELTASPINN,Spot Market Transaction,0,0,0,spot market transaction
+71,2014-04-10,DELTASPINN,Q3 Earnings,0,0,0,q3 earnings
+72,2014-04-03,DELTASPINN,Right issue Record Date,0,0,0,right issue record date
+73,2014-04-02,DELTASPINN,Rights offer approved,0,0,0,rights offer approved
+74,2014-03-31,DELTASPINN,Credit Rating,0,1,0,credit rating
+75,2014-01-30,DELTASPINN,H/Y Earnings,0,0,0,hy earnings
+76,2013-12-23,DELTASPINN,penalized BDT 01 mn,0,0,0,penalized bdt 01 mn
+77,2013-11-21,DELTASPINN,Trade Resume After Record date,0,0,0,trade resume after record date
+78,2013-11-20,DELTASPINN,Trade Suspension on Record Date,1,0,0,trade suspension on record date
+79,2013-11-17,DELTASPINN,Trade Suspension on Record Date,1,1,1,trade suspension on record date
+80,2013-11-14,DELTASPINN,Q1 Earnings,0,0,0,q1 earnings
+81,2013-11-10,DELTASPINN,consolidated NOCFPS,0,1,1,consolidated nocfps
+82,2013-11-10,DELTASPINN,no price limit,0,1,1,no price limit
+83,2013-11-10,DELTASPINN,cash dividend,0,1,1,cash dividend
+84,2013-11-07,DELTASPINN,board meeting,0,0,0,board meeting
+85,2013-11-05,DELTASPINN,board meeting,0,0,0,board meeting
+86,2013-04-30,DELTASPINN,Q3 Earnings,0,0,1,q3 earnings
+87,2013-03-31,DELTASPINN,Credit Rating,0,0,1,credit rating
+88,2012-11-28,DELTASPINN,bonus share credited,0,1,0,bonus share credited
+89,2012-11-15,DELTASPINN,Q1 Earnings 2012,1,0,0,q1 earnings 2012
+90,2012-11-05,DELTASPINN,Right Issue,0,0,0,right issue
+91,2012-10-10,DELTASPINN,trade will resume after record date,0,1,0,trade will resume after record date
+92,2012-10-09,DELTASPINN,trade will remain suspended on record date,1,0,1,trade will remain suspended on record date
+93,2012-10-07,DELTASPINN,DSE investigation,0,1,1,dse investigation
+94,2012-10-04,DELTASPINN,spot market trading,0,0,0,spot market trading
+95,2012-09-30,DELTASPINN,will have no price limit today,0,0,0,will have no price limit today
+96,2012-09-30,DELTASPINN,corporate declaration,0,0,0,corporate declaration
+97,2012-09-23,DELTASPINN,Board meeting,1,1,0,board meeting
+98,2012-09-04,DELTASPINN,- In response to a DSE query...,1,1,1,in response to a dse query
+99,2012-06-26,DELTASPINN,- Normal trading of the shares...,0,0,0,normal trading of the shares
+100,2012-06-25,DELTASPINN,- Trading of the shares...,1,0,0,trading of the shares
+101,2012-06-20,DELTASPINN,- Trading of the shares ...,1,0,0,trading of the shares
+102,2012-06-19,DELTASPINN,- The Company has informed...,0,1,0,the company has informed
+103,2012-04-29,DELTASPINN,- As per un-audited quarterly accounts...,1,0,0,as per un-audited quarterly accounts
+104,2012-03-28,DELTASPINN,- The Credit Rating Agency...,0,0,0,the credit rating agency
+105,2012-01-31,DELTASPINN,- As per un-audited...,0,0,1,as per un-audited
+106,2011-11-21,DELTASPINN, - Normal trading...,0,1,0,normal trading
+107,2011-11-20,DELTASPINN,- Trading of the shares...,1,0,1,trading of the shares
+108,2011-11-15,DELTASPINN,- Trading of the shares...,0,1,1,trading of the shares
+109,2011-11-02,DELTASPINN,- As per un-audited...,1,1,0,as per un-audited
+110,2011-11-01,DELTASPINN,- There will be no price...,0,1,1,there will be no price
+111,2011-11-01,DELTASPINN,- The Board of Directors...,0,1,1,the board of directors
+112,2011-10-30,DELTASPINN,- Normal trading of the shares...,0,0,0,normal trading of the shares
+113,2011-10-27,DELTASPINN,- Trading of the shares...,0,0,0,trading of the shares
+114,2011-10-24,DELTASPINN,- Trading of the shares...,0,1,0,trading of the shares
+115,2011-10-17,DELTASPINN,- The Company has informed...,0,0,1,the company has informed
+116,2011-08-10,DELTASPINN,- The company has informed...,1,1,0,the company has informed
+117,2011-07-13,DELTASPINN,- The Company has informed...,0,0,0,the company has informed
+118,2011-07-04,DELTASPINN,- Normal trading of the shares...,0,1,1,normal trading of the shares
+119,2011-07-03,DELTASPINN,-Trading of the shares...,1,0,1,-trading of the shares

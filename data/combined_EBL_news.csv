@@ -1,0 +1,115 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,EBL,Spot News,0,0,0,spot news
+1,2019-04-11,EBL,Updating information,0,0,0,updating information
+2,2019-04-11,EBL,Price Limit Open,0,0,0,price limit open
+4,2019-04-11,EBL,Dividend Declaration,0,0,0,dividend declaration
+5,2019-04-04,EBL,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+10,2018-12-26,EBL,Revaluation of Fixed Assets,1,1,0,revaluation of fixed assets
+12,2018-12-12,EBL,Consent from BSEC for issuing Subordinated Bond,1,0,0,consent from bsec for issuing subordinated bond
+13,2018-10-28,EBL,Q3 Financials,0,1,1,q3 financials
+14,2018-10-22,EBL,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+15,2018-08-13,EBL,Decision to issue Non-Convertible Non-Listed & Redeemable Subordinated Bond,0,1,0,decision to issue non-convertible non-listed  redeemable subordinated bond
+16,2018-07-26,EBL,Credit Rating Result,0,0,0,credit rating result
+17,2018-07-26,EBL,Q2 Financials,0,0,0,q2 financials
+18,2018-07-19,EBL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+20,2018-07-15,EBL,Investment for establishing full-fledged branches in India,0,1,1,investment for establishing full-fledged branches in india
+21,2018-07-10,EBL,Dividend Disbursement,1,0,0,dividend disbursement
+22,2018-07-03,EBL,Address Change of Registered Office and Head Office,1,1,0,address change of registered office and head office
+23,2018-06-27,EBL,Address Change of Share Department,0,1,0,address change of share department
+24,2018-06-10,EBL,Elected Chairman,0,0,1,elected chairman
+25,2018-05-20,EBL,Resumption after record date,0,1,1,resumption after record date
+26,2018-05-17,EBL,Suspension for Record Date,0,0,0,suspension for record date
+27,2018-05-15,EBL,Spot News,1,1,0,spot news
+28,2018-05-10,EBL,Q1 Financials,0,0,0,q1 financials
+29,2018-05-06,EBL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+30,2018-04-25,EBL,Price Limit Open,0,1,0,price limit open
+32,2018-04-25,EBL,Dividend Declaration,0,1,0,dividend declaration
+33,2018-04-19,EBL,Reschedule of Board Meeting under LR 19(1),0,0,0,reschedule of board meeting under lr 191
+34,2018-04-15,EBL,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+35,2017-10-26,EBL,Q3 Financials,1,0,0,q3 financials
+36,2017-10-19,EBL,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+37,2017-07-27,EBL,Q2 Financials,0,0,0,q2 financials
+38,2017-07-20,EBL,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+39,2017-07-06,EBL,Credit Rating Result,0,0,0,credit rating result
+40,2017-06-28,EBL,Land Sale,1,1,0,land sale
+41,2017-06-08,EBL,Decision to appoint PWC for ground support to open branches in India,0,0,0,decision to appoint pwc for ground support to open branches in india
+42,2017-05-30,EBL,Dividend Disbursement,0,1,0,dividend disbursement
+43,2017-05-14,EBL,Q1 Financials,0,0,0,q1 financials
+44,2017-05-04,EBL,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+45,2017-04-11,EBL,Resumption after record date,0,0,0,resumption after record date
+46,2017-04-10,EBL,Suspension for Record Date,1,0,0,suspension for record date
+47,2017-04-06,EBL,Spot News,1,0,0,spot news
+48,2017-03-21,EBL,Price Limit Open,0,0,0,price limit open
+50,2017-03-21,EBL,Dividend Declaration,0,0,0,dividend declaration
+51,2017-03-14,EBL,Board Meeting,1,0,0,board meeting
+52,2016-10-20,EBL,Q3 Financials,0,0,0,q3 financials
+53,2016-10-16,EBL,Board Meeting,1,0,1,board meeting
+54,2016-07-24,EBL,Board Meeting,0,0,1,board meeting
+55,2016-06-23,EBL,Credit Rating Result,1,0,0,credit rating result
+56,2016-06-22,EBL,Dividend Disbursement,1,1,0,dividend disbursement
+57,2016-05-19,EBL,Completion of Transfer by a Independent Director,0,0,0,completion of transfer by a independent director
+58,2016-05-18,EBL,Declaration of Transfer by a Independent Director,1,0,0,declaration of transfer by a independent director
+59,2016-05-05,EBL,Q1 Financials,1,0,0,q1 financials
+60,2016-04-27,EBL,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+61,2016-04-25,EBL,Resumption,0,0,0,resumption
+62,2016-04-24,EBL,Suspension for Record date,0,0,0,suspension for record date
+63,2016-04-20,EBL,Spot News for AGM,1,1,0,spot news for agm
+64,2016-04-04,EBL,Price Limit Open,0,0,0,price limit open
+65,2016-04-04,EBL,Dividend Declaration,0,0,0,dividend declaration
+66,2016-03-27,EBL,Re-schedule of Board Meeting under LR 19(1),1,1,1,re-schedule of board meeting under lr 191
+67,2016-03-24,EBL, Re-schedule of Board Meeting,1,0,0,re-schedule of board meeting
+68,2016-02-24,EBL,Postponement of Board Meeting schedule,1,1,0,postponement of board meeting schedule
+69,2016-02-18,EBL,Board Meeting,1,0,0,board meeting
+70,2015-12-28,EBL,Revaluation of plots of land,1,0,1,revaluation of plots of land
+71,2015-12-10,EBL,Decision to Revalue the Lands,0,0,0,decision to revalue the lands
+72,2015-10-21,EBL,Q3 Financials,1,0,0,q3 financials
+73,2015-10-19,EBL,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+74,2015-07-28,EBL,Q2 Financials,1,0,0,q2 financials
+75,2015-06-17,EBL,Credit Rating,0,0,0,credit rating
+76,2015-05-12,EBL,Q1 Financials,1,1,1,q1 financials
+77,2015-03-11,EBL,Resumption News after Record Date,0,0,0,resumption news after record date
+78,2015-03-10,EBL,Suspension News for Record date,0,0,0,suspension news for record date
+79,2015-03-08,EBL,Spot News for AGM,1,0,0,spot news for agm
+80,2015-02-26,EBL,Furnishing 12 digit TIN Number,0,0,0,furnishing 12 digit tin number
+81,2015-02-26,EBL,Price Limit Open,0,0,0,price limit open
+82,2015-02-26,EBL,Dividend Declaration,0,0,0,dividend declaration
+83,2015-02-24,EBL,Board Meeting schedule under LR 30,1,0,0,board meeting schedule under lr 30
+84,2014-10-30,EBL,Q3 Earnings,0,0,0,q3 earnings
+85,2014-10-30,EBL,given consent for raising Tier-2 Capital,0,0,0,given consent for raising tier-2 capital
+86,2014-07-23,EBL,H/Y Earnings,0,1,0,hy earnings
+87,2014-05-14,EBL,Q1 Earnings,0,0,0,q1 earnings
+88,2014-05-05,EBL,Trade Resume,0,1,1,trade resume
+89,2014-05-04,EBL,trade suspension on record date,1,0,1,trade suspension on record date
+90,2014-04-29,EBL,Spot Market and Block/Odd lot transactions,0,1,0,spot market and blockodd lot transactions
+91,2014-04-20,EBL,decided to issue 'EBL Subordinated Bond',1,1,1,decided to issue 'ebl subordinated bond'
+92,2014-03-11,EBL,trade resume after record date,0,0,0,trade resume after record date
+93,2014-03-10,EBL,trade suspension on record date,0,0,0,trade suspension on record date
+94,2014-03-05,EBL,Spot Market and Block/Odd lot transactions,1,0,0,spot market and blockodd lot transactions
+95,2014-03-02,EBL,no price limit,0,1,1,no price limit
+96,2014-03-02,EBL,recommended 20% cash dividend,0,1,1,recommended 20 cash dividend
+97,2014-02-25,EBL,Board meeting,1,1,0,board meeting
+98,2013-10-27,EBL,Q3 Earnings,0,0,1,q3 earnings
+99,2013-07-28,EBL,Q2 Earnings,0,1,1,q2 earnings
+100,2013-05-30,EBL,Credit Rating,0,0,0,credit rating
+101,2013-05-12,EBL,Q1 Earnings,0,1,1,q1 earnings
+102,2013-05-09,EBL,Land Swap,1,0,0,land swap
+103,2013-03-10,EBL,trade resume after record date,0,0,1,trade resume after record date
+104,2013-03-07,EBL,trade suspension on record date,1,0,0,trade suspension on record date
+105,2013-03-04,EBL,spot market trading,1,1,1,spot market trading
+106,2013-02-27,EBL,Corporate declaration,0,1,0,corporate declaration
+107,2013-02-25,EBL,Board meeting,0,0,0,board meeting
+108,2012-12-20,EBL,asset revaluation,0,0,0,asset revaluation
+109,2012-10-31,EBL,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+110,2012-06-19,EBL,- The Credit Rating Information...,0,0,0,the credit rating information
+111,2012-05-13,EBL,- Q1): As per un-audited quarterly accounts...,0,1,0,q1: as per un-audited quarterly accounts
+112,2012-03-29,EBL,- The Company has informed...,0,0,0,the company has informed
+113,2012-03-19,EBL,- The Company has informed...,0,1,0,the company has informed
+114,2012-03-19,EBL,- The Company has further...,0,1,0,the company has further
+115,2012-03-04,EBL,- Aquamarine Distributions Ltd....,0,0,1,aquamarine distributions ltd.
+116,2012-01-18,EBL,- Mr. A.M. Shaukat Ali...,0,1,0,mr. a.m. shaukat ali
+117,2012-01-11,EBL,- Mr. A.M. Shaukat Ali...,0,0,0,mr. a.m. shaukat ali
+118,2011-10-27,EBL,- Company: Eastern Bank Ltd....,0,0,0,company: eastern bank ltd.
+120,2011-10-12,EBL,- The Bank has informed...,1,1,0,the bank has informed
+121,2011-09-13,EBL,- The Bank has informed...,0,0,0,the bank has informed
+122,2011-08-01,EBL,- (H/Y): As per un-audited...,0,0,1,hy: as per un-audited
+124,2011-07-14,EBL,- The Bank has informed...,0,0,0,the bank has informed

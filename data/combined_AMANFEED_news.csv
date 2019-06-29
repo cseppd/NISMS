@@ -1,0 +1,76 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-29,AMANFEED,Q3 Financials,1,0,0,q3 financials
+1,2019-04-18,AMANFEED,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+2,2019-01-28,AMANFEED,Q2 Financials,0,0,0,q2 financials
+3,2019-01-23,AMANFEED,Dividend Disbursement,0,1,0,dividend disbursement
+4,2019-01-23,AMANFEED,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+5,2018-12-23,AMANFEED,Credit Rating Result,0,1,0,credit rating result
+6,2018-11-25,AMANFEED,Resumption after record date,0,0,0,resumption after record date
+7,2018-11-22,AMANFEED,Suspension for Record date,0,0,0,suspension for record date
+8,2018-11-19,AMANFEED,Spot News,1,0,0,spot news
+9,2018-11-14,AMANFEED,Q1 Financials,0,1,0,q1 financials
+10,2018-11-07,AMANFEED,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+11,2018-10-29,AMANFEED,Price Limit Open,1,0,0,price limit open
+12,2018-10-29,AMANFEED,Dividend Declaration,1,0,0,dividend declaration
+13,2018-10-18,AMANFEED,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+14,2018-07-22,AMANFEED,Query Response,1,0,1,query response
+15,2018-04-30,AMANFEED,Declaration of share transfer by a Sponsor Director,0,0,0,declaration of share transfer by a sponsor director
+16,2018-04-30,AMANFEED,Declaration of share transfer by a Sponsor Director,0,0,0,declaration of share transfer by a sponsor director
+17,2018-04-30,AMANFEED,Declaration of share transfer by a Sponsor Director,0,0,0,declaration of share transfer by a sponsor director
+18,2018-04-30,AMANFEED,Q3 Financials,0,0,0,q3 financials
+19,2018-04-22,AMANFEED,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+20,2018-03-11,AMANFEED,Credit Rating Result,1,1,0,credit rating result
+21,2018-02-01,AMANFEED,Dividend Disbursement,0,0,0,dividend disbursement
+22,2018-01-31,AMANFEED,Q2 Financials,0,0,0,q2 financials
+23,2018-01-25,AMANFEED,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+24,2017-11-28,AMANFEED,Inauguration of Commercial Production of Floating Fish Feed Plant,0,0,0,inauguration of commercial production of floating fish feed plant
+25,2017-11-20,AMANFEED,Resumption after record date,0,0,1,resumption after record date
+26,2017-11-19,AMANFEED,Suspension for Record Date,0,0,0,suspension for record date
+27,2017-11-15,AMANFEED,Spot News,1,1,0,spot news
+28,2017-11-15,AMANFEED,Q1 Financials,1,1,0,q1 financials
+29,2017-11-08,AMANFEED,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+30,2017-10-26,AMANFEED,Price Limit Open,0,0,0,price limit open
+31,2017-10-26,AMANFEED,Dividend Declaration,0,0,0,dividend declaration
+32,2017-10-18,AMANFEED,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+33,2017-05-02,AMANFEED,Q3 Financials,0,0,0,q3 financials
+34,2017-04-25,AMANFEED,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+35,2017-01-31,AMANFEED,Q2 Financials,0,1,1,q2 financials
+36,2017-01-25,AMANFEED,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+37,2017-01-15,AMANFEED,Dividend Disbursement,0,0,0,dividend disbursement
+38,2017-01-15,AMANFEED,Credit Rating Result,0,0,0,credit rating result
+39,2017-01-01,AMANFEED,Procurement and installation,1,1,0,procurement and installation
+40,2017-01-01,AMANFEED,Procurement and installation,1,1,0,procurement and installation
+41,2016-12-29,AMANFEED, Land Purchase,0,0,0,land purchase
+42,2016-12-06,AMANFEED,12-digit furnishing Tin number and Address,0,1,0,12-digit furnishing tin number and address
+43,2016-11-29,AMANFEED,Land Purchase,0,1,1,land purchase
+44,2016-11-17,AMANFEED,Resumption after record date,1,0,0,resumption after record date
+45,2016-11-16,AMANFEED,Suspension for record date,1,1,0,suspension for record date
+46,2016-11-14,AMANFEED,Spot for AGM,0,0,1,spot for agm
+47,2016-11-14,AMANFEED,Q1 Financials,0,0,1,q1 financials
+48,2016-11-07,AMANFEED,Board Meeting,1,1,1,board meeting
+49,2016-10-27,AMANFEED,Price Limit Open,0,0,0,price limit open
+50,2016-10-27,AMANFEED,Dividend Declaration,0,0,0,dividend declaration
+51,2016-10-16,AMANFEED,Board Meeting,0,0,0,board meeting
+52,2016-08-14,AMANFEED,Agreement with Krishibid Feed Limited,1,0,1,agreement with krishibid feed limited
+53,2016-04-25,AMANFEED,Board Meeting,1,0,0,board meeting
+54,2016-04-21,AMANFEED,Issuance of Commercial Papers (CP),1,0,0,issuance of commercial papers cp
+55,2016-04-04,AMANFEED,Investment in an Associate,0,0,0,investment in an associate
+56,2016-03-20,AMANFEED,Query Response,1,0,1,query response
+57,2016-03-08,AMANFEED,Agreement with Bengal Feed,0,1,1,agreement with bengal feed
+58,2016-03-03,AMANFEED,Credit Rating Result,0,0,0,credit rating result
+59,2016-02-23,AMANFEED,Land Purchase,0,0,1,land purchase
+60,2016-01-31,AMANFEED,Q2 Financials,1,0,0,q2 financials
+61,2016-01-25,AMANFEED,Board Meeting,1,0,0,board meeting
+62,2016-01-19,AMANFEED,Dividend Disbursement,0,0,0,dividend disbursement
+63,2016-01-12,AMANFEED,Agreement signing,0,1,1,agreement signing
+64,2015-12-27,AMANFEED,Information for Brokerage houses relating to Margin,0,0,0,information for brokerage houses relating to margin
+65,2015-11-15,AMANFEED,Q1,1,0,1,q1
+66,2015-11-11,AMANFEED,Resumption News,0,1,0,resumption news
+67,2015-11-10,AMANFEED,Suspension News,0,0,1,suspension news
+68,2015-11-09,AMANFEED,Board Meeting,0,0,0,board meeting
+69,2015-11-08,AMANFEED,Spot News,0,0,0,spot news
+70,2015-10-25,AMANFEED,Price Limit Open,0,0,0,price limit open
+71,2015-10-25,AMANFEED,Dividend Declaration,0,0,0,dividend declaration
+72,2015-10-15,AMANFEED,Board Meeting,1,0,0,board meeting
+73,2015-09-01,AMANFEED,Q3 Financials,1,0,0,q3 financials
+74,2015-09-01,AMANFEED,Trading of New Security,1,0,0,trading of new security

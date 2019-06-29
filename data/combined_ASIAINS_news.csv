@@ -1,0 +1,101 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-29,ASIAINS,Price Limit Open,1,1,0,price limit open
+1,2019-04-29,ASIAINS,Dividend Declaration,1,1,0,dividend declaration
+2,2019-04-17,ASIAINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+3,2019-01-22,ASIAINS,Query Response,0,1,1,query response
+4,2019-01-01,ASIAINS,Credit Rating Result,1,0,1,credit rating result
+5,2018-10-29,ASIAINS,Q3 Financials,1,0,1,q3 financials
+6,2018-10-21,ASIAINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+7,2018-07-30,ASIAINS,Q2 Financials,1,1,1,q2 financials
+8,2018-07-22,ASIAINS,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+9,2018-06-18,ASIAINS,Dividend Disbursement,1,1,1,dividend disbursement
+10,2018-05-17,ASIAINS,Resumption after record date,0,0,0,resumption after record date
+11,2018-05-16,ASIAINS,Suspension for Record Date,1,0,0,suspension for record date
+12,2018-05-15,ASIAINS,Q1 Financials,1,1,0,q1 financials
+13,2018-05-14,ASIAINS,Spot News,0,1,1,spot news
+14,2018-05-07,ASIAINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+15,2018-04-23,ASIAINS,Price Limit Open,1,0,0,price limit open
+16,2018-04-23,ASIAINS,Dividend Declaration,1,0,0,dividend declaration
+17,2018-04-11,ASIAINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+18,2018-01-01,ASIAINS,Credit Rating Result,0,0,0,credit rating result
+19,2017-10-26,ASIAINS,Q3 Financials,1,0,0,q3 financials
+20,2017-10-17,ASIAINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+21,2017-07-30,ASIAINS,Q2 Financials,0,1,0,q2 financials
+22,2017-07-19,ASIAINS,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+23,2017-06-11,ASIAINS,Dividend Disbursement,1,1,0,dividend disbursement
+24,2017-05-24,ASIAINS,Address Change of Head Office,0,1,0,address change of head office
+25,2017-05-14,ASIAINS,Q1 Financials,1,1,1,q1 financials
+26,2017-05-08,ASIAINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+27,2017-04-27,ASIAINS,Resumption after Record Date,0,0,0,resumption after record date
+28,2017-04-26,ASIAINS,Suspension for Record Date,1,0,0,suspension for record date
+29,2017-04-24,ASIAINS,Spot News,0,0,1,spot news
+30,2017-04-10,ASIAINS,Audited Accounts (Revised Information),1,1,1,audited accounts revised information
+31,2017-04-09,ASIAINS,Price Limit Open,0,1,1,price limit open
+33,2017-04-09,ASIAINS,Dividend Declaration,0,1,1,dividend declaration
+34,2017-03-28,ASIAINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+35,2017-01-01,ASIAINS,Credit Rating Result,1,1,1,credit rating result
+36,2017-01-01,ASIAINS,Credit Rating Result,1,1,1,credit rating result
+37,2016-10-30,ASIAINS,Q3 Financials,1,1,1,q3 financials
+38,2016-10-25,ASIAINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+39,2016-07-31,ASIAINS,Q2 Financials,0,1,0,q2 financials
+40,2016-07-25,ASIAINS,Board Meeting,0,0,1,board meeting
+41,2016-06-27,ASIAINS,Dividend Disbursement,0,0,1,dividend disbursement
+42,2016-05-22,ASIAINS,Resumption after Record date,0,0,0,resumption after record date
+43,2016-05-19,ASIAINS,Suspension for Record date,1,0,0,suspension for record date
+44,2016-05-17,ASIAINS,Spot News for AGM,1,1,1,spot news for agm
+45,2016-05-11,ASIAINS,Q1,1,0,0,q1
+46,2016-05-04,ASIAINS,Board Meeting,0,1,0,board meeting
+47,2016-04-28,ASIAINS,Price Limit Open,1,0,0,price limit open
+48,2016-04-28,ASIAINS,Dividend Declaration,1,0,0,dividend declaration
+49,2016-04-20,ASIAINS,Board Meeting,0,0,0,board meeting
+50,2015-12-15,ASIAINS,Credit Rating Result,0,0,0,credit rating result
+51,2015-10-29,ASIAINS,Q3 Financials,0,0,0,q3 financials
+52,2015-10-25,ASIAINS,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+53,2015-07-30,ASIAINS,Dividend Disbursement,0,0,0,dividend disbursement
+54,2015-07-30,ASIAINS,Q2 Financials,0,0,0,q2 financials
+55,2015-06-23,ASIAINS,Resumption News after Record Date,0,0,0,resumption news after record date
+56,2015-06-22,ASIAINS,Suspension for Record Date,1,0,0,suspension for record date
+57,2015-06-21,ASIAINS,Q1 Financials,0,1,0,q1 financials
+58,2015-06-18,ASIAINS,Spot News for AGM,1,0,0,spot news for agm
+59,2015-06-14,ASIAINS,Change of Record Date,0,1,0,change of record date
+60,2015-06-14,ASIAINS,Price Limit Open,0,1,0,price limit open
+61,2015-06-14,ASIAINS,Dividend Declaration,0,1,0,dividend declaration
+62,2015-06-09,ASIAINS,Board Meeting schedule under LR 30,1,1,0,board meeting schedule under lr 30
+63,2015-02-04,ASIAINS,Appointment of Managing Director and CEO,0,1,0,appointment of managing director and ceo
+64,2015-01-01,ASIAINS,Credit Rating,1,0,0,credit rating
+65,2014-11-11,ASIAINS,Q3,0,0,0,q3
+66,2014-08-10,ASIAINS,dividend warrants notice,1,0,1,dividend warrants notice
+67,2014-07-24,ASIAINS,credited the bonus shares,0,0,0,credited the bonus shares
+68,2014-06-24,ASIAINS,Q1 Earnings,0,0,1,q1 earnings
+69,2014-06-19,ASIAINS,trade resume,0,0,0,trade resume
+70,2014-06-18,ASIAINS,trade will remain suspended at 19 june,0,0,0,trade will remain suspended at 19 june
+71,2014-06-16,ASIAINS,Spot Market Transaction,0,1,0,spot market transaction
+72,2014-06-09,ASIAINS,recommended 15% cash & 5% stock dividend,1,0,0,recommended 15 cash  5 stock dividend
+73,2014-06-09,ASIAINS,no price limit,1,0,0,no price limit
+74,2014-06-04,ASIAINS,Board Meeting,0,1,0,board meeting
+75,2013-12-05,ASIAINS,Credit Rating,1,0,0,credit rating
+76,2013-10-31,ASIAINS,Q3 Earnings,1,0,0,q3 earnings
+77,2013-09-19,ASIAINS,Sponsors Share Sell,0,0,0,sponsors share sell
+78,2013-09-15,ASIAINS,Sponsors Share Sell,1,0,1,sponsors share sell
+79,2013-07-31,ASIAINS,Q2 Earnings,0,1,0,q2 earnings
+80,2013-07-15,ASIAINS,Cash Dividend Warrants,1,0,1,cash dividend warrants
+81,2013-07-02,ASIAINS,credited bonus shares,1,0,0,credited bonus shares
+82,2013-05-20,ASIAINS,Trade Resume after Record Date,0,0,0,trade resume after record date
+83,2013-05-19,ASIAINS,Trade Suspension on Record Date,1,0,0,trade suspension on record date
+84,2013-05-15,ASIAINS,Q1 Earnings,1,1,0,q1 earnings
+85,2013-05-14,ASIAINS,Spot Market Trading,1,1,1,spot market trading
+86,2013-05-09,ASIAINS,Corporate Declaration,1,0,0,corporate declaration
+87,2013-05-06,ASIAINS,Board Meeting,0,1,0,board meeting
+88,2012-11-08,ASIAINS,New MD,0,0,0,new md
+89,2012-10-31,ASIAINS,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+90,2012-07-30,ASIAINS,- Mr. Alamgir Kabir FCA...,0,0,0,mr. alamgir kabir fca
+91,2012-07-25,ASIAINS,- Mr. Alamgir Kabir FCA...,0,0,0,mr. alamgir kabir fca
+92,2012-07-23,ASIAINS,- The Company has requested...,1,1,0,the company has requested
+93,2012-07-08,ASIAINS,- The Company has informed ...,0,0,0,the company has informed
+94,2012-06-11,ASIAINS,- Mr. Alamgir Kabir FCA...,1,1,0,mr. alamgir kabir fca
+95,2012-05-14,ASIAINS,- (Q1): As per un-audited quarterly accounts...,0,0,0,q1: as per un-audited quarterly accounts
+96,2012-05-09,ASIAINS,- Trading of the shares...,0,0,0,trading of the shares
+97,2012-04-23,ASIAINS,- As per regulation...,0,0,0,as per regulation
+98,2011-10-31,ASIAINS,- As per un-audited...,0,1,0,as per un-audited
+99,2011-08-24,ASIAINS,- The Rating Committee...,0,0,0,the rating committee
+100,2011-07-31,ASIAINS,- (H/Y): As per un-audited...,0,0,0,hy: as per un-audited

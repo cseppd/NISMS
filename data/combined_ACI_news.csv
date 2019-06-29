@@ -1,0 +1,136 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,ACI,Buy Confirmation of a Director,0,0,0,buy confirmation of a director
+1,2019-04-28,ACI,Q3 Financials,0,0,0,q3 financials
+2,2019-04-18,ACI,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+3,2019-04-01,ACI,Buy Declarations of a Director,1,1,0,buy declarations of a director
+4,2019-03-21,ACI,Buy confirmation of a Nominated Director,0,0,0,buy confirmation of a nominated director
+5,2019-02-25,ACI,Buy declaration of a Nominated Director,1,1,0,buy declaration of a nominated director
+7,2019-01-29,ACI,Q2 Financials,0,0,0,q2 financials
+8,2019-01-22,ACI,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+10,2019-01-09,ACI,Cash Dividend Disbursement,1,0,0,cash dividend disbursement
+11,2018-12-27,ACI,Credit Rating Result,1,0,0,credit rating result
+12,2018-12-18,ACI,Dividend Disbursement,0,1,1,dividend disbursement
+13,2018-11-15,ACI,Resumption after Record Date,0,0,0,resumption after record date
+14,2018-11-14,ACI,Suspension for Record Date,1,0,0,suspension for record date
+15,2018-11-12,ACI,Spot News,0,1,1,spot news
+16,2018-11-12,ACI,Board Approval to sell Floor Space,0,1,1,board approval to sell floor space
+18,2018-11-12,ACI,Q1 Financials,0,1,1,q1 financials
+19,2018-11-06,ACI,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+20,2018-10-28,ACI,Land Purchase,0,1,0,land purchase
+21,2018-10-28,ACI,Price Limit Open,0,1,0,price limit open
+23,2018-10-28,ACI,Dividend Declaration & increase of Authorized Capital,0,1,0,dividend declaration  increase of authorized capital
+24,2018-10-18,ACI,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+25,2018-04-30,ACI,Q3 Financials,0,0,0,q3 financials
+26,2018-04-23,ACI,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+28,2018-04-08,ACI,Board approval for manufacturing and marketing plan of a subsidiary,0,1,0,board approval for manufacturing and marketing plan of a subsidiary
+29,2018-03-18,ACI,"Agreement signing with Yamaha Motors Co. Ltd., Japan by its subsidiary",0,0,1,"agreement signing with yamaha motors co. ltd., japan by its subsidiary"
+30,2018-01-30,ACI,Q2 Financials,0,0,0,q2 financials
+31,2018-01-24,ACI,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+33,2018-01-11,ACI,Dividend Disbursement,0,0,0,dividend disbursement
+34,2018-01-01,ACI,Credit Rating Result,1,1,0,credit rating result
+35,2017-12-21,ACI,Stock Dividend Disbursement,0,0,0,stock dividend disbursement
+36,2017-11-13,ACI,Resumption after record date,0,0,0,resumption after record date
+37,2017-11-13,ACI,Q1 Financials,0,0,0,q1 financials
+38,2017-11-12,ACI,Suspension for Record Date,1,0,0,suspension for record date
+39,2017-11-08,ACI,Spot News,0,1,0,spot news
+40,2017-11-07,ACI,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+43,2017-10-24,ACI,Updating information,0,0,0,updating information
+45,2017-10-24,ACI,Updating information,0,0,0,updating information
+46,2017-10-24,ACI,Price Limit Open,0,0,0,price limit open
+49,2017-10-24,ACI,"Dividend Declaration, investment in subsidiary Company & JV Company",0,0,0,"dividend declaration, investment in subsidiary company  jv company"
+50,2017-10-15,ACI,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+51,2017-04-30,ACI,Q3 Financials,1,0,0,q3 financials
+52,2017-04-24,ACI,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+53,2017-01-29,ACI,Q2 Financials,1,0,0,q2 financials
+54,2017-01-01,ACI,Credit Rating Result,0,1,1,credit rating result
+55,2017-01-01,ACI,Credit Rating Result,0,1,1,credit rating result
+56,2016-12-14,ACI,Interim Dividend Disbursement,0,0,0,interim dividend disbursement
+57,2016-12-04,ACI,Resumption after record date,0,0,0,resumption after record date
+58,2016-12-01,ACI,Suspension for Record Date,1,0,0,suspension for record date
+59,2016-11-29,ACI,Spot for interim dividend entitlement,0,1,1,spot for interim dividend entitlement
+60,2016-11-15,ACI,Updating information of Margin Account,0,0,1,updating information of margin account
+61,2016-11-14,ACI,Price Limit Open,0,0,0,price limit open
+62,2016-11-14,ACI, Interim Cash Dividend,0,0,0,interim cash dividend
+63,2016-11-14,ACI,Q1 Financials,0,0,0,q1 financials
+64,2016-11-07,ACI,Board Meeting,1,1,1,board meeting
+65,2016-10-27,ACI,18 months audited financials & re fixation of AGM date,0,0,0,18 months audited financials  re fixation of agm date
+66,2016-10-19,ACI,Board Meeting,0,0,0,board meeting
+67,2016-06-27,ACI,Dividend Disbursement,1,1,1,dividend disbursement
+68,2016-06-15,ACI,Agreement to sale and distribute YAMAHA brand motorcycles,1,0,0,agreement to sale and distribute yamaha brand motorcycles
+69,2016-06-14,ACI,Credit Rating Result,1,1,0,credit rating result
+70,2016-05-19,ACI,Resumption after Record date,0,0,0,resumption after record date
+71,2016-05-18,ACI,Suspension for Record date,1,0,0,suspension for record date
+72,2016-05-16,ACI,Spot News,0,1,1,spot news
+73,2016-05-09,ACI,"Postponement of AGM, unchanged Record date.",0,1,0,"postponement of agm, unchanged record date."
+74,2016-04-28,ACI,Information for Brokerage houses/DPs relating to Margin Loan,0,0,0,information for brokerage housesdps relating to margin loan
+75,2016-04-28,ACI,Furnishing 12 digits e-TIN Number,0,0,0,furnishing 12 digits e-tin number
+76,2016-04-28,ACI,Q1 Financials,0,0,0,q1 financials
+77,2016-04-28,ACI,Price Limit Open,0,0,0,price limit open
+78,2016-04-28,ACI,Dividend Declaration,0,0,0,dividend declaration
+79,2016-04-19,ACI,Board Meeting,1,1,0,board meeting
+80,2016-04-19,ACI,Board Meeting,1,1,0,board meeting
+81,2016-02-28,ACI,Opening a Subsidiary Company in the USA,0,0,1,opening a subsidiary company in the usa
+82,2015-10-29,ACI,Q3 Financials,0,0,0,q3 financials
+83,2015-10-25,ACI,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+84,2015-08-05,ACI,Launching of Smart and Feature Mobile handsets and accessories,0,0,0,launching of smart and feature mobile handsets and accessories
+85,2015-07-12,ACI,Half Yearly Financials,1,0,0,half yearly financials
+86,2015-07-08,ACI,Query Response,0,0,0,query response
+87,2015-07-07,ACI,Payment of cash dividend,1,0,0,payment of cash dividend
+88,2015-07-07,ACI,Query Response,1,0,0,query response
+89,2015-06-16,ACI,Dividend Disbursement,0,1,0,dividend disbursement
+90,2015-05-13,ACI,Resumption News after Record Date,0,1,0,resumption news after record date
+91,2015-05-12,ACI,Suspension News for Record Date,0,0,1,suspension news for record date
+92,2015-05-10,ACI,Spot News for AGM,0,1,0,spot news for agm
+93,2015-04-30,ACI,Q1,0,0,0,q1
+94,2015-04-30,ACI,e-TIN submission Request,0,0,0,e-tin submission request
+95,2015-04-30,ACI,no price limit today,0,0,0,no price limit today
+96,2015-04-30,ACI,Dividend,0,0,0,dividend
+97,2015-04-26,ACI,& S.C. Johnson & Son mutual agreements.,0,1,0,s.c. johnson  son mutual agreements.
+98,2015-04-21,ACI,Board Meeting,1,0,0,board meeting
+99,2015-04-12,ACI,20% Convertible Zero Coupn Bonds,0,1,0,20 convertible zero coupn bonds
+100,2015-03-25,ACI,Query Response,1,0,0,query response
+101,2015-03-18,ACI,Credit of shares of ACI 20% Convertible Zero Coupon Bonds,0,1,0,credit of shares of aci 20 convertible zero coupon bonds
+102,2014-12-10,ACI, investment IT Project.,0,0,0,investment it project.
+103,2014-11-18,ACI,Credit Rating,1,0,0,credit rating
+104,2014-11-16,ACI,agreement with SOSA Chemical,0,0,1,agreement with sosa chemical
+105,2014-10-29,ACI,Q3 Earnings,0,0,0,q3 earnings
+106,2014-09-11,ACI,approved of proposal,0,0,0,approved of proposal
+107,2014-08-19,ACI,DSE query,1,1,1,dse query
+108,2014-08-03,ACI,H/Y Earnings,1,0,1,hy earnings
+109,2014-07-06,ACI,dividend warrants,0,1,1,dividend warrants
+110,2014-06-15,ACI,credited the bonus shares,0,0,1,credited the bonus shares
+111,2014-05-12,ACI,will resume after record date.,0,0,1,will resume after record date.
+112,2014-05-11,ACI,will remain suspended on record date,1,0,0,will remain suspended on record date
+113,2014-05-07,ACI,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+114,2014-05-06,ACI,invest Tk. 78.00 million,1,0,0,invest tk. 78.00 million
+115,2014-04-30,ACI,Q1 Earning,1,0,0,q1 earning
+116,2014-04-30,ACI,no price limit,1,0,0,no price limit
+117,2014-04-30,ACI,85% cash dividend and 20% stock dividend,1,0,0,85 cash dividend and 20 stock dividend
+118,2014-04-22,ACI,Board Meeting,1,1,1,board meeting
+119,2014-03-18,ACI,exercise of convertibility option,0,0,0,exercise of convertibility option
+120,2013-10-30,ACI,Q3 Earnings,0,0,0,q3 earnings
+121,2013-10-30,ACI,Decided to set up a new Company,0,0,0,decided to set up a new company
+122,2013-10-29,ACI,Sponsors Share Buy,0,0,0,sponsors share buy
+123,2013-10-09,ACI,Sponsors Share Buy,1,0,0,sponsors share buy
+124,2013-07-30,ACI,Q2 Earnings,0,1,1,q2 earnings
+125,2013-07-18,ACI,Sponsors Share Buy,1,0,0,sponsors share buy
+126,2013-07-08,ACI,Dividend Declaration,1,1,0,dividend declaration
+127,2013-06-16,ACI,Credited Bonus Share,1,1,0,credited bonus share
+128,2013-05-28,ACI,Sponsor Share Purchase,1,0,1,sponsor share purchase
+129,2013-05-09,ACI,trade suspension,1,0,0,trade suspension
+130,2013-05-06,ACI,Spot Market Trading,0,0,0,spot market trading
+131,2013-05-02,ACI,Q1 Earnings,0,0,0,q1 earnings
+132,2013-05-02,ACI,Corporate Declaration,0,0,0,corporate declaration
+133,2013-04-25,ACI,Board meeting,1,0,0,board meeting
+134,2013-03-18,ACI,Convertible Bond Credited,0,0,0,convertible bond credited
+135,2012-12-18,ACI,Credit rating,1,0,0,credit rating
+136,2012-10-31,ACI,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+137,2012-06-24,ACI,- The Company has informed....,0,0,1,the company has informed.
+138,2012-05-15,ACI,- Trading of the shares...,0,0,0,trading of the shares
+139,2012-04-23,ACI,- As per regulation...,1,0,0,as per regulation
+140,2012-03-22,ACI,- The Company has informed...,1,0,0,the company has informed
+141,2012-03-19,ACI,- The Company has informed...,0,1,0,the company has informed
+142,2011-11-03,ACI,- The Credit Rating...,0,0,0,the credit rating
+143,2011-10-20,ACI,- As per un-audited...,1,0,0,as per un-audited
+146,2011-07-17,ACI,- As per un-audited...,0,0,0,as per un-audited
+147,2011-07-05,ACI,- The Company has requested...,0,1,0,the company has requested

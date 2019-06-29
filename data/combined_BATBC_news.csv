@@ -1,0 +1,119 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,BATBC,Q1 Financials,1,0,0,q1 financials
+1,2019-04-24,BATBC,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2019-04-17,BATBC,Emphasis of Matter,0,1,0,emphasis of matter
+5,2019-04-07,BATBC,Buy Intention (Intimation),0,0,0,buy intention intimation
+6,2019-04-04,BATBC,Resumption after record date,0,0,0,resumption after record date
+7,2019-04-03,BATBC,Suspension for Record Date,0,0,0,suspension for record date
+8,2019-04-01,BATBC,Spot News for AGM & EGM,0,1,0,spot news for agm  egm
+9,2019-03-12,BATBC,Price Limit Open,0,0,1,price limit open
+11,2019-03-12,BATBC,Dividend Declaration & increase of Authorized Capital,0,0,1,dividend declaration  increase of authorized capital
+12,2019-03-03,BATBC,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+13,2018-10-18,BATBC,Q3 Financials,0,0,0,q3 financials
+14,2018-10-14,BATBC,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+15,2018-07-26,BATBC,Q2 Financials,0,0,0,q2 financials
+17,2018-07-24,BATBC,Emphasis of Matter,0,0,0,emphasis of matter
+18,2018-07-22,BATBC,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+19,2018-05-22,BATBC,Dividend Disbursement,1,0,1,dividend disbursement
+20,2018-05-13,BATBC,Q1 Financials,0,1,0,q1 financials
+21,2018-05-06,BATBC,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+22,2018-03-27,BATBC,Resumption after record date,0,0,0,resumption after record date
+23,2018-03-25,BATBC,Suspension for Record Date,1,0,0,suspension for record date
+24,2018-03-21,BATBC,Spot News,0,0,0,spot news
+25,2018-03-06,BATBC,Price Limit Open,0,0,1,price limit open
+26,2018-03-06,BATBC,Dividend Declaration,0,0,1,dividend declaration
+27,2018-02-26,BATBC,Board Meeting schedule under LR 19(1),0,0,1,board meeting schedule under lr 191
+28,2017-12-07,BATBC,Query Response,1,0,0,query response
+29,2017-10-31,BATBC,Q3 Financials,1,1,1,q3 financials
+30,2017-10-24,BATBC,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+31,2017-07-26,BATBC,Q2 Financials,1,1,0,q2 financials
+32,2017-07-23,BATBC,Emphasis of Matter,1,0,0,emphasis of matter
+33,2017-07-23,BATBC,Emphasis of Matter,1,0,0,emphasis of matter
+34,2017-07-18,BATBC,Reschedule of Board Meeting under LR 16(1),1,0,1,reschedule of board meeting under lr 161
+35,2017-07-16,BATBC,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+36,2017-05-17,BATBC,Dividend Disbursement,1,1,0,dividend disbursement
+37,2017-05-02,BATBC,Q1 Financials,1,1,1,q1 financials
+38,2017-04-25,BATBC,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+39,2017-03-21,BATBC,Resumption after record date,0,1,1,resumption after record date
+40,2017-03-20,BATBC,Suspension for Record Date,1,0,1,suspension for record date
+41,2017-03-16,BATBC,Spot News,0,0,0,spot news
+42,2017-02-28,BATBC,Price Limit Open,0,1,0,price limit open
+43,2017-02-28,BATBC,Dividend Declaration,0,1,0,dividend declaration
+44,2017-02-20,BATBC,Reschedule of Board Meeting schedule under LR 19(1),0,0,0,reschedule of board meeting schedule under lr 191
+45,2017-02-19,BATBC,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+46,2016-11-03,BATBC,Response to DSE's,0,0,0,response to dse's
+47,2016-10-23,BATBC,Q3 Financials,1,1,0,q3 financials
+48,2016-10-18,BATBC,Board Meeting,1,0,1,board meeting
+49,2016-07-27,BATBC,Q2 Financials,0,0,0,q2 financials
+50,2016-05-12,BATBC,Cash Dividend Disbursement,0,0,0,cash dividend disbursement
+51,2016-04-24,BATBC,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+52,2016-03-20,BATBC,Information for Brokerage houses relating to Margin Loan,0,1,0,information for brokerage houses relating to margin loan
+53,2016-03-13,BATBC,Suspension for Record date,0,0,0,suspension for record date
+54,2016-03-09,BATBC,Spot for AGM,1,1,0,spot for agm
+55,2016-02-23,BATBC,Price Limit Open,0,0,0,price limit open
+56,2016-02-23,BATBC,Dividend Declaration,0,0,0,dividend declaration
+57,2016-02-14,BATBC,Board Meeting,1,1,1,board meeting
+58,2015-10-25,BATBC,Q3 Financials,1,1,1,q3 financials
+59,2015-10-18,BATBC,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+60,2015-07-21,BATBC,H/Y Financials,0,1,1,hy financials
+61,2015-06-24,BATBC,Credit Rating Result,0,0,0,credit rating result
+62,2015-05-13,BATBC,Dividend Disbursement,0,0,0,dividend disbursement
+63,2015-04-12,BATBC,Q1 Earning,0,1,0,q1 earning
+64,2015-03-05,BATBC,Resumption News after Record Date,0,0,0,resumption news after record date
+65,2015-03-04,BATBC,Suspension News for Record date,0,0,0,suspension news for record date
+66,2015-03-02,BATBC,Spot News for AGM,0,0,0,spot news for agm
+67,2015-02-22,BATBC,Price Limit Open,1,0,0,price limit open
+68,2015-02-22,BATBC,Dividend Declaration,1,0,0,dividend declaration
+69,2015-02-16,BATBC, Board Meeting schedule under LR 30,0,1,0,board meeting schedule under lr 30
+70,2014-12-29,BATBC,interim dividend warrants,0,1,0,interim dividend warrants
+71,2014-12-03,BATBC,trade resume,0,0,0,trade resume
+72,2014-12-02,BATBC,trade suspension,0,0,0,trade suspension
+73,2014-11-30,BATBC,Spot Market Transaction,1,0,0,spot market transaction
+74,2014-11-23,BATBC,no price limit,1,0,0,no price limit
+75,2014-11-23,BATBC,dividend declaration,1,0,0,dividend declaration
+76,2014-10-20,BATBC,Q3 Earning,1,1,0,q3 earning
+77,2014-09-02,BATBC,DSE query,0,0,0,dse query
+78,2014-07-22,BATBC,H/Y Earnings,1,1,1,hy earnings
+79,2014-05-06,BATBC,Q1 Earning,1,0,0,q1 earning
+80,2014-03-12,BATBC,trade resume,0,1,0,trade resume
+81,2014-03-11,BATBC,trade suspension on record date,1,0,1,trade suspension on record date
+82,2014-03-06,BATBC,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+83,2014-02-27,BATBC,no price limit,0,0,0,no price limit
+84,2014-02-27,BATBC,recommended 520% final cash dividend,0,0,0,recommended 520 final cash dividend
+85,2014-02-23,BATBC,Board meeting,1,1,0,board meeting
+86,2013-11-17,BATBC,Trade Resume After Record Date,0,1,1,trade resume after record date
+87,2013-11-14,BATBC,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+88,2013-11-11,BATBC,trade suspension on record date,0,0,1,trade suspension on record date
+89,2013-10-31,BATBC,Record Date,1,0,0,record date
+90,2013-10-31,BATBC,Q3 Earnings,1,0,0,q3 earnings
+91,2013-10-31,BATBC,No Price limit,1,0,0,no price limit
+92,2013-10-31,BATBC,100% Cash Dividend,1,0,0,100 cash dividend
+93,2013-10-02,BATBC,Appointment of  Managing Director,1,0,0,appointment of  managing director
+94,2013-07-21,BATBC,Q2 Earnings,0,1,1,q2 earnings
+95,2013-05-06,BATBC,Q1 Earnings,1,0,0,q1 earnings
+96,2013-04-24,BATBC,Cash Dividend Warrants,0,1,0,cash dividend warrants
+97,2013-03-10,BATBC,trade resume after record date,0,0,1,trade resume after record date
+98,2013-03-07,BATBC,trade suspension on record date,0,0,0,trade suspension on record date
+99,2013-03-04,BATBC,spot market trading,1,1,0,spot market trading
+100,2013-02-27,BATBC,Corporate declaration,0,1,0,corporate declaration
+101,2013-02-20,BATBC,Board meeting,1,0,0,board meeting
+102,2012-12-03,BATBC,terminationof Agreement with PBIL and Brac Bank,1,0,0,terminationof agreement with pbil and brac bank
+103,2012-11-18,BATBC,Interim Dividend credited,1,0,0,interim dividend credited
+104,2012-11-05,BATBC,Record date,0,1,1,record date
+105,2012-10-18,BATBC,Interim Cash Dividend,0,0,0,interim cash dividend
+106,2012-10-18,BATBC,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+107,2012-09-26,BATBC,share Purchase Agreements,0,1,0,share purchase agreements
+108,2012-06-27,BATBC,- The Raleigh Investment Company Limited....,1,0,0,the raleigh investment company limited.
+109,2012-05-03,BATBC,- (Q1): As per un-audited quarterly accounts...,0,0,0,q1: as per un-audited quarterly accounts
+110,2012-04-23,BATBC,- The Company has informed...,0,1,1,the company has informed
+111,2012-03-14,BATBC,- Normal trading of the shares...,0,0,0,normal trading of the shares
+112,2012-03-13,BATBC,- Trading of the shares...,1,0,0,trading of the shares
+113,2012-03-04,BATBC,- The Board of Directors...,0,0,1,the board of directors
+114,2012-03-04,BATBC,- There will be no price...,0,0,1,there will be no price
+115,2011-11-14,BATBC,- Normal trading of the shares...,0,0,1,normal trading of the shares
+116,2011-11-13,BATBC,- Trading of the shares...,1,0,0,trading of the shares
+117,2011-11-01,BATBC,- Trading of the shares...,1,0,0,trading of the shares
+118,2011-10-26,BATBC,- The Board of Directors...,0,0,0,the board of directors
+119,2011-10-26,BATBC,- There will be no price...,0,0,0,there will be no price
+120,2011-10-26,BATBC,- As per un-audited,0,0,0,as per un-audited
+121,2011-07-13,BATBC,- As per un-audited...,0,1,0,as per un-audited

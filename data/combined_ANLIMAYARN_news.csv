@@ -1,0 +1,98 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,ANLIMAYARN,Q3 Financials,1,0,0,q3 financials
+1,2019-04-21,ANLIMAYARN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-01-30,ANLIMAYARN,Q2 Financials,0,1,0,q2 financials
+3,2019-01-24,ANLIMAYARN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2019-01-24,ANLIMAYARN,Dividend Disbursement,0,0,0,dividend disbursement
+5,2018-12-12,ANLIMAYARN,Query Response,1,0,0,query response
+6,2018-11-20,ANLIMAYARN,Resumption after record date,0,0,0,resumption after record date
+7,2018-11-19,ANLIMAYARN,Suspension for Record date,1,0,0,suspension for record date
+8,2018-11-15,ANLIMAYARN,Spot News,0,0,0,spot news
+9,2018-11-14,ANLIMAYARN,Q1 Financials,0,0,0,q1 financials
+10,2018-11-07,ANLIMAYARN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+11,2018-10-28,ANLIMAYARN,Price Limit Open,0,0,0,price limit open
+13,2018-10-28,ANLIMAYARN,Dividend Declaration,0,0,0,dividend declaration
+14,2018-10-16,ANLIMAYARN,Board Meeting schedule under LR 19(1),1,1,1,board meeting schedule under lr 191
+15,2018-09-30,ANLIMAYARN,Credit Rating Result,1,0,1,credit rating result
+16,2018-07-05,ANLIMAYARN,Query Response,0,0,0,query response
+17,2018-05-24,ANLIMAYARN,Query Response,1,0,0,query response
+18,2018-04-25,ANLIMAYARN,Q3 Financials,1,0,0,q3 financials
+19,2018-04-22,ANLIMAYARN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+20,2018-01-25,ANLIMAYARN,Dividend Disbursement,0,0,0,dividend disbursement
+21,2018-01-25,ANLIMAYARN,Q2 Financials,0,0,0,q2 financials
+22,2018-01-18,ANLIMAYARN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+23,2017-11-20,ANLIMAYARN,Resumption after record date,0,1,1,resumption after record date
+24,2017-11-19,ANLIMAYARN,Suspension for Record Date,0,0,1,suspension for record date
+25,2017-11-15,ANLIMAYARN,Spot News,0,0,0,spot news
+26,2017-11-12,ANLIMAYARN,Q1 Financials,0,0,0,q1 financials
+27,2017-11-06,ANLIMAYARN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+28,2017-10-26,ANLIMAYARN,Price Limit Open,0,0,0,price limit open
+30,2017-10-26,ANLIMAYARN,Dividend Declaration,0,0,0,dividend declaration
+31,2017-10-17,ANLIMAYARN,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+32,2017-09-28,ANLIMAYARN,Credit Rating Result,0,0,0,credit rating result
+33,2017-04-30,ANLIMAYARN,Q3 Financials,0,0,1,q3 financials
+34,2017-04-20,ANLIMAYARN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+35,2017-01-29,ANLIMAYARN,Q2 Financials,1,0,1,q2 financials
+36,2017-01-23,ANLIMAYARN, Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+37,2016-11-20,ANLIMAYARN,Resumption after record date,1,0,0,resumption after record date
+38,2016-11-17,ANLIMAYARN,Suspension for record date,1,0,0,suspension for record date
+39,2016-11-15,ANLIMAYARN,Q1 Financials,0,0,1,q1 financials
+40,2016-11-09,ANLIMAYARN,Board Meeting,0,0,0,board meeting
+41,2016-10-30,ANLIMAYARN,Price Limit Open,0,1,0,price limit open
+42,2016-10-30,ANLIMAYARN,Dividend Declaration,0,1,0,dividend declaration
+43,2016-10-20,ANLIMAYARN,Board Meeting,0,0,0,board meeting
+44,2016-10-13,ANLIMAYARN,Credit Rating Result,0,0,0,credit rating result
+45,2016-04-28,ANLIMAYARN,Q3 Financials,1,0,0,q3 financials
+46,2016-04-24,ANLIMAYARN,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+47,2016-01-31,ANLIMAYARN,Q2 Financials,1,0,0,q2 financials
+48,2016-01-27,ANLIMAYARN,Cash Dividend Disbursement,1,0,0,cash dividend disbursement
+49,2015-11-15,ANLIMAYARN,Resumption News,0,0,0,resumption news
+50,2015-11-12,ANLIMAYARN,Suspension News,0,0,0,suspension news
+51,2015-11-10,ANLIMAYARN,Spot News,0,0,0,spot news
+52,2015-11-10,ANLIMAYARN,Board Meeting,0,0,0,board meeting
+53,2015-10-26,ANLIMAYARN,Price Limit Open,0,0,1,price limit open
+54,2015-10-26,ANLIMAYARN,Dividend Declaration,0,0,1,dividend declaration
+55,2015-10-18,ANLIMAYARN,Credit Rating Result,0,1,1,credit rating result
+56,2015-10-14,ANLIMAYARN,Board Meeting schedule,0,0,0,board meeting schedule
+57,2015-06-25,ANLIMAYARN,Query Response,1,0,0,query response
+58,2015-04-30,ANLIMAYARN,Q3,0,0,0,q3
+59,2015-01-28,ANLIMAYARN,H/Y,0,0,0,hy
+60,2014-11-16,ANLIMAYARN,Q1 Earning,0,0,1,q1 earning
+61,2014-11-10,ANLIMAYARN,will resume,0,1,1,will resume
+62,2014-11-09,ANLIMAYARN,will remain suspended,1,0,1,will remain suspended
+63,2014-11-05,ANLIMAYARN,trade suspension,0,0,0,trade suspension
+64,2014-10-26,ANLIMAYARN,recommended 10% cash dividend,0,1,0,recommended 10 cash dividend
+65,2014-10-20,ANLIMAYARN,meeting of the Board of Directors,0,0,0,meeting of the board of directors
+66,2014-09-29,ANLIMAYARN,Credit Rating,0,0,0,credit rating
+67,2014-09-18,ANLIMAYARN,Q3,0,0,0,q3
+68,2014-09-17,ANLIMAYARN,has no undisclosed price sensitive information,0,0,0,has no undisclosed price sensitive information
+69,2014-04-30,ANLIMAYARN,Q3 Earning,0,0,0,q3 earning
+70,2014-01-28,ANLIMAYARN,H/Y Earnings,0,1,1,hy earnings
+71,2013-11-14,ANLIMAYARN,Q1 Earnings,1,0,0,q1 earnings
+72,2013-11-10,ANLIMAYARN,trade resume after record date,0,0,0,trade resume after record date
+73,2013-11-07,ANLIMAYARN,trade suspension on record date,1,0,0,trade suspension on record date
+74,2013-11-04,ANLIMAYARN,trade suspension on record date,0,0,0,trade suspension on record date
+75,2013-10-28,ANLIMAYARN,No Price Limit,0,0,0,no price limit
+76,2013-10-28,ANLIMAYARN,Corporate Action,0,0,0,corporate action
+77,2013-10-22,ANLIMAYARN,Board Meeting,0,0,0,board meeting
+78,2013-09-30,ANLIMAYARN,Credit Rating,0,1,0,credit rating
+79,2013-04-28,ANLIMAYARN,Q3 Earnings,1,0,1,q3 earnings
+80,2013-01-27,ANLIMAYARN,HY Earnings,0,1,1,hy earnings
+81,2012-12-05,ANLIMAYARN,Director share transfer completed,1,1,0,director share transfer completed
+82,2012-12-05,ANLIMAYARN,Director share transfer completed,1,1,0,director share transfer completed
+83,2012-11-27,ANLIMAYARN,Director share transfer announcement,1,0,0,director share transfer announcement
+84,2012-11-27,ANLIMAYARN,Director share transfer announcement,1,0,0,director share transfer announcement
+85,2012-11-15,ANLIMAYARN,Q1 Earnings 2012,1,0,0,q1 earnings 2012
+86,2012-11-05,ANLIMAYARN,spot market trading,0,0,0,spot market trading
+87,2012-10-30,ANLIMAYARN,corporate declaration,1,0,0,corporate declaration
+88,2012-09-25,ANLIMAYARN,responses to DSE query,1,0,0,responses to dse query
+89,2012-01-24,ANLIMAYARN,- As per un-audited...,0,1,0,as per un-audited
+90,2011-11-17,ANLIMAYARN,- Normal trading ...,0,0,0,normal trading
+91,2011-11-16,ANLIMAYARN,- Trading of the shares...,1,0,0,trading of the shares
+92,2011-11-13,ANLIMAYARN,- Trading of the shares...,0,0,0,trading of the shares
+93,2011-11-03,ANLIMAYARN,- As per un-audited...,1,0,0,as per un-audited
+94,2011-10-31,ANLIMAYARN,- The Board of Directors...,1,1,0,the board of directors
+95,2011-10-31,ANLIMAYARN,- There will be no price...,1,1,0,there will be no price
+96,2011-10-13,ANLIMAYARN,- Normal trading of the shares...,0,0,0,normal trading of the shares
+97,2011-10-12,ANLIMAYARN,- Trading of the shares...,1,0,0,trading of the shares
+98,2011-10-03,ANLIMAYARN,- The Company has informed...,0,1,1,the company has informed

@@ -1,0 +1,49 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-21,BNICL,Price Limit Open,0,0,0,price limit open
+1,2019-04-21,BNICL,Dividend Declaration,0,0,0,dividend declaration
+2,2019-04-11,BNICL,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+3,2019-01-17,BNICL,Query Response,0,0,0,query response
+4,2018-10-30,BNICL,Q3 Financials,1,1,0,q3 financials
+5,2018-10-23,BNICL,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+6,2018-10-22,BNICL,Credit Rating Result,0,0,1,credit rating result
+7,2018-07-30,BNICL,Q2 Financials,0,0,1,q2 financials
+8,2018-07-24,BNICL,Dividend Disbursement,1,0,0,dividend disbursement
+9,2018-07-23,BNICL,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+10,2018-05-17,BNICL,Resumption after record date,0,0,0,resumption after record date
+11,2018-05-16,BNICL,Suspension for Record Date,0,0,0,suspension for record date
+12,2018-05-15,BNICL,Q1 Financials,0,0,0,q1 financials
+13,2018-05-14,BNICL,Spot News,0,0,0,spot news
+14,2018-05-08,BNICL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+15,2018-04-22,BNICL,Decision to purchase land (Revised Information),0,0,0,decision to purchase land revised information
+16,2018-04-22,BNICL,Decision to purchase land,0,0,0,decision to purchase land
+17,2018-04-22,BNICL,Price Limit Open,0,0,0,price limit open
+18,2018-04-22,BNICL,Dividend Declaration,0,0,0,dividend declaration
+19,2018-04-11,BNICL,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+20,2017-10-31,BNICL,Credit Rating Result,0,0,0,credit rating result
+21,2017-10-31,BNICL,Q3 Financials,0,0,0,q3 financials
+22,2017-10-25,BNICL,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+23,2017-10-24,BNICL,Formation of a Merchant Bank,1,1,1,formation of a merchant bank
+24,2017-07-31,BNICL,Q2 Financials,0,0,1,q2 financials
+25,2017-07-25,BNICL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+26,2017-07-16,BNICL,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+27,2017-07-16,BNICL,Category Change,0,0,0,category change
+28,2017-07-16,BNICL,Dividend Disbursement,0,0,0,dividend disbursement
+29,2017-05-18,BNICL,Resumption after Record Date,0,0,0,resumption after record date
+30,2017-05-17,BNICL,Suspension for Record Date,0,0,0,suspension for record date
+31,2017-05-15,BNICL,Spot News,1,1,0,spot news
+32,2017-05-15,BNICL,Q1 Financials,1,1,0,q1 financials
+33,2017-05-08,BNICL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+34,2017-04-26,BNICL,Price Limit Open,0,0,0,price limit open
+35,2017-04-26,BNICL,Dividend Declaration,0,0,0,dividend declaration
+36,2017-04-18,BNICL,Board Meeting schedule under LR 19(1),0,0,1,board meeting schedule under lr 191
+37,2016-10-31,BNICL,Q3 Financials,0,1,1,q3 financials
+38,2016-10-25,BNICL,Credit Rating Result,1,1,0,credit rating result
+39,2016-10-24,BNICL,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+40,2016-07-31,BNICL,Q2 Financials,0,0,1,q2 financials
+41,2016-07-24,BNICL,Board Meeting,0,0,0,board meeting
+42,2016-05-11,BNICL,Q1,0,0,0,q1
+43,2016-05-09,BNICL,Address Change of Head Office,1,1,0,address change of head office
+44,2016-05-04,BNICL,Board Meeting,0,0,0,board meeting
+45,2016-04-21,BNICL,Annual Financial Statements,0,0,0,annual financial statements
+46,2016-04-21,BNICL,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+47,2016-04-21,BNICL,Trading of New Security,0,0,0,trading of new security

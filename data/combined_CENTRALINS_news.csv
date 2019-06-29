@@ -1,0 +1,162 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,CENTRALINS,Price Limit Open,1,0,0,price limit open
+1,2019-04-30,CENTRALINS,Dividend Declaration,1,0,0,dividend declaration
+2,2019-04-18,CENTRALINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+3,2019-01-27,CENTRALINS,Query Response,1,0,1,query response
+4,2019-01-01,CENTRALINS,Credit Rating Result,0,1,0,credit rating result
+6,2018-10-22,CENTRALINS,Emphasis of Matter,0,1,0,emphasis of matter
+7,2018-10-14,CENTRALINS,Q3 Financials,0,0,0,q3 financials
+8,2018-10-04,CENTRALINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+9,2018-07-31,CENTRALINS,Cash Dividend Disbursement,1,0,0,cash dividend disbursement
+10,2018-07-30,CENTRALINS,Q2 Financials,0,1,0,q2 financials
+11,2018-07-23,CENTRALINS,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+12,2018-05-23,CENTRALINS,Resumption after record date,0,0,0,resumption after record date
+13,2018-05-22,CENTRALINS,Suspension for Record Date,1,0,0,suspension for record date
+14,2018-05-20,CENTRALINS,Spot News,0,1,1,spot news
+15,2018-05-15,CENTRALINS,Q1 Financials,0,1,1,q1 financials
+16,2018-05-09,CENTRALINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+17,2018-04-30,CENTRALINS,Price Limit Open,0,0,0,price limit open
+18,2018-04-30,CENTRALINS,Dividend Declaration,0,0,0,dividend declaration
+19,2018-04-18,CENTRALINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+20,2018-01-04,CENTRALINS,Credit Rating Result,0,0,0,credit rating result
+21,2017-10-29,CENTRALINS,Q3 Financials,0,1,1,q3 financials
+22,2017-10-19,CENTRALINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+23,2017-09-14,CENTRALINS,Completion of transfer by a Director,0,0,0,completion of transfer by a director
+24,2017-08-31,CENTRALINS,Declaration of transfer by a Director,0,0,0,declaration of transfer by a director
+25,2017-07-30,CENTRALINS,Q2 Financials,0,1,1,q2 financials
+26,2017-07-25,CENTRALINS,Emphasis of Matter,1,1,1,emphasis of matter
+27,2017-07-19,CENTRALINS,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+28,2017-06-28,CENTRALINS,Dividend Disbursement,0,1,0,dividend disbursement
+29,2017-05-16,CENTRALINS,Q1 Financials,1,1,1,q1 financials
+30,2017-05-07,CENTRALINS,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+31,2017-04-26,CENTRALINS,Resumption after Record Date,0,0,0,resumption after record date
+32,2017-04-25,CENTRALINS,Suspension for Record Date,1,0,0,suspension for record date
+33,2017-04-23,CENTRALINS,Spot News,0,0,1,spot news
+34,2017-04-12,CENTRALINS,Confirmation of sale by a Sponsor,0,0,0,confirmation of sale by a sponsor
+35,2017-04-02,CENTRALINS,Sale declaration of a Sponsor,0,0,1,sale declaration of a sponsor
+36,2017-04-02,CENTRALINS,Price Limit Open,0,0,1,price limit open
+38,2017-04-02,CENTRALINS,Dividend Declaration,0,0,1,dividend declaration
+39,2017-03-22,CENTRALINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+40,2016-11-01,CENTRALINS,Q3 Financials,0,0,1,q3 financials
+41,2016-10-25,CENTRALINS,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+42,2016-08-22,CENTRALINS,Buy Declaration of a Director,0,0,0,buy declaration of a director
+43,2016-08-14,CENTRALINS,Buy Confirmation of a Director,0,0,0,buy confirmation of a director
+44,2016-08-11,CENTRALINS,Buy Declaration of a Director,0,0,0,buy declaration of a director
+45,2016-08-02,CENTRALINS,Buy Declaration of a Director,0,0,0,buy declaration of a director
+46,2016-07-31,CENTRALINS,Q2 Financials,0,0,0,q2 financials
+47,2016-07-24,CENTRALINS,Board Meeting,1,0,0,board meeting
+48,2016-06-30,CENTRALINS,Dividend Disbursement,1,0,0,dividend disbursement
+49,2016-05-26,CENTRALINS,Completion of share receipt,0,0,0,completion of share receipt
+50,2016-05-19,CENTRALINS,Declaration of share receipt by a Director,1,0,0,declaration of share receipt by a director
+51,2016-05-16,CENTRALINS,Buy Confirmation of a Director,1,0,1,buy confirmation of a director
+52,2016-05-12,CENTRALINS,Q1,1,0,0,q1
+53,2016-05-09,CENTRALINS,Venue of the AGM,0,0,1,venue of the agm
+54,2016-05-08,CENTRALINS,Board Meeting,0,0,0,board meeting
+55,2016-04-26,CENTRALINS,Resumption after Record date,0,0,0,resumption after record date
+56,2016-04-25,CENTRALINS,Suspension,1,0,0,suspension
+57,2016-04-24,CENTRALINS,Emphasis of Matter,0,1,0,emphasis of matter
+58,2016-04-21,CENTRALINS,Spot News for AGM,0,0,0,spot news for agm
+59,2016-04-03,CENTRALINS,Floor Space Purchase,0,0,0,floor space purchase
+60,2016-04-03,CENTRALINS,Price Limit Open,0,0,0,price limit open
+61,2016-04-03,CENTRALINS,Dividend Declaration,0,0,0,dividend declaration
+62,2016-03-22,CENTRALINS, Board Meeting,0,0,1,board meeting
+63,2015-12-31,CENTRALINS,Credit Rating Result,0,0,0,credit rating result
+64,2015-11-01,CENTRALINS,Q3,1,1,0,q3
+65,2015-10-26,CENTRALINS,Board Meeting,1,0,0,board meeting
+66,2015-09-14,CENTRALINS,Confirmation of Transfer by a Sponsor,1,1,0,confirmation of transfer by a sponsor
+67,2015-09-06,CENTRALINS,Declaration of Transfer,1,0,0,declaration of transfer
+68,2015-08-03,CENTRALINS,Confirmation of Transfer by a Sponsor,1,1,1,confirmation of transfer by a sponsor
+69,2015-08-02,CENTRALINS,Q2 Financials,0,1,1,q2 financials
+70,2015-07-13,CENTRALINS,Confirmation of Transfer,0,1,0,confirmation of transfer
+71,2015-07-13,CENTRALINS,Declaration of Transfer,0,1,0,declaration of transfer
+72,2015-07-13,CENTRALINS,Confirmation of sale,0,1,0,confirmation of sale
+73,2015-07-09,CENTRALINS,Dividend Disbursement,0,0,0,dividend disbursement
+74,2015-07-05,CENTRALINS,Declaration of Transfer by Sponsor,0,1,0,declaration of transfer by sponsor
+75,2015-06-25,CENTRALINS,Declaration of sale by a Sponsor,0,0,0,declaration of sale by a sponsor
+76,2015-06-02,CENTRALINS,Confirmation of Transfer by Sponsor,1,0,1,confirmation of transfer by sponsor
+77,2015-05-24,CENTRALINS,Declaration of Transfer by Sponsor,1,1,0,declaration of transfer by sponsor
+78,2015-05-17,CENTRALINS,Q1 Financials,0,0,1,q1 financials
+79,2015-05-06,CENTRALINS,will remain suspended,1,0,0,will remain suspended
+80,2015-05-04,CENTRALINS,Spot Market,1,1,1,spot market
+81,2015-04-26,CENTRALINS,no price limit today,0,1,0,no price limit today
+82,2015-04-26,CENTRALINS,Dividend,0,1,0,dividend
+83,2015-04-20,CENTRALINS,Board Meeting,0,1,0,board meeting
+84,2015-01-01,CENTRALINS,Credit Rating,0,0,0,credit rating
+85,2014-10-30,CENTRALINS,Q3 Earnings,1,0,0,q3 earnings
+86,2014-10-27,CENTRALINS,Sponsor/Director Share Buy,1,0,1,sponsordirector share buy
+87,2014-10-22,CENTRALINS,Sponsors share buy,1,0,0,sponsors share buy
+88,2014-10-21,CENTRALINS,Sponsors intention to buy,0,1,0,sponsors intention to buy
+89,2014-09-29,CENTRALINS,Sponsor/Director Share Buy,0,0,1,sponsordirector share buy
+90,2014-09-17,CENTRALINS,Sponsors buy,0,1,0,sponsors buy
+91,2014-08-28,CENTRALINS,sponsor share buy/sell,0,0,0,sponsor share buysell
+92,2014-08-11,CENTRALINS,new Chairman and Vice Chairman,0,1,0,new chairman and vice chairman
+93,2014-08-06,CENTRALINS,Sponsor/Director Share Buy,1,0,0,sponsordirector share buy
+94,2014-08-03,CENTRALINS,H/Y Earnings,0,0,1,hy earnings
+95,2014-07-21,CENTRALINS,credited cash dividend,1,1,0,credited cash dividend
+96,2014-07-16,CENTRALINS,Sponsor/Director Share Sale,1,0,0,sponsordirector share sale
+97,2014-07-09,CENTRALINS,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+98,2014-07-07,CENTRALINS,Sponsor/Director Share Buy,1,0,0,sponsordirector share buy
+99,2014-05-12,CENTRALINS,Q1 Earnings,1,0,1,q1 earnings
+100,2014-04-28,CENTRALINS,Trade Resume,0,0,0,trade resume
+101,2014-04-27,CENTRALINS,Trade suspended on record date,1,0,0,trade suspended on record date
+102,2014-04-23,CENTRALINS,Spot Market Transaction,1,0,0,spot market transaction
+103,2014-04-20,CENTRALINS,recommended 14% cash dividend,0,0,0,recommended 14 cash dividend
+104,2014-04-15,CENTRALINS,Board Meeting,0,0,0,board meeting
+105,2013-10-31,CENTRALINS,Q3 Earnings,0,0,0,q3 earnings
+106,2013-09-12,CENTRALINS,credit rating,1,0,0,credit rating
+107,2013-08-04,CENTRALINS,Corporate Head Office Shifted to Own Building,1,0,0,corporate head office shifted to own building
+108,2013-07-31,CENTRALINS,Q2 Earnings,1,0,0,q2 earnings
+109,2013-06-26,CENTRALINS,Credited Bonus Share,1,0,0,credited bonus share
+110,2013-06-23,CENTRALINS,approved the agreement with M/s. Joty Enterprise,0,0,0,approved the agreement with ms. joty enterprise
+111,2013-05-14,CENTRALINS,Q1 Earnings,1,0,1,q1 earnings
+112,2013-04-24,CENTRALINS,Spot Market trading,0,0,0,spot market trading
+113,2013-04-21,CENTRALINS,Corporate Declaration,0,0,1,corporate declaration
+114,2013-04-11,CENTRALINS,Board Meeting,0,0,0,board meeting
+115,2012-10-31,CENTRALINS,Share Transfer Announcement,0,0,0,share transfer announcement
+116,2012-10-31,CENTRALINS,Share Transfer Announcement,0,0,0,share transfer announcement
+117,2012-10-31,CENTRALINS,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+118,2012-10-22,CENTRALINS,Director share transfer announcement,1,0,0,director share transfer announcement
+119,2012-10-18,CENTRALINS,director sell completed,0,0,0,director sell completed
+120,2012-10-17,CENTRALINS,director sell announcement,0,0,0,director sell announcement
+121,2012-10-07,CENTRALINS,director sell announcement,0,1,0,director sell announcement
+122,2012-10-07,CENTRALINS,construction of building,0,1,0,construction of building
+123,2012-09-23,CENTRALINS,Director share transfer completed,1,0,1,director share transfer completed
+124,2012-09-17,CENTRALINS,Director share transfer completed,0,0,0,director share transfer completed
+125,2012-09-12,CENTRALINS,director sell declaration,0,1,0,director sell declaration
+126,2012-08-13,CENTRALINS,- Mr. Mohammed Musa...,0,0,0,mr. mohammed musa
+127,2012-07-30,CENTRALINS,- Mrs. Hosneara Aziz..,1,0,0,mrs. hosneara aziz..
+128,2012-07-25,CENTRALINS,- Mrs. Hosneara Aziz...,1,1,0,mrs. hosneara aziz
+129,2012-07-19,CENTRALINS,- Mrs. Shahida Naznin...,0,0,0,mrs. shahida naznin
+130,2012-07-12,CENTRALINS,- Mr. Abu Mohammed...,1,0,0,mr. abu mohammed
+131,2012-06-28,CENTRALINS,- Ms. Angee Chowdhury...,0,0,0,ms. angee chowdhury
+132,2012-06-27,CENTRALINS,- Mr. Abu Mohammed and Mr. Mohammed Musa...,1,0,0,mr. abu mohammed and mr. mohammed musa
+133,2012-06-24,CENTRALINS,- Mrs. Shahida Naznin....,0,1,1,mrs. shahida naznin.
+134,2012-05-24,CENTRALINS,- Mr. Ifthehar Maleque...,0,0,0,mr. ifthehar maleque
+135,2012-05-23,CENTRALINS,- Mr. Abu Mohammed..,0,0,0,mr. abu mohammed..
+136,2012-05-21,CENTRALINS,- Mrs. Rosy Rahman...,0,0,0,mrs. rosy rahman
+137,2012-05-21,CENTRALINS,- Mr. Ifthehar Maleque...,0,0,0,mr. ifthehar maleque
+138,2012-05-09,CENTRALINS,- Mr. S. M. Shafiul Bari...,0,1,0,mr. s. m. shafiul bari
+139,2012-04-19,CENTRALINS,- Mr. Zoynal Abedin Chowdhury...,0,0,0,mr. zoynal abedin chowdhury
+140,2012-04-10,CENTRALINS,- Normal trading of the shares ....,0,0,1,normal trading of the shares .
+141,2012-04-09,CENTRALINS,- Trading of the shares...,0,0,0,trading of the shares
+142,2012-04-09,CENTRALINS,- Trading of the shares...,0,0,0,trading of the shares
+143,2012-04-04,CENTRALINS,- Trading of the shares...,0,0,0,trading of the shares
+144,2012-03-29,CENTRALINS,- Mr. Ifthehar Maleque...,0,0,0,mr. ifthehar maleque
+145,2012-03-29,CENTRALINS,- Alhaj Mohammad Shajahan...,0,0,0,alhaj mohammad shajahan
+146,2012-03-29,CENTRALINS,- Mr. Nabab Siraj-ud Dowla...,0,0,0,mr. nabab siraj-ud dowla
+147,2012-03-15,CENTRALINS,- Normal trading of the shares...,0,0,0,normal trading of the shares
+148,2012-03-14,CENTRALINS,- SEC has approved...,0,0,0,sec has approved
+149,2012-03-14,CENTRALINS,- Trading of the shares...,0,0,0,trading of the shares
+150,2012-03-14,CENTRALINS,- The Company has informed...,0,0,0,the company has informed
+151,2012-03-04,CENTRALINS,- Alhaj Mohammad Abu Taher Chowdhury...,1,0,1,alhaj mohammad abu taher chowdhury
+152,2012-03-04,CENTRALINS,- Mr. Md. Nurul Islam...,1,0,1,mr. md. nurul islam
+153,2011-11-01,CENTRALINS,- The company has informed...,1,0,1,the company has informed
+154,2011-10-31,CENTRALINS,-As per un-audited...,0,1,0,-as per un-audited
+155,2011-10-18,CENTRALINS,- Alhaj Mohammed Abdul Maleque...,1,0,0,alhaj mohammed abdul maleque
+156,2011-10-12,CENTRALINS,- Normal trading of the shares...,0,0,0,normal trading of the shares
+157,2011-10-11,CENTRALINS,- Trading of the shares...,0,0,0,trading of the shares
+158,2011-10-05,CENTRALINS,- Trading of the shares...,1,0,0,trading of the shares
+159,2011-09-29,CENTRALINS,- The Company has informed...,0,0,0,the company has informed
+160,2011-09-21,CENTRALINS,- Alhaj Mohammed Abdul Maleque...,1,1,0,alhaj mohammed abdul maleque
+161,2011-08-01,CENTRALINS,- (H/Y): As per un-audited...,0,0,1,hy: as per un-audited
+162,2011-06-27,CENTRALINS,,1,1,0,

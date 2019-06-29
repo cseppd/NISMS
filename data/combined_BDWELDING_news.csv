@@ -1,0 +1,100 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-01-17,BDWELDING,Query Response,1,0,0,query response
+1,2018-07-22,BDWELDING,Query Response,0,1,1,query response
+2,2018-06-10,BDWELDING,Q3 Financials,0,0,1,q3 financials
+3,2018-05-31,BDWELDING,Reschedule of Board Meeting under LR 16(1),1,0,0,reschedule of board meeting under lr 161
+4,2018-05-27,BDWELDING,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+5,2018-01-29,BDWELDING,Q2 Financials,0,0,1,q2 financials
+6,2018-01-23,BDWELDING,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+10,2017-12-11,BDWELDING,Basis for Qualified Opinion and Emphasis of Matter,1,0,1,basis for qualified opinion and emphasis of matter
+11,2017-12-07,BDWELDING,Resumption after record date,0,0,0,resumption after record date
+12,2017-12-07,BDWELDING,Q1 Financials,0,0,0,q1 financials
+13,2017-12-06,BDWELDING,Suspension for Record Date,0,0,0,suspension for record date
+14,2017-11-28,BDWELDING,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+15,2017-11-27,BDWELDING,Query Response,1,0,0,query response
+16,2017-11-23,BDWELDING,Spot News,1,0,0,spot news
+17,2017-11-19,BDWELDING,Price Limit Open,1,0,0,price limit open
+18,2017-11-19,BDWELDING,Dividend Declaration,1,0,0,dividend declaration
+19,2017-11-09,BDWELDING,Reschedule of Board Meeting under LR 19(1),1,0,0,reschedule of board meeting under lr 191
+20,2017-11-01,BDWELDING,Adjournment of Board Meeting as per Regulation 19(1),1,1,0,adjournment of board meeting as per regulation 191
+21,2017-10-24,BDWELDING,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+22,2017-10-04,BDWELDING,Address Change of Registered Office,0,0,0,address change of registered office
+23,2017-07-30,BDWELDING,Land acquire and suspension of Production for project shifting,0,0,0,land acquire and suspension of production for project shifting
+24,2017-07-25,BDWELDING,Enquiry Committee formed by BSEC,0,1,0,enquiry committee formed by bsec
+25,2017-06-21,BDWELDING,Query Response,1,1,0,query response
+29,2017-06-06,BDWELDING,Paying off liabilities and acquiring land by selling factory land,1,1,1,paying off liabilities and acquiring land by selling factory land
+30,2017-05-07,BDWELDING,Q3 Financials,0,0,1,q3 financials
+31,2017-04-30,BDWELDING,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+32,2017-02-01,BDWELDING,Q2 Financials,1,0,0,q2 financials
+33,2017-01-26,BDWELDING,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+34,2017-01-03,BDWELDING,Qualified Opinion,0,0,1,qualified opinion
+35,2017-01-02,BDWELDING,Query Response,0,0,0,query response
+36,2016-11-22,BDWELDING,Q1 Financials,1,1,0,q1 financials
+37,2016-11-15,BDWELDING,Resumption after record date,0,1,1,resumption after record date
+38,2016-11-14,BDWELDING,Suspension for Record,0,0,1,suspension for record
+39,2016-11-01,BDWELDING,Spot for EGM & AGM,1,0,1,spot for egm  agm
+40,2016-10-26,BDWELDING,"Revised Record date, EGM & AGM date",0,1,0,"revised record date, egm  agm date"
+41,2016-10-26,BDWELDING,Price Limit Open,0,1,0,price limit open
+42,2016-10-26,BDWELDING,Dividend Declaration & Selling of Factory Lands,0,1,0,dividend declaration  selling of factory lands
+43,2016-10-20,BDWELDING,Board Meeting,0,0,0,board meeting
+44,2016-08-18,BDWELDING,Query Response,0,0,0,query response
+45,2016-06-08,BDWELDING,Change of Financial year,1,0,0,change of financial year
+46,2016-05-25,BDWELDING,Resumption after Record,0,0,0,resumption after record
+47,2016-05-24,BDWELDING,Suspension news,1,0,0,suspension news
+48,2016-05-10,BDWELDING,Spot News for AGM,1,1,0,spot news for agm
+49,2016-05-10,BDWELDING,Q1,1,1,0,q1
+50,2016-05-03,BDWELDING,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+51,2016-05-03,BDWELDING,Category Change,0,0,0,category change
+52,2016-05-03,BDWELDING,Price Limit Open,0,0,0,price limit open
+53,2016-05-03,BDWELDING,Dividend Declaration,0,0,0,dividend declaration
+54,2016-04-27,BDWELDING,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+55,2016-01-07,BDWELDING,Query Response,1,0,0,query response
+56,2016-01-05,BDWELDING,Q3 Financials (Repeat),1,1,1,q3 financials repeat
+57,2015-10-29,BDWELDING,Q3 Financials,0,0,0,q3 financials
+58,2015-08-09,BDWELDING,Query Response,1,0,0,query response
+59,2015-08-09,BDWELDING,Q2 Financials (Repeat),1,0,0,q2 financials repeat
+60,2015-07-30,BDWELDING,Q2 Financials,1,0,0,q2 financials
+61,2015-07-28,BDWELDING,Confirmation of sale by a Sponsor/Director,1,0,1,confirmation of sale by a sponsordirector
+62,2015-07-14,BDWELDING,Declaration of sale,0,0,0,declaration of sale
+63,2015-07-12,BDWELDING,Category Change,0,1,0,category change
+64,2015-06-09,BDWELDING,Resumption News after Record Date,0,0,0,resumption news after record date
+65,2015-05-27,BDWELDING,Qualified Opinion,1,0,0,qualified opinion
+66,2015-05-25,BDWELDING,Spot News for AGM,0,1,1,spot news for agm
+67,2015-05-18,BDWELDING,Q1 Financials,0,0,1,q1 financials
+68,2015-05-18,BDWELDING,Price Limit Open,0,0,1,price limit open
+69,2015-05-18,BDWELDING,Dividend Declaration,0,0,1,dividend declaration
+70,2015-05-12,BDWELDING,Board Meeting schedule under LR 30,0,1,0,board meeting schedule under lr 30
+71,2015-02-11,BDWELDING,Appointment of a valuation firm,1,1,0,appointment of a valuation firm
+72,2015-01-25,BDWELDING,Address Change,0,0,1,address change
+73,2014-12-07,BDWELDING,DSE query,1,1,0,dse query
+74,2014-10-30,BDWELDING,Q3 Earnings,0,0,0,q3 earnings
+75,2014-10-15,BDWELDING,DSE query,1,1,0,dse query
+76,2014-08-03,BDWELDING,H/Y Earnings,0,1,0,hy earnings
+77,2014-05-19,BDWELDING,trade resume,0,1,1,trade resume
+78,2014-05-18,BDWELDING,trade suspension,0,0,1,trade suspension
+79,2014-05-18,BDWELDING,Q1 Earnings,0,0,1,q1 earnings
+80,2014-05-04,BDWELDING,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+81,2014-04-28,BDWELDING,Catagory Changed,1,0,0,catagory changed
+82,2014-04-28,BDWELDING,no price limit,1,0,0,no price limit
+83,2014-04-28,BDWELDING,no divided,1,0,0,no divided
+84,2014-04-21,BDWELDING,Board Meeting,0,0,0,board meeting
+85,2014-03-10,BDWELDING,Credit Rating,0,0,0,credit rating
+86,2013-10-31,BDWELDING,Q3 Earnings,0,0,0,q3 earnings
+87,2013-07-31,BDWELDING,Q2 Earnings,0,0,0,q2 earnings
+88,2013-06-04,BDWELDING,AGM,1,0,0,agm
+89,2013-05-15,BDWELDING,Auditor Opinion,0,1,0,auditor opinion
+90,2013-05-15,BDWELDING,Trade resume after Record Date,0,1,0,trade resume after record date
+91,2013-05-15,BDWELDING,Q1 Earnings,0,1,0,q1 earnings
+92,2013-05-09,BDWELDING,Spot Market Trading,0,0,0,spot market trading
+93,2013-04-30,BDWELDING,5% Stock Dividend,0,0,1,5 stock dividend
+94,2013-04-30,BDWELDING,Corporate Declaration,0,0,1,corporate declaration
+95,2013-04-25,BDWELDING,Board meeting,0,0,0,board meeting
+96,2012-11-01,BDWELDING,Q3 Earnings 2012,1,0,0,q3 earnings 2012
+97,2012-06-12,BDWELDING,- The Company has informed...,1,0,0,the company has informed
+98,2012-05-16,BDWELDING,- (Q1): As per un-audited quarterly accounts....,1,0,0,q1: as per un-audited quarterly accounts.
+99,2012-05-15,BDWELDING,- (Q1): As per un-audited quarterly accounts...,0,1,0,q1: as per un-audited quarterly accounts
+100,2012-05-10,BDWELDING,- Normal trading of the shares ...,0,0,0,normal trading of the shares
+101,2012-05-09,BDWELDING,- Trading of the shares ...,0,0,0,trading of the shares
+102,2012-04-24,BDWELDING,- As per regulation...,0,0,0,as per regulation
+103,2011-08-01,BDWELDING,- (H/Y): As per un-audited...,0,0,1,hy: as per un-audited
+104,2011-07-11,BDWELDING,- In response to a DSE query...,1,0,1,in response to a dse query

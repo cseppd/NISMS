@@ -1,0 +1,93 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-28,AMBEEPHA,Q3 Financials,0,0,0,q3 financials
+1,2019-04-21,AMBEEPHA,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-01-29,AMBEEPHA,Q2 Financials,0,0,1,q2 financials
+3,2019-01-28,AMBEEPHA,Cash Dividend Disbursement,1,0,0,cash dividend disbursement
+4,2019-01-23,AMBEEPHA,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+8,2018-12-05,AMBEEPHA,Emphasis of Matter,1,1,0,emphasis of matter
+9,2018-12-04,AMBEEPHA,Resumption after record date,0,1,1,resumption after record date
+10,2018-12-03,AMBEEPHA,Suspension for Record date,1,0,1,suspension for record date
+11,2018-11-29,AMBEEPHA,Spot News,0,0,0,spot news
+12,2018-11-26,AMBEEPHA,Query Response,1,1,0,query response
+13,2018-11-15,AMBEEPHA,Q1 Financials,0,0,0,q1 financials
+14,2018-11-13,AMBEEPHA,Price Limit Open,1,0,0,price limit open
+15,2018-11-13,AMBEEPHA,Dividend Declaration,1,0,0,dividend declaration
+16,2018-11-11,AMBEEPHA,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+17,2018-11-05,AMBEEPHA,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+18,2018-09-20,AMBEEPHA,Credit Rating Result,0,0,0,credit rating result
+19,2018-07-19,AMBEEPHA,Query Response,1,0,0,query response
+20,2018-07-02,AMBEEPHA,Query Response (Repeat News),0,0,0,query response repeat news
+21,2018-06-28,AMBEEPHA,Query Response,1,0,0,query response
+22,2018-06-04,AMBEEPHA,Query Response,0,1,0,query response
+23,2018-04-25,AMBEEPHA,Q3 Financials,0,0,0,q3 financials
+24,2018-04-22,AMBEEPHA,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+25,2018-04-17,AMBEEPHA,Query Response,0,0,0,query response
+26,2018-02-26,AMBEEPHA,Query Response,0,1,1,query response
+27,2018-01-29,AMBEEPHA,Q2 Financials,0,0,0,q2 financials
+28,2018-01-23,AMBEEPHA,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+29,2018-01-22,AMBEEPHA,Dividend Disbursement,0,0,1,dividend disbursement
+30,2017-11-27,AMBEEPHA,Resumption after record date,0,1,1,resumption after record date
+31,2017-11-26,AMBEEPHA,Suspension for Record Date,1,0,1,suspension for record date
+32,2017-11-22,AMBEEPHA,Spot News,0,1,0,spot news
+33,2017-11-13,AMBEEPHA,Q1 Financials,0,1,0,q1 financials
+34,2017-11-08,AMBEEPHA,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+35,2017-11-06,AMBEEPHA,Price Limit Open,0,0,1,price limit open
+36,2017-11-06,AMBEEPHA,Dividend Declaration,0,0,1,dividend declaration
+37,2017-10-30,AMBEEPHA,Board Meeting schedule under LR 19(1),0,0,1,board meeting schedule under lr 191
+38,2017-06-07,AMBEEPHA,Credit Rating Result,0,0,0,credit rating result
+39,2017-04-26,AMBEEPHA,Q3 Financials,0,0,0,q3 financials
+40,2017-04-20,AMBEEPHA,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+41,2017-01-31,AMBEEPHA,Q2 Financials,1,1,0,q2 financials
+42,2017-01-26,AMBEEPHA,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+43,2016-12-14,AMBEEPHA,Resumption after record date,0,1,0,resumption after record date
+44,2016-12-12,AMBEEPHA,Suspension for Record Date,0,0,0,suspension for record date
+45,2016-12-08,AMBEEPHA,Spot market trading suspended,0,0,0,spot market trading suspended
+46,2016-12-07,AMBEEPHA,Q1,0,0,0,q1
+47,2016-12-01,AMBEEPHA,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+48,2016-11-23,AMBEEPHA,Price Limit Open,0,0,0,price limit open
+49,2016-11-23,AMBEEPHA,Dividend Declaration,0,0,0,dividend declaration
+50,2016-11-17,AMBEEPHA,Board Meeting,1,0,0,board meeting
+51,2016-08-29,AMBEEPHA,Response by the Company of DSE Letter,0,0,1,response by the company of dse letter
+52,2016-08-08,AMBEEPHA,Query Response,1,1,1,query response
+53,2016-06-27,AMBEEPHA,Land Purchase,0,1,1,land purchase
+54,2016-05-09,AMBEEPHA,Change of Financial year,0,0,0,change of financial year
+55,2016-04-04,AMBEEPHA,Decision for Buying (additional information),1,0,0,decision for buying additional information
+56,2016-04-03,AMBEEPHA,Decision for Buying,0,1,0,decision for buying
+57,2016-02-24,AMBEEPHA,Credit Rating Result,1,0,0,credit rating result
+58,2015-11-01,AMBEEPHA,Q3,1,0,0,q3
+59,2015-10-26,AMBEEPHA,Reschedule of Board Meeting,1,1,0,reschedule of board meeting
+60,2015-10-21,AMBEEPHA,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+61,2015-07-29,AMBEEPHA,Q2 Financials,0,0,0,q2 financials
+62,2015-05-25,AMBEEPHA,Resumption News after Record Date,0,0,1,resumption news after record date
+63,2015-05-20,AMBEEPHA,Spot News for AGM,0,1,0,spot news for agm
+64,2015-05-13,AMBEEPHA,Q1 Financials,0,1,0,q1 financials
+65,2015-05-11,AMBEEPHA,Price Limit Open,0,0,0,price limit open
+66,2015-05-11,AMBEEPHA,Dividend Declaration,0,0,0,dividend declaration
+67,2015-05-10,AMBEEPHA,Board Meeting schedule under LR 30,1,0,0,board meeting schedule under lr 30
+68,2015-03-25,AMBEEPHA,Query Response,1,0,0,query response
+69,2015-02-25,AMBEEPHA,Query Response,0,1,0,query response
+70,2014-11-16,AMBEEPHA,Credit Rating,1,0,1,credit rating
+71,2014-11-02,AMBEEPHA,Q3 earnings,0,0,0,q3 earnings
+72,2014-07-24,AMBEEPHA,H/Y Earnings,0,0,0,hy earnings
+73,2014-05-28,AMBEEPHA,trade resume,0,1,0,trade resume
+74,2014-05-27,AMBEEPHA,trade suspension,0,0,1,trade suspension
+75,2014-05-25,AMBEEPHA,Spot Market Transaction,1,0,0,spot market transaction
+76,2014-05-18,AMBEEPHA,Q1 Earnings,1,1,0,q1 earnings
+77,2014-05-18,AMBEEPHA,recommended 15% cash and 20% stock dividend,1,1,0,recommended 15 cash and 20 stock dividend
+78,2014-05-14,AMBEEPHA,"Board of Directors will be held on May 15, 2014",0,0,0,"board of directors will be held on may 15, 2014"
+79,2014-04-21,AMBEEPHA,Head Office been shifted,0,0,1,head office been shifted
+80,2013-11-03,AMBEEPHA,Q3,1,0,0,q3
+81,2013-07-31,AMBEEPHA,Q2 Earnings,1,1,0,q2 earnings
+82,2013-06-04,AMBEEPHA,CSE Query,1,0,0,cse query
+83,2013-05-13,AMBEEPHA,trade suspension,1,0,0,trade suspension
+84,2013-05-08,AMBEEPHA,Spot Market Trading,0,1,0,spot market trading
+85,2013-05-05,AMBEEPHA,Q1 Earnings,0,0,1,q1 earnings
+86,2013-04-25,AMBEEPHA,Price limit,0,0,0,price limit
+87,2013-04-25,AMBEEPHA,Corporate Declaration,0,0,0,corporate declaration
+88,2013-04-24,AMBEEPHA,Board meeting,0,0,0,board meeting
+89,2012-11-04,AMBEEPHA,Q3 Earnings 2012,1,0,0,q3 earnings 2012
+90,2012-05-14,AMBEEPHA,- Normal trading of the shares...,0,1,1,normal trading of the shares
+91,2012-05-08,AMBEEPHA,- Trading of the shares...,1,1,1,trading of the shares
+92,2011-10-31,AMBEEPHA,- As per un-audited...,0,1,0,as per un-audited
+93,2011-10-05,AMBEEPHA,- In response to a DSE query...,1,0,0,in response to a dse query
+94,2011-07-24,AMBEEPHA,- In response to a DSE query...,1,0,1,in response to a dse query

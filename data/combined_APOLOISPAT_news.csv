@@ -1,0 +1,108 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-25,APOLOISPAT,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+1,2019-02-03,APOLOISPAT,Dividend Disbursement,0,0,0,dividend disbursement
+2,2019-01-31,APOLOISPAT,Q2 Financials,0,0,0,q2 financials
+3,2019-01-27,APOLOISPAT,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+4,2019-01-24,APOLOISPAT,Credit Rating Result,0,0,0,credit rating result
+5,2019-01-08,APOLOISPAT,Query Response,0,0,1,query response
+6,2018-12-27,APOLOISPAT,Prohibition on providing loan facilities to purchase securities,1,0,0,prohibition on providing loan facilities to purchase securities
+7,2018-12-27,APOLOISPAT,Category Change,1,0,0,category change
+8,2018-11-25,APOLOISPAT,Resumption after record date,0,0,1,resumption after record date
+9,2018-11-22,APOLOISPAT,Suspension for Record date,0,0,0,suspension for record date
+10,2018-11-19,APOLOISPAT,Spot News,0,0,0,spot news
+11,2018-11-15,APOLOISPAT,Q1 Financials,0,0,0,q1 financials
+12,2018-11-12,APOLOISPAT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+13,2018-11-04,APOLOISPAT,Price Limit Open,0,0,0,price limit open
+14,2018-11-04,APOLOISPAT,Dividend Declaration,0,0,0,dividend declaration
+15,2018-10-25,APOLOISPAT,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+16,2018-05-03,APOLOISPAT,Q3 Financials,0,0,0,q3 financials
+17,2018-04-24,APOLOISPAT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+19,2018-03-27,APOLOISPAT,Commercial operation starting of RTF technology based NOF-CGL Plant,0,1,1,commercial operation starting of rtf technology based nof-cgl plant
+20,2018-01-31,APOLOISPAT,Q2 Financials,0,0,0,q2 financials
+21,2018-01-24,APOLOISPAT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+22,2018-01-22,APOLOISPAT,Dividend Disbursement,1,0,0,dividend disbursement
+23,2017-12-07,APOLOISPAT,Venue of the AGM,0,0,0,venue of the agm
+24,2017-11-23,APOLOISPAT,Resumption after record date,0,0,0,resumption after record date
+25,2017-11-22,APOLOISPAT,Suspension for Record Date,1,0,0,suspension for record date
+26,2017-11-20,APOLOISPAT,Spot News,0,1,1,spot news
+27,2017-11-12,APOLOISPAT,Q1 Financials,0,0,1,q1 financials
+28,2017-11-06,APOLOISPAT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+29,2017-10-31,APOLOISPAT,Price Limit Open,1,1,1,price limit open
+30,2017-10-31,APOLOISPAT,Dividend Declaration,1,1,1,dividend declaration
+31,2017-10-23,APOLOISPAT,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+32,2017-06-21,APOLOISPAT,Credit Rating Result,0,0,0,credit rating result
+34,2017-04-30,APOLOISPAT,Q3 Financials,0,0,0,q3 financials
+35,2017-04-25,APOLOISPAT,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+36,2017-03-01,APOLOISPAT,Buy confirmation,0,0,0,buy confirmation
+37,2017-03-01,APOLOISPAT,Buy Confirmation,0,0,0,buy confirmation
+38,2017-02-20,APOLOISPAT,Buy Declaration of a Sponsor,0,0,1,buy declaration of a sponsor
+39,2017-02-20,APOLOISPAT,Buy Declaration of a Sponsor,0,0,1,buy declaration of a sponsor
+40,2017-01-31,APOLOISPAT,Q2 Financials,0,1,0,q2 financials
+41,2017-01-25,APOLOISPAT,Dividend Disbursement,0,0,0,dividend disbursement
+42,2017-01-25,APOLOISPAT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+43,2017-01-11,APOLOISPAT,Query Response,0,1,0,query response
+44,2016-12-22,APOLOISPAT,Land Purchase,1,0,0,land purchase
+45,2016-12-05,APOLOISPAT, Venue of the AGM,1,0,0,venue of the agm
+46,2016-11-20,APOLOISPAT,Resumption after record date,1,0,0,resumption after record date
+47,2016-11-17,APOLOISPAT,Suspension for record date,0,0,0,suspension for record date
+48,2016-11-15,APOLOISPAT,Spot for AGM,1,0,0,spot for agm
+49,2016-11-15,APOLOISPAT,Q1 Financials,1,0,0,q1 financials
+50,2016-11-10,APOLOISPAT,Board Meeting,0,0,0,board meeting
+51,2016-10-31,APOLOISPAT,Price Limit Open,1,0,1,price limit open
+52,2016-10-31,APOLOISPAT,Dividend Declaration,1,0,1,dividend declaration
+53,2016-10-23,APOLOISPAT,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+54,2016-06-16,APOLOISPAT,Q3 Financials,0,0,0,q3 financials
+55,2016-05-12,APOLOISPAT,Credit Rating Result,0,0,0,credit rating result
+56,2016-05-04,APOLOISPAT,Confirmation of sale/buy,0,0,0,confirmation of salebuy
+57,2016-04-28,APOLOISPAT,Q3 Financials,0,0,0,q3 financials
+58,2016-04-25,APOLOISPAT,Board Meeting,0,0,0,board meeting
+59,2016-03-21,APOLOISPAT,Declaration of sale/buy of a Director/Sponsor,1,0,0,declaration of salebuy of a directorsponsor
+60,2016-03-21,APOLOISPAT,Declaration of sale/buy of a Director/Sponsor,1,0,0,declaration of salebuy of a directorsponsor
+61,2016-02-01,APOLOISPAT,Q2 Financials,0,0,0,q2 financials
+62,2016-01-27,APOLOISPAT,Board Meeting,0,1,0,board meeting
+63,2016-01-24,APOLOISPAT,Imposing Fine on Directors of the Company,1,0,0,imposing fine on directors of the company
+64,2015-12-29,APOLOISPAT,Dividend Disbursement,0,0,1,dividend disbursement
+65,2015-11-05,APOLOISPAT,Q1 additional information,0,0,0,q1 additional information
+66,2015-11-05,APOLOISPAT,Q1,0,0,0,q1
+67,2015-10-29,APOLOISPAT,Board Meeting,0,0,0,board meeting
+68,2015-10-14,APOLOISPAT,Resumption News after Record,0,0,0,resumption news after record
+69,2015-10-13,APOLOISPAT,Suspension News for Record Date,0,0,0,suspension news for record date
+70,2015-10-11,APOLOISPAT,Spot News for AGM,0,1,0,spot news for agm
+71,2015-10-05,APOLOISPAT,Venue of the AGM,1,0,0,venue of the agm
+72,2015-09-20,APOLOISPAT,Price Limit Open,0,0,0,price limit open
+73,2015-09-20,APOLOISPAT,Dividend Declaration,0,0,0,dividend declaration
+74,2015-09-10,APOLOISPAT,Board Meeting,1,0,0,board meeting
+75,2015-07-13,APOLOISPAT,Land Purchase,0,0,0,land purchase
+76,2015-05-28,APOLOISPAT,Query Response,1,0,0,query response
+77,2015-05-25,APOLOISPAT,Q3 Financials,1,0,0,q3 financials
+78,2015-05-04,APOLOISPAT,Q3 Financials,0,1,1,q3 financials
+79,2015-04-26,APOLOISPAT,Credit Rating,0,0,0,credit rating
+80,2015-04-21,APOLOISPAT,Confirmation of Transfer by Sponsor/Director,0,0,0,confirmation of transfer by sponsordirector
+81,2015-04-06,APOLOISPAT,Declaration of sale by Director,0,0,1,declaration of sale by director
+82,2015-03-31,APOLOISPAT,Confirmation of sale by Director,0,0,0,confirmation of sale by director
+83,2015-03-16,APOLOISPAT,Declaration of sale by Director,0,0,0,declaration of sale by director
+84,2015-03-08,APOLOISPAT,Confirmation of Sale by Nominated Director,1,1,1,confirmation of sale by nominated director
+85,2015-03-05,APOLOISPAT,Confirmation of Sale by Director,0,0,0,confirmation of sale by director
+86,2015-03-01,APOLOISPAT,Directors sale,0,0,0,directors sale
+87,2015-02-22,APOLOISPAT,Declaration of sale by Nominated Director,1,0,0,declaration of sale by nominated director
+88,2015-02-16,APOLOISPAT,Declaration of sale by Director,0,0,0,declaration of sale by director
+89,2015-02-12,APOLOISPAT,Declaration of sale by nominated Director,1,0,0,declaration of sale by nominated director
+90,2015-02-08,APOLOISPAT,Declaration of sale by nominated Director,1,0,1,declaration of sale by nominated director
+91,2015-02-01,APOLOISPAT,Half Yearly Financials,0,0,1,half yearly financials
+92,2015-01-14,APOLOISPAT,credited the bonus shares,0,0,0,credited the bonus shares
+93,2015-01-14,APOLOISPAT,category change,0,0,0,category change
+94,2015-01-08,APOLOISPAT,Directors Share sell,1,0,0,directors share sell
+95,2014-12-28,APOLOISPAT,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+96,2014-12-17,APOLOISPAT,intention to share sell,0,0,0,intention to share sell
+97,2014-12-02,APOLOISPAT,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+98,2014-11-16,APOLOISPAT,Q1 Earning,0,0,0,q1 earning
+99,2014-10-21,APOLOISPAT,trade resume,0,0,0,trade resume
+100,2014-10-20,APOLOISPAT,trade suspended on record date,0,0,0,trade suspended on record date
+101,2014-10-16,APOLOISPAT,Spot Market,0,0,0,spot market
+102,2014-09-28,APOLOISPAT,recommended 15% stock dividend,0,0,0,recommended 15 stock dividend
+103,2014-09-23,APOLOISPAT,Board Meeting,0,0,0,board meeting
+104,2014-06-19,APOLOISPAT,Credit Rating,0,0,0,credit rating
+105,2014-04-30,APOLOISPAT,Q3 Earning,1,0,0,q3 earning
+106,2014-02-02,APOLOISPAT,H/Y Earnings,0,1,0,hy earnings
+107,2013-12-24,APOLOISPAT,debut trade,1,0,0,debut trade
+108,2013-12-24,APOLOISPAT,Q1 earnings,1,0,0,q1 earnings

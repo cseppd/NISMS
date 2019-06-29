@@ -1,0 +1,102 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-29,EASTERNINS,Q1 Financials,1,1,0,q1 financials
+1,2019-04-29,EASTERNINS,Price Limit Open,1,1,0,price limit open
+2,2019-04-29,EASTERNINS,Dividend Declaration,1,1,0,dividend declaration
+3,2019-04-21,EASTERNINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2019-04-21,EASTERNINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+5,2019-01-17,EASTERNINS,Query Response,1,0,0,query response
+6,2018-10-28,EASTERNINS,Q3 Financials,0,1,1,q3 financials
+7,2018-10-22,EASTERNINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+8,2018-08-28,EASTERNINS,Cash Dividend Disbursement,0,0,0,cash dividend disbursement
+9,2018-07-22,EASTERNINS,Q2 Financials,0,0,1,q2 financials
+10,2018-07-17,EASTERNINS,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+11,2018-05-29,EASTERNINS,Resumption after record date,0,1,0,resumption after record date
+12,2018-05-28,EASTERNINS,Suspension for Record Date,0,0,1,suspension for record date
+13,2018-05-24,EASTERNINS,Spot News,0,0,0,spot news
+14,2018-04-26,EASTERNINS,Q1 Financials,0,0,0,q1 financials
+15,2018-04-26,EASTERNINS,Price Limit Open,0,0,0,price limit open
+16,2018-04-26,EASTERNINS,Dividend Declaration,0,0,0,dividend declaration
+17,2018-04-23,EASTERNINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+18,2018-04-17,EASTERNINS,Board Meeting schedule under LR 19(1),0,0,1,board meeting schedule under lr 191
+19,2017-12-21,EASTERNINS,Credit Rating Result,0,0,0,credit rating result
+20,2017-10-29,EASTERNINS,Q3 Financials,1,0,1,q3 financials
+21,2017-10-22,EASTERNINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+22,2017-08-30,EASTERNINS,Dividend Disbursement,1,1,0,dividend disbursement
+23,2017-07-31,EASTERNINS,Q2 Financials,1,1,0,q2 financials
+24,2017-07-20,EASTERNINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+26,2017-07-19,EASTERNINS,Basis for Qualified Opinion,0,1,0,basis for qualified opinion
+27,2017-07-04,EASTERNINS,Confirmation of transfer by a Sponsor Director,1,1,1,confirmation of transfer by a sponsor director
+28,2017-06-18,EASTERNINS,Declaration of transfer by a Sponsor Director,0,1,1,declaration of transfer by a sponsor director
+29,2017-06-07,EASTERNINS,Resumption after Record Date,0,1,0,resumption after record date
+30,2017-06-06,EASTERNINS,Suspension for Record Date,1,0,1,suspension for record date
+31,2017-06-04,EASTERNINS,Spot News,1,1,1,spot news
+32,2017-05-15,EASTERNINS,Q1 Financials,1,0,1,q1 financials
+33,2017-05-07,EASTERNINS,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+34,2017-04-30,EASTERNINS,Price Limit Open,1,0,0,price limit open
+35,2017-04-30,EASTERNINS,Dividend Declaration,1,0,0,dividend declaration
+36,2017-04-19,EASTERNINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+37,2017-01-10,EASTERNINS,Credit Rating Result,1,1,0,credit rating result
+38,2016-10-30,EASTERNINS,Q3 Financials,0,0,0,q3 financials
+39,2016-10-24,EASTERNINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+40,2016-08-23,EASTERNINS,Qualified Opinion,0,1,0,qualified opinion
+41,2016-07-31,EASTERNINS,Q2 Financials,0,0,1,q2 financials
+42,2016-07-24,EASTERNINS,Board Meeting,1,0,1,board meeting
+43,2016-05-16,EASTERNINS,Spot News,1,1,1,spot news
+44,2016-05-15,EASTERNINS,Q1 Financials,1,1,1,q1 financials
+45,2016-05-05,EASTERNINS,Board Meeting,0,0,0,board meeting
+46,2016-04-28,EASTERNINS,Price Limit Open,0,0,0,price limit open
+47,2016-04-28,EASTERNINS,Dividend Declaration,0,0,0,dividend declaration
+48,2016-04-19,EASTERNINS,Board Meeting,1,0,1,board meeting
+49,2016-01-24,EASTERNINS,Credit Rating Result,1,0,0,credit rating result
+50,2015-11-01,EASTERNINS,Q3,0,1,0,q3
+51,2015-07-30,EASTERNINS,Q2 Financials,1,0,0,q2 financials
+52,2015-05-19,EASTERNINS,Resumption News after Record Date,0,0,0,resumption news after record date
+53,2015-05-18,EASTERNINS,Suspension News for Record Date,1,0,0,suspension news for record date
+54,2015-05-17,EASTERNINS,Q1 Financials,0,1,0,q1 financials
+55,2015-05-14,EASTERNINS,Spot News for AGM,1,0,0,spot news for agm
+56,2015-04-30,EASTERNINS,no price limit today,0,0,0,no price limit today
+57,2015-04-30,EASTERNINS,Dividend,0,0,0,dividend
+58,2015-04-26,EASTERNINS,Board Meeting,0,1,0,board meeting
+59,2014-11-11,EASTERNINS,Credit Rating,1,1,1,credit rating
+60,2014-11-11,EASTERNINS,Credit Rating,1,1,1,credit rating
+61,2014-10-30,EASTERNINS,Q3 Earnings,1,0,0,q3 earnings
+62,2014-08-03,EASTERNINS,H/Y Earnings,0,1,0,hy earnings
+63,2014-05-15,EASTERNINS,will resume after record date,0,0,0,will resume after record date
+64,2014-05-14,EASTERNINS,Q1 Earnings,0,0,0,q1 earnings
+65,2014-05-14,EASTERNINS,trade suspended,0,0,0,trade suspended
+66,2014-05-11,EASTERNINS,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+67,2014-04-29,EASTERNINS,no price limit,1,1,0,no price limit
+68,2014-04-29,EASTERNINS,Dividend Declaration,1,1,0,dividend declaration
+69,2014-04-22,EASTERNINS,Board Meeting,0,1,0,board meeting
+70,2013-10-29,EASTERNINS,Q3 Earnings,1,0,1,q3 earnings
+71,2013-08-01,EASTERNINS,Credit Rating,0,0,0,credit rating
+72,2013-07-30,EASTERNINS,Q2 Earnings,0,0,0,q2 earnings
+73,2013-05-15,EASTERNINS,Trade Resume after Record Date,0,1,0,trade resume after record date
+74,2013-05-14,EASTERNINS,Q1 Earnings,1,0,1,q1 earnings
+75,2013-05-09,EASTERNINS,Spot Market Trading,1,0,0,spot market trading
+76,2013-04-30,EASTERNINS,Corporate Declaration,1,0,1,corporate declaration
+77,2013-04-23,EASTERNINS,Board Meeting,0,0,0,board meeting
+78,2012-09-18,EASTERNINS,director share transfer announcement,0,1,0,director share transfer announcement
+79,2012-05-16,EASTERNINS,- Mr. Khaled Salahuddin Ahmed...,0,1,0,mr. khaled salahuddin ahmed
+80,2012-05-15,EASTERNINS,- Normal trading...,0,0,1,normal trading
+81,2012-05-14,EASTERNINS,- Trading of the shares...,0,0,0,trading of the shares
+82,2012-05-09,EASTERNINS,- Trading of the shares...,0,1,0,trading of the shares
+83,2012-04-23,EASTERNINS,- As per regulation...,0,0,0,as per regulation
+84,2011-11-03,EASTERNINS,- Normal trading...,0,0,0,normal trading
+85,2011-11-02,EASTERNINS,- Trading of the shares...,0,0,0,trading of the shares
+86,2011-10-31,EASTERNINS,- As per un-audited...,0,1,0,as per un-audited
+87,2011-10-30,EASTERNINS,- Trading of the shares...,0,0,1,trading of the shares
+88,2011-10-26,EASTERNINS,- The Company has informed...,0,0,0,the company has informed
+89,2011-09-27,EASTERNINS,- Mr. Syed Deedarul Alam...,0,0,1,mr. syed deedarul alam
+90,2011-09-21,EASTERNINS,- Uttara Motor Corporation Ltd....,0,0,0,uttara motor corporation ltd.
+91,2011-09-20,EASTERNINS,- Mr. Mohammed Ahsan...,0,0,0,mr. mohammed ahsan
+92,2011-09-07,EASTERNINS,- Mr. Mohammed Ahsan...,1,0,0,mr. mohammed ahsan
+93,2011-08-14,EASTERNINS,- The company has informed...,0,0,1,the company has informed
+94,2011-08-01,EASTERNINS,- The Company has informed...,0,0,1,the company has informed
+95,2011-07-28,EASTERNINS,- (H/Y): As per un-audited...,1,0,0,hy: as per un-audited
+96,2011-07-19,EASTERNINS,- Mr. Syed Deedarul Alam...,1,0,0,mr. syed deedarul alam
+97,2011-07-12,EASTERNINS,- Uttara Motor Corporation Ltd...,0,0,0,uttara motor corporation ltd
+98,2011-07-11,EASTERNINS,- Mr. Mohammed Ahsan...,1,0,0,mr. mohammed ahsan
+99,2011-07-05,EASTERNINS,- Mr. Mohammed Ahsan...,1,1,1,mr. mohammed ahsan
+100,2011-07-04,EASTERNINS,- SEC has issued show...,0,1,1,sec has issued show
+101,2011-06-27,EASTERNINS,,0,1,0,

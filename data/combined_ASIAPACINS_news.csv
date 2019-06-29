@@ -1,0 +1,116 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-29,ASIAPACINS,Q1 Financials,0,1,0,q1 financials
+1,2019-04-29,ASIAPACINS,Price Limit Open,0,1,0,price limit open
+2,2019-04-29,ASIAPACINS,Dividend Declaration,0,1,0,dividend declaration
+3,2019-04-24,ASIAPACINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+4,2019-04-21,ASIAPACINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+5,2018-10-29,ASIAPACINS,Q3 Financials,1,1,0,q3 financials
+6,2018-10-25,ASIAPACINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+7,2018-10-08,ASIAPACINS,Query Response,0,0,0,query response
+8,2018-07-30,ASIAPACINS,Q2 Financials,0,0,1,q2 financials
+9,2018-07-25,ASIAPACINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+10,2018-07-16,ASIAPACINS,Dividend Disbursement,0,0,0,dividend disbursement
+11,2018-05-29,ASIAPACINS,Resumption after record date,0,0,0,resumption after record date
+12,2018-05-28,ASIAPACINS,Suspension for Record Date,1,0,0,suspension for record date
+13,2018-05-24,ASIAPACINS,Credit Rating Result,0,0,0,credit rating result
+14,2018-05-24,ASIAPACINS,Spot News,0,0,0,spot news
+15,2018-04-30,ASIAPACINS,Q1 Financials,0,0,0,q1 financials
+16,2018-04-30,ASIAPACINS,Price Limit Open,0,0,0,price limit open
+17,2018-04-30,ASIAPACINS,Dividend Declaration,0,0,0,dividend declaration
+18,2018-04-24,ASIAPACINS,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+19,2018-04-19,ASIAPACINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+20,2017-10-30,ASIAPACINS,Q3 Financials,1,1,1,q3 financials
+21,2017-10-24,ASIAPACINS,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+22,2017-08-24,ASIAPACINS,Sale confirmation of a Director,0,0,0,sale confirmation of a director
+23,2017-08-02,ASIAPACINS,Sale Declaration of a Director,0,1,0,sale declaration of a director
+24,2017-07-26,ASIAPACINS,Dividend Disbursement,1,1,0,dividend disbursement
+25,2017-07-16,ASIAPACINS,Q2 Financials,1,1,0,q2 financials
+26,2017-07-10,ASIAPACINS,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+27,2017-07-10,ASIAPACINS,Sale confirmation of a Public Shareholder Director,1,1,1,sale confirmation of a public shareholder director
+28,2017-06-20,ASIAPACINS,Sale Declaration of a Public Shareholder Director,0,1,0,sale declaration of a public shareholder director
+29,2017-05-22,ASIAPACINS,Credit Rating Result,1,1,0,credit rating result
+30,2017-05-09,ASIAPACINS,Resumption after Record Date,0,0,0,resumption after record date
+31,2017-05-08,ASIAPACINS,Suspension for Record Date,1,0,0,suspension for record date
+32,2017-05-07,ASIAPACINS,Q1 Financials,0,1,0,q1 financials
+33,2017-05-04,ASIAPACINS,Spot News,0,0,0,spot news
+34,2017-04-30,ASIAPACINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+35,2017-03-29,ASIAPACINS,Price Limit Open,0,1,0,price limit open
+36,2017-03-29,ASIAPACINS,Dividend Declaration,0,1,0,dividend declaration
+37,2017-03-21,ASIAPACINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+38,2016-10-30,ASIAPACINS,Q3 Financials,1,0,0,q3 financials
+39,2016-10-26,ASIAPACINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+40,2016-10-02,ASIAPACINS,Address Change of the Head Office,0,1,1,address change of the head office
+41,2016-09-04,ASIAPACINS,Buy Confirmation of a Public Shareholder Director,0,0,1,buy confirmation of a public shareholder director
+42,2016-08-10,ASIAPACINS,Dividend Warrant Disbursement,0,0,0,dividend warrant disbursement
+43,2016-07-31,ASIAPACINS,Q2 Financials,1,1,0,q2 financials
+44,2016-07-26,ASIAPACINS,Board Meeting,1,0,1,board meeting
+45,2016-07-24,ASIAPACINS,Buy Declaration of a Public Shareholder Director,1,0,1,buy declaration of a public shareholder director
+46,2016-07-19,ASIAPACINS,Buy Confirmation of a Sponsor/Director,0,1,1,buy confirmation of a sponsordirector
+47,2016-06-22,ASIAPACINS,Buy Confirmation of a Sponsor/Director,1,0,0,buy confirmation of a sponsordirector
+48,2016-06-22,ASIAPACINS,Buy Declaration of a Sponsor/Director,1,0,0,buy declaration of a sponsordirector
+49,2016-06-13,ASIAPACINS,Buy Declaration of a Sponsor/Director,0,0,1,buy declaration of a sponsordirector
+50,2016-06-02,ASIAPACINS,Resumption after record date,0,0,0,resumption after record date
+51,2016-06-01,ASIAPACINS,Suspension news for record date,0,0,0,suspension news for record date
+52,2016-05-30,ASIAPACINS,Spot News for AGM,1,1,0,spot news for agm
+53,2016-05-09,ASIAPACINS,Q1 Financials,0,1,1,q1 financials
+54,2016-05-04,ASIAPACINS,Credit Rating,1,1,0,credit rating
+55,2016-04-28,ASIAPACINS,Price Limit Open,1,0,0,price limit open
+56,2016-04-28,ASIAPACINS,Dividend Declaration,1,0,0,dividend declaration
+57,2016-04-20,ASIAPACINS,Board Meeting,0,0,0,board meeting
+58,2015-11-01,ASIAPACINS,Audit Opinion,1,1,1,audit opinion
+59,2015-10-29,ASIAPACINS,Q3 Financials,1,0,0,q3 financials
+60,2015-09-17,ASIAPACINS,Dividend Disbursement,1,0,0,dividend disbursement
+61,2015-07-29,ASIAPACINS,Q2 Financials,1,1,0,q2 financials
+62,2015-06-30,ASIAPACINS,Resumption News after Record Date,0,0,0,resumption news after record date
+63,2015-06-29,ASIAPACINS,Suspension News for Record Date,1,0,0,suspension news for record date
+64,2015-06-25,ASIAPACINS,Spot News for AGM,1,0,0,spot news for agm
+65,2015-05-13,ASIAPACINS,Q1 Financials,0,1,0,q1 financials
+66,2015-04-29,ASIAPACINS,Price Limit Open,0,1,0,price limit open
+67,2015-04-29,ASIAPACINS,Dividend Declaration,0,1,0,dividend declaration
+68,2015-04-20,ASIAPACINS,Board Meeting,0,1,1,board meeting
+69,2015-02-19,ASIAPACINS,Credit Rating result,1,0,0,credit rating result
+70,2014-10-30,ASIAPACINS,Q3 Earnings,1,0,0,q3 earnings
+71,2014-07-24,ASIAPACINS,H/Y Earnings,1,0,0,hy earnings
+72,2014-05-20,ASIAPACINS,Audit Opinion,1,0,0,audit opinion
+73,2014-05-18,ASIAPACINS,Q1 Earnings,0,0,1,q1 earnings
+74,2014-05-08,ASIAPACINS,trade resume,0,0,0,trade resume
+75,2014-05-07,ASIAPACINS,trade suspended,1,0,0,trade suspended
+76,2014-05-07,ASIAPACINS,Spot Market,1,0,0,spot market
+77,2014-05-07,ASIAPACINS,Record date not Change,1,0,0,record date not change
+78,2014-04-27,ASIAPACINS,AGM,1,0,0,agm
+79,2014-04-27,ASIAPACINS,no price limit,1,0,0,no price limit
+80,2014-04-27,ASIAPACINS,12% Cash Dividend,1,0,0,12 cash dividend
+81,2013-10-30,ASIAPACINS,Q3 Earnings,0,0,0,q3 earnings
+82,2013-09-25,ASIAPACINS,Credit Rating,1,1,0,credit rating
+83,2013-08-12,ASIAPACINS,AGM,1,0,0,agm
+84,2013-07-30,ASIAPACINS,Q2 Earnings,0,0,0,q2 earnings
+85,2013-07-30,ASIAPACINS,Q2 Earnings,0,0,0,q2 earnings
+86,2013-07-02,ASIAPACINS,trade resume after record date,0,0,1,trade resume after record date
+87,2013-06-30,ASIAPACINS,trade suspension on record date,0,0,0,trade suspension on record date
+88,2013-06-24,ASIAPACINS,trade suspension on record date,1,0,0,trade suspension on record date
+89,2013-05-14,ASIAPACINS,Q1 Earnings,1,1,1,q1 earnings
+90,2013-04-29,ASIAPACINS,Qualified Audit Opinion,0,1,0,qualified audit opinion
+91,2013-04-25,ASIAPACINS,No price limit,0,0,0,no price limit
+92,2013-04-25,ASIAPACINS,Corporate Declaration,0,0,0,corporate declaration
+93,2013-04-21,ASIAPACINS,Board Meeting,0,0,0,board meeting
+94,2012-10-31,ASIAPACINS,Q3 Earnings 2012,1,0,0,q3 earnings 2012
+95,2012-07-26,ASIAPACINS,- The Credit Rating Agency...,1,0,0,the credit rating agency
+96,2012-07-12,ASIAPACINS,- Mr. Aftab Ul Islam....,1,0,0,mr. aftab ul islam.
+97,2012-05-30,ASIAPACINS,- Mrs. Lipika Biswas...,0,0,0,mrs. lipika biswas
+98,2012-05-30,ASIAPACINS,- Mr. Mohd. Habib Ulla...,0,0,0,mr. mohd. habib ulla
+99,2012-05-10,ASIAPACINS,,0,0,0,
+100,2012-05-09,ASIAPACINS,- (Q1): As per un-audited quarterly accounts...,0,0,0,q1: as per un-audited quarterly accounts
+101,2012-05-09,ASIAPACINS,- Trading of the shares...,0,0,0,trading of the shares
+102,2012-05-08,ASIAPACINS,- Mr. Abdul Haque...,1,0,0,mr. abdul haque
+103,2012-04-22,ASIAPACINS,- As per regulation...,1,0,0,as per regulation
+104,2012-04-04,ASIAPACINS,- Mr. Abdul Haque...,0,1,0,mr. abdul haque
+105,2012-03-28,ASIAPACINS,- Ms. Nazma Khan...,1,0,0,ms. nazma khan
+106,2012-03-21,ASIAPACINS,- Mr. Abdul Haque...,0,1,0,mr. abdul haque
+107,2012-03-21,ASIAPACINS,- Mr. Abdul Haque...,0,1,0,mr. abdul haque
+108,2012-01-04,ASIAPACINS,- The Company has informed...,0,0,0,the company has informed
+109,2011-11-02,ASIAPACINS,- Normal trading of the shares...,0,0,0,normal trading of the shares
+110,2011-11-01,ASIAPACINS,- Trading of the shares...,1,0,0,trading of the shares
+111,2011-10-31,ASIAPACINS,- As per un-audited...,0,1,0,as per un-audited
+112,2011-10-27,ASIAPACINS,- Trading of the shares...,0,0,0,trading of the shares
+113,2011-10-26,ASIAPACINS,- The Company has informed...,0,0,0,the company has informed
+114,2011-07-26,ASIAPACINS,- (H/Y): As per un-audited...,0,1,1,hy: as per un-audited

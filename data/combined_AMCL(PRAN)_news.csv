@@ -1,0 +1,90 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-25,AMCL(PRAN),Q3 Financials,1,0,0,q3 financials
+1,2019-04-18,AMCL(PRAN),Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+3,2019-01-23,AMCL(PRAN),Q2 Financials,0,0,0,q2 financials
+4,2019-01-17,AMCL(PRAN),Dividend Disbursement,0,0,0,dividend disbursement
+5,2019-01-17,AMCL(PRAN),Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+6,2018-12-24,AMCL(PRAN),Credit Rating Result,0,0,1,credit rating result
+7,2018-12-13,AMCL(PRAN),Resumption after record date,0,0,0,resumption after record date
+8,2018-12-12,AMCL(PRAN),Suspension for Record date,1,0,0,suspension for record date
+9,2018-12-10,AMCL(PRAN),Spot News,1,0,1,spot news
+10,2018-12-09,AMCL(PRAN),Q1 Financials,1,1,0,q1 financials
+11,2018-12-03,AMCL(PRAN),Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+12,2018-11-28,AMCL(PRAN),Date Change of AGM,0,0,0,date change of agm
+13,2018-11-25,AMCL(PRAN),Price Limit Open,0,1,0,price limit open
+14,2018-11-25,AMCL(PRAN),Dividend Declaration,0,1,0,dividend declaration
+15,2018-11-15,AMCL(PRAN),Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+16,2018-07-05,AMCL(PRAN),Query Response,1,0,0,query response
+17,2018-04-26,AMCL(PRAN),Q3 Financials,0,0,0,q3 financials
+18,2018-04-22,AMCL(PRAN),Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+19,2018-01-31,AMCL(PRAN),Q2 Financials,0,0,0,q2 financials
+20,2018-01-25,AMCL(PRAN),Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+21,2018-01-10,AMCL(PRAN),Dividend Disbursement,0,0,0,dividend disbursement
+22,2017-12-26,AMCL(PRAN),Credit Rating Result,1,0,0,credit rating result
+23,2017-11-16,AMCL(PRAN),Resumption after record date,0,0,0,resumption after record date
+24,2017-11-15,AMCL(PRAN),Q1 Financials,1,0,0,q1 financials
+25,2017-11-15,AMCL(PRAN),Suspension for Record Date,1,0,0,suspension for record date
+26,2017-11-13,AMCL(PRAN),Spot News,0,0,1,spot news
+27,2017-11-13,AMCL(PRAN),Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+28,2017-10-29,AMCL(PRAN),Price Limit Open,0,1,0,price limit open
+29,2017-10-29,AMCL(PRAN),Dividend Declaration,0,1,0,dividend declaration
+30,2017-10-19,AMCL(PRAN),Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+31,2017-04-30,AMCL(PRAN),Q3 Financials,0,0,1,q3 financials
+32,2017-04-26,AMCL(PRAN),Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+33,2017-04-25,AMCL(PRAN),Transmission of Deceased (Sponsor Director) shares to successor,0,0,0,transmission of deceased sponsor director shares to successor
+34,2017-04-25,AMCL(PRAN),Transmission of Deceased (Sponsor Director) shares to successor,0,0,0,transmission of deceased sponsor director shares to successor
+35,2017-01-31,AMCL(PRAN),Q2 Financials,1,0,0,q2 financials
+36,2017-01-29,AMCL(PRAN),Board Meeting schedule,0,0,1,board meeting schedule
+37,2016-12-26,AMCL(PRAN),Credit Rating Result,0,0,0,credit rating result
+38,2016-11-17,AMCL(PRAN),Resumption after record date,1,0,0,resumption after record date
+39,2016-11-16,AMCL(PRAN),Suspension for record date,1,1,0,suspension for record date
+40,2016-11-14,AMCL(PRAN),Spot for AGM,0,0,1,spot for agm
+41,2016-10-30,AMCL(PRAN),Price Limit Open,0,0,0,price limit open
+42,2016-10-30,AMCL(PRAN),Dividend Declaration,0,0,0,dividend declaration
+43,2016-10-23,AMCL(PRAN), Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+44,2016-04-26,AMCL(PRAN),Q3 Financials,1,0,0,q3 financials
+45,2016-01-31,AMCL(PRAN),Q2 Financials,0,1,1,q2 financials
+46,2016-01-19,AMCL(PRAN),Dividend Disbursement,0,0,0,dividend disbursement
+47,2015-11-16,AMCL(PRAN),Resumption News,0,1,1,resumption news
+48,2015-11-15,AMCL(PRAN),Suspension News,1,0,1,suspension news
+49,2015-11-11,AMCL(PRAN),Spot News,0,1,0,spot news
+50,2015-11-09,AMCL(PRAN),Q1 Financials,0,0,0,q1 financials
+51,2015-10-29,AMCL(PRAN),Credit Rating Result,0,0,0,credit rating result
+52,2015-10-28,AMCL(PRAN), Price Limit Open,0,0,0,price limit open
+53,2015-10-28,AMCL(PRAN),Dividend Declaration,0,0,0,dividend declaration
+54,2015-10-20,AMCL(PRAN),Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+55,2015-08-31,AMCL(PRAN),Appointment of Managing Director,0,0,1,appointment of managing director
+56,2015-04-27,AMCL(PRAN),Q3,0,0,1,q3
+57,2015-01-28,AMCL(PRAN),H/Y,1,1,0,hy
+58,2014-11-13,AMCL(PRAN),will remain suspended,0,0,0,will remain suspended
+59,2014-11-12,AMCL(PRAN),will remain suspended,0,0,0,will remain suspended
+60,2014-11-12,AMCL(PRAN),Q1,0,0,0,q1
+61,2014-11-10,AMCL(PRAN),Spot Market,1,1,0,spot market
+62,2014-10-30,AMCL(PRAN),recommended 32% cash dividend,0,0,0,recommended 32 cash dividend
+63,2014-10-26,AMCL(PRAN),Board Meeting,0,1,0,board meeting
+64,2014-05-27,AMCL(PRAN),Credit Rating,0,0,0,credit rating
+65,2014-04-29,AMCL(PRAN),Q3 Earning,0,1,0,q3 earning
+66,2014-01-29,AMCL(PRAN),H/Y Earnings,0,0,0,hy earnings
+67,2013-11-13,AMCL(PRAN),Q1 earnings,1,0,0,q1 earnings
+68,2013-11-12,AMCL(PRAN),trade resume after record date,0,1,0,trade resume after record date
+69,2013-11-11,AMCL(PRAN),trade suspension on record date,1,0,1,trade suspension on record date
+70,2013-11-06,AMCL(PRAN),trade suspension on record date,0,0,0,trade suspension on record date
+71,2013-10-29,AMCL(PRAN),No Price limit,0,0,1,no price limit
+72,2013-10-29,AMCL(PRAN),31% Cash Dividend,0,0,1,31 cash dividend
+73,2013-09-18,AMCL(PRAN),No Undisclosed Price Sensitive Information,0,1,0,no undisclosed price sensitive information
+74,2013-05-02,AMCL(PRAN),Q3 Earnings,0,0,0,q3 earnings
+75,2012-11-05,AMCL(PRAN),Record date,0,0,0,record date
+76,2012-10-22,AMCL(PRAN),Q1 Earnings 2012,0,0,0,q1 earnings 2012
+77,2012-10-18,AMCL(PRAN),corporate declaration,0,0,0,corporate declaration
+78,2012-10-17,AMCL(PRAN),Board Meeting,0,0,0,board meeting
+79,2012-09-30,AMCL(PRAN),credit rating,0,1,0,credit rating
+80,2012-04-24,AMCL(PRAN),- As per un-audited quarterly accounts...,0,0,0,as per un-audited quarterly accounts
+81,2012-01-26,AMCL(PRAN),- As per un-audited...,1,0,0,as per un-audited
+82,2011-12-19,AMCL(PRAN),- The Company has informed...,1,0,1,the company has informed
+83,2011-11-03,AMCL(PRAN),- Normal trading of the shares...,0,0,0,normal trading of the shares
+84,2011-11-02,AMCL(PRAN),- Trading of the shares...,1,0,0,trading of the shares
+85,2011-10-30,AMCL(PRAN),- Trading of the shares...,0,1,0,trading of the shares
+86,2011-10-26,AMCL(PRAN),- As per un-audited...,1,0,0,as per un-audited
+87,2011-10-25,AMCL(PRAN),- There will be no price...,0,1,0,there will be no price
+89,2011-10-25,AMCL(PRAN),- The Board of Directors...,0,1,0,the board of directors
+90,2011-10-04,AMCL(PRAN),- The Company has informed...,0,0,0,the company has informed
