@@ -1,0 +1,1812 @@
+---------- Start- 1JANATAMF--------------------
+./data\combined_1JANATAMF_news.csv, today, Accuracy: 81.82%
+./data\combined_1JANATAMF_news.csv, tomorrow, Accuracy: 65.91%
+./data\combined_1JANATAMF_news.csv, day_after_tomorrow, Accuracy: 63.64%
+---------- End- 1JANATAMF--------------------
+---------- Start- 1STPRIMFMF--------------------
+./data\combined_1STPRIMFMF_news.csv, today, Accuracy: 63.64%
+./data\combined_1STPRIMFMF_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_1STPRIMFMF_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- 1STPRIMFMF--------------------
+---------- Start- AAMRANET--------------------
+./data\combined_AAMRANET_news.csv, today, Accuracy: 100.00%
+./data\combined_AAMRANET_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_AAMRANET_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- AAMRANET--------------------
+---------- Start- AAMRATECH--------------------
+./data\combined_AAMRATECH_news.csv, today, Accuracy: 77.78%
+./data\combined_AAMRATECH_news.csv, tomorrow, Accuracy: 88.89%
+./data\combined_AAMRATECH_news.csv, day_after_tomorrow, Accuracy: 77.78%
+---------- End- AAMRATECH--------------------
+---------- Start- ABB1STMF--------------------
+./data\combined_ABB1STMF_news.csv, today, Accuracy: 90.24%
+./data\combined_ABB1STMF_news.csv, tomorrow, Accuracy: 90.24%
+./data\combined_ABB1STMF_news.csv, day_after_tomorrow, Accuracy: 75.61%
+---------- End- ABB1STMF--------------------
+---------- Start- ABBANK--------------------
+./data\combined_ABBANK_news.csv, today, Accuracy: 75.00%
+./data\combined_ABBANK_news.csv, tomorrow, Accuracy: 91.67%
+./data\combined_ABBANK_news.csv, day_after_tomorrow, Accuracy: 91.67%
+---------- End- ABBANK--------------------
+---------- Start- ACFL--------------------
+./data\combined_ACFL_news.csv, today, Accuracy: 0.00%
+./data\combined_ACFL_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_ACFL_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- ACFL--------------------
+---------- Start- ACIFORMULA--------------------
+./data\combined_ACIFORMULA_news.csv, today, Accuracy: 40.00%
+./data\combined_ACIFORMULA_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_ACIFORMULA_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- ACIFORMULA--------------------
+---------- Start- ACI--------------------
+./data\combined_ACI_news.csv, today, Accuracy: 76.92%
+./data\combined_ACI_news.csv, tomorrow, Accuracy: 76.92%
+./data\combined_ACI_news.csv, day_after_tomorrow, Accuracy: 61.54%
+---------- End- ACI--------------------
+---------- Start- ACMELAB--------------------
+./data\combined_ACMELAB_news.csv, today, Accuracy: 60.00%
+./data\combined_ACMELAB_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_ACMELAB_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- ACMELAB--------------------
+---------- Start- 1JANATAMF--------------------
+./data\combined_1JANATAMF_news.csv, today, Accuracy: 81.82%
+./data\combined_1JANATAMF_news.csv, tomorrow, Accuracy: 65.91%
+./data\combined_1JANATAMF_news.csv, day_after_tomorrow, Accuracy: 63.64%
+---------- End- 1JANATAMF--------------------
+---------- Start- 1STPRIMFMF--------------------
+./data\combined_1STPRIMFMF_news.csv, today, Accuracy: 63.64%
+./data\combined_1STPRIMFMF_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_1STPRIMFMF_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- 1STPRIMFMF--------------------
+---------- Start- AAMRANET--------------------
+./data\combined_AAMRANET_news.csv, today, Accuracy: 100.00%
+./data\combined_AAMRANET_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_AAMRANET_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- AAMRANET--------------------
+---------- Start- AAMRATECH--------------------
+./data\combined_AAMRATECH_news.csv, today, Accuracy: 77.78%
+./data\combined_AAMRATECH_news.csv, tomorrow, Accuracy: 88.89%
+./data\combined_AAMRATECH_news.csv, day_after_tomorrow, Accuracy: 77.78%
+---------- End- AAMRATECH--------------------
+---------- Start- ABB1STMF--------------------
+./data\combined_ABB1STMF_news.csv, today, Accuracy: 90.24%
+./data\combined_ABB1STMF_news.csv, tomorrow, Accuracy: 90.24%
+./data\combined_ABB1STMF_news.csv, day_after_tomorrow, Accuracy: 75.61%
+---------- End- ABB1STMF--------------------
+---------- Start- ABBANK--------------------
+./data\combined_ABBANK_news.csv, today, Accuracy: 75.00%
+./data\combined_ABBANK_news.csv, tomorrow, Accuracy: 91.67%
+./data\combined_ABBANK_news.csv, day_after_tomorrow, Accuracy: 91.67%
+---------- End- ABBANK--------------------
+---------- Start- ACFL--------------------
+./data\combined_ACFL_news.csv, today, Accuracy: 0.00%
+./data\combined_ACFL_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_ACFL_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- ACFL--------------------
+---------- Start- ACIFORMULA--------------------
+./data\combined_ACIFORMULA_news.csv, today, Accuracy: 40.00%
+./data\combined_ACIFORMULA_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_ACIFORMULA_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- ACIFORMULA--------------------
+---------- Start- ACI--------------------
+./data\combined_ACI_news.csv, today, Accuracy: 76.92%
+./data\combined_ACI_news.csv, tomorrow, Accuracy: 76.92%
+./data\combined_ACI_news.csv, day_after_tomorrow, Accuracy: 61.54%
+---------- End- ACI--------------------
+---------- Start- ACMELAB--------------------
+./data\combined_ACMELAB_news.csv, today, Accuracy: 60.00%
+./data\combined_ACMELAB_news.csv, tomorrow, Accuracy: 60.00%
+---------- Start- ACTIVEFINE--------------------
+./data\combined_ACTIVEFINE_news.csv, today, Accuracy: 58.33%
+./data\combined_ACTIVEFINE_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_ACTIVEFINE_news.csv, day_after_tomorrow, Accuracy: 91.67%
+---------- End- ACTIVEFINE--------------------
+---------- Start- ADVENT--------------------
+./data\combined_ADVENT_news.csv, today, Accuracy: 50.00%
+./data\combined_ADVENT_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_ADVENT_news.csv, day_after_tomorrow, Accuracy: 50.00%
+---------- End- ADVENT--------------------
+---------- Start- AFCAGRO--------------------
+./data\combined_AFCAGRO_news.csv, today, Accuracy: 50.00%
+./data\combined_AFCAGRO_news.csv, tomorrow, Accuracy: 62.50%
+./data\combined_AFCAGRO_news.csv, day_after_tomorrow, Accuracy: 87.50%
+---------- End- AFCAGRO--------------------
+---------- Start- AFTABAUTO--------------------
+./data\combined_AFTABAUTO_news.csv, today, Accuracy: 77.78%
+./data\combined_AFTABAUTO_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_AFTABAUTO_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- AFTABAUTO--------------------
+---------- Start- AGNISYSL--------------------
+./data\combined_AGNISYSL_news.csv, today, Accuracy: 80.00%
+./data\combined_AGNISYSL_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_AGNISYSL_news.csv, day_after_tomorrow, Accuracy: 70.00%
+---------- End- AGNISYSL--------------------
+---------- Start- AGRANINS--------------------
+./data\combined_AGRANINS_news.csv, today, Accuracy: 84.62%
+./data\combined_AGRANINS_news.csv, tomorrow, Accuracy: 61.54%
+./data\combined_AGRANINS_news.csv, day_after_tomorrow, Accuracy: 92.31%
+---------- End- AGRANINS--------------------
+---------- Start- AIBL1STIMF--------------------
+./data\combined_AIBL1STIMF_news.csv, today, Accuracy: 83.72%
+./data\combined_AIBL1STIMF_news.csv, tomorrow, Accuracy: 79.07%
+./data\combined_AIBL1STIMF_news.csv, day_after_tomorrow, Accuracy: 72.09%
+---------- End- AIBL1STIMF--------------------
+---------- Start- AIL--------------------
+./data\combined_AIL_news.csv, today, Accuracy: 66.67%
+./data\combined_AIL_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_AIL_news.csv, day_after_tomorrow, Accuracy: 33.33%
+---------- End- AIL--------------------
+---------- Start- AL-HAJTEX--------------------
+./data\combined_AL-HAJTEX_news.csv, today, Accuracy: 72.73%
+./data\combined_AL-HAJTEX_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_AL-HAJTEX_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- AL-HAJTEX--------------------
+---------- Start- ALARABANK--------------------
+./data\combined_ALARABANK_news.csv, today, Accuracy: 75.00%
+./data\combined_ALARABANK_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_ALARABANK_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- ALARABANK--------------------
+---------- Start- ALIF--------------------
+./data\combined_ALIF_news.csv, today, Accuracy: 100.00%
+./data\combined_ALIF_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_ALIF_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- ALIF--------------------
+---------- Start- ALLTEX--------------------
+./data\combined_ALLTEX_news.csv, today, Accuracy: 75.00%
+./data\combined_ALLTEX_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_ALLTEX_news.csv, day_after_tomorrow, Accuracy: 91.67%
+---------- End- ALLTEX--------------------
+---------- Start- AMANFEED--------------------
+./data\combined_AMANFEED_news.csv, today, Accuracy: 57.14%
+./data\combined_AMANFEED_news.csv, tomorrow, Accuracy: 57.14%
+./data\combined_AMANFEED_news.csv, day_after_tomorrow, Accuracy: 71.43%
+---------- End- AMANFEED--------------------
+---------- Start- AMBEEPHA--------------------
+./data\combined_AMBEEPHA_news.csv, today, Accuracy: 66.67%
+./data\combined_AMBEEPHA_news.csv, tomorrow, Accuracy: 77.78%
+./data\combined_AMBEEPHA_news.csv, day_after_tomorrow, Accuracy: 55.56%
+---------- End- AMBEEPHA--------------------
+---------- Start- AMCL(PRAN)--------------------
+./data\combined_AMCL(PRAN)_news.csv, today, Accuracy: 62.50%
+./data\combined_AMCL(PRAN)_news.csv, tomorrow, Accuracy: 87.50%
+./data\combined_AMCL(PRAN)_news.csv, day_after_tomorrow, Accuracy: 87.50%
+---------- End- AMCL(PRAN)--------------------
+---------- Start- ANLIMAYARN--------------------
+./data\combined_ANLIMAYARN_news.csv, today, Accuracy: 66.67%
+./data\combined_ANLIMAYARN_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_ANLIMAYARN_news.csv, day_after_tomorrow, Accuracy: 77.78%
+---------- End- ANLIMAYARN--------------------
+---------- Start- ANWARGALV--------------------
+./data\combined_ANWARGALV_news.csv, today, Accuracy: 54.55%
+./data\combined_ANWARGALV_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_ANWARGALV_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- ANWARGALV--------------------
+---------- Start- APEXFOODS--------------------
+./data\combined_APEXFOODS_news.csv, today, Accuracy: 80.00%
+./data\combined_APEXFOODS_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_APEXFOODS_news.csv, day_after_tomorrow, Accuracy: 70.00%
+---------- End- APEXFOODS--------------------
+---------- Start- APEXFOOT--------------------
+./data\combined_APEXFOOT_news.csv, today, Accuracy: 100.00%
+./data\combined_APEXFOOT_news.csv, tomorrow, Accuracy: 57.14%
+./data\combined_APEXFOOT_news.csv, day_after_tomorrow, Accuracy: 85.71%
+---------- End- APEXFOOT--------------------
+---------- Start- APEXSPINN--------------------
+./data\combined_APEXSPINN_news.csv, today, Accuracy: 60.00%
+./data\combined_APEXSPINN_news.csv, tomorrow, Accuracy: 90.00%
+./data\combined_APEXSPINN_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- APEXSPINN--------------------
+---------- Start- APEXTANRY--------------------
+./data\combined_APEXTANRY_news.csv, today, Accuracy: 60.00%
+./data\combined_APEXTANRY_news.csv, tomorrow, Accuracy: 90.00%
+./data\combined_APEXTANRY_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- APEXTANRY--------------------
+---------- Start- APOLOISPAT--------------------
+./data\combined_APOLOISPAT_news.csv, today, Accuracy: 60.00%
+./data\combined_APOLOISPAT_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_APOLOISPAT_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- APOLOISPAT--------------------
+---------- Start- ARAMITCEM--------------------
+./data\combined_ARAMITCEM_news.csv, today, Accuracy: 70.00%
+./data\combined_ARAMITCEM_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_ARAMITCEM_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- ARAMITCEM--------------------
+---------- Start- ARAMIT--------------------
+./data\combined_ARAMIT_news.csv, today, Accuracy: 87.50%
+./data\combined_ARAMIT_news.csv, tomorrow, Accuracy: 62.50%
+./data\combined_ARAMIT_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- ARAMIT--------------------
+---------- Start- ARGONDENIM--------------------
+./data\combined_ARGONDENIM_news.csv, today, Accuracy: 91.67%
+./data\combined_ARGONDENIM_news.csv, tomorrow, Accuracy: 91.67%
+./data\combined_ARGONDENIM_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- ARGONDENIM--------------------
+---------- Start- ASIAINS--------------------
+./data\combined_ASIAINS_news.csv, today, Accuracy: 60.00%
+./data\combined_ASIAINS_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_ASIAINS_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- ASIAINS--------------------
+---------- Start- ASIAPACINS--------------------
+./data\combined_ASIAPACINS_news.csv, today, Accuracy: 72.73%
+./data\combined_ASIAPACINS_news.csv, tomorrow, Accuracy: 63.64%
+./data\combined_ASIAPACINS_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- ASIAPACINS--------------------
+---------- Start- ATCSLGF--------------------
+./data\combined_ATCSLGF_news.csv, today, Accuracy: 70.37%
+./data\combined_ATCSLGF_news.csv, tomorrow, Accuracy: 74.07%
+./data\combined_ATCSLGF_news.csv, day_after_tomorrow, Accuracy: 81.48%
+---------- End- ATCSLGF--------------------
+---------- Start- ATLASBANG--------------------
+./data\combined_ATLASBANG_news.csv, today, Accuracy: 87.50%
+./data\combined_ATLASBANG_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_ATLASBANG_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- ATLASBANG--------------------
+---------- Start- AZIZPIPES--------------------
+./data\combined_AZIZPIPES_news.csv, today, Accuracy: 66.67%
+./data\combined_AZIZPIPES_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_AZIZPIPES_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- AZIZPIPES--------------------
+---------- Start- BANGAS--------------------
+./data\combined_BANGAS_news.csv, today, Accuracy: 60.00%
+./data\combined_BANGAS_news.csv, tomorrow, Accuracy: 73.33%
+./data\combined_BANGAS_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- BANGAS--------------------
+---------- Start- BANKASIA--------------------
+./data\combined_BANKASIA_news.csv, today, Accuracy: 63.16%
+./data\combined_BANKASIA_news.csv, tomorrow, Accuracy: 89.47%
+./data\combined_BANKASIA_news.csv, day_after_tomorrow, Accuracy: 84.21%
+---------- End- BANKASIA--------------------
+---------- Start- BARKAPOWER--------------------
+./data\combined_BARKAPOWER_news.csv, today, Accuracy: 62.50%
+./data\combined_BARKAPOWER_news.csv, tomorrow, Accuracy: 87.50%
+./data\combined_BARKAPOWER_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- BARKAPOWER--------------------
+---------- Start- BATASHOE--------------------
+./data\combined_BATASHOE_news.csv, today, Accuracy: 50.00%
+./data\combined_BATASHOE_news.csv, tomorrow, Accuracy: 56.25%
+./data\combined_BATASHOE_news.csv, day_after_tomorrow, Accuracy: 68.75%
+---------- End- BATASHOE--------------------
+---------- Start- BATBC--------------------
+./data\combined_BATBC_news.csv, today, Accuracy: 63.64%
+./data\combined_BATBC_news.csv, tomorrow, Accuracy: 90.91%
+./data\combined_BATBC_news.csv, day_after_tomorrow, Accuracy: 63.64%
+---------- End- BATBC--------------------
+---------- Start- BAYLEASING--------------------
+./data\combined_BAYLEASING_news.csv, today, Accuracy: 71.43%
+./data\combined_BAYLEASING_news.csv, tomorrow, Accuracy: 71.43%
+./data\combined_BAYLEASING_news.csv, day_after_tomorrow, Accuracy: 64.29%
+---------- End- BAYLEASING--------------------
+---------- Start- BBSCABLES--------------------
+./data\combined_BBSCABLES_news.csv, today, Accuracy: 66.67%
+./data\combined_BBSCABLES_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_BBSCABLES_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- BBSCABLES--------------------
+---------- Start- BBS--------------------
+./data\combined_BBS_news.csv, today, Accuracy: 77.78%
+./data\combined_BBS_news.csv, tomorrow, Accuracy: 55.56%
+./data\combined_BBS_news.csv, day_after_tomorrow, Accuracy: 77.78%
+---------- End- BBS--------------------
+---------- Start- BDAUTOCA--------------------
+./data\combined_BDAUTOCA_news.csv, today, Accuracy: 69.23%
+./data\combined_BDAUTOCA_news.csv, tomorrow, Accuracy: 76.92%
+./data\combined_BDAUTOCA_news.csv, day_after_tomorrow, Accuracy: 92.31%
+---------- End- BDAUTOCA--------------------
+---------- Start- BDCOM--------------------
+./data\combined_BDCOM_news.csv, today, Accuracy: 50.00%
+./data\combined_BDCOM_news.csv, tomorrow, Accuracy: 90.00%
+./data\combined_BDCOM_news.csv, day_after_tomorrow, Accuracy: 70.00%
+---------- End- BDCOM--------------------
+---------- Start- BDFINANCE--------------------
+./data\combined_BDFINANCE_news.csv, today, Accuracy: 82.35%
+./data\combined_BDFINANCE_news.csv, tomorrow, Accuracy: 76.47%
+./data\combined_BDFINANCE_news.csv, day_after_tomorrow, Accuracy: 94.12%
+---------- End- BDFINANCE--------------------
+---------- Start- BDLAMPS--------------------
+./data\combined_BDLAMPS_news.csv, today, Accuracy: 20.00%
+./data\combined_BDLAMPS_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_BDLAMPS_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- BDLAMPS--------------------
+---------- Start- BDTHAI--------------------
+./data\combined_BDTHAI_news.csv, today, Accuracy: 75.00%
+./data\combined_BDTHAI_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_BDTHAI_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- BDTHAI--------------------
+---------- Start- BDWELDING--------------------
+./data\combined_BDWELDING_news.csv, today, Accuracy: 33.33%
+./data\combined_BDWELDING_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_BDWELDING_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- BDWELDING--------------------
+---------- Start- BEACHHATCH--------------------
+./data\combined_BEACHHATCH_news.csv, today, Accuracy: 50.00%
+./data\combined_BEACHHATCH_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_BEACHHATCH_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- BEACHHATCH--------------------
+---------- Start- BEACONPHAR--------------------
+./data\combined_BEACONPHAR_news.csv, today, Accuracy: 80.00%
+./data\combined_BEACONPHAR_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_BEACONPHAR_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- BEACONPHAR--------------------
+---------- Start- BENGALWTL--------------------
+./data\combined_BENGALWTL_news.csv, today, Accuracy: 83.33%
+./data\combined_BENGALWTL_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_BENGALWTL_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- BENGALWTL--------------------
+---------- Start- BERGERPBL--------------------
+./data\combined_BERGERPBL_news.csv, today, Accuracy: 66.67%
+./data\combined_BERGERPBL_news.csv, tomorrow, Accuracy: 77.78%
+./data\combined_BERGERPBL_news.csv, day_after_tomorrow, Accuracy: 88.89%
+---------- End- BERGERPBL--------------------
+---------- Start- BEXIMCO--------------------
+./data\combined_BEXIMCO_news.csv, today, Accuracy: 63.64%
+./data\combined_BEXIMCO_news.csv, tomorrow, Accuracy: 81.82%
+./data\combined_BEXIMCO_news.csv, day_after_tomorrow, Accuracy: 72.73%
+---------- End- BEXIMCO--------------------
+---------- Start- BGIC--------------------
+./data\combined_BGIC_news.csv, today, Accuracy: 55.56%
+./data\combined_BGIC_news.csv, tomorrow, Accuracy: 55.56%
+./data\combined_BGIC_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- BGIC--------------------
+---------- Start- BIFC--------------------
+./data\combined_BIFC_news.csv, today, Accuracy: 81.82%
+./data\combined_BIFC_news.csv, tomorrow, Accuracy: 90.91%
+./data\combined_BIFC_news.csv, day_after_tomorrow, Accuracy: 90.91%
+---------- End- BIFC--------------------
+---------- Start- BNICL--------------------
+./data\combined_BNICL_news.csv, today, Accuracy: 75.00%
+./data\combined_BNICL_news.csv, tomorrow, Accuracy: 75.00%
+---------- Start- BPML--------------------
+./data\combined_BPML_news.csv, today, Accuracy: 100.00%
+./data\combined_BPML_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_BPML_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- BPML--------------------
+---------- Start- BRACBANK--------------------
+./data\combined_BRACBANK_news.csv, today, Accuracy: 71.43%
+./data\combined_BRACBANK_news.csv, tomorrow, Accuracy: 50.00%
+./data\combined_BRACBANK_news.csv, day_after_tomorrow, Accuracy: 78.57%
+---------- End- BRACBANK--------------------
+---------- Start- BSCCL--------------------
+./data\combined_BSCCL_news.csv, today, Accuracy: 54.55%
+./data\combined_BSCCL_news.csv, tomorrow, Accuracy: 63.64%
+./data\combined_BSCCL_news.csv, day_after_tomorrow, Accuracy: 72.73%
+---------- End- BSCCL--------------------
+---------- Start- BSC--------------------
+./data\combined_BSC_news.csv, today, Accuracy: 63.64%
+./data\combined_BSC_news.csv, tomorrow, Accuracy: 54.55%
+./data\combined_BSC_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- BSC--------------------
+---------- Start- BSRMLTD--------------------
+./data\combined_BSRMLTD_news.csv, today, Accuracy: 62.50%
+./data\combined_BSRMLTD_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_BSRMLTD_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- BSRMLTD--------------------
+---------- Start- BSRMSTEEL--------------------
+./data\combined_BSRMSTEEL_news.csv, today, Accuracy: 83.33%
+./data\combined_BSRMSTEEL_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_BSRMSTEEL_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- BSRMSTEEL--------------------
+---------- Start- BXPHARMA--------------------
+./data\combined_BXPHARMA_news.csv, today, Accuracy: 60.00%
+./data\combined_BXPHARMA_news.csv, tomorrow, Accuracy: 90.00%
+./data\combined_BXPHARMA_news.csv, day_after_tomorrow, Accuracy: 70.00%
+---------- End- BXPHARMA--------------------
+---------- Start- BXSYNTH--------------------
+./data\combined_BXSYNTH_news.csv, today, Accuracy: 55.56%
+./data\combined_BXSYNTH_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_BXSYNTH_news.csv, day_after_tomorrow, Accuracy: 77.78%
+---------- End- BXSYNTH--------------------
+---------- Start- CAPMBDBLMF--------------------
+./data\combined_CAPMBDBLMF_news.csv, today, Accuracy: 80.00%
+./data\combined_CAPMBDBLMF_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_CAPMBDBLMF_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- CAPMBDBLMF--------------------
+---------- Start- CAPMIBBLMF--------------------
+./data\combined_CAPMIBBLMF_news.csv, today, Accuracy: 85.71%
+./data\combined_CAPMIBBLMF_news.csv, tomorrow, Accuracy: 57.14%
+./data\combined_CAPMIBBLMF_news.csv, day_after_tomorrow, Accuracy: 85.71%
+---------- End- CAPMIBBLMF--------------------
+---------- Start- CENTRALINS--------------------
+./data\combined_CENTRALINS_news.csv, today, Accuracy: 75.00%
+./data\combined_CENTRALINS_news.csv, tomorrow, Accuracy: 68.75%
+./data\combined_CENTRALINS_news.csv, day_after_tomorrow, Accuracy: 87.50%
+---------- End- CENTRALINS--------------------
+---------- Start- CENTRALPHL--------------------
+./data\combined_CENTRALPHL_news.csv, today, Accuracy: 50.00%
+./data\combined_CENTRALPHL_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_CENTRALPHL_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- CENTRALPHL--------------------
+---------- Start- CITYBANK--------------------
+./data\combined_CITYBANK_news.csv, today, Accuracy: 47.83%
+./data\combined_CITYBANK_news.csv, tomorrow, Accuracy: 69.57%
+./data\combined_CITYBANK_news.csv, day_after_tomorrow, Accuracy: 86.96%
+---------- End- CITYBANK--------------------
+---------- Start- CITYGENINS--------------------
+./data\combined_CITYGENINS_news.csv, today, Accuracy: 40.00%
+./data\combined_CITYGENINS_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_CITYGENINS_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- CITYGENINS--------------------
+---------- Start- CNATEX--------------------
+./data\combined_CNATEX_news.csv, today, Accuracy: 80.00%
+./data\combined_CNATEX_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_CNATEX_news.csv, day_after_tomorrow, Accuracy: 60.00%
+---------- End- CNATEX--------------------
+---------- Start- CONFIDCEM--------------------
+./data\combined_CONFIDCEM_news.csv, today, Accuracy: 63.64%
+./data\combined_CONFIDCEM_news.csv, tomorrow, Accuracy: 54.55%
+./data\combined_CONFIDCEM_news.csv, day_after_tomorrow, Accuracy: 45.45%
+---------- End- CONFIDCEM--------------------
+---------- Start- CONTININS--------------------
+./data\combined_CONTININS_news.csv, today, Accuracy: 58.33%
+./data\combined_CONTININS_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_CONTININS_news.csv, day_after_tomorrow, Accuracy: 91.67%
+---------- End- CONTININS--------------------
+---------- Start- CVOPRL--------------------
+./data\combined_CVOPRL_news.csv, today, Accuracy: 63.64%
+./data\combined_CVOPRL_news.csv, tomorrow, Accuracy: 63.64%
+./data\combined_CVOPRL_news.csv, day_after_tomorrow, Accuracy: 90.91%
+---------- End- CVOPRL--------------------
+---------- Start- DACCADYE--------------------
+./data\combined_DACCADYE_news.csv, today, Accuracy: 83.33%
+./data\combined_DACCADYE_news.csv, tomorrow, Accuracy: 91.67%
+./data\combined_DACCADYE_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- DACCADYE--------------------
+---------- Start- DAFODILCOM--------------------
+./data\combined_DAFODILCOM_news.csv, today, Accuracy: 70.00%
+./data\combined_DAFODILCOM_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_DAFODILCOM_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- DAFODILCOM--------------------
+---------- Start- DBH1STMF--------------------
+./data\combined_DBH1STMF_news.csv, today, Accuracy: 65.91%
+./data\combined_DBH1STMF_news.csv, tomorrow, Accuracy: 79.55%
+./data\combined_DBH1STMF_news.csv, day_after_tomorrow, Accuracy: 79.55%
+---------- End- DBH1STMF--------------------
+---------- Start- DBH--------------------
+./data\combined_DBH_news.csv, today, Accuracy: 66.67%
+./data\combined_DBH_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_DBH_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- DBH--------------------
+---------- Start- DELTALIFE--------------------
+./data\combined_DELTALIFE_news.csv, today, Accuracy: 92.31%
+./data\combined_DELTALIFE_news.csv, tomorrow, Accuracy: 92.31%
+./data\combined_DELTALIFE_news.csv, day_after_tomorrow, Accuracy: 84.62%
+---------- End- DELTALIFE--------------------
+---------- Start- DELTASPINN--------------------
+./data\combined_DELTASPINN_news.csv, today, Accuracy: 81.82%
+./data\combined_DELTASPINN_news.csv, tomorrow, Accuracy: 81.82%
+./data\combined_DELTASPINN_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- DELTASPINN--------------------
+---------- Start- DESCO--------------------
+./data\combined_DESCO_news.csv, today, Accuracy: 70.00%
+./data\combined_DESCO_news.csv, tomorrow, Accuracy: 90.00%
+./data\combined_DESCO_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- DESCO--------------------
+---------- Start- DESHBANDHU--------------------
+./data\combined_DESHBANDHU_news.csv, today, Accuracy: 83.33%
+./data\combined_DESHBANDHU_news.csv, tomorrow, Accuracy: 91.67%
+./data\combined_DESHBANDHU_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- DESHBANDHU--------------------
+---------- Start- DHAKABANK--------------------
+./data\combined_DHAKABANK_news.csv, today, Accuracy: 56.25%
+./data\combined_DHAKABANK_news.csv, tomorrow, Accuracy: 68.75%
+./data\combined_DHAKABANK_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- DHAKABANK--------------------
+---------- Start- DHAKAINS--------------------
+./data\combined_DHAKAINS_news.csv, today, Accuracy: 60.00%
+./data\combined_DHAKAINS_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_DHAKAINS_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- DHAKAINS--------------------
+---------- Start- DOREENPWR--------------------
+./data\combined_DOREENPWR_news.csv, today, Accuracy: 85.71%
+./data\combined_DOREENPWR_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_DOREENPWR_news.csv, day_after_tomorrow, Accuracy: 85.71%
+---------- End- DOREENPWR--------------------
+---------- Start- DSHGARME--------------------
+./data\combined_DSHGARME_news.csv, today, Accuracy: 50.00%
+./data\combined_DSHGARME_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_DSHGARME_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- DSHGARME--------------------
+---------- Start- DSSL--------------------
+./data\combined_DSSL_news.csv, today, Accuracy: 66.67%
+./data\combined_DSSL_news.csv, tomorrow, Accuracy: 77.78%
+./data\combined_DSSL_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- DSSL--------------------
+---------- Start- DULAMIACOT--------------------
+./data\combined_DULAMIACOT_news.csv, today, Accuracy: 72.73%
+./data\combined_DULAMIACOT_news.csv, tomorrow, Accuracy: 81.82%
+./data\combined_DULAMIACOT_news.csv, day_after_tomorrow, Accuracy: 63.64%
+---------- End- DULAMIACOT--------------------
+---------- Start- DUTCHBANGL--------------------
+./data\combined_DUTCHBANGL_news.csv, today, Accuracy: 45.45%
+./data\combined_DUTCHBANGL_news.csv, tomorrow, Accuracy: 81.82%
+./data\combined_DUTCHBANGL_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- DUTCHBANGL--------------------
+---------- Start- EASTERNINS--------------------
+./data\combined_EASTERNINS_news.csv, today, Accuracy: 40.00%
+./data\combined_EASTERNINS_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_EASTERNINS_news.csv, day_after_tomorrow, Accuracy: 50.00%
+---------- End- EASTERNINS--------------------
+---------- Start- EASTLAND--------------------
+./data\combined_EASTLAND_news.csv, today, Accuracy: 57.14%
+./data\combined_EASTLAND_news.csv, tomorrow, Accuracy: 92.86%
+./data\combined_EASTLAND_news.csv, day_after_tomorrow, Accuracy: 71.43%
+---------- End- EASTLAND--------------------
+---------- Start- EASTRNLUB--------------------
+./data\combined_EASTRNLUB_news.csv, today, Accuracy: 66.67%
+./data\combined_EASTRNLUB_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_EASTRNLUB_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- EASTRNLUB--------------------
+---------- Start- EBL1STMF--------------------
+./data\combined_EBL1STMF_news.csv, today, Accuracy: 72.73%
+./data\combined_EBL1STMF_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_EBL1STMF_news.csv, day_after_tomorrow, Accuracy: 68.18%
+---------- End- EBL1STMF--------------------
+---------- Start- EBLNRBMF--------------------
+./data\combined_EBLNRBMF_news.csv, today, Accuracy: 72.73%
+./data\combined_EBLNRBMF_news.csv, tomorrow, Accuracy: 81.82%
+./data\combined_EBLNRBMF_news.csv, day_after_tomorrow, Accuracy: 84.09%
+---------- End- EBLNRBMF--------------------
+---------- Start- EBL--------------------
+./data\combined_EBL_news.csv, today, Accuracy: 100.00%
+./data\combined_EBL_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_EBL_news.csv, day_after_tomorrow, Accuracy: 72.73%
+---------- End- EBL--------------------
+---------- Start- ECABLES--------------------
+./data\combined_ECABLES_news.csv, today, Accuracy: 54.55%
+./data\combined_ECABLES_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_ECABLES_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- ECABLES--------------------
+---------- Start- EHL--------------------
+./data\combined_EHL_news.csv, today, Accuracy: 70.00%
+./data\combined_EHL_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_EHL_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- EHL--------------------
+---------- Start- EMERALDOIL--------------------
+./data\combined_EMERALDOIL_news.csv, today, Accuracy: 42.86%
+./data\combined_EMERALDOIL_news.csv, tomorrow, Accuracy: 28.57%
+./data\combined_EMERALDOIL_news.csv, day_after_tomorrow, Accuracy: 85.71%
+---------- End- EMERALDOIL--------------------
+---------- Start- ENVOYTEX--------------------
+./data\combined_ENVOYTEX_news.csv, today, Accuracy: 88.89%
+./data\combined_ENVOYTEX_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_ENVOYTEX_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- ENVOYTEX--------------------
+---------- Start- ESQUIRENIT--------------------
+./data\combined_ESQUIRENIT_news.csv, today, Accuracy: null
+./data\combined_ESQUIRENIT_news.csv, tomorrow, Accuracy: null
+./data\combined_ESQUIRENIT_news.csv, day_after_tomorrow, Accuracy: null
+---------- End- ESQUIRENIT--------------------
+---------- Start- ETL--------------------
+./data\combined_ETL_news.csv, today, Accuracy: 33.33%
+./data\combined_ETL_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_ETL_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- ETL--------------------
+---------- Start- EXIM1STMF--------------------
+./data\combined_EXIM1STMF_news.csv, today, Accuracy: 97.22%
+./data\combined_EXIM1STMF_news.csv, tomorrow, Accuracy: 80.56%
+./data\combined_EXIM1STMF_news.csv, day_after_tomorrow, Accuracy: 91.67%
+---------- End- EXIM1STMF--------------------
+---------- Start- EXIMBANK--------------------
+./data\combined_EXIMBANK_news.csv, today, Accuracy: 80.00%
+./data\combined_EXIMBANK_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_EXIMBANK_news.csv, day_after_tomorrow, Accuracy: 93.33%
+---------- End- EXIMBANK--------------------
+---------- Start- FAMILYTEX--------------------
+./data\combined_FAMILYTEX_news.csv, today, Accuracy: 100.00%
+./data\combined_FAMILYTEX_news.csv, tomorrow, Accuracy: 71.43%
+./data\combined_FAMILYTEX_news.csv, day_after_tomorrow, Accuracy: 85.71%
+---------- End- FAMILYTEX--------------------
+---------- Start- FARCHEM--------------------
+./data\combined_FARCHEM_news.csv, today, Accuracy: 90.00%
+./data\combined_FARCHEM_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_FARCHEM_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- FARCHEM--------------------
+---------- Start- FAREASTFIN--------------------
+./data\combined_FAREASTFIN_news.csv, today, Accuracy: 44.44%
+./data\combined_FAREASTFIN_news.csv, tomorrow, Accuracy: 77.78%
+./data\combined_FAREASTFIN_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- FAREASTFIN--------------------
+---------- Start- FAREASTLIF--------------------
+./data\combined_FAREASTLIF_news.csv, today, Accuracy: 42.86%
+./data\combined_FAREASTLIF_news.csv, tomorrow, Accuracy: 71.43%
+./data\combined_FAREASTLIF_news.csv, day_after_tomorrow, Accuracy: 85.71%
+---------- End- FAREASTLIF--------------------
+---------- Start- FASFIN--------------------
+./data\combined_FASFIN_news.csv, today, Accuracy: 84.62%
+./data\combined_FASFIN_news.csv, tomorrow, Accuracy: 84.62%
+./data\combined_FASFIN_news.csv, day_after_tomorrow, Accuracy: 84.62%
+---------- End- FASFIN--------------------
+---------- Start- FBFIF--------------------
+./data\combined_FBFIF_news.csv, today, Accuracy: 92.68%
+./data\combined_FBFIF_news.csv, tomorrow, Accuracy: 80.49%
+./data\combined_FBFIF_news.csv, day_after_tomorrow, Accuracy: 85.37%
+---------- End- FBFIF--------------------
+---------- Start- FEDERALINS--------------------
+./data\combined_FEDERALINS_news.csv, today, Accuracy: 66.67%
+./data\combined_FEDERALINS_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_FEDERALINS_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- FEDERALINS--------------------
+---------- Start- FEKDIL--------------------
+./data\combined_FEKDIL_news.csv, today, Accuracy: 66.67%
+./data\combined_FEKDIL_news.csv, tomorrow, Accuracy: 88.89%
+./data\combined_FEKDIL_news.csv, day_after_tomorrow, Accuracy: 77.78%
+---------- End- FEKDIL--------------------
+---------- Start- FINEFOODS--------------------
+./data\combined_FINEFOODS_news.csv, today, Accuracy: 63.64%
+./data\combined_FINEFOODS_news.csv, tomorrow, Accuracy: 54.55%
+./data\combined_FINEFOODS_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- FINEFOODS--------------------
+---------- Start- FIRSTFIN--------------------
+./data\combined_FIRSTFIN_news.csv, today, Accuracy: 100.00%
+---------- Start- FIRSTFIN--------------------
+./data\combined_FIRSTFIN_news.csv, today, Accuracy: 100.00%
+./data\combined_FIRSTFIN_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_FIRSTFIN_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- FIRSTFIN--------------------
+---------- Start- FIRSTSBANK--------------------
+./data\combined_FIRSTSBANK_news.csv, today, Accuracy: 100.00%
+./data\combined_FIRSTSBANK_news.csv, tomorrow, Accuracy: 78.57%
+./data\combined_FIRSTSBANK_news.csv, day_after_tomorrow, Accuracy: 85.71%
+---------- End- FIRSTSBANK--------------------
+---------- Start- FORTUNE--------------------
+./data\combined_FORTUNE_news.csv, today, Accuracy: 100.00%
+./data\combined_FORTUNE_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_FORTUNE_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- FORTUNE--------------------
+---------- Start- FUWANGCER--------------------
+./data\combined_FUWANGCER_news.csv, today, Accuracy: 91.67%
+./data\combined_FUWANGCER_news.csv, tomorrow, Accuracy: 91.67%
+./data\combined_FUWANGCER_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- FUWANGCER--------------------
+---------- Start- FUWANGFOOD--------------------
+./data\combined_FUWANGFOOD_news.csv, today, Accuracy: 83.33%
+./data\combined_FUWANGFOOD_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_FUWANGFOOD_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- FUWANGFOOD--------------------
+---------- Start- GBBPOWER--------------------
+./data\combined_GBBPOWER_news.csv, today, Accuracy: 66.67%
+./data\combined_GBBPOWER_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_GBBPOWER_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- GBBPOWER--------------------
+---------- Start- GEMINISEA--------------------
+./data\combined_GEMINISEA_news.csv, today, Accuracy: 84.62%
+./data\combined_GEMINISEA_news.csv, tomorrow, Accuracy: 76.92%
+./data\combined_GEMINISEA_news.csv, day_after_tomorrow, Accuracy: 92.31%
+---------- End- GEMINISEA--------------------
+---------- Start- GENEXIL--------------------
+./data\combined_GENEXIL_news.csv, today, Accuracy: null
+./data\combined_GENEXIL_news.csv, tomorrow, Accuracy: null
+./data\combined_GENEXIL_news.csv, day_after_tomorrow, Accuracy: null
+---------- End- GENEXIL--------------------
+---------- Start- GENNEXT--------------------
+./data\combined_GENNEXT_news.csv, today, Accuracy: 81.82%
+./data\combined_GENNEXT_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_GENNEXT_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- GENNEXT--------------------
+---------- Start- GHAIL--------------------
+./data\combined_GHAIL_news.csv, today, Accuracy: 70.00%
+./data\combined_GHAIL_news.csv, tomorrow, Accuracy: 90.00%
+./data\combined_GHAIL_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- GHAIL--------------------
+---------- Start- GHCL--------------------
+./data\combined_GHCL_news.csv, today, Accuracy: 57.14%
+./data\combined_GHCL_news.csv, tomorrow, Accuracy: 85.71%
+./data\combined_GHCL_news.csv, day_after_tomorrow, Accuracy: 71.43%
+---------- End- GHCL--------------------
+---------- Start- GLAXOSMITH--------------------
+./data\combined_GLAXOSMITH_news.csv, today, Accuracy: 77.78%
+./data\combined_GLAXOSMITH_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_GLAXOSMITH_news.csv, day_after_tomorrow, Accuracy: 77.78%
+---------- End- GLAXOSMITH--------------------
+---------- Start- GLOBALINS--------------------
+./data\combined_GLOBALINS_news.csv, today, Accuracy: 33.33%
+./data\combined_GLOBALINS_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_GLOBALINS_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- GLOBALINS--------------------
+---------- Start- GOLDENSON--------------------
+./data\combined_GOLDENSON_news.csv, today, Accuracy: 83.33%
+./data\combined_GOLDENSON_news.csv, tomorrow, Accuracy: 50.00%
+./data\combined_GOLDENSON_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- GOLDENSON--------------------
+---------- Start- GPHISPAT--------------------
+./data\combined_GPHISPAT_news.csv, today, Accuracy: 57.14%
+./data\combined_GPHISPAT_news.csv, tomorrow, Accuracy: 92.86%
+./data\combined_GPHISPAT_news.csv, day_after_tomorrow, Accuracy: 92.86%
+---------- End- GPHISPAT--------------------
+---------- Start- GP--------------------
+./data\combined_GP_news.csv, today, Accuracy: 68.75%
+./data\combined_GP_news.csv, tomorrow, Accuracy: 56.25%
+./data\combined_GP_news.csv, day_after_tomorrow, Accuracy: 68.75%
+---------- End- GP--------------------
+---------- Start- GQBALLPEN--------------------
+./data\combined_GQBALLPEN_news.csv, today, Accuracy: 50.00%
+./data\combined_GQBALLPEN_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_GQBALLPEN_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- GQBALLPEN--------------------
+---------- Start- GRAMEENS2--------------------
+./data\combined_GRAMEENS2_news.csv, today, Accuracy: 77.78%
+./data\combined_GRAMEENS2_news.csv, tomorrow, Accuracy: 86.67%
+./data\combined_GRAMEENS2_news.csv, day_after_tomorrow, Accuracy: 68.89%
+---------- End- GRAMEENS2--------------------
+---------- Start- GREENDELMF--------------------
+./data\combined_GREENDELMF_news.csv, today, Accuracy: 68.18%
+./data\combined_GREENDELMF_news.csv, tomorrow, Accuracy: 70.45%
+./data\combined_GREENDELMF_news.csv, day_after_tomorrow, Accuracy: 63.64%
+---------- End- GREENDELMF--------------------
+---------- Start- GREENDELT--------------------
+./data\combined_GREENDELT_news.csv, today, Accuracy: 52.94%
+./data\combined_GREENDELT_news.csv, tomorrow, Accuracy: 82.35%
+./data\combined_GREENDELT_news.csv, day_after_tomorrow, Accuracy: 82.35%
+---------- End- GREENDELT--------------------
+---------- Start- GSPFINANCE--------------------
+./data\combined_GSPFINANCE_news.csv, today, Accuracy: 66.67%
+./data\combined_GSPFINANCE_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_GSPFINANCE_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- GSPFINANCE--------------------
+---------- Start- HAKKANIPUL--------------------
+./data\combined_HAKKANIPUL_news.csv, today, Accuracy: 84.62%
+./data\combined_HAKKANIPUL_news.csv, tomorrow, Accuracy: 92.31%
+./data\combined_HAKKANIPUL_news.csv, day_after_tomorrow, Accuracy: 69.23%
+---------- End- HAKKANIPUL--------------------
+---------- Start- HEIDELBCEM--------------------
+./data\combined_HEIDELBCEM_news.csv, today, Accuracy: 40.00%
+./data\combined_HEIDELBCEM_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_HEIDELBCEM_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- HEIDELBCEM--------------------
+---------- Start- HFL--------------------
+./data\combined_HFL_news.csv, today, Accuracy: 33.33%
+./data\combined_HFL_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_HFL_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- HFL--------------------
+---------- Start- HRTEX--------------------
+./data\combined_HRTEX_news.csv, today, Accuracy: 33.33%
+./data\combined_HRTEX_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_HRTEX_news.csv, day_after_tomorrow, Accuracy: 77.78%
+---------- End- HRTEX--------------------
+---------- Start- HWAWELLTEX--------------------
+./data\combined_HWAWELLTEX_news.csv, today, Accuracy: 87.50%
+./data\combined_HWAWELLTEX_news.csv, tomorrow, Accuracy: 37.50%
+./data\combined_HWAWELLTEX_news.csv, day_after_tomorrow, Accuracy: 37.50%
+---------- End- HWAWELLTEX--------------------
+---------- Start- IBBLPBOND--------------------
+./data\combined_IBBLPBOND_news.csv, today, Accuracy: 66.67%
+./data\combined_IBBLPBOND_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_IBBLPBOND_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- IBBLPBOND--------------------
+---------- Start- IBNSINA--------------------
+./data\combined_IBNSINA_news.csv, today, Accuracy: 53.33%
+./data\combined_IBNSINA_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_IBNSINA_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- IBNSINA--------------------
+---------- Start- IBP--------------------
+./data\combined_IBP_news.csv, today, Accuracy: 0.00%
+./data\combined_IBP_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_IBP_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- IBP--------------------
+---------- Start- ICB2NDNRB--------------------
+./data\combined_ICB2NDNRB_news.csv, today, Accuracy: 76.92%
+./data\combined_ICB2NDNRB_news.csv, tomorrow, Accuracy: 89.74%
+./data\combined_ICB2NDNRB_news.csv, day_after_tomorrow, Accuracy: 76.92%
+---------- End- ICB2NDNRB--------------------
+---------- Start- ICB3RDNRB--------------------
+./data\combined_ICB3RDNRB_news.csv, today, Accuracy: 76.74%
+./data\combined_ICB3RDNRB_news.csv, tomorrow, Accuracy: 79.07%
+./data\combined_ICB3RDNRB_news.csv, day_after_tomorrow, Accuracy: 88.37%
+---------- End- ICB3RDNRB--------------------
+---------- Start- ICBAGRANI1--------------------
+./data\combined_ICBAGRANI1_news.csv, today, Accuracy: 80.00%
+./data\combined_ICBAGRANI1_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_ICBAGRANI1_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- ICBAGRANI1--------------------
+---------- Start- ICBAMCL2ND--------------------
+./data\combined_ICBAMCL2ND_news.csv, today, Accuracy: 74.42%
+./data\combined_ICBAMCL2ND_news.csv, tomorrow, Accuracy: 65.12%
+./data\combined_ICBAMCL2ND_news.csv, day_after_tomorrow, Accuracy: 67.44%
+---------- End- ICBAMCL2ND--------------------
+---------- Start- ICBEPMF1S1--------------------
+./data\combined_ICBEPMF1S1_news.csv, today, Accuracy: 81.40%
+./data\combined_ICBEPMF1S1_news.csv, tomorrow, Accuracy: 83.72%
+./data\combined_ICBEPMF1S1_news.csv, day_after_tomorrow, Accuracy: 74.42%
+---------- End- ICBEPMF1S1--------------------
+---------- Start- ICBIBANK--------------------
+./data\combined_ICBIBANK_news.csv, today, Accuracy: 50.00%
+./data\combined_ICBIBANK_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_ICBIBANK_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- ICBIBANK--------------------
+---------- Start- ICBSONALI1--------------------
+./data\combined_ICBSONALI1_news.csv, today, Accuracy: 91.67%
+./data\combined_ICBSONALI1_news.csv, tomorrow, Accuracy: 88.89%
+./data\combined_ICBSONALI1_news.csv, day_after_tomorrow, Accuracy: 91.67%
+---------- End- ICBSONALI1--------------------
+---------- Start- ICB--------------------
+./data\combined_ICB_news.csv, today, Accuracy: 80.77%
+./data\combined_ICB_news.csv, tomorrow, Accuracy: 76.92%
+./data\combined_ICB_news.csv, day_after_tomorrow, Accuracy: 84.62%
+---------- End- ICB--------------------
+---------- Start- IDLC--------------------
+./data\combined_IDLC_news.csv, today, Accuracy: 61.54%
+./data\combined_IDLC_news.csv, tomorrow, Accuracy: 76.92%
+./data\combined_IDLC_news.csv, day_after_tomorrow, Accuracy: 76.92%
+---------- End- IDLC--------------------
+---------- Start- IFADAUTOS--------------------
+./data\combined_IFADAUTOS_news.csv, today, Accuracy: 80.00%
+./data\combined_IFADAUTOS_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_IFADAUTOS_news.csv, day_after_tomorrow, Accuracy: 70.00%
+---------- End- IFADAUTOS--------------------
+---------- Start- IFIC1STMF--------------------
+./data\combined_IFIC1STMF_news.csv, today, Accuracy: 93.18%
+./data\combined_IFIC1STMF_news.csv, tomorrow, Accuracy: 84.09%
+./data\combined_IFIC1STMF_news.csv, day_after_tomorrow, Accuracy: 59.09%
+---------- End- IFIC1STMF--------------------
+---------- Start- IFIC--------------------
+./data\combined_IFIC_news.csv, today, Accuracy: 54.55%
+./data\combined_IFIC_news.csv, tomorrow, Accuracy: 63.64%
+./data\combined_IFIC_news.csv, day_after_tomorrow, Accuracy: 63.64%
+---------- End- IFIC--------------------
+---------- Start- IFILISLMF1--------------------
+./data\combined_IFILISLMF1_news.csv, today, Accuracy: 81.40%
+./data\combined_IFILISLMF1_news.csv, tomorrow, Accuracy: 79.07%
+./data\combined_IFILISLMF1_news.csv, day_after_tomorrow, Accuracy: 62.79%
+---------- End- IFILISLMF1--------------------
+---------- Start- ILFSL--------------------
+./data\combined_ILFSL_news.csv, today, Accuracy: 64.29%
+./data\combined_ILFSL_news.csv, tomorrow, Accuracy: 78.57%
+./data\combined_ILFSL_news.csv, day_after_tomorrow, Accuracy: 71.43%
+---------- End- ILFSL--------------------
+---------- Start- IMAMBUTTON--------------------
+./data\combined_IMAMBUTTON_news.csv, today, Accuracy: 54.55%
+./data\combined_IMAMBUTTON_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_IMAMBUTTON_news.csv, day_after_tomorrow, Accuracy: 72.73%
+---------- End- IMAMBUTTON--------------------
+---------- Start- INTECH--------------------
+./data\combined_INTECH_news.csv, today, Accuracy: 54.55%
+./data\combined_INTECH_news.csv, tomorrow, Accuracy: 81.82%
+./data\combined_INTECH_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- INTECH--------------------
+---------- Start- INTRACO--------------------
+./data\combined_INTRACO_news.csv, today, Accuracy: 100.00%
+./data\combined_INTRACO_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_INTRACO_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- INTRACO--------------------
+---------- Start- IPDC--------------------
+./data\combined_IPDC_news.csv, today, Accuracy: 58.33%
+./data\combined_IPDC_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_IPDC_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- IPDC--------------------
+---------- Start- ISLAMIBANK--------------------
+./data\combined_ISLAMIBANK_news.csv, today, Accuracy: 44.44%
+./data\combined_ISLAMIBANK_news.csv, tomorrow, Accuracy: 88.89%
+./data\combined_ISLAMIBANK_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- ISLAMIBANK--------------------
+---------- Start- ISLAMICFIN--------------------
+./data\combined_ISLAMICFIN_news.csv, today, Accuracy: 68.42%
+./data\combined_ISLAMICFIN_news.csv, tomorrow, Accuracy: 89.47%
+./data\combined_ISLAMICFIN_news.csv, day_after_tomorrow, Accuracy: 89.47%
+---------- End- ISLAMICFIN--------------------
+---------- Start- ISLAMIINS--------------------
+./data\combined_ISLAMIINS_news.csv, today, Accuracy: 50.00%
+./data\combined_ISLAMIINS_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_ISLAMIINS_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- ISLAMIINS--------------------
+---------- Start- ISNLTD--------------------
+./data\combined_ISNLTD_news.csv, today, Accuracy: 38.46%
+./data\combined_ISNLTD_news.csv, tomorrow, Accuracy: 61.54%
+./data\combined_ISNLTD_news.csv, day_after_tomorrow, Accuracy: 76.92%
+---------- End- ISNLTD--------------------
+---------- Start- ITC--------------------
+./data\combined_ITC_news.csv, today, Accuracy: 40.00%
+./data\combined_ITC_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_ITC_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- ITC--------------------
+---------- Start- JAMUNABANK--------------------
+./data\combined_JAMUNABANK_news.csv, today, Accuracy: 61.11%
+./data\combined_JAMUNABANK_news.csv, tomorrow, Accuracy: 77.78%
+./data\combined_JAMUNABANK_news.csv, day_after_tomorrow, Accuracy: 88.89%
+---------- End- JAMUNABANK--------------------
+---------- Start- JAMUNAOIL--------------------
+./data\combined_JAMUNAOIL_news.csv, today, Accuracy: 80.00%
+./data\combined_JAMUNAOIL_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_JAMUNAOIL_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- JAMUNAOIL--------------------
+---------- Start- JANATAINS--------------------
+./data\combined_JANATAINS_news.csv, today, Accuracy: 75.00%
+./data\combined_JANATAINS_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_JANATAINS_news.csv, day_after_tomorrow, Accuracy: 87.50%
+---------- End- JANATAINS--------------------
+---------- Start- JMISMDL--------------------
+./data\combined_JMISMDL_news.csv, today, Accuracy: 54.55%
+./data\combined_JMISMDL_news.csv, tomorrow, Accuracy: 63.64%
+./data\combined_JMISMDL_news.csv, day_after_tomorrow, Accuracy: 63.64%
+---------- End- JMISMDL--------------------
+---------- Start- JUTESPINN--------------------
+./data\combined_JUTESPINN_news.csv, today, Accuracy: 63.64%
+./data\combined_JUTESPINN_news.csv, tomorrow, Accuracy: 81.82%
+./data\combined_JUTESPINN_news.csv, day_after_tomorrow, Accuracy: 90.91%
+---------- End- JUTESPINN--------------------
+---------- Start- KARNAPHULI--------------------
+./data\combined_KARNAPHULI_news.csv, today, Accuracy: 63.64%
+./data\combined_KARNAPHULI_news.csv, tomorrow, Accuracy: 81.82%
+./data\combined_KARNAPHULI_news.csv, day_after_tomorrow, Accuracy: 63.64%
+---------- End- KARNAPHULI--------------------
+---------- Start- KAY&QUE--------------------
+./data\combined_KAY&QUE_news.csv, today, Accuracy: 81.82%
+./data\combined_KAY&QUE_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_KAY&QUE_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- KAY&QUE--------------------
+---------- Start- KBPPWBIL--------------------
+./data\combined_KBPPWBIL_news.csv, today, Accuracy: 57.14%
+./data\combined_KBPPWBIL_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_KBPPWBIL_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- KBPPWBIL--------------------
+---------- Start- KDSALTD--------------------
+./data\combined_KDSALTD_news.csv, today, Accuracy: 57.14%
+./data\combined_KDSALTD_news.csv, tomorrow, Accuracy: 57.14%
+./data\combined_KDSALTD_news.csv, day_after_tomorrow, Accuracy: 57.14%
+---------- End- KDSALTD--------------------
+---------- Start- KEYACOSMET--------------------
+./data\combined_KEYACOSMET_news.csv, today, Accuracy: 87.50%
+./data\combined_KEYACOSMET_news.csv, tomorrow, Accuracy: 87.50%
+./data\combined_KEYACOSMET_news.csv, day_after_tomorrow, Accuracy: 81.25%
+---------- End- KEYACOSMET--------------------
+---------- Start- KOHINOOR--------------------
+./data\combined_KOHINOOR_news.csv, today, Accuracy: 33.33%
+./data\combined_KOHINOOR_news.csv, tomorrow, Accuracy: 77.78%
+./data\combined_KOHINOOR_news.csv, day_after_tomorrow, Accuracy: 55.56%
+---------- End- KOHINOOR--------------------
+---------- Start- KPCL--------------------
+./data\combined_KPCL_news.csv, today, Accuracy: 66.67%
+./data\combined_KPCL_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_KPCL_news.csv, day_after_tomorrow, Accuracy: 91.67%
+---------- End- KPCL--------------------
+---------- Start- KPPL--------------------
+./data\combined_KPPL_news.csv, today, Accuracy: 87.50%
+./data\combined_KPPL_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_KPPL_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- KPPL--------------------
+---------- Start- KTL--------------------
+./data\combined_KTL_news.csv, today, Accuracy: 100.00%
+./data\combined_KTL_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_KTL_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- KTL--------------------
+---------- Start- LANKABAFIN--------------------
+./data\combined_LANKABAFIN_news.csv, today, Accuracy: 80.00%
+./data\combined_LANKABAFIN_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_LANKABAFIN_news.csv, day_after_tomorrow, Accuracy: 93.33%
+---------- End- LANKABAFIN--------------------
+---------- Start- LEGACYFOOT--------------------
+./data\combined_LEGACYFOOT_news.csv, today, Accuracy: 68.42%
+./data\combined_LEGACYFOOT_news.csv, tomorrow, Accuracy: 89.47%
+./data\combined_LEGACYFOOT_news.csv, day_after_tomorrow, Accuracy: 78.95%
+---------- End- LEGACYFOOT--------------------
+---------- Start- LHBL--------------------
+./data\combined_LHBL_news.csv, today, Accuracy: 100.00%
+./data\combined_LHBL_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_LHBL_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- LHBL--------------------
+---------- Start- LIBRAINFU--------------------
+./data\combined_LIBRAINFU_news.csv, today, Accuracy: 66.67%
+./data\combined_LIBRAINFU_news.csv, tomorrow, Accuracy: 44.44%
+./data\combined_LIBRAINFU_news.csv, day_after_tomorrow, Accuracy: 77.78%
+---------- End- LIBRAINFU--------------------
+---------- Start- LINDEBD--------------------
+./data\combined_LINDEBD_news.csv, today, Accuracy: 66.67%
+./data\combined_LINDEBD_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_LINDEBD_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- LINDEBD--------------------
+---------- Start- LRGLOBMF1--------------------
+./data\combined_LRGLOBMF1_news.csv, today, Accuracy: 77.27%
+./data\combined_LRGLOBMF1_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_LRGLOBMF1_news.csv, day_after_tomorrow, Accuracy: 79.55%
+---------- End- LRGLOBMF1--------------------
+---------- Start- MAKSONSPIN--------------------
+./data\combined_MAKSONSPIN_news.csv, today, Accuracy: 83.33%
+./data\combined_MAKSONSPIN_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_MAKSONSPIN_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- MAKSONSPIN--------------------
+---------- Start- MALEKSPIN--------------------
+./data\combined_MALEKSPIN_news.csv, today, Accuracy: 72.73%
+./data\combined_MALEKSPIN_news.csv, tomorrow, Accuracy: 90.91%
+./data\combined_MALEKSPIN_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- MALEKSPIN--------------------
+---------- Start- MARICO--------------------
+./data\combined_MARICO_news.csv, today, Accuracy: 57.89%
+./data\combined_MARICO_news.csv, tomorrow, Accuracy: 73.68%
+./data\combined_MARICO_news.csv, day_after_tomorrow, Accuracy: 84.21%
+---------- End- MARICO--------------------
+---------- Start- MATINSPINN--------------------
+./data\combined_MATINSPINN_news.csv, today, Accuracy: 66.67%
+./data\combined_MATINSPINN_news.csv, tomorrow, Accuracy: 44.44%
+./data\combined_MATINSPINN_news.csv, day_after_tomorrow, Accuracy: 55.56%
+---------- End- MATINSPINN--------------------
+---------- Start- MBL1STMF--------------------
+./data\combined_MBL1STMF_news.csv, today, Accuracy: 74.42%
+./data\combined_MBL1STMF_news.csv, tomorrow, Accuracy: 83.72%
+./data\combined_MBL1STMF_news.csv, day_after_tomorrow, Accuracy: 76.74%
+---------- End- MBL1STMF--------------------
+---------- Start- MEGCONMILK--------------------
+./data\combined_MEGCONMILK_news.csv, today, Accuracy: 80.00%
+./data\combined_MEGCONMILK_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_MEGCONMILK_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- MEGCONMILK--------------------
+---------- Start- MEGHNACEM--------------------
+./data\combined_MEGHNACEM_news.csv, today, Accuracy: 66.67%
+./data\combined_MEGHNACEM_news.csv, tomorrow, Accuracy: 44.44%
+./data\combined_MEGHNACEM_news.csv, day_after_tomorrow, Accuracy: 88.89%
+---------- End- MEGHNACEM--------------------
+---------- Start- MEGHNALIFE--------------------
+./data\combined_MEGHNALIFE_news.csv, today, Accuracy: 66.67%
+./data\combined_MEGHNALIFE_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_MEGHNALIFE_news.csv, day_after_tomorrow, Accuracy: 44.44%
+---------- End- MEGHNALIFE--------------------
+---------- Start- MEGHNAPET--------------------
+./data\combined_MEGHNAPET_news.csv, today, Accuracy: 100.00%
+./data\combined_MEGHNAPET_news.csv, tomorrow, Accuracy: 88.89%
+./data\combined_MEGHNAPET_news.csv, day_after_tomorrow, Accuracy: 88.89%
+---------- End- MEGHNAPET--------------------
+---------- Start- MERCANBANK--------------------
+./data\combined_MERCANBANK_news.csv, today, Accuracy: 58.62%
+./data\combined_MERCANBANK_news.csv, tomorrow, Accuracy: 79.31%
+./data\combined_MERCANBANK_news.csv, day_after_tomorrow, Accuracy: 75.86%
+---------- End- MERCANBANK--------------------
+---------- Start- MERCINS--------------------
+./data\combined_MERCINS_news.csv, today, Accuracy: 41.67%
+./data\combined_MERCINS_news.csv, tomorrow, Accuracy: 41.67%
+./data\combined_MERCINS_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- MERCINS--------------------
+---------- Start- METROSPIN--------------------
+./data\combined_METROSPIN_news.csv, today, Accuracy: 72.73%
+./data\combined_METROSPIN_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_METROSPIN_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- METROSPIN--------------------
+---------- Start- MHSML--------------------
+./data\combined_MHSML_news.csv, today, Accuracy: 55.56%
+./data\combined_MHSML_news.csv, tomorrow, Accuracy: 55.56%
+./data\combined_MHSML_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- MHSML--------------------
+---------- Start- MICEMENT--------------------
+./data\combined_MICEMENT_news.csv, today, Accuracy: 70.00%
+./data\combined_MICEMENT_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_MICEMENT_news.csv, day_after_tomorrow, Accuracy: 40.00%
+---------- End- MICEMENT--------------------
+---------- Start- MIDASFIN--------------------
+./data\combined_MIDASFIN_news.csv, today, Accuracy: 50.00%
+./data\combined_MIDASFIN_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_MIDASFIN_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- MIDASFIN--------------------
+---------- Start- MIRACLEIND--------------------
+./data\combined_MIRACLEIND_news.csv, today, Accuracy: 33.33%
+./data\combined_MIRACLEIND_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_MIRACLEIND_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- MIRACLEIND--------------------
+---------- Start- MITHUNKNIT--------------------
+./data\combined_MITHUNKNIT_news.csv, today, Accuracy: 53.85%
+./data\combined_MITHUNKNIT_news.csv, tomorrow, Accuracy: 69.23%
+./data\combined_MITHUNKNIT_news.csv, day_after_tomorrow, Accuracy: 61.54%
+---------- End- MITHUNKNIT--------------------
+---------- Start- MJLBD--------------------
+./data\combined_MJLBD_news.csv, today, Accuracy: 50.00%
+./data\combined_MJLBD_news.csv, tomorrow, Accuracy: 50.00%
+./data\combined_MJLBD_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- MJLBD--------------------
+---------- Start- MLDYEING--------------------
+./data\combined_MLDYEING_news.csv, today, Accuracy: 100.00%
+./data\combined_MLDYEING_news.csv, tomorrow, Accuracy: 0.00%
+./data\combined_MLDYEING_news.csv, day_after_tomorrow, Accuracy: 50.00%
+---------- End- MLDYEING--------------------
+---------- Start- MODERNDYE--------------------
+./data\combined_MODERNDYE_news.csv, today, Accuracy: 33.33%
+./data\combined_MODERNDYE_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_MODERNDYE_news.csv, day_after_tomorrow, Accuracy: 77.78%
+---------- End- MODERNDYE--------------------
+---------- Start- MONNOCERA--------------------
+./data\combined_MONNOCERA_news.csv, today, Accuracy: 78.57%
+./data\combined_MONNOCERA_news.csv, tomorrow, Accuracy: 64.29%
+./data\combined_MONNOCERA_news.csv, day_after_tomorrow, Accuracy: 57.14%
+---------- End- MONNOCERA--------------------
+---------- Start- MONNOSTAF--------------------
+./data\combined_MONNOSTAF_news.csv, today, Accuracy: 54.55%
+./data\combined_MONNOSTAF_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_MONNOSTAF_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- MONNOSTAF--------------------
+---------- Start- MPETROLEUM--------------------
+./data\combined_MPETROLEUM_news.csv, today, Accuracy: 50.00%
+./data\combined_MPETROLEUM_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_MPETROLEUM_news.csv, day_after_tomorrow, Accuracy: 50.00%
+---------- End- MPETROLEUM--------------------
+---------- Start- MTB--------------------
+./data\combined_MTB_news.csv, today, Accuracy: 70.59%
+./data\combined_MTB_news.csv, tomorrow, Accuracy: 64.71%
+./data\combined_MTB_news.csv, day_after_tomorrow, Accuracy: 70.59%
+---------- End- MTB--------------------
+---------- Start- NAHEEACP--------------------
+./data\combined_NAHEEACP_news.csv, today, Accuracy: 100.00%
+./data\combined_NAHEEACP_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_NAHEEACP_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- NAHEEACP--------------------
+---------- Start- NATLIFEINS--------------------
+./data\combined_NATLIFEINS_news.csv, today, Accuracy: 73.33%
+./data\combined_NATLIFEINS_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_NATLIFEINS_news.csv, day_after_tomorrow, Accuracy: 60.00%
+---------- End- NATLIFEINS--------------------
+---------- Start- NAVANACNG--------------------
+./data\combined_NAVANACNG_news.csv, today, Accuracy: 66.67%
+./data\combined_NAVANACNG_news.csv, tomorrow, Accuracy: 55.56%
+./data\combined_NAVANACNG_news.csv, day_after_tomorrow, Accuracy: 55.56%
+---------- End- NAVANACNG--------------------
+---------- Start- NBL--------------------
+./data\combined_NBL_news.csv, today, Accuracy: 69.23%
+./data\combined_NBL_news.csv, tomorrow, Accuracy: 84.62%
+./data\combined_NBL_news.csv, day_after_tomorrow, Accuracy: 61.54%
+---------- End- NBL--------------------
+---------- Start- NCCBANK--------------------
+./data\combined_NCCBANK_news.csv, today, Accuracy: 66.67%
+./data\combined_NCCBANK_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_NCCBANK_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- NCCBANK--------------------
+---------- Start- NCCBLMF1--------------------
+./data\combined_NCCBLMF1_news.csv, today, Accuracy: 76.19%
+./data\combined_NCCBLMF1_news.csv, tomorrow, Accuracy: 73.81%
+./data\combined_NCCBLMF1_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- NCCBLMF1--------------------
+---------- Start- NFML--------------------
+./data\combined_NFML_news.csv, today, Accuracy: 87.50%
+./data\combined_NFML_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_NFML_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- NFML--------------------
+---------- Start- NHFIL--------------------
+./data\combined_NHFIL_news.csv, today, Accuracy: 78.57%
+./data\combined_NHFIL_news.csv, tomorrow, Accuracy: 78.57%
+./data\combined_NHFIL_news.csv, day_after_tomorrow, Accuracy: 57.14%
+---------- End- NHFIL--------------------
+---------- Start- NITOLINS--------------------
+./data\combined_NITOLINS_news.csv, today, Accuracy: 60.00%
+./data\combined_NITOLINS_news.csv, tomorrow, Accuracy: 90.00%
+./data\combined_NITOLINS_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- NITOLINS--------------------
+---------- Start- NLI1STMF--------------------
+./data\combined_NLI1STMF_news.csv, today, Accuracy: 85.37%
+./data\combined_NLI1STMF_news.csv, tomorrow, Accuracy: 78.05%
+./data\combined_NLI1STMF_news.csv, day_after_tomorrow, Accuracy: 82.93%
+---------- End- NLI1STMF--------------------
+---------- Start- NORTHERN--------------------
+./data\combined_NORTHERN_news.csv, today, Accuracy: 69.23%
+./data\combined_NORTHERN_news.csv, tomorrow, Accuracy: 84.62%
+./data\combined_NORTHERN_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- NORTHERN--------------------
+---------- Start- NORTHRNINS--------------------
+./data\combined_NORTHRNINS_news.csv, today, Accuracy: 50.00%
+./data\combined_NORTHRNINS_news.csv, tomorrow, Accuracy: 40.00%
+./data\combined_NORTHRNINS_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- NORTHRNINS--------------------
+---------- Start- NPOLYMAR--------------------
+./data\combined_NPOLYMAR_news.csv, today, Accuracy: 80.00%
+./data\combined_NPOLYMAR_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_NPOLYMAR_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- NPOLYMAR--------------------
+---------- Start- NTC--------------------
+./data\combined_NTC_news.csv, today, Accuracy: 77.78%
+./data\combined_NTC_news.csv, tomorrow, Accuracy: 88.89%
+./data\combined_NTC_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- NTC--------------------
+---------- Start- NTLTUBES--------------------
+./data\combined_NTLTUBES_news.csv, today, Accuracy: 66.67%
+./data\combined_NTLTUBES_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_NTLTUBES_news.csv, day_after_tomorrow, Accuracy: 88.89%
+---------- End- NTLTUBES--------------------
+---------- Start- NURANI--------------------
+./data\combined_NURANI_news.csv, today, Accuracy: 75.00%
+./data\combined_NURANI_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_NURANI_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- NURANI--------------------
+---------- Start- OAL--------------------
+./data\combined_OAL_news.csv, today, Accuracy: 66.67%
+./data\combined_OAL_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_OAL_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- OAL--------------------
+---------- Start- OIMEX--------------------
+./data\combined_OIMEX_news.csv, today, Accuracy: 75.00%
+./data\combined_OIMEX_news.csv, tomorrow, Accuracy: 75.00%
+---------- Start- OLYMPIC--------------------
+./data\combined_OLYMPIC_news.csv, today, Accuracy: 50.00%
+./data\combined_OLYMPIC_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_OLYMPIC_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- OLYMPIC--------------------
+---------- Start- ONEBANKLTD--------------------
+./data\combined_ONEBANKLTD_news.csv, today, Accuracy: 66.67%
+./data\combined_ONEBANKLTD_news.csv, tomorrow, Accuracy: 71.43%
+./data\combined_ONEBANKLTD_news.csv, day_after_tomorrow, Accuracy: 85.71%
+---------- End- ONEBANKLTD--------------------
+---------- Start- ORIONINFU--------------------
+./data\combined_ORIONINFU_news.csv, today, Accuracy: 44.44%
+./data\combined_ORIONINFU_news.csv, tomorrow, Accuracy: 77.78%
+./data\combined_ORIONINFU_news.csv, day_after_tomorrow, Accuracy: 88.89%
+---------- End- ORIONINFU--------------------
+---------- Start- ORIONPHARM--------------------
+./data\combined_ORIONPHARM_news.csv, today, Accuracy: 50.00%
+./data\combined_ORIONPHARM_news.csv, tomorrow, Accuracy: 87.50%
+./data\combined_ORIONPHARM_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- ORIONPHARM--------------------
+---------- Start- PADMALIFE--------------------
+./data\combined_PADMALIFE_news.csv, today, Accuracy: 46.67%
+./data\combined_PADMALIFE_news.csv, tomorrow, Accuracy: 86.67%
+./data\combined_PADMALIFE_news.csv, day_after_tomorrow, Accuracy: 86.67%
+---------- End- PADMALIFE--------------------
+---------- Start- PADMAOIL--------------------
+./data\combined_PADMAOIL_news.csv, today, Accuracy: 70.00%
+./data\combined_PADMAOIL_news.csv, tomorrow, Accuracy: 90.00%
+./data\combined_PADMAOIL_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- PADMAOIL--------------------
+---------- Start- PARAMOUNT--------------------
+./data\combined_PARAMOUNT_news.csv, today, Accuracy: 72.73%
+./data\combined_PARAMOUNT_news.csv, tomorrow, Accuracy: 81.82%
+./data\combined_PARAMOUNT_news.csv, day_after_tomorrow, Accuracy: 72.73%
+---------- End- PARAMOUNT--------------------
+---------- Start- PDL--------------------
+./data\combined_PDL_news.csv, today, Accuracy: 66.67%
+./data\combined_PDL_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_PDL_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- PDL--------------------
+---------- Start- PENINSULA--------------------
+./data\combined_PENINSULA_news.csv, today, Accuracy: 80.00%
+./data\combined_PENINSULA_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_PENINSULA_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- PENINSULA--------------------
+---------- Start- PEOPLESINS--------------------
+./data\combined_PEOPLESINS_news.csv, today, Accuracy: 23.08%
+./data\combined_PEOPLESINS_news.csv, tomorrow, Accuracy: 69.23%
+./data\combined_PEOPLESINS_news.csv, day_after_tomorrow, Accuracy: 92.31%
+---------- End- PEOPLESINS--------------------
+---------- Start- PF1STMF--------------------
+./data\combined_PF1STMF_news.csv, today, Accuracy: 88.37%
+./data\combined_PF1STMF_news.csv, tomorrow, Accuracy: 79.07%
+./data\combined_PF1STMF_news.csv, day_after_tomorrow, Accuracy: 76.74%
+---------- End- PF1STMF--------------------
+---------- Start- PHARMAID--------------------
+./data\combined_PHARMAID_news.csv, today, Accuracy: 90.00%
+./data\combined_PHARMAID_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_PHARMAID_news.csv, day_after_tomorrow, Accuracy: 70.00%
+---------- End- PHARMAID--------------------
+---------- Start- PHENIXINS--------------------
+./data\combined_PHENIXINS_news.csv, today, Accuracy: 53.85%
+./data\combined_PHENIXINS_news.csv, tomorrow, Accuracy: 69.23%
+./data\combined_PHENIXINS_news.csv, day_after_tomorrow, Accuracy: 46.15%
+---------- End- PHENIXINS--------------------
+---------- Start- PHOENIXFIN--------------------
+./data\combined_PHOENIXFIN_news.csv, today, Accuracy: 68.75%
+./data\combined_PHOENIXFIN_news.csv, tomorrow, Accuracy: 62.50%
+./data\combined_PHOENIXFIN_news.csv, day_after_tomorrow, Accuracy: 81.25%
+---------- End- PHOENIXFIN--------------------
+---------- Start- PHPMF1--------------------
+./data\combined_PHPMF1_news.csv, today, Accuracy: 86.36%
+./data\combined_PHPMF1_news.csv, tomorrow, Accuracy: 81.82%
+./data\combined_PHPMF1_news.csv, day_after_tomorrow, Accuracy: 70.45%
+---------- End- PHPMF1--------------------
+---------- Start- PIONEERINS--------------------
+./data\combined_PIONEERINS_news.csv, today, Accuracy: 80.00%
+./data\combined_PIONEERINS_news.csv, tomorrow, Accuracy: 86.67%
+./data\combined_PIONEERINS_news.csv, day_after_tomorrow, Accuracy: 60.00%
+---------- End- PIONEERINS--------------------
+---------- Start- PLFSL--------------------
+./data\combined_PLFSL_news.csv, today, Accuracy: 91.67%
+./data\combined_PLFSL_news.csv, tomorrow, Accuracy: 58.33%
+./data\combined_PLFSL_news.csv, day_after_tomorrow, Accuracy: 91.67%
+---------- End- PLFSL--------------------
+---------- Start- POPULAR1MF--------------------
+./data\combined_POPULAR1MF_news.csv, today, Accuracy: 79.55%
+./data\combined_POPULAR1MF_news.csv, tomorrow, Accuracy: 79.55%
+./data\combined_POPULAR1MF_news.csv, day_after_tomorrow, Accuracy: 59.09%
+---------- End- POPULAR1MF--------------------
+---------- Start- POPULARLIF--------------------
+./data\combined_POPULARLIF_news.csv, today, Accuracy: 38.46%
+./data\combined_POPULARLIF_news.csv, tomorrow, Accuracy: 61.54%
+./data\combined_POPULARLIF_news.csv, day_after_tomorrow, Accuracy: 76.92%
+---------- End- POPULARLIF--------------------
+---------- Start- POWERGRID--------------------
+./data\combined_POWERGRID_news.csv, today, Accuracy: 70.00%
+./data\combined_POWERGRID_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_POWERGRID_news.csv, day_after_tomorrow, Accuracy: 60.00%
+---------- End- POWERGRID--------------------
+---------- Start- PRAGATIINS--------------------
+./data\combined_PRAGATIINS_news.csv, today, Accuracy: 30.00%
+./data\combined_PRAGATIINS_news.csv, tomorrow, Accuracy: 40.00%
+./data\combined_PRAGATIINS_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- PRAGATIINS--------------------
+---------- Start- PRAGATILIF--------------------
+./data\combined_PRAGATILIF_news.csv, today, Accuracy: 81.82%
+./data\combined_PRAGATILIF_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_PRAGATILIF_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- PRAGATILIF--------------------
+---------- Start- PREMIERBAN--------------------
+./data\combined_PREMIERBAN_news.csv, today, Accuracy: 73.33%
+./data\combined_PREMIERBAN_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_PREMIERBAN_news.csv, day_after_tomorrow, Accuracy: 86.67%
+---------- End- PREMIERBAN--------------------
+---------- Start- PREMIERCEM--------------------
+./data\combined_PREMIERCEM_news.csv, today, Accuracy: 70.00%
+./data\combined_PREMIERCEM_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_PREMIERCEM_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- PREMIERCEM--------------------
+---------- Start- PREMIERLEA--------------------
+./data\combined_PREMIERLEA_news.csv, today, Accuracy: 73.68%
+./data\combined_PREMIERLEA_news.csv, tomorrow, Accuracy: 73.68%
+./data\combined_PREMIERLEA_news.csv, day_after_tomorrow, Accuracy: 89.47%
+---------- End- PREMIERLEA--------------------
+---------- Start- PRIME1ICBA--------------------
+./data\combined_PRIME1ICBA_news.csv, today, Accuracy: 76.74%
+./data\combined_PRIME1ICBA_news.csv, tomorrow, Accuracy: 81.40%
+./data\combined_PRIME1ICBA_news.csv, day_after_tomorrow, Accuracy: 72.09%
+---------- End- PRIME1ICBA--------------------
+---------- Start- PRIMEBANK--------------------
+./data\combined_PRIMEBANK_news.csv, today, Accuracy: 61.11%
+./data\combined_PRIMEBANK_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_PRIMEBANK_news.csv, day_after_tomorrow, Accuracy: 72.22%
+---------- End- PRIMEBANK--------------------
+---------- Start- PRIMEFIN--------------------
+./data\combined_PRIMEFIN_news.csv, today, Accuracy: 75.00%
+./data\combined_PRIMEFIN_news.csv, tomorrow, Accuracy: 50.00%
+./data\combined_PRIMEFIN_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- PRIMEFIN--------------------
+---------- Start- PRIMEINSUR--------------------
+./data\combined_PRIMEINSUR_news.csv, today, Accuracy: 58.33%
+./data\combined_PRIMEINSUR_news.csv, tomorrow, Accuracy: 50.00%
+./data\combined_PRIMEINSUR_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- PRIMEINSUR--------------------
+---------- Start- PRIMELIFE--------------------
+./data\combined_PRIMELIFE_news.csv, today, Accuracy: 54.55%
+./data\combined_PRIMELIFE_news.csv, tomorrow, Accuracy: 90.91%
+./data\combined_PRIMELIFE_news.csv, day_after_tomorrow, Accuracy: 63.64%
+---------- End- PRIMELIFE--------------------
+---------- Start- PRIMETEX--------------------
+./data\combined_PRIMETEX_news.csv, today, Accuracy: 70.00%
+./data\combined_PRIMETEX_news.csv, tomorrow, Accuracy: 90.00%
+./data\combined_PRIMETEX_news.csv, day_after_tomorrow, Accuracy: 70.00%
+---------- End- PRIMETEX--------------------
+---------- Start- PROGRESLIF--------------------
+./data\combined_PROGRESLIF_news.csv, today, Accuracy: 83.33%
+./data\combined_PROGRESLIF_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_PROGRESLIF_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- PROGRESLIF--------------------
+---------- Start- PROVATIINS--------------------
+./data\combined_PROVATIINS_news.csv, today, Accuracy: 45.45%
+./data\combined_PROVATIINS_news.csv, tomorrow, Accuracy: 68.18%
+./data\combined_PROVATIINS_news.csv, day_after_tomorrow, Accuracy: 68.18%
+---------- End- PROVATIINS--------------------
+---------- Start- PTL--------------------
+./data\combined_PTL_news.csv, today, Accuracy: 45.45%
+./data\combined_PTL_news.csv, tomorrow, Accuracy: 90.91%
+./data\combined_PTL_news.csv, day_after_tomorrow, Accuracy: 90.91%
+---------- End- PTL--------------------
+---------- Start- PUBALIBANK--------------------
+./data\combined_PUBALIBANK_news.csv, today, Accuracy: 53.85%
+./data\combined_PUBALIBANK_news.csv, tomorrow, Accuracy: 69.23%
+./data\combined_PUBALIBANK_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- PUBALIBANK--------------------
+---------- Start- PURABIGEN--------------------
+./data\combined_PURABIGEN_news.csv, today, Accuracy: 88.89%
+./data\combined_PURABIGEN_news.csv, tomorrow, Accuracy: 77.78%
+./data\combined_PURABIGEN_news.csv, day_after_tomorrow, Accuracy: 88.89%
+---------- End- PURABIGEN--------------------
+---------- Start- QUASEMIND--------------------
+./data\combined_QUASEMIND_news.csv, today, Accuracy: 100.00%
+./data\combined_QUASEMIND_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_QUASEMIND_news.csv, day_after_tomorrow, Accuracy: 0.00%
+---------- End- QUASEMIND--------------------
+---------- Start- QUEENSOUTH--------------------
+./data\combined_QUEENSOUTH_news.csv, today, Accuracy: 50.00%
+./data\combined_QUEENSOUTH_news.csv, tomorrow, Accuracy: 50.00%
+./data\combined_QUEENSOUTH_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- QUEENSOUTH--------------------
+---------- Start- RAHIMAFOOD--------------------
+./data\combined_RAHIMAFOOD_news.csv, today, Accuracy: 80.00%
+./data\combined_RAHIMAFOOD_news.csv, tomorrow, Accuracy: 90.00%
+./data\combined_RAHIMAFOOD_news.csv, day_after_tomorrow, Accuracy: 70.00%
+---------- End- RAHIMAFOOD--------------------
+---------- Start- RAHIMTEXT--------------------
+./data\combined_RAHIMTEXT_news.csv, today, Accuracy: 54.55%
+./data\combined_RAHIMTEXT_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_RAHIMTEXT_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- RAHIMTEXT--------------------
+---------- Start- RAKCERAMIC--------------------
+./data\combined_RAKCERAMIC_news.csv, today, Accuracy: 61.54%
+./data\combined_RAKCERAMIC_news.csv, tomorrow, Accuracy: 76.92%
+./data\combined_RAKCERAMIC_news.csv, day_after_tomorrow, Accuracy: 69.23%
+---------- End- RAKCERAMIC--------------------
+---------- Start- RANFOUNDRY--------------------
+./data\combined_RANFOUNDRY_news.csv, today, Accuracy: 66.67%
+./data\combined_RANFOUNDRY_news.csv, tomorrow, Accuracy: 77.78%
+./data\combined_RANFOUNDRY_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- RANFOUNDRY--------------------
+---------- Start- RDFOOD--------------------
+./data\combined_RDFOOD_news.csv, today, Accuracy: 61.54%
+./data\combined_RDFOOD_news.csv, tomorrow, Accuracy: 61.54%
+./data\combined_RDFOOD_news.csv, day_after_tomorrow, Accuracy: 84.62%
+---------- End- RDFOOD--------------------
+---------- Start- RECKITTBEN--------------------
+./data\combined_RECKITTBEN_news.csv, today, Accuracy: 41.67%
+./data\combined_RECKITTBEN_news.csv, tomorrow, Accuracy: 58.33%
+./data\combined_RECKITTBEN_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- RECKITTBEN--------------------
+---------- Start- REGENTTEX--------------------
+./data\combined_REGENTTEX_news.csv, today, Accuracy: 85.71%
+./data\combined_REGENTTEX_news.csv, tomorrow, Accuracy: 85.71%
+./data\combined_REGENTTEX_news.csv, day_after_tomorrow, Accuracy: 57.14%
+---------- End- REGENTTEX--------------------
+---------- Start- RELIANCE1--------------------
+./data\combined_RELIANCE1_news.csv, today, Accuracy: 81.82%
+./data\combined_RELIANCE1_news.csv, tomorrow, Accuracy: 84.09%
+./data\combined_RELIANCE1_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- RELIANCE1--------------------
+---------- Start- RELIANCINS--------------------
+./data\combined_RELIANCINS_news.csv, today, Accuracy: 70.00%
+./data\combined_RELIANCINS_news.csv, tomorrow, Accuracy: 90.00%
+./data\combined_RELIANCINS_news.csv, day_after_tomorrow, Accuracy: 70.00%
+---------- End- RELIANCINS--------------------
+---------- Start- RENATA--------------------
+./data\combined_RENATA_news.csv, today, Accuracy: 27.27%
+./data\combined_RENATA_news.csv, tomorrow, Accuracy: 90.91%
+./data\combined_RENATA_news.csv, day_after_tomorrow, Accuracy: 72.73%
+---------- End- RENATA--------------------
+---------- Start- RENWICKJA--------------------
+./data\combined_RENWICKJA_news.csv, today, Accuracy: 45.45%
+./data\combined_RENWICKJA_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_RENWICKJA_news.csv, day_after_tomorrow, Accuracy: 90.91%
+---------- End- RENWICKJA--------------------
+./data\combined_REPUBLIC_news.csv, tomorrow, Accuracy: 58.33%
+./data\combined_REPUBLIC_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- REPUBLIC--------------------
+---------- Start- RNSPIN--------------------
+./data\combined_RNSPIN_news.csv, today, Accuracy: 61.54%
+./data\combined_RNSPIN_news.csv, tomorrow, Accuracy: 84.62%
+./data\combined_RNSPIN_news.csv, day_after_tomorrow, Accuracy: 84.62%
+---------- End- RNSPIN--------------------
+---------- Start- RSRMSTEEL--------------------
+./data\combined_RSRMSTEEL_news.csv, today, Accuracy: 75.00%
+./data\combined_RSRMSTEEL_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_RSRMSTEEL_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- RSRMSTEEL--------------------
+---------- Start- RUPALIBANK--------------------
+./data\combined_RUPALIBANK_news.csv, today, Accuracy: 70.00%
+./data\combined_RUPALIBANK_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_RUPALIBANK_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- RUPALIBANK--------------------
+---------- Start- RUPALIINS--------------------
+./data\combined_RUPALIINS_news.csv, today, Accuracy: 60.00%
+./data\combined_RUPALIINS_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_RUPALIINS_news.csv, day_after_tomorrow, Accuracy: 73.33%
+---------- End- RUPALIINS--------------------
+---------- Start- RUPALILIFE--------------------
+./data\combined_RUPALILIFE_news.csv, today, Accuracy: 78.57%
+./data\combined_RUPALILIFE_news.csv, tomorrow, Accuracy: 35.71%
+./data\combined_RUPALILIFE_news.csv, day_after_tomorrow, Accuracy: 85.71%
+---------- End- RUPALILIFE--------------------
+---------- Start- SAFKOSPINN--------------------
+./data\combined_SAFKOSPINN_news.csv, today, Accuracy: 50.00%
+./data\combined_SAFKOSPINN_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_SAFKOSPINN_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- SAFKOSPINN--------------------
+---------- Start- SAIFPOWER--------------------
+./data\combined_SAIFPOWER_news.csv, today, Accuracy: 60.00%
+./data\combined_SAIFPOWER_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_SAIFPOWER_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- SAIFPOWER--------------------
+---------- Start- SAIHAMCOT--------------------
+./data\combined_SAIHAMCOT_news.csv, today, Accuracy: 88.89%
+./data\combined_SAIHAMCOT_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_SAIHAMCOT_news.csv, day_after_tomorrow, Accuracy: 77.78%
+---------- End- SAIHAMCOT--------------------
+---------- Start- SAIHAMTEX--------------------
+./data\combined_SAIHAMTEX_news.csv, today, Accuracy: 75.00%
+./data\combined_SAIHAMTEX_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_SAIHAMTEX_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- SAIHAMTEX--------------------
+---------- Start- SALAMCRST--------------------
+./data\combined_SALAMCRST_news.csv, today, Accuracy: 70.00%
+./data\combined_SALAMCRST_news.csv, tomorrow, Accuracy: 50.00%
+./data\combined_SALAMCRST_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- SALAMCRST--------------------
+---------- Start- SALVOCHEM--------------------
+./data\combined_SALVOCHEM_news.csv, today, Accuracy: 90.00%
+./data\combined_SALVOCHEM_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_SALVOCHEM_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- SALVOCHEM--------------------
+---------- Start- SAMATALETH--------------------
+./data\combined_SAMATALETH_news.csv, today, Accuracy: 60.00%
+./data\combined_SAMATALETH_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_SAMATALETH_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- SAMATALETH--------------------
+---------- Start- SAMORITA--------------------
+./data\combined_SAMORITA_news.csv, today, Accuracy: 80.00%
+./data\combined_SAMORITA_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_SAMORITA_news.csv, day_after_tomorrow, Accuracy: 70.00%
+---------- End- SAMORITA--------------------
+---------- Start- SANDHANINS--------------------
+./data\combined_SANDHANINS_news.csv, today, Accuracy: 75.00%
+./data\combined_SANDHANINS_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_SANDHANINS_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- SANDHANINS--------------------
+---------- Start- SAPORTL--------------------
+./data\combined_SAPORTL_news.csv, today, Accuracy: 73.33%
+./data\combined_SAPORTL_news.csv, tomorrow, Accuracy: 73.33%
+./data\combined_SAPORTL_news.csv, day_after_tomorrow, Accuracy: 93.33%
+---------- End- SAPORTL--------------------
+---------- Start- SAVAREFR--------------------
+./data\combined_SAVAREFR_news.csv, today, Accuracy: 50.00%
+./data\combined_SAVAREFR_news.csv, tomorrow, Accuracy: 87.50%
+./data\combined_SAVAREFR_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- SAVAREFR--------------------
+---------- Start- SEBL1STMF--------------------
+./data\combined_SEBL1STMF_news.csv, today, Accuracy: 81.82%
+./data\combined_SEBL1STMF_news.csv, tomorrow, Accuracy: 77.27%
+./data\combined_SEBL1STMF_news.csv, day_after_tomorrow, Accuracy: 77.27%
+---------- End- SEBL1STMF--------------------
+---------- Start- SEMLFBSLGF--------------------
+./data\combined_SEMLFBSLGF_news.csv, today, Accuracy: 100.00%
+./data\combined_SEMLFBSLGF_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_SEMLFBSLGF_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- SEMLFBSLGF--------------------
+---------- Start- SEMLIBBLSF--------------------
+./data\combined_SEMLIBBLSF_news.csv, today, Accuracy: 85.71%
+./data\combined_SEMLIBBLSF_news.csv, tomorrow, Accuracy: 85.71%
+./data\combined_SEMLIBBLSF_news.csv, day_after_tomorrow, Accuracy: 92.86%
+---------- End- SEMLIBBLSF--------------------
+---------- Start- SEMLLECMF--------------------
+./data\combined_SEMLLECMF_news.csv, today, Accuracy: 100.00%
+./data\combined_SEMLLECMF_news.csv, tomorrow, Accuracy: 85.71%
+./data\combined_SEMLLECMF_news.csv, day_after_tomorrow, Accuracy: 85.71%
+---------- End- SEMLLECMF--------------------
+---------- Start- SHAHJABANK--------------------
+./data\combined_SHAHJABANK_news.csv, today, Accuracy: 57.14%
+./data\combined_SHAHJABANK_news.csv, tomorrow, Accuracy: 61.90%
+./data\combined_SHAHJABANK_news.csv, day_after_tomorrow, Accuracy: 76.19%
+---------- End- SHAHJABANK--------------------
+---------- Start- SHASHADNIM--------------------
+./data\combined_SHASHADNIM_news.csv, today, Accuracy: 77.78%
+./data\combined_SHASHADNIM_news.csv, tomorrow, Accuracy: 44.44%
+./data\combined_SHASHADNIM_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- SHASHADNIM--------------------
+---------- Start- SHEPHERD--------------------
+./data\combined_SHEPHERD_news.csv, today, Accuracy: 50.00%
+./data\combined_SHEPHERD_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_SHEPHERD_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- SHEPHERD--------------------
+---------- Start- SHURWID--------------------
+./data\combined_SHURWID_news.csv, today, Accuracy: 83.33%
+./data\combined_SHURWID_news.csv, tomorrow, Accuracy: 91.67%
+./data\combined_SHURWID_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- SHURWID--------------------
+---------- Start- SHYAMPSUG--------------------
+./data\combined_SHYAMPSUG_news.csv, today, Accuracy: 70.00%
+./data\combined_SHYAMPSUG_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_SHYAMPSUG_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- SHYAMPSUG--------------------
+---------- Start- SIBL--------------------
+./data\combined_SIBL_news.csv, today, Accuracy: 55.56%
+./data\combined_SIBL_news.csv, tomorrow, Accuracy: 77.78%
+./data\combined_SIBL_news.csv, day_after_tomorrow, Accuracy: 88.89%
+---------- End- SIBL--------------------
+---------- Start- SILVAPHL--------------------
+./data\combined_SILVAPHL_news.csv, today, Accuracy: null
+./data\combined_SILVAPHL_news.csv, tomorrow, Accuracy: null
+./data\combined_SILVAPHL_news.csv, day_after_tomorrow, Accuracy: null
+---------- End- SILVAPHL--------------------
+---------- Start- SIMTEX--------------------
+./data\combined_SIMTEX_news.csv, today, Accuracy: 83.33%
+./data\combined_SIMTEX_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_SIMTEX_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- SIMTEX--------------------
+---------- Start- SINGERBD--------------------
+./data\combined_SINGERBD_news.csv, today, Accuracy: 53.85%
+./data\combined_SINGERBD_news.csv, tomorrow, Accuracy: 53.85%
+./data\combined_SINGERBD_news.csv, day_after_tomorrow, Accuracy: 76.92%
+---------- End- SINGERBD--------------------
+---------- Start- SINOBANGLA--------------------
+./data\combined_SINOBANGLA_news.csv, today, Accuracy: 72.73%
+./data\combined_SINOBANGLA_news.csv, tomorrow, Accuracy: 90.91%
+---------- Start- SKTRIMS--------------------
+./data\combined_SKTRIMS_news.csv, today, Accuracy: 50.00%
+./data\combined_SKTRIMS_news.csv, tomorrow, Accuracy: 50.00%
+./data\combined_SKTRIMS_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- SKTRIMS--------------------
+---------- Start- SONALIANSH--------------------
+./data\combined_SONALIANSH_news.csv, today, Accuracy: 50.00%
+./data\combined_SONALIANSH_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_SONALIANSH_news.csv, day_after_tomorrow, Accuracy: 80.00%
+---------- End- SONALIANSH--------------------
+---------- Start- SONARBAINS--------------------
+./data\combined_SONARBAINS_news.csv, today, Accuracy: 75.00%
+./data\combined_SONARBAINS_news.csv, tomorrow, Accuracy: 58.33%
+./data\combined_SONARBAINS_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- SONARBAINS--------------------
+---------- Start- SONARGAON--------------------
+./data\combined_SONARGAON_news.csv, today, Accuracy: 81.82%
+./data\combined_SONARGAON_news.csv, tomorrow, Accuracy: 72.73%
+./data\combined_SONARGAON_news.csv, day_after_tomorrow, Accuracy: 72.73%
+---------- End- SONARGAON--------------------
+---------- Start- SOUTHEASTB--------------------
+./data\combined_SOUTHEASTB_news.csv, today, Accuracy: 41.67%
+./data\combined_SOUTHEASTB_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_SOUTHEASTB_news.csv, day_after_tomorrow, Accuracy: 87.50%
+---------- End- SOUTHEASTB--------------------
+---------- Start- SPCERAMICS--------------------
+./data\combined_SPCERAMICS_news.csv, today, Accuracy: 62.50%
+./data\combined_SPCERAMICS_news.csv, tomorrow, Accuracy: 87.50%
+./data\combined_SPCERAMICS_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- SPCERAMICS--------------------
+---------- Start- SPCL--------------------
+./data\combined_SPCL_news.csv, today, Accuracy: 92.86%
+./data\combined_SPCL_news.csv, tomorrow, Accuracy: 85.71%
+./data\combined_SPCL_news.csv, day_after_tomorrow, Accuracy: 85.71%
+---------- End- SPCL--------------------
+---------- Start- SQUARETEXT--------------------
+./data\combined_SQUARETEXT_news.csv, today, Accuracy: 77.78%
+./data\combined_SQUARETEXT_news.csv, tomorrow, Accuracy: 77.78%
+./data\combined_SQUARETEXT_news.csv, day_after_tomorrow, Accuracy: 77.78%
+---------- End- SQUARETEXT--------------------
+---------- Start- SQURPHARMA--------------------
+./data\combined_SQURPHARMA_news.csv, today, Accuracy: 81.82%
+./data\combined_SQURPHARMA_news.csv, tomorrow, Accuracy: 45.45%
+./data\combined_SQURPHARMA_news.csv, day_after_tomorrow, Accuracy: 72.73%
+---------- End- SQURPHARMA--------------------
+---------- Start- SSSTEEL--------------------
+./data\combined_SSSTEEL_news.csv, today, Accuracy: null
+./data\combined_SSSTEEL_news.csv, tomorrow, Accuracy: null
+./data\combined_SSSTEEL_news.csv, day_after_tomorrow, Accuracy: null
+---------- End- SSSTEEL--------------------
+---------- Start- STANCERAM--------------------
+./data\combined_STANCERAM_news.csv, today, Accuracy: 54.55%
+./data\combined_STANCERAM_news.csv, tomorrow, Accuracy: 90.91%
+./data\combined_STANCERAM_news.csv, day_after_tomorrow, Accuracy: 81.82%
+---------- End- STANCERAM--------------------
+---------- Start- STANDARINS--------------------
+./data\combined_STANDARINS_news.csv, today, Accuracy: 54.55%
+./data\combined_STANDARINS_news.csv, tomorrow, Accuracy: 63.64%
+./data\combined_STANDARINS_news.csv, day_after_tomorrow, Accuracy: 54.55%
+---------- End- STANDARINS--------------------
+---------- Start- STANDBANKL--------------------
+./data\combined_STANDBANKL_news.csv, today, Accuracy: 66.67%
+./data\combined_STANDBANKL_news.csv, tomorrow, Accuracy: 66.67%
+./data\combined_STANDBANKL_news.csv, day_after_tomorrow, Accuracy: 71.43%
+---------- End- STANDBANKL--------------------
+---------- Start- STYLECRAFT--------------------
+./data\combined_STYLECRAFT_news.csv, today, Accuracy: 75.00%
+./data\combined_STYLECRAFT_news.csv, tomorrow, Accuracy: 58.33%
+./data\combined_STYLECRAFT_news.csv, day_after_tomorrow, Accuracy: 75.00%
+---------- End- STYLECRAFT--------------------
+---------- Start- SUMITPOWER--------------------
+./data\combined_SUMITPOWER_news.csv, today, Accuracy: 71.43%
+./data\combined_SUMITPOWER_news.csv, tomorrow, Accuracy: 85.71%
+./data\combined_SUMITPOWER_news.csv, day_after_tomorrow, Accuracy: 85.71%
+---------- End- SUMITPOWER--------------------
+---------- Start- SUNLIFEINS--------------------
+./data\combined_SUNLIFEINS_news.csv, today, Accuracy: 33.33%
+./data\combined_SUNLIFEINS_news.csv, tomorrow, Accuracy: 50.00%
+./data\combined_SUNLIFEINS_news.csv, day_after_tomorrow, Accuracy: 91.67%
+---------- End- SUNLIFEINS--------------------
+---------- Start- TAKAFULINS--------------------
+./data\combined_TAKAFULINS_news.csv, today, Accuracy: 42.86%
+./data\combined_TAKAFULINS_news.csv, tomorrow, Accuracy: 64.29%
+./data\combined_TAKAFULINS_news.csv, day_after_tomorrow, Accuracy: 78.57%
+---------- End- TAKAFULINS--------------------
+---------- Start- TALLUSPIN--------------------
+./data\combined_TALLUSPIN_news.csv, today, Accuracy: 58.33%
+./data\combined_TALLUSPIN_news.csv, tomorrow, Accuracy: 83.33%
+./data\combined_TALLUSPIN_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- TALLUSPIN--------------------
+---------- Start- TITASGAS--------------------
+./data\combined_TITASGAS_news.csv, today, Accuracy: 88.89%
+./data\combined_TITASGAS_news.csv, tomorrow, Accuracy: 77.78%
+./data\combined_TITASGAS_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- TITASGAS--------------------
+---------- Start- TOSRIFA--------------------
+./data\combined_TOSRIFA_news.csv, today, Accuracy: 62.50%
+./data\combined_TOSRIFA_news.csv, tomorrow, Accuracy: 87.50%
+./data\combined_TOSRIFA_news.csv, day_after_tomorrow, Accuracy: 87.50%
+---------- End- TOSRIFA--------------------
+---------- Start- TRUSTB1MF--------------------
+./data\combined_TRUSTB1MF_news.csv, today, Accuracy: 86.67%
+./data\combined_TRUSTB1MF_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_TRUSTB1MF_news.csv, day_after_tomorrow, Accuracy: 84.44%
+---------- End- TRUSTB1MF--------------------
+---------- Start- TRUSTBANK--------------------
+./data\combined_TRUSTBANK_news.csv, today, Accuracy: 53.85%
+./data\combined_TRUSTBANK_news.csv, tomorrow, Accuracy: 69.23%
+./data\combined_TRUSTBANK_news.csv, day_after_tomorrow, Accuracy: 69.23%
+---------- End- TRUSTBANK--------------------
+---------- Start- TUNGHAI--------------------
+./data\combined_TUNGHAI_news.csv, today, Accuracy: 100.00%
+./data\combined_TUNGHAI_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_TUNGHAI_news.csv, day_after_tomorrow, Accuracy: 100.00%
+---------- End- TUNGHAI--------------------
+---------- Start- UCB--------------------
+./data\combined_UCB_news.csv, today, Accuracy: 71.43%
+./data\combined_UCB_news.csv, tomorrow, Accuracy: 71.43%
+./data\combined_UCB_news.csv, day_after_tomorrow, Accuracy: 57.14%
+---------- End- UCB--------------------
+---------- Start- UNIONCAP--------------------
+./data\combined_UNIONCAP_news.csv, today, Accuracy: 68.75%
+./data\combined_UNIONCAP_news.csv, tomorrow, Accuracy: 87.50%
+./data\combined_UNIONCAP_news.csv, day_after_tomorrow, Accuracy: 87.50%
+---------- End- UNIONCAP--------------------
+---------- Start- UNIQUEHRL--------------------
+./data\combined_UNIQUEHRL_news.csv, today, Accuracy: 81.82%
+./data\combined_UNIQUEHRL_news.csv, tomorrow, Accuracy: 90.91%
+./data\combined_UNIQUEHRL_news.csv, day_after_tomorrow, Accuracy: 54.55%
+---------- End- UNIQUEHRL--------------------
+---------- Start- UNITEDAIR--------------------
+./data\combined_UNITEDAIR_news.csv, today, Accuracy: 76.92%
+./data\combined_UNITEDAIR_news.csv, tomorrow, Accuracy: 84.62%
+./data\combined_UNITEDAIR_news.csv, day_after_tomorrow, Accuracy: 69.23%
+---------- End- UNITEDAIR--------------------
+---------- Start- UNITEDFIN--------------------
+./data\combined_UNITEDFIN_news.csv, today, Accuracy: 33.33%
+./data\combined_UNITEDFIN_news.csv, tomorrow, Accuracy: 50.00%
+./data\combined_UNITEDFIN_news.csv, day_after_tomorrow, Accuracy: 66.67%
+---------- End- UNITEDFIN--------------------
+---------- Start- UNITEDINS--------------------
+./data\combined_UNITEDINS_news.csv, today, Accuracy: 83.33%
+./data\combined_UNITEDINS_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_UNITEDINS_news.csv, day_after_tomorrow, Accuracy: 83.33%
+---------- End- UNITEDINS--------------------
+---------- Start- UPGDCL--------------------
+./data\combined_UPGDCL_news.csv, today, Accuracy: 60.00%
+./data\combined_UPGDCL_news.csv, tomorrow, Accuracy: 60.00%
+./data\combined_UPGDCL_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- UPGDCL--------------------
+---------- Start- USMANIAGL--------------------
+./data\combined_USMANIAGL_news.csv, today, Accuracy: 80.00%
+./data\combined_USMANIAGL_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_USMANIAGL_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- USMANIAGL--------------------
+---------- Start- UTTARABANK--------------------
+./data\combined_UTTARABANK_news.csv, today, Accuracy: 72.73%
+./data\combined_UTTARABANK_news.csv, tomorrow, Accuracy: 63.64%
+./data\combined_UTTARABANK_news.csv, day_after_tomorrow, Accuracy: 63.64%
+---------- End- UTTARABANK--------------------
+---------- Start- UTTARAFIN--------------------
+./data\combined_UTTARAFIN_news.csv, today, Accuracy: 60.00%
+./data\combined_UTTARAFIN_news.csv, tomorrow, Accuracy: 70.00%
+./data\combined_UTTARAFIN_news.csv, day_after_tomorrow, Accuracy: 70.00%
+---------- End- UTTARAFIN--------------------
+---------- Start- VAMLBDMF1--------------------
+./data\combined_VAMLBDMF1_news.csv, today, Accuracy: 90.48%
+./data\combined_VAMLBDMF1_news.csv, tomorrow, Accuracy: 80.95%
+./data\combined_VAMLBDMF1_news.csv, day_after_tomorrow, Accuracy: 80.95%
+---------- End- VAMLBDMF1--------------------
+---------- Start- VAMLRBBF--------------------
+./data\combined_VAMLRBBF_news.csv, today, Accuracy: 73.33%
+./data\combined_VAMLRBBF_news.csv, tomorrow, Accuracy: 93.33%
+./data\combined_VAMLRBBF_news.csv, day_after_tomorrow, Accuracy: 86.67%
+---------- End- VAMLRBBF--------------------
+---------- Start- VFSTDL--------------------
+./data\combined_VFSTDL_news.csv, today, Accuracy: 50.00%
+./data\combined_VFSTDL_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_VFSTDL_news.csv, day_after_tomorrow, Accuracy: 50.00%
+---------- End- VFSTDL--------------------
+---------- Start- WATACHEM--------------------
+./data\combined_WATACHEM_news.csv, today, Accuracy: 55.56%
+./data\combined_WATACHEM_news.csv, tomorrow, Accuracy: 88.89%
+./data\combined_WATACHEM_news.csv, day_after_tomorrow, Accuracy: 88.89%
+---------- End- WATACHEM--------------------
+---------- Start- WMSHIPYARD--------------------
+./data\combined_WMSHIPYARD_news.csv, today, Accuracy: 75.00%
+./data\combined_WMSHIPYARD_news.csv, tomorrow, Accuracy: 75.00%
+./data\combined_WMSHIPYARD_news.csv, day_after_tomorrow, Accuracy: 58.33%
+---------- End- WMSHIPYARD--------------------
+---------- Start- YPL--------------------
+./data\combined_YPL_news.csv, today, Accuracy: 60.00%
+./data\combined_YPL_news.csv, tomorrow, Accuracy: 40.00%
+./data\combined_YPL_news.csv, day_after_tomorrow, Accuracy: 20.00%
+---------- End- YPL--------------------
+---------- Start- ZAHEENSPIN--------------------
+./data\combined_ZAHEENSPIN_news.csv, today, Accuracy: 90.00%
+./data\combined_ZAHEENSPIN_news.csv, tomorrow, Accuracy: 80.00%
+./data\combined_ZAHEENSPIN_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- ZAHEENSPIN--------------------
+---------- Start- ZAHINTEX--------------------
+./data\combined_ZAHINTEX_news.csv, today, Accuracy: 90.00%
+./data\combined_ZAHINTEX_news.csv, tomorrow, Accuracy: 100.00%
+./data\combined_ZAHINTEX_news.csv, day_after_tomorrow, Accuracy: 90.00%
+---------- End- ZAHINTEX--------------------
+---------- Start- ZEALBANGLA--------------------
+./data\combined_ZEALBANGLA_news.csv, today, Accuracy: 80.00%
+./data\combined_ZEALBANGLA_news.csv, tomorrow, Accuracy: 90.00%
+./data\combined_ZEALBANGLA_news.csv, day_after_tomorrow, Accuracy: 60.00%
+---------- End- ZEALBANGLA--------------------
