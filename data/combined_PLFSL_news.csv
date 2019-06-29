@@ -1,0 +1,125 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2018-12-24,PLFSL,Credit Rating Result,1,0,1,credit rating result
+10,2018-11-22,PLFSL,Basis for Qualified Opinion,0,0,0,basis for qualified opinion
+11,2018-10-23,PLFSL,Q3 Financials,0,0,0,q3 financials
+12,2018-10-16,PLFSL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+13,2018-08-07,PLFSL,Resumption after record date,0,0,1,resumption after record date
+14,2018-08-06,PLFSL,Suspension for Record Date,0,0,0,suspension for record date
+15,2018-07-24,PLFSL,Spot News,0,0,0,spot news
+16,2018-07-15,PLFSL,Q2 Financials,0,1,0,q2 financials
+17,2018-07-08,PLFSL,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+18,2018-07-02,PLFSL,Q1 Financials,0,1,0,q1 financials
+19,2018-07-02,PLFSL,Price Limit Open,0,1,0,price limit open
+20,2018-07-02,PLFSL,Dividend Declaration,0,1,0,dividend declaration
+21,2018-06-21,PLFSL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+22,2018-06-21,PLFSL,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+23,2017-10-30,PLFSL,Q3 Financials,0,0,0,q3 financials
+24,2017-10-23,PLFSL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+25,2017-08-22,PLFSL,PLFSL Credit Rating Result,0,1,0,plfsl credit rating result
+26,2017-08-07,PLFSL,Resumption after Record Date,0,0,0,resumption after record date
+27,2017-08-06,PLFSL,Suspension for Record Date,1,0,0,suspension for record date
+32,2017-07-27,PLFSL,Basis of Qualification,0,0,0,basis of qualification
+33,2017-07-26,PLFSL,Q2 Financials,0,0,0,q2 financials
+34,2017-07-26,PLFSL,Q1 Financials,0,0,0,q1 financials
+35,2017-07-24,PLFSL,Spot News,0,1,0,spot news
+36,2017-07-18,PLFSL,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+37,2017-07-17,PLFSL,Query Response,0,0,0,query response
+38,2017-07-12,PLFSL,Price Limit Open,1,1,0,price limit open
+39,2017-07-12,PLFSL,Dividend Declaration,1,1,0,dividend declaration
+40,2017-07-04,PLFSL,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+41,2017-04-05,PLFSL,Address Change of Head Office,0,0,0,address change of head office
+42,2016-12-15,PLFSL,Qualified Opinion,0,0,0,qualified opinion
+43,2016-11-03,PLFSL,Credit Rating Result,1,0,0,credit rating result
+44,2016-11-01,PLFSL,Q3 Financials,0,0,1,q3 financials
+45,2016-10-24,PLFSL,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+46,2016-08-28,PLFSL,Resumption after record date,0,0,0,resumption after record date
+47,2016-08-28,PLFSL,Resumption after record date,0,0,0,resumption after record date
+48,2016-08-24,PLFSL,Suspension for record date,0,0,0,suspension for record date
+49,2016-08-10,PLFSL,Spot for AGM,0,0,0,spot for agm
+50,2016-08-04,PLFSL,Q2 Financials,0,0,0,q2 financials
+51,2016-08-04,PLFSL,Q1 Financials,0,0,0,q1 financials
+52,2016-08-04,PLFSL,Prohibition on providing loan,0,0,0,prohibition on providing loan
+53,2016-08-04,PLFSL,Category Change,0,0,0,category change
+54,2016-08-04,PLFSL,Price Limit,0,0,0,price limit
+55,2016-08-04,PLFSL,Dividend Declaration,0,0,0,dividend declaration
+56,2016-07-27,PLFSL,Board Meeting schedule,0,0,0,board meeting schedule
+57,2016-07-27,PLFSL,Board Meeting schedule,0,0,0,board meeting schedule
+58,2015-11-18,PLFSL,Newly Elected Chairman,1,1,0,newly elected chairman
+59,2015-11-02,PLFSL,Confirmation of Transfer by a Sponsor,0,1,0,confirmation of transfer by a sponsor
+60,2015-11-01,PLFSL,Qualified Audit Opinion,0,0,1,qualified audit opinion
+61,2015-10-29,PLFSL,Declaration of Transfer by a Sponsor,0,0,0,declaration of transfer by a sponsor
+62,2015-10-29,PLFSL,Q3 Financials,0,0,0,q3 financials
+63,2015-09-13,PLFSL,Credit Rating Result,0,1,0,credit rating result
+64,2015-08-02,PLFSL,Q2 Financials,0,0,1,q2 financials
+65,2015-07-06,PLFSL,Dividend Disbursement,0,1,0,dividend disbursement
+66,2015-05-17,PLFSL,Resumption News after Record Date,0,1,1,resumption news after record date
+67,2015-05-14,PLFSL,Suspension News for Record Date,0,0,0,suspension news for record date
+68,2015-05-14,PLFSL,Q1 Financials,0,0,0,q1 financials
+69,2015-05-12,PLFSL,Spot News for AGM,0,0,0,spot news for agm
+70,2015-05-04,PLFSL,Price Limit Open,0,1,1,price limit open
+71,2015-05-04,PLFSL,Dividend Declaration,0,1,1,dividend declaration
+72,2015-04-26,PLFSL,Board Meeting,0,0,0,board meeting
+73,2014-11-02,PLFSL,Q3 earnings,0,0,0,q3 earnings
+74,2014-09-21,PLFSL,acquire additional shares & office space,1,1,1,acquire additional shares  office space
+75,2014-08-03,PLFSL,H/Y Earnings,0,0,0,hy earnings
+76,2014-07-07,PLFSL,bonus shares credited,0,0,0,bonus shares credited
+77,2014-07-02,PLFSL,Credit Rating,0,0,0,credit rating
+78,2014-05-15,PLFSL,will resume record date.,0,0,0,will resume record date.
+79,2014-05-14,PLFSL,trade suspended,0,0,0,trade suspended
+80,2014-05-11,PLFSL,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+81,2014-04-28,PLFSL,no price limit,0,0,0,no price limit
+82,2014-04-28,PLFSL,10% stock dividend,0,0,0,10 stock dividend
+83,2014-04-17,PLFSL,Board Meeting,0,0,0,board meeting
+84,2013-10-28,PLFSL,Q3 Earnings,0,1,0,q3 earnings
+85,2013-07-31,PLFSL,Credit Rating,0,0,0,credit rating
+86,2013-07-30,PLFSL,Q2 Earnings,0,0,0,q2 earnings
+87,2013-07-11,PLFSL,Credited Bonus Shares,0,0,0,credited bonus shares
+88,2013-05-14,PLFSL,Q1 Earnings,1,0,1,q1 earnings
+89,2013-05-09,PLFSL,trade suspension,1,0,0,trade suspension
+90,2013-05-06,PLFSL,Spot Market Trading,1,1,0,spot market trading
+91,2013-04-29,PLFSL,new Chairman,0,1,0,new chairman
+92,2013-04-29,PLFSL,Corporate Declaration,0,1,0,corporate declaration
+93,2013-04-21,PLFSL,Board meeting,0,0,0,board meeting
+94,2012-11-14,PLFSL,director sell completed,0,1,0,director sell completed
+95,2012-09-30,PLFSL,director sell announcement,0,1,1,director sell announcement
+96,2012-09-26,PLFSL,director share transfer announcement,0,0,0,director share transfer announcement
+97,2012-07-19,PLFSL,- Ms. Kamrun Nahar...,0,0,0,ms. kamrun nahar
+98,2012-06-27,PLFSL,- The Company has informed...,1,0,0,the company has informed
+99,2012-06-13,PLFSL,- Mr. Mohd. Alauddin...,0,0,0,mr. mohd. alauddin
+100,2012-06-07,PLFSL,- Ms. Kamrun Nahar...,0,0,0,ms. kamrun nahar
+101,2012-06-07,PLFSL,- Ms. Kamrun Nahar...,0,0,0,ms. kamrun nahar
+102,2012-05-31,PLFSL,- The Credit Rating Agency...,0,0,0,the credit rating agency
+103,2012-05-30,PLFSL, - Mrs. Farzana Moazzam..,0,0,0,mrs. farzana moazzam..
+104,2012-05-30,PLFSL,- The Company has informed ...,0,0,0,the company has informed
+105,2012-05-29,PLFSL,- Ms. Kamrun Nahar...,1,0,0,ms. kamrun nahar
+106,2012-05-29,PLFSL,- Ms. Kamrun Nahar...,1,0,0,ms. kamrun nahar
+107,2012-05-28,PLFSL,- Mrs. Farzana Moazzam...,0,1,0,mrs. farzana moazzam
+108,2012-05-23,PLFSL,- Ms. Kamrun Nahar...,0,0,0,ms. kamrun nahar
+109,2012-05-10,PLFSL,- (Q1): As per un-audited quarterly accounts ...,1,0,0,q1: as per un-audited quarterly accounts
+110,2012-05-10,PLFSL,- Mr. Md. Nizamul Ahsan...,1,0,0,mr. md. nizamul ahsan
+111,2012-05-09,PLFSL,- Mr. Moshiur Rahman Bhuiyan...,0,1,0,mr. moshiur rahman bhuiyan
+112,2012-05-02,PLFSL,- Normal trading of the shares...,0,0,0,normal trading of the shares
+113,2012-04-25,PLFSL,- Trading of the shares...,0,0,0,trading of the shares
+114,2012-04-23,PLFSL,- Mr. Jamil Uddin Bhuiyan...,0,0,0,mr. jamil uddin bhuiyan
+115,2012-04-22,PLFSL,- Ms. Farzana Moazzam...,0,0,0,ms. farzana moazzam
+116,2012-04-05,PLFSL,- As per regulation ...,1,0,0,as per regulation
+117,2011-12-05,PLFSL,- Mr. Md. Shamsul Islam Mollah...,0,0,0,mr. md. shamsul islam mollah
+118,2011-10-30,PLFSL,- As per un-audited...,0,0,1,as per un-audited
+119,2011-10-13,PLFSL,- Capt. M. Moazzam Hossain...,1,0,0,capt. m. moazzam hossain
+120,2011-09-28,PLFSL,- Mr. Md. Irshad Ali...,1,0,0,mr. md. irshad ali
+121,2011-09-19,PLFSL,- Mr. H. B. M. Lutfur Rahman...,0,0,0,mr. h. b. m. lutfur rahman
+122,2011-09-18,PLFSL,- Mr. A.K.M. Shahidul Islam...,0,0,0,mr. a.k.m. shahidul islam
+123,2011-09-13,PLFSL,- Mr. Md. Shamsul Islam Mollah...,0,0,0,mr. md. shamsul islam mollah
+124,2011-08-09,PLFSL,- Capt. M. Moazzam Hossain...,0,0,1,capt. m. moazzam hossain
+125,2011-08-04,PLFSL,- Mr. Md. Irshad Ali...,0,0,0,mr. md. irshad ali
+126,2011-08-03,PLFSL,- Mr. Imam Shahed Hossain...,1,0,0,mr. imam shahed hossain
+127,2011-07-28,PLFSL,- (H/Y): As per un-audited...,0,0,0,hy: as per un-audited
+128,2011-07-28,PLFSL,- Mr. H. B. M. Lutfur Rahman...,0,0,0,mr. h. b. m. lutfur rahman
+129,2011-07-28,PLFSL,- Mr. Imam Shahed Hossain...,0,0,0,mr. imam shahed hossain
+130,2011-07-27,PLFSL,- Ms. Marina Irshad...,0,0,0,ms. marina irshad
+131,2011-07-20,PLFSL,- Ms. Tahmina Islam...,0,0,0,ms. tahmina islam
+132,2011-07-12,PLFSL,- Mr. A.K.M. Shahidul Islam...,0,0,0,mr. a.k.m. shahidul islam
+133,2011-07-10,PLFSL,- Mr. Md. Yousuf Ismail...,1,0,0,mr. md. yousuf ismail
+134,2011-07-07,PLFSL,- Ms. Marina Irshad...,0,0,0,ms. marina irshad
+135,2011-07-05,PLFSL,- In response to a DSE query....,1,0,0,in response to a dse query.
+136,2011-07-04,PLFSL,-Mr. Imam Shahed Hossain...,0,1,0,-mr. imam shahed hossain

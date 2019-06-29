@@ -1,0 +1,65 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-28,OAL,Q3 Financials,0,1,0,q3 financials
+1,2019-04-21,OAL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-01-30,OAL,Q2 Financials,0,0,0,q2 financials
+3,2019-01-27,OAL,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+4,2019-01-21,OAL,Disregard the News on Board Meeting schedule under LR 16(1),0,1,0,disregard the news on board meeting schedule under lr 161
+5,2019-01-21,OAL,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+6,2019-01-03,OAL,Dividend Disbursement,1,0,0,dividend disbursement
+7,2018-11-14,OAL,Q1 Financials,1,1,0,q1 financials
+8,2018-11-11,OAL,Resumption after Record Date,0,0,0,resumption after record date
+9,2018-11-08,OAL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+10,2018-11-08,OAL,Suspension for Record Date,0,0,0,suspension for record date
+11,2018-11-06,OAL,Spot News,0,1,0,spot news
+12,2018-10-21,OAL,Price Limit Open,0,0,1,price limit open
+13,2018-10-21,OAL,Dividend Declaration,0,0,1,dividend declaration
+14,2018-10-10,OAL,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+15,2018-07-02,OAL,Credit Rating Result,0,0,1,credit rating result
+16,2018-04-24,OAL,Q3 Financials,0,1,0,q3 financials
+17,2018-04-18,OAL,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+18,2018-01-28,OAL,Q2 Financials,0,0,0,q2 financials
+19,2018-01-23,OAL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+20,2018-01-18,OAL,Dividend Disbursement,0,0,0,dividend disbursement
+21,2017-11-19,OAL,Resumption after record date,0,0,1,resumption after record date
+22,2017-11-16,OAL,Suspension for Record Date,1,0,0,suspension for record date
+23,2017-11-14,OAL,Spot News for EGM & AGM,0,1,1,spot news for egm  agm
+24,2017-11-13,OAL,Q1 Financials,0,0,1,q1 financials
+25,2017-11-08,OAL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+26,2017-10-29,OAL,Price Limit Open,0,1,1,price limit open
+28,2017-10-29,OAL,Dividend Declaration & increase of authorized capital,0,1,1,dividend declaration  increase of authorized capital
+29,2017-10-18,OAL,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+30,2017-04-30,OAL,Q3 Financials,0,0,1,q3 financials
+31,2017-04-24,OAL,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+32,2017-01-30,OAL,Q2 Financials,0,1,1,q2 financials
+33,2017-01-25,OAL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+34,2017-01-22,OAL, Dividend Disbursement,1,0,0,dividend disbursement
+35,2017-01-03,OAL,Confirmation of sale,0,1,1,confirmation of sale
+36,2016-12-07,OAL,intention to Buy/Sale,1,1,0,intention to buysale
+37,2016-11-24,OAL,Resumption after record date,1,0,0,resumption after record date
+38,2016-11-23,OAL,Suspension for record date,1,1,0,suspension for record date
+39,2016-11-21,OAL,Spot for AGM,0,0,1,spot for agm
+40,2016-11-14,OAL,Q1 Financials,1,1,0,q1 financials
+41,2016-11-08,OAL,Board Meeting,0,0,0,board meeting
+42,2016-10-26,OAL,Price Limit Open,0,0,0,price limit open
+43,2016-10-26,OAL,Dividend Declaration,0,0,0,dividend declaration
+44,2016-10-18,OAL,Board Meeting,0,0,0,board meeting
+45,2016-04-24,OAL,Q3 Financials,0,0,0,q3 financials
+46,2016-04-18,OAL,Board Meeting,0,0,0,board meeting
+47,2016-01-27,OAL,Q2 Financials,0,0,0,q2 financials
+48,2016-01-21,OAL,Category Change,0,0,0,category change
+49,2016-01-21,OAL,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+50,2016-01-21,OAL,Board Meeting,0,0,0,board meeting
+51,2016-01-07,OAL,Dividend Disbursement,0,0,0,dividend disbursement
+52,2015-11-19,OAL,Resumption News after Record date,0,0,0,resumption news after record date
+53,2015-11-18,OAL,Suspension News for Record Date,0,0,0,suspension news for record date
+54,2015-11-17,OAL,Furnishing 12 digit e-TIN Number,0,0,0,furnishing 12 digit e-tin number
+55,2015-11-16,OAL,Spot News for AGM,1,0,0,spot news for agm
+56,2015-11-15,OAL,Q1,1,1,0,q1
+57,2015-11-10,OAL,Board Meeting,0,0,0,board meeting
+58,2015-10-27,OAL,Price Limit Open,0,0,0,price limit open
+59,2015-10-27,OAL,Dividend Declaration,0,0,0,dividend declaration
+60,2015-10-19,OAL,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+61,2015-07-29,OAL,Address Change of Registered Office,1,1,0,address change of registered office
+62,2015-07-06,OAL,Query Response (Repeat),1,0,0,query response repeat
+63,2015-07-02,OAL,Query Response,0,0,0,query response
+64,2015-06-25,OAL,Q3 Financials,1,0,0,q3 financials

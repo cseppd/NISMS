@@ -1,0 +1,84 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,NFML,Q3 Financials,1,0,0,q3 financials
+1,2019-04-25,NFML,Address Change of Head Office,0,0,0,address change of head office
+2,2019-04-21,NFML,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+3,2019-01-31,NFML,Q2 Financials,0,0,0,q2 financials
+4,2019-01-23,NFML,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+5,2019-01-15,NFML,Dividend Disbursement,0,0,0,dividend disbursement
+6,2018-12-27,NFML,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+7,2018-12-27,NFML,Category Change,0,0,0,category change
+8,2018-11-18,NFML,Resumption after record date,0,0,1,resumption after record date
+9,2018-11-15,NFML,Suspension for Record Date,0,0,0,suspension for record date
+10,2018-11-14,NFML,Q1 Financials,0,0,0,q1 financials
+11,2018-11-13,NFML,Spot News,1,0,0,spot news
+12,2018-11-07,NFML,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+13,2018-10-29,NFML,Price Limit Open,1,1,0,price limit open
+14,2018-10-29,NFML,Dividend Declaration,1,1,0,dividend declaration
+15,2018-10-18,NFML,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+16,2018-07-17,NFML,Query Response,0,0,1,query response
+17,2018-04-25,NFML,Q3 Financials,1,0,0,q3 financials
+18,2018-04-22,NFML,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+19,2018-04-09,NFML,Sale Confirmation of a Sponsor Director,1,0,0,sale confirmation of a sponsor director
+20,2018-03-13,NFML,Sale Declaration of a Sponsor Director,0,0,1,sale declaration of a sponsor director
+21,2018-03-12,NFML,Sale confirmation of a Corporate Sponsor,0,0,0,sale confirmation of a corporate sponsor
+22,2018-03-11,NFML,Sale confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+23,2018-02-26,NFML,Sale declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+24,2018-02-26,NFML,Sale declaration of a Corporate Sponsor,0,0,0,sale declaration of a corporate sponsor
+25,2018-01-31,NFML,Q2 Financials,0,0,0,q2 financials
+26,2018-01-24,NFML,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+27,2018-01-11,NFML,Sale confirmation of a Sponsor Director,1,0,0,sale confirmation of a sponsor director
+28,2018-01-08,NFML,Dividend Disbursement,0,0,0,dividend disbursement
+29,2017-12-18,NFML,Sale Declaration of a Sponsor Director,0,0,0,sale declaration of a sponsor director
+30,2017-12-12,NFML,Sale Confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+31,2017-11-27,NFML,Sale declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+32,2017-11-26,NFML,Sale confirmation of a Corporate Sponsor,1,0,0,sale confirmation of a corporate sponsor
+33,2017-11-16,NFML,Resumption after record date,0,0,0,resumption after record date
+34,2017-11-15,NFML,Suspension for Record Date,1,0,0,suspension for record date
+35,2017-11-15,NFML,Q1 Financials,1,0,0,q1 financials
+36,2017-11-13,NFML,Spot News,0,0,1,spot news
+37,2017-11-09,NFML,Sale declaration of a Corporate Sponsor,0,0,0,sale declaration of a corporate sponsor
+38,2017-11-07,NFML,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+39,2017-10-29,NFML,Price Limit Open,0,0,1,price limit open
+40,2017-10-29,NFML,Dividend Declaration,0,0,1,dividend declaration
+41,2017-10-22,NFML,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+42,2017-07-19,NFML,Address Change of Head Office,0,0,0,address change of head office
+43,2017-04-30,NFML,Q3 Financials,1,0,1,q3 financials
+44,2017-04-20,NFML,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+45,2017-03-29,NFML,Query Response,1,1,0,query response
+46,2017-02-20,NFML,Confirmation of sale by Sponsors/Directors,0,0,0,confirmation of sale by sponsorsdirectors
+47,2017-01-30,NFML,Q2 Financials,0,1,1,q2 financials
+48,2017-01-23,NFML,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+49,2017-01-02,NFML,Confirmation of sale,1,0,1,confirmation of sale
+50,2016-12-20,NFML,Declaration of sale,0,0,1,declaration of sale
+51,2016-12-18,NFML,Confirmation of sale,0,1,0,confirmation of sale
+52,2016-12-15,NFML,Confirmation of sale by a Sponsor/Director,0,0,0,confirmation of sale by a sponsordirector
+53,2016-12-11,NFML,Confirmation of sale by a Sponsor/Director,0,0,0,confirmation of sale by a sponsordirector
+54,2016-12-08,NFML,Confirmation of sale by a Sponsor/Director,1,0,0,confirmation of sale by a sponsordirector
+55,2016-12-08,NFML,Confirmation of sale by a Sponsor/Director,1,0,0,confirmation of sale by a sponsordirector
+56,2016-12-01,NFML,Declaration of sale by Sponsors/Directors,1,0,0,declaration of sale by sponsorsdirectors
+57,2016-11-27,NFML,Dividend Disbursement,0,1,0,dividend disbursement
+58,2016-11-15,NFML,Q1 Financials,1,0,0,q1 financials
+59,2016-11-10,NFML,Board Meeting,0,0,0,board meeting
+60,2016-10-24,NFML,Resumption after record date,0,0,0,resumption after record date
+61,2016-10-19,NFML,Spot for AGM,0,0,0,spot for agm
+62,2016-10-02,NFML,Dividend Declaration (Additional Information),0,0,0,dividend declaration additional information
+63,2016-10-02,NFML,Price Limit Open,0,0,0,price limit open
+64,2016-10-02,NFML,Dividend Declaration,0,0,0,dividend declaration
+65,2016-09-21,NFML,Board Meeting,0,1,0,board meeting
+66,2016-05-05,NFML,Address Change,0,0,0,address change
+67,2015-11-01,NFML,Q3,1,1,0,q3
+68,2015-09-14,NFML,Confirmation of sale by a Sponsor/Director,1,1,0,confirmation of sale by a sponsordirector
+69,2015-09-03,NFML,Confirmation of sale by the Directors,0,0,0,confirmation of sale by the directors
+70,2015-08-31,NFML,Declaration of sale by a Sponsor/Director,0,0,0,declaration of sale by a sponsordirector
+71,2015-08-09,NFML,Declaration of sale,1,0,0,declaration of sale
+72,2015-08-04,NFML,Q2 Financials,0,0,1,q2 financials
+73,2015-06-29,NFML,Category Change,1,1,0,category change
+74,2015-06-28,NFML,Dividend Disbursement,0,1,1,dividend disbursement
+75,2015-05-17,NFML,Q1 Financials,0,1,1,q1 financials
+76,2015-05-12,NFML,Resumption News after Record Date,0,1,1,resumption news after record date
+77,2015-05-11,NFML,Suspension News for Record Date,1,0,1,suspension news for record date
+78,2015-05-07,NFML,Spot Market,0,0,0,spot market
+79,2015-04-29,NFML,Price Limit Open,0,0,0,price limit open
+80,2015-04-29,NFML,Dividend Declaration,0,0,0,dividend declaration
+81,2015-04-26,NFML,Board  Meeting,0,0,0,board  meeting
+82,2015-01-19,NFML,Q3 Earning,0,0,0,q3 earning

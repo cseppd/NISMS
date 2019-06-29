@@ -1,0 +1,113 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-25,PARAMOUNT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+1,2019-04-15,PARAMOUNT,Prohibition on providing loan facilities to purchase securities,0,0,1,prohibition on providing loan facilities to purchase securities
+2,2019-04-15,PARAMOUNT,Category Change,0,0,1,category change
+3,2019-03-28,PARAMOUNT,Resumption after record date,0,0,0,resumption after record date
+4,2019-03-27,PARAMOUNT,Suspension for Record date,0,0,0,suspension for record date
+5,2019-03-24,PARAMOUNT,Spot News,0,0,0,spot news
+6,2019-03-05,PARAMOUNT,Price Limit Open,0,0,1,price limit open
+7,2019-03-05,PARAMOUNT,Dividend Declaration,0,0,1,dividend declaration
+8,2019-02-24,PARAMOUNT,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+9,2019-01-14,PARAMOUNT,Query Response,0,1,0,query response
+10,2019-01-03,PARAMOUNT,Credit Rating Result,0,0,0,credit rating result
+11,2018-12-17,PARAMOUNT,Query Response,1,1,0,query response
+12,2018-10-30,PARAMOUNT,Q3 Financials,0,0,0,q3 financials
+13,2018-10-23,PARAMOUNT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+14,2018-07-31,PARAMOUNT,Q2 Financials,0,1,1,q2 financials
+15,2018-07-23,PARAMOUNT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+16,2018-07-10,PARAMOUNT,Dividend Disbursement,1,1,0,dividend disbursement
+17,2018-05-22,PARAMOUNT,Resumption after record date,0,0,0,resumption after record date
+18,2018-05-21,PARAMOUNT,Suspension for Record Date,1,0,0,suspension for record date
+19,2018-05-17,PARAMOUNT,Spot News,0,0,0,spot news
+20,2018-05-15,PARAMOUNT,Q1 Financials,0,0,0,q1 financials
+21,2018-05-07,PARAMOUNT,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+22,2018-04-26,PARAMOUNT,Price Limit Open,1,0,0,price limit open
+23,2018-04-26,PARAMOUNT,Dividend Declaration,1,0,0,dividend declaration
+24,2018-04-18,PARAMOUNT,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+25,2017-11-27,PARAMOUNT,Credit Rating Result,0,1,0,credit rating result
+26,2017-11-01,PARAMOUNT,Q3 Financials,0,0,0,q3 financials
+27,2017-10-23,PARAMOUNT,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+28,2017-07-31,PARAMOUNT,Q2 Financials (additional information),1,0,0,q2 financials additional information
+29,2017-07-31,PARAMOUNT,Q2 Financials,1,0,0,q2 financials
+30,2017-07-24,PARAMOUNT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+31,2017-07-11,PARAMOUNT,Dividend Disbursement,0,0,1,dividend disbursement
+32,2017-07-09,PARAMOUNT,Appointment of Chief Executive Officer and Managing Director,0,0,0,appointment of chief executive officer and managing director
+33,2017-05-22,PARAMOUNT,Resumption after Record Date,0,1,1,resumption after record date
+34,2017-05-21,PARAMOUNT,Suspension for Record Date,1,0,1,suspension for record date
+35,2017-05-17,PARAMOUNT,Spot News,0,0,0,spot news
+36,2017-05-16,PARAMOUNT,Q1 Financials,0,0,0,q1 financials
+37,2017-05-16,PARAMOUNT,Changing date of AGM,0,0,0,changing date of agm
+38,2017-05-09,PARAMOUNT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+39,2017-04-30,PARAMOUNT,Dividend Declaration,0,0,1,dividend declaration
+40,2017-04-30,PARAMOUNT,Price Limit Open,0,0,1,price limit open
+42,2017-04-30,PARAMOUNT,Dividend Declaration,0,0,1,dividend declaration
+43,2017-04-19,PARAMOUNT,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+44,2016-10-31,PARAMOUNT,Q3 Financials,0,0,0,q3 financials
+45,2016-10-24,PARAMOUNT,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+46,2016-09-24,PARAMOUNT,Confirmation of sale by a Director,1,0,1,confirmation of sale by a director
+47,2016-08-31,PARAMOUNT, Declaration of sale by a Director,1,0,0,declaration of sale by a director
+48,2016-07-31,PARAMOUNT,Q2 Financials,0,1,0,q2 financials
+49,2016-07-26,PARAMOUNT,Board Meeting,0,0,0,board meeting
+50,2016-05-22,PARAMOUNT,Resumption after Record date,0,0,0,resumption after record date
+51,2016-05-19,PARAMOUNT,Suspension for Record date,1,0,0,suspension for record date
+52,2016-05-17,PARAMOUNT,Spot News for AGM,0,0,1,spot news for agm
+53,2016-05-16,PARAMOUNT,Q1 Financials,0,0,0,q1 financials
+54,2016-05-08,PARAMOUNT,Board Meeting,0,0,0,board meeting
+55,2016-05-02,PARAMOUNT,Price Limit Open,0,1,0,price limit open
+56,2016-05-02,PARAMOUNT,Dividend Declaration,0,1,0,dividend declaration
+57,2016-04-20,PARAMOUNT,Board Meeting,0,0,0,board meeting
+58,2016-01-10,PARAMOUNT,Appointment of CEO & MD,1,0,0,appointment of ceo  md
+59,2015-11-15,PARAMOUNT,Credit Rating Result,1,0,1,credit rating result
+60,2015-11-01,PARAMOUNT,Q3,1,1,0,q3
+61,2015-10-26,PARAMOUNT,Board Meeting,0,1,1,board meeting
+62,2015-08-02,PARAMOUNT,Q2 Financials,0,0,1,q2 financials
+63,2015-07-22,PARAMOUNT,Dividend Disbursement,0,0,0,dividend disbursement
+64,2015-05-17,PARAMOUNT,Q1 Financials,0,1,1,q1 financials
+65,2015-05-17,PARAMOUNT,Change of AGM Date,0,1,1,change of agm date
+66,2015-05-11,PARAMOUNT,Resumption News after Record Date,0,0,1,resumption news after record date
+67,2015-05-10,PARAMOUNT,Suspension News for Record Date,1,0,0,suspension news for record date
+68,2015-05-06,PARAMOUNT,Spot Market,1,1,0,spot market
+69,2015-04-29,PARAMOUNT,Price Limit Open,0,0,0,price limit open
+70,2015-04-29,PARAMOUNT,Dividend Declaration,0,0,0,dividend declaration
+71,2015-04-20,PARAMOUNT,Board Meeting,1,1,0,board meeting
+72,2014-11-02,PARAMOUNT,Q3 earnings,0,0,0,q3 earnings
+73,2014-09-21,PARAMOUNT,Credit Rating,1,0,1,credit rating
+74,2014-08-03,PARAMOUNT,H/Y Earnings,0,1,1,hy earnings
+75,2014-07-20,PARAMOUNT,credited the bonus shares,0,0,1,credited the bonus shares
+76,2014-05-15,PARAMOUNT,Q1 Earning,0,0,0,q1 earning
+77,2014-05-11,PARAMOUNT, will resume on after record date,0,1,0,will resume on after record date
+78,2014-05-08,PARAMOUNT,trade suspension,0,0,0,trade suspension
+79,2014-05-06,PARAMOUNT, Spot Market and Block/Odd lot transactions,1,0,0,spot market and blockodd lot transactions
+80,2014-04-29,PARAMOUNT,no price limit,0,1,0,no price limit
+81,2014-04-29,PARAMOUNT,Dividend Declaration,0,1,0,dividend declaration
+82,2014-04-21,PARAMOUNT,Board Meeting,0,1,1,board meeting
+83,2013-10-30,PARAMOUNT,Q3 Earnings,0,0,0,q3 earnings
+84,2013-10-29,PARAMOUNT, Investment Decision could not be Materialized,0,0,0,investment decision could not be materialized
+85,2013-08-27,PARAMOUNT,Credit Rating,0,0,0,credit rating
+86,2013-07-30,PARAMOUNT,Q2 Earnings,0,0,1,q2 earnings
+87,2013-07-30,PARAMOUNT,Q2 Earnings,0,0,1,q2 earnings
+88,2013-07-11,PARAMOUNT,Category Change,0,0,0,category change
+89,2013-07-11,PARAMOUNT,Credited Bonus Shares,0,0,0,credited bonus shares
+90,2013-06-30,Paramount,Textileâ€™s IPO gets a go-ahead,1,0,1,textiles ipo gets a go-ahead
+91,2013-05-13,PARAMOUNT,Q1 Earnings,0,1,0,q1 earnings
+92,2013-05-09,PARAMOUNT,trade resume,0,0,0,trade resume
+93,2013-04-29,PARAMOUNT,AGM,0,1,0,agm
+94,2013-04-29,PARAMOUNT,Corporate Declaration,0,1,0,corporate declaration
+95,2013-04-22,PARAMOUNT,Board Meeting,1,0,0,board meeting
+96,2012-10-31,PARAMOUNT,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+97,2012-08-02,PARAMOUNT,- The Credit Rating Agency of Bangladesh Limited...,1,0,0,the credit rating agency of bangladesh limited
+98,2012-07-05,PARAMOUNT,- The Company has informed...,0,0,0,the company has informed
+99,2012-07-04,PARAMOUNT,- The Company has informed ...,0,0,0,the company has informed
+100,2012-05-14,PARAMOUNT,- Mr. Nawaz Ahmad...,1,0,1,mr. nawaz ahmad
+101,2012-05-13,PARAMOUNT,- Q1): As per un-audited quarterly accounts...,0,1,0,q1: as per un-audited quarterly accounts
+102,2012-05-10,PARAMOUNT,- Normal trading of the shares...,0,0,0,normal trading of the shares
+103,2012-05-09,PARAMOUNT,- Trading of the shares...,1,0,0,trading of the shares
+104,2012-04-30,PARAMOUNT,- Mrs. Anita Haque and Mrs. Anita Rani Das...,1,0,1,mrs. anita haque and mrs. anita rani das
+105,2012-04-22,PARAMOUNT,- As per regulation...,1,0,0,as per regulation
+106,2011-10-27,PARAMOUNT,- As per un-audited...,0,0,0,as per un-audited
+107,2011-10-27,PARAMOUNT,- Normal trading of the shares...,0,0,0,normal trading of the shares
+108,2011-10-26,PARAMOUNT,- Trading of the shares...,0,0,0,trading of the shares
+109,2011-10-19,PARAMOUNT,- The Company has informed...,0,1,0,the company has informed
+110,2011-09-28,PARAMOUNT,- The Credit Rating Agency...,0,1,0,the credit rating agency
+111,2011-08-02,PARAMOUNT,- The Company has informed...,0,1,1,the company has informed
+112,2011-07-31,PARAMOUNT,- (H/Y): As per un-audited...,0,0,0,hy: as per un-audited

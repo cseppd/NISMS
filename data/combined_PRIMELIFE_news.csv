@@ -1,0 +1,115 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-01-21,PRIMELIFE,Dividend Disbursement,1,0,0,dividend disbursement
+2,2018-12-19,PRIMELIFE,Updating information,1,0,0,updating information
+3,2018-12-18,PRIMELIFE,Resumption after record date,0,1,0,resumption after record date
+4,2018-12-17,PRIMELIFE,Query Response,0,0,1,query response
+5,2018-12-17,PRIMELIFE,Suspension for Record date,0,0,1,suspension for record date
+6,2018-12-12,PRIMELIFE,Spot News,1,0,0,spot news
+7,2018-12-10,PRIMELIFE,Q3 Financials,0,0,1,q3 financials
+8,2018-12-10,PRIMELIFE,Q2 Financials,0,0,1,q2 financials
+9,2018-12-10,PRIMELIFE,Q1 Financials,0,0,1,q1 financials
+10,2018-12-09,PRIMELIFE,Price Limit Open,1,0,0,price limit open
+11,2018-12-09,PRIMELIFE,Dividend Declaration,1,0,0,dividend declaration
+12,2018-12-05,PRIMELIFE,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+13,2018-12-05,PRIMELIFE,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+17,2018-12-04,PRIMELIFE,Qualified Opinion,0,1,1,qualified opinion
+18,2018-04-16,PRIMELIFE,Query Response,0,1,1,query response
+19,2017-11-16,PRIMELIFE,Dividend Disbursement,1,0,0,dividend disbursement
+20,2017-10-29,PRIMELIFE,Q3 Financials,1,1,0,q3 financials
+21,2017-10-22,PRIMELIFE,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+22,2017-08-30,PRIMELIFE,Resumption after Record Date,0,0,0,resumption after record date
+23,2017-08-29,PRIMELIFE,Suspension for Record Date,0,0,0,suspension for record date
+24,2017-08-27,PRIMELIFE,Spot News,0,0,0,spot news
+25,2017-08-08,PRIMELIFE,Q2 Financials,0,0,0,q2 financials
+26,2017-08-08,PRIMELIFE,Q1 Financials,0,0,0,q1 financials
+27,2017-08-08,PRIMELIFE,Price Limit Open,0,0,0,price limit open
+28,2017-08-08,PRIMELIFE,Dividend Declaration,0,0,0,dividend declaration
+29,2017-07-30,PRIMELIFE,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+30,2017-07-30,PRIMELIFE,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+31,2017-04-30,PRIMELIFE,Land Purchase,0,0,0,land purchase
+32,2016-10-30,PRIMELIFE,Completion of Transfer,1,1,1,completion of transfer
+33,2016-10-25,PRIMELIFE,Declaration of Transfer by a Sponsor,1,1,0,declaration of transfer by a sponsor
+34,2016-10-16,PRIMELIFE,Q3 Financials,0,0,1,q3 financials
+35,2016-10-13,PRIMELIFE,Declaration of sale by a Sponsor/Director,0,0,0,declaration of sale by a sponsordirector
+36,2016-10-09,PRIMELIFE, Board Meeting,1,1,0,board meeting
+37,2016-09-27,PRIMELIFE,Dividend Disbursement,1,0,1,dividend disbursement
+38,2016-08-21,PRIMELIFE,Credit Rating Result,1,0,1,credit rating result
+39,2016-08-08,PRIMELIFE,Resumption after record date,0,1,1,resumption after record date
+40,2016-08-07,PRIMELIFE,Suspension news for record date,0,0,1,suspension news for record date
+41,2016-08-01,PRIMELIFE,Confirmation of sale,1,0,0,confirmation of sale
+42,2016-08-01,PRIMELIFE,Q2 Financials,1,0,0,q2 financials
+43,2016-07-28,PRIMELIFE,Board Meeting,0,0,0,board meeting
+44,2016-07-24,PRIMELIFE,Declaration of sale by a Sponsor/Director,0,0,1,declaration of sale by a sponsordirector
+45,2016-07-14,PRIMELIFE,Q1,0,0,1,q1
+46,2016-07-12,PRIMELIFE,Price Limit Open,1,1,0,price limit open
+47,2016-07-12,PRIMELIFE,Dividend Declaration,1,1,0,dividend declaration
+48,2016-06-29,PRIMELIFE,Board Meeting,1,0,0,board meeting
+49,2016-06-29,PRIMELIFE,Board Meeting,1,0,0,board meeting
+50,2016-05-11,PRIMELIFE,Query Response,0,0,0,query response
+51,2016-02-23,PRIMELIFE,Query Response,1,1,1,query response
+52,2015-12-28,PRIMELIFE,Land Purchase,1,0,0,land purchase
+53,2015-11-01,PRIMELIFE,Confirmation of sale,0,1,1,confirmation of sale
+54,2015-11-01,PRIMELIFE,Q3,0,1,1,q3
+55,2015-10-28,PRIMELIFE,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+56,2015-10-25,PRIMELIFE, Declaration of sale by a Sponsor /Director,1,0,1,declaration of sale by a sponsor director
+57,2015-09-10,PRIMELIFE,Cancellation of Land Purchase,1,0,0,cancellation of land purchase
+58,2015-09-06,PRIMELIFE,Dividend Disbursement,1,1,1,dividend disbursement
+59,2015-07-27,PRIMELIFE,Half Yearly Financials,0,1,0,half yearly financials
+60,2015-07-23,PRIMELIFE,Confirmation of Sale/Buy of Sponsor/Director,1,0,0,confirmation of salebuy of sponsordirector
+61,2015-07-22,PRIMELIFE,Confirmation of Transfer by a Sponsor,0,1,0,confirmation of transfer by a sponsor
+62,2015-07-14,PRIMELIFE,Resumption News,0,0,0,resumption news
+63,2015-07-14,PRIMELIFE,Declaration of Transfer,0,0,0,declaration of transfer
+64,2015-07-13,PRIMELIFE,Suspension News,1,0,0,suspension news
+65,2015-07-13,PRIMELIFE,Declaration of Sale/Buy,1,0,0,declaration of salebuy
+66,2015-07-09,PRIMELIFE,Spot News for AGM,1,0,0,spot news for agm
+67,2015-06-30,PRIMELIFE,Q1 Financials,0,0,0,q1 financials
+68,2015-06-28,PRIMELIFE,Price Limit Open,1,0,0,price limit open
+69,2015-06-28,PRIMELIFE,Dividend Declaration,1,0,0,dividend declaration
+70,2015-06-25,PRIMELIFE,Board Meeting,0,0,0,board meeting
+71,2015-05-04,PRIMELIFE, Land Purchase,0,1,1,land purchase
+72,2015-01-18,PRIMELIFE,credited the bonus shares,0,0,1,credited the bonus shares
+73,2014-11-20,PRIMELIFE,Trade Resume,0,0,0,trade resume
+74,2014-11-19,PRIMELIFE,Trade suspended on record date,1,0,0,trade suspended on record date
+75,2014-11-17,PRIMELIFE,Spot Market and Block/Odd lot transactions,0,0,1,spot market and blockodd lot transactions
+76,2014-11-17,PRIMELIFE,Q3 Earning,0,0,1,q3 earning
+77,2014-11-17,PRIMELIFE,Q2 Earning,0,0,1,q2 earning
+78,2014-11-17,PRIMELIFE,Q1 Earning,0,0,1,q1 earning
+79,2014-11-10,PRIMELIFE,no price limit,0,1,0,no price limit
+80,2014-11-10,PRIMELIFE,dividend,0,1,0,dividend
+81,2014-11-06,PRIMELIFE,board meeting,0,0,0,board meeting
+82,2013-11-06,PRIMELIFE,sponsor share sell,1,1,0,sponsor share sell
+83,2013-10-30,PRIMELIFE,Q3 Earnings,0,1,0,q3 earnings
+84,2013-10-30,PRIMELIFE,Sponsors Share Sell,0,1,0,sponsors share sell
+85,2013-10-29,PRIMELIFE,Sponsors Share Sell,0,0,1,sponsors share sell
+86,2013-10-23,PRIMELIFE,Sponsors Share Sell,0,0,0,sponsors share sell
+87,2013-10-01,PRIMELIFE,Sponsors Share Sell,1,1,0,sponsors share sell
+88,2013-09-25,PRIMELIFE,Chairman Has Been Elected,0,1,0,chairman has been elected
+89,2013-09-23,PRIMELIFE,Bonus Share Has been Credited To the BO Account,0,1,0,bonus share has been credited to the bo account
+90,2013-09-02,PRIMELIFE,Sponsors Share Sell,0,0,1,sponsors share sell
+91,2013-07-30,PRIMELIFE,Q2 Earnings,0,1,1,q2 earnings
+92,2013-07-30,PRIMELIFE,Q2 Earnings,0,1,1,q2 earnings
+93,2013-07-11,PRIMELIFE,Trade Resume after Record Date,0,0,0,trade resume after record date
+94,2013-07-10,PRIMELIFE,Trade Suspension on Record Date,1,0,0,trade suspension on record date
+95,2013-07-07,PRIMELIFE,Trading suspended on record date,0,1,0,trading suspended on record date
+96,2013-06-30,PRIMELIFE,Q1 Earnings,1,0,1,q1 earnings
+97,2013-06-30,PRIMELIFE,no price limit,1,0,1,no price limit
+98,2013-06-30,PRIMELIFE,Corporate Action,1,0,1,corporate action
+99,2013-06-26,PRIMELIFE,Directors News,0,1,0,directors news
+100,2013-04-08,PRIMELIFE,Credit Rating,0,0,0,credit rating
+101,2012-10-31,PRIMELIFE,Q3 Earnings 2012,0,1,0,q3 earnings 2012
+102,2012-10-22,PRIMELIFE,Director share transfer announcement,1,1,0,director share transfer announcement
+103,2012-10-22,PRIMELIFE,director share transfer completed,1,1,0,director share transfer completed
+104,2012-10-16,PRIMELIFE,Board of Director reconstitution,1,1,1,board of director reconstitution
+105,2012-09-25,PRIMELIFE,trading will resume after record date,0,0,0,trading will resume after record date
+106,2012-09-24,PRIMELIFE,trading will be suspended on record date,0,0,0,trading will be suspended on record date
+107,2012-09-20,PRIMELIFE,AGM venue changed,0,0,0,agm venue changed
+108,2012-09-04,PRIMELIFE,- The Stock Brokers and Merchant Bankers...,0,0,0,the stock brokers and merchant bankers
+109,2012-09-04,PRIMELIFE,-The Company will be placed...,0,0,0,-the company will be placed
+110,2012-07-22,PRIMELIFE,- Trading of the shares of the Company...,1,0,0,trading of the shares of the company
+111,2012-07-12,PRIMELIFE,- In continuation to the...,1,0,0,in continuation to the
+112,2012-03-27,PRIMELIFE,- The Company will be placed...,0,0,1,the company will be placed
+113,2012-03-27,PRIMELIFE,- The Stock Brokers and Merchant Bankers...,0,0,1,the stock brokers and merchant bankers
+114,2011-10-31,PRIMELIFE,- As per un-audited...,0,1,0,as per un-audited
+115,2011-10-27,PRIMELIFE,- The Company has informed...,0,0,0,the company has informed
+116,2011-08-01,PRIMELIFE,-(H/Y): As per un-audited...,0,0,1,-hy: as per un-audited
+117,2011-07-01,PRIMELIFE,- Information,0,0,0,information

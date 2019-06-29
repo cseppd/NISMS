@@ -1,0 +1,91 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-28,NTC,Q3 Financials,1,1,1,q3 financials
+1,2019-04-21,NTC,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-01-31,NTC,Q2 Financials,0,0,0,q2 financials
+3,2019-01-29,NTC,Cash Dividend Disbursement,1,1,0,cash dividend disbursement
+4,2019-01-24,NTC,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+5,2018-11-27,NTC,Query Response,0,1,0,query response
+6,2018-11-13,NTC,Q1 Financials,0,0,0,q1 financials
+7,2018-11-12,NTC,Resumption after Record Date,0,0,0,resumption after record date
+8,2018-11-11,NTC,Suspension for Record Date,0,0,0,suspension for record date
+9,2018-11-07,NTC,Spot News,0,1,0,spot news
+10,2018-11-05,NTC,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+11,2018-10-14,NTC,Price Limit Open,0,1,1,price limit open
+12,2018-10-14,NTC,Dividend Declaration,0,1,1,dividend declaration
+13,2018-10-02,NTC,Board Meeting schedule under LR 19(1),0,0,1,board meeting schedule under lr 191
+14,2018-04-22,NTC,Q3 Financials,0,0,0,q3 financials
+15,2018-04-15,NTC,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+16,2018-01-28,NTC,Dividend Disbursement,0,0,0,dividend disbursement
+17,2018-01-25,NTC,Q2 Financials,1,0,0,q2 financials
+18,2018-01-17,NTC,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+19,2017-11-19,NTC,Resumption after record date,0,1,0,resumption after record date
+20,2017-11-16,NTC,Suspension for Record Date,0,0,0,suspension for record date
+21,2017-11-14,NTC,Spot News,1,1,0,spot news
+22,2017-11-12,NTC,Q1 Financials,0,0,1,q1 financials
+23,2017-11-05,NTC,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+24,2017-10-29,NTC,Price Limit Open,0,1,0,price limit open
+26,2017-10-29,NTC,Dividend Declaration,0,1,0,dividend declaration
+27,2017-10-19,NTC,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+28,2017-06-21,NTC,Q3 Financials,0,1,0,q3 financials
+29,2017-06-21,NTC,Q2 Financials,0,1,0,q2 financials
+30,2017-06-15,NTC,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+31,2017-01-09,NTC, Query Response,0,0,1,query response
+32,2016-11-30,NTC,Spot for AGM,0,0,0,spot for agm
+33,2016-11-30,NTC,Spot for AGM,0,0,0,spot for agm
+34,2016-11-15,NTC,Q1 Financials,1,0,1,q1 financials
+35,2016-11-15,NTC,Price Limit Open,1,0,1,price limit open
+36,2016-11-15,NTC,Dividend Declaration,1,0,1,dividend declaration
+37,2016-11-06,NTC,Board Meeting schedule,0,1,1,board meeting schedule
+38,2016-05-12,NTC,Unaudited Financial Information,0,0,0,unaudited financial information
+39,2016-04-21,NTC,Board Meeting,0,0,0,board meeting
+40,2015-10-28,NTC,Q3 Financials,1,0,0,q3 financials
+41,2015-10-21,NTC,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+42,2015-08-04,NTC,Information for Merchant Banks and DPs relating to Margin Accounts,0,0,0,information for merchant banks and dps relating to margin accounts
+43,2015-07-29,NTC,Q2 Financials,1,0,0,q2 financials
+44,2015-07-14,NTC,Resumption News,0,0,0,resumption news
+45,2015-07-13,NTC,Suspension News,0,0,0,suspension news
+46,2015-07-09,NTC,Spot News for AGM,0,0,0,spot news for agm
+47,2015-05-17,NTC,Qualified Opinion,0,0,0,qualified opinion
+48,2015-04-30,NTC,Q1,0,0,0,q1
+49,2015-04-22,NTC,Price Limit Open,1,0,0,price limit open
+50,2015-04-22,NTC,Dividend Declaration,1,0,0,dividend declaration
+51,2015-04-20,NTC,Board Meeting,0,0,1,board meeting
+52,2014-10-30,NTC,Q3 Earnings,1,0,0,q3 earnings
+53,2014-07-24,NTC,H/Y Earnings,0,0,0,hy earnings
+54,2014-06-29,NTC,AGM,0,0,0,agm
+55,2014-06-08,NTC,AGM rescheduled,0,0,0,agm rescheduled
+56,2014-05-19,NTC,Basis for Qualified Opinion,1,0,0,basis for qualified opinion
+57,2014-05-15,NTC,Q1 Earning,0,0,0,q1 earning
+58,2014-05-15,NTC,will resume after record date,0,0,0,will resume after record date
+59,2014-05-14,NTC,trade suspended,0,0,0,trade suspended
+60,2014-05-11,NTC,Spot Market,1,0,0,spot market
+61,2014-05-11,NTC,Spot Market,1,0,0,spot market
+62,2014-04-27,NTC,no price limit,0,0,1,no price limit
+63,2014-04-27,NTC,30% Cash Dividend,0,0,1,30 cash dividend
+64,2014-04-24,NTC,Board Meeting,0,0,0,board meeting
+65,2013-10-31,NTC,Q3 earnings,0,0,0,q3 earnings
+66,2013-07-31,NTC,Q2 Earnings,0,0,0,q2 earnings
+67,2013-07-02,NTC,category change,1,0,0,category change
+68,2013-06-12,NTC,Trade Resume after Record Date,0,0,0,trade resume after record date
+69,2013-06-11,NTC,Trade Suspension on Record Date,1,0,0,trade suspension on record date
+70,2013-05-29,NTC,Spot Market Trading,0,1,0,spot market trading
+71,2013-05-27,NTC,Q1 Earnings,0,0,0,q1 earnings
+72,2013-05-20,NTC,Auditor's Statement,0,0,0,auditor's statement
+73,2013-05-02,NTC,Corporate Declaration,1,0,0,corporate declaration
+74,2013-04-30,NTC,Board Meeting,0,0,1,board meeting
+75,2013-03-14,NTC,AGM postpond,0,0,0,agm postpond
+76,2013-02-13,NTC,AGM,0,0,0,agm
+77,2012-12-30,NTC,non marginable,0,0,1,non marginable
+78,2012-12-30,NTC,category change,0,0,1,category change
+79,2012-11-11,NTC,Q3 Earnings 2012,1,1,1,q3 earnings 2012
+80,2012-06-19,NTC,- Normal trading of the shares...,0,0,1,normal trading of the shares
+81,2012-06-13,NTC,- Trading of the shares...,0,1,0,trading of the shares
+82,2012-05-17,NTC,- Auditors' Qualified opinion...,1,0,0,auditors' qualified opinion
+83,2012-04-24,NTC,- As per regulation...,1,1,0,as per regulation
+84,2012-01-31,NTC,- SEC has issued show...,0,0,0,sec has issued show
+85,2011-11-03,NTC,- Normal trading of the shares...,0,0,0,normal trading of the shares
+86,2011-11-02,NTC,- Trading of the shares...,0,0,0,trading of the shares
+87,2011-10-30,NTC,- As per un-audited...,0,0,1,as per un-audited
+88,2011-10-30,NTC,- Trading of the shares...,0,0,1,trading of the shares
+89,2011-10-25,NTC,- The Company has informed...,1,1,1,the company has informed
+90,2011-08-02,NTC,- (H/Y): As per un-audited...,0,1,1,hy: as per un-audited

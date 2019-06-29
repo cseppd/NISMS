@@ -1,0 +1,136 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-25,PHENIXINS,Updating information,0,0,0,updating information
+1,2019-04-25,PHENIXINS,Q1 Financials,0,0,0,q1 financials
+2,2019-04-25,PHENIXINS,Price Limit Open,0,0,0,price limit open
+4,2019-04-25,PHENIXINS,Dividend Declaration,0,0,0,dividend declaration
+5,2019-04-18,PHENIXINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+6,2019-04-16,PHENIXINS,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+7,2019-01-22,PHENIXINS,Query Response,0,0,1,query response
+8,2018-11-01,PHENIXINS,Q3 Financials,0,0,0,q3 financials
+9,2018-10-29,PHENIXINS,Buy confirmation of a Sponsor,0,1,1,buy confirmation of a sponsor
+10,2018-10-25,PHENIXINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+11,2018-10-21,PHENIXINS,Buy declaration of a Sponsor,0,0,1,buy declaration of a sponsor
+12,2018-07-30,PHENIXINS,Q2 Financials,1,1,1,q2 financials
+13,2018-07-29,PHENIXINS,Cash Dividend Disbursement,1,1,1,cash dividend disbursement
+14,2018-07-24,PHENIXINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+15,2018-05-29,PHENIXINS,Resumption after record date,0,1,0,resumption after record date
+16,2018-05-28,PHENIXINS,Suspension for Record Date,0,0,1,suspension for record date
+17,2018-05-24,PHENIXINS,Spot News,1,0,0,spot news
+18,2018-04-30,PHENIXINS,Q1 Financials,0,0,0,q1 financials
+19,2018-04-30,PHENIXINS,Price Limit Open,0,0,0,price limit open
+20,2018-04-30,PHENIXINS,Dividend Declaration,0,0,0,dividend declaration
+21,2018-04-26,PHENIXINS,Credit Rating Result,1,0,0,credit rating result
+22,2018-04-22,PHENIXINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+23,2018-04-19,PHENIXINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+24,2017-11-07,PHENIXINS,Transmission confirmation of Deceased shares to her nominee,0,0,0,transmission confirmation of deceased shares to her nominee
+26,2017-11-07,PHENIXINS,Transmission confirmation of Deceased Director's shares,0,0,0,transmission confirmation of deceased director's shares
+27,2017-10-30,PHENIXINS,Transmission of Deceased shares to her nominee,1,1,1,transmission of deceased shares to her nominee
+28,2017-10-29,PHENIXINS,Q3 Financials,0,1,1,q3 financials
+30,2017-10-24,PHENIXINS,Transmission of Deceased Director's shares among his successors,0,0,0,transmission of deceased director's shares among his successors
+31,2017-10-23,PHENIXINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+32,2017-07-31,PHENIXINS,Q2 Financials,0,0,0,q2 financials
+33,2017-07-25,PHENIXINS,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+34,2017-07-23,PHENIXINS,Dividend Disbursement,0,1,1,dividend disbursement
+35,2017-05-23,PHENIXINS,Resumption after Record Date,0,1,0,resumption after record date
+36,2017-05-22,PHENIXINS,Suspension for Record Date,1,0,1,suspension for record date
+37,2017-05-18,PHENIXINS,Spot News,0,0,0,spot news
+38,2017-05-11,PHENIXINS,Q1 Financials,0,0,0,q1 financials
+39,2017-05-08,PHENIXINS,Credit Rating Result,0,0,0,credit rating result
+40,2017-05-04,PHENIXINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+41,2017-04-30,PHENIXINS,Price Limit Open,0,0,0,price limit open
+42,2017-04-30,PHENIXINS,Dividend Declaration,0,0,0,dividend declaration
+43,2017-04-20,PHENIXINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+44,2016-10-30,PHENIXINS,Q3 Financials,0,0,0,q3 financials
+45,2016-10-24,PHENIXINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+46,2016-07-31,PHENIXINS,Q2 Financials,0,0,0,q2 financials
+47,2016-07-26,PHENIXINS,Board Meeting,1,1,1,board meeting
+48,2016-07-26,PHENIXINS,Board Meeting,1,1,1,board meeting
+49,2016-05-09,PHENIXINS,Imposing Fine on Directors of the Company,0,1,1,imposing fine on directors of the company
+50,2016-05-04,PHENIXINS,Q1 Financials,1,1,0,q1 financials
+51,2016-05-03,PHENIXINS,Credit Rating Result,0,1,1,credit rating result
+52,2016-04-27,PHENIXINS,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+53,2016-04-19,PHENIXINS,Resumption after Record date,0,0,0,resumption after record date
+54,2016-04-18,PHENIXINS,Suspension for Record date,1,0,0,suspension for record date
+55,2016-04-13,PHENIXINS,Spot for AGM,0,0,0,spot for agm
+56,2016-04-10,PHENIXINS,Confirmation of sale/buy of Public Director/Sponsor,1,1,0,confirmation of salebuy of public directorsponsor
+57,2016-04-07,PHENIXINS,Updating information,0,0,0,updating information
+58,2016-03-31,PHENIXINS,Declaration of sale/buy of Public Director/ Sponsor,1,0,0,declaration of salebuy of public director sponsor
+59,2016-03-27,PHENIXINS,Price Limit Open,1,0,1,price limit open
+60,2016-03-27,PHENIXINS,Dividend Declaration,1,0,1,dividend declaration
+61,2016-03-16,PHENIXINS,Board Meeting,0,0,0,board meeting
+62,2015-11-02,PHENIXINS,Confirmation of sale by a Sponsor/Director,0,0,0,confirmation of sale by a sponsordirector
+63,2015-10-29,PHENIXINS,Q3 Financials,1,0,0,q3 financials
+64,2015-10-27,PHENIXINS,Declaration of sale by a Public Director,1,0,1,declaration of sale by a public director
+65,2015-10-26,PHENIXINS,Completion of Transfer by a Sponsor,0,1,0,completion of transfer by a sponsor
+66,2015-10-25,PHENIXINS,Board Meeting,1,0,1,board meeting
+67,2015-10-21,PHENIXINS,Declaration of Transfer by a Sponsor,1,0,0,declaration of transfer by a sponsor
+68,2015-10-12,PHENIXINS,Buy Confirmation by a Sponsor,1,0,0,buy confirmation by a sponsor
+69,2015-10-05,PHENIXINS,Buy Declaration,0,1,1,buy declaration
+70,2015-07-27,PHENIXINS, Half Yearly Financials,1,1,0,half yearly financials
+71,2015-07-13,PHENIXINS,Dividend Disbursement,0,0,0,dividend disbursement
+72,2015-07-12,PHENIXINS,Buy Confirmation,0,0,0,buy confirmation
+73,2015-06-30,PHENIXINS,Buy Declaration of a Sponsor,1,0,1,buy declaration of a sponsor
+74,2015-06-28,PHENIXINS,Buy Declaration of a Sponsor,1,1,1,buy declaration of a sponsor
+75,2015-05-14,PHENIXINS,Credit Rating result,0,0,0,credit rating result
+76,2015-05-13,PHENIXINS,Q1 Financials,1,0,0,q1 financials
+77,2015-05-11,PHENIXINS,Resumption News after Record Date,0,0,1,resumption news after record date
+78,2015-05-10,PHENIXINS,Suspension News for Record Date,1,0,0,suspension news for record date
+79,2015-05-06,PHENIXINS,Spot Market,1,1,0,spot market
+80,2015-04-29,PHENIXINS,Price Limit Open,0,0,0,price limit open
+81,2015-04-29,PHENIXINS,Dividend Declaration,0,0,0,dividend declaration
+82,2015-04-23,PHENIXINS,Board Meeting,0,0,0,board meeting
+83,2014-10-30,PHENIXINS,Q3 Earnings,0,0,0,q3 earnings
+84,2014-08-03,PHENIXINS,H/Y Earnings,1,0,0,hy earnings
+85,2014-07-23,PHENIXINS,Sponsor/Director Share Buy,0,1,0,sponsordirector share buy
+86,2014-07-15,PHENIXINS,Sponsor/Director Share Buy,0,0,1,sponsordirector share buy
+87,2014-07-10,PHENIXINS,cash dividend,0,0,0,cash dividend
+88,2014-05-29,PHENIXINS,Credit Rating,0,0,0,credit rating
+89,2014-05-29,PHENIXINS,Sponsor/Director Share Buy,0,0,0,sponsordirector share buy
+90,2014-05-29,PHENIXINS,Sponsor/Director Share Sale/Buy,0,0,0,sponsordirector share salebuy
+91,2014-05-26,PHENIXINS,Sponsor/Director Share Transfer,1,0,0,sponsordirector share transfer
+92,2014-05-25,PHENIXINS,Sponsors/Directors has completed transfer his share,0,1,0,sponsorsdirectors has completed transfer his share
+93,2014-05-22,PHENIXINS,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+94,2014-05-20,PHENIXINS,Sponsor/Director Share buy,0,0,0,sponsordirector share buy
+95,2014-05-19,PHENIXINS,Sponsor/Director Share buy & sale,0,0,0,sponsordirector share buy  sale
+96,2014-05-18,PHENIXINS,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+97,2014-05-12,PHENIXINS,Q1 Earnings,1,0,1,q1 earnings
+98,2014-05-11,PHENIXINS,will resume after record date,0,1,0,will resume after record date
+99,2014-05-08,PHENIXINS,trade suspension,1,0,0,trade suspension
+100,2014-05-08,PHENIXINS,Sponsor/Director Share Sale,1,0,0,sponsordirector share sale
+101,2014-05-06,PHENIXINS,Spot Market and Block/Odd lot transactions,1,0,1,spot market and blockodd lot transactions
+102,2014-04-29,PHENIXINS,no price limit,0,0,0,no price limit
+103,2014-04-29,PHENIXINS, Dividend Declaration,0,0,0,dividend declaration
+104,2014-04-24,PHENIXINS,Board Meeting,0,0,0,board meeting
+105,2013-10-31,PHENIXINS,Q3 earnigs,1,0,0,q3 earnigs
+106,2013-10-22,PHENIXINS,Transfer of Pledge Share,0,0,0,transfer of pledge share
+107,2013-10-01,PHENIXINS,Sponsors Share Buy,1,1,1,sponsors share buy
+108,2013-09-17,PHENIXINS,Right Issue,1,0,1,right issue
+109,2013-09-15,PHENIXINS,Sponsors Share Buy,1,0,1,sponsors share buy
+110,2013-07-31,PHENIXINS,Q2 Earnings,0,0,0,q2 earnings
+111,2013-07-18,PHENIXINS,Sponsors Share Sell,0,0,0,sponsors share sell
+112,2013-07-08,PHENIXINS,Sponsors Share Sell,0,1,0,sponsors share sell
+113,2013-05-15,PHENIXINS,Q1 Earnings,0,1,0,q1 earnings
+114,2013-05-07,PHENIXINS,Trade Resume after Record Date,0,0,1,trade resume after record date
+115,2013-04-30,PHENIXINS,Spot Market Trading,1,0,1,spot market trading
+116,2013-04-21,PHENIXINS,Corporate Declaration,1,0,1,corporate declaration
+117,2013-04-17,PHENIXINS,Board Meeting,0,0,0,board meeting
+118,2012-10-31,PHENIXINS,Q3 Earnings 2012,1,0,0,q3 earnings 2012
+119,2012-10-09,PHENIXINS,director share buy announcement,0,0,0,director share buy announcement
+120,2012-10-04,PHENIXINS,director buy announcement,0,0,0,director buy announcement
+121,2012-07-22,PHENIXINS,- The Company has informed...,0,1,1,the company has informed
+122,2012-05-17,PHENIXINS,- Mr. Mazharul Haque...,0,0,0,mr. mazharul haque
+123,2012-05-17,PHENIXINS,- Mr. Farzad Haque...,0,0,0,mr. farzad haque
+124,2012-05-17,PHENIXINS,- Mr. M. A. Majid...,0,0,0,mr. m. a. majid
+125,2012-05-17,PHENIXINS,- Normal trading of the shares ...,0,0,0,normal trading of the shares
+126,2012-05-14,PHENIXINS,- (Q1): As per un-audited quarterly accounts...,1,0,1,q1: as per un-audited quarterly accounts
+127,2012-05-03,PHENIXINS,- There will be no price limit...,1,0,0,there will be no price limit
+128,2012-05-03,PHENIXINS,- The Board of Directors...,1,0,0,the board of directors
+129,2012-04-24,PHENIXINS,- Pakiza Textiles Ltd...,0,0,0,pakiza textiles ltd
+130,2012-04-04,PHENIXINS,- Ms. Sadia Anjum Siddiqui...,0,1,0,ms. sadia anjum siddiqui
+131,2012-01-02,PHENIXINS,- Ms. Evana Fahmida Mohammad...,1,1,0,ms. evana fahmida mohammad
+132,2011-10-31,PHENIXINS,- As per un-audited...,0,1,0,as per un-audited
+133,2011-08-01,PHENIXINS,- (H/Y): As per un-audited...,0,0,1,hy: as per un-audited
+134,2011-07-21,PHENIXINS,- In response to a DSE query...,1,0,0,in response to a dse query
+135,2011-07-17,PHENIXINS,- The Company has informed...,1,0,1,the company has informed
+136,2011-07-13,PHENIXINS,- The Company has informed...,1,1,0,the company has informed
+137,2011-07-13,PHENIXINS,- The Company has informed...,1,1,0,the company has informed

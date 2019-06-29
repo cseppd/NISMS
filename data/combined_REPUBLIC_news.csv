@@ -1,0 +1,127 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-29,REPUBLIC,Price Limit Open,1,0,0,price limit open
+1,2019-04-29,REPUBLIC,Dividend Declaration,1,0,0,dividend declaration
+2,2019-04-18,REPUBLIC,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+3,2018-10-30,REPUBLIC,Sale Declaration of a Sponsor,1,1,0,sale declaration of a sponsor
+4,2018-10-28,REPUBLIC,Q3 Financials,1,0,1,q3 financials
+5,2018-10-18,REPUBLIC,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+6,2018-09-16,REPUBLIC,Query Response,1,0,1,query response
+7,2018-07-30,REPUBLIC,Credit Rating Result,0,1,0,credit rating result
+8,2018-07-25,REPUBLIC,Q2 Financials,1,0,0,q2 financials
+9,2018-07-18,REPUBLIC,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+10,2018-06-18,REPUBLIC,Dividend Disbursement,1,0,0,dividend disbursement
+11,2018-05-16,REPUBLIC,Buy Confirmation of a Public Shareholder Director,0,1,0,buy confirmation of a public shareholder director
+12,2018-05-16,REPUBLIC,Q1 Financials,0,1,0,q1 financials
+13,2018-05-10,REPUBLIC,Resumption after record date,0,0,0,resumption after record date
+14,2018-05-09,REPUBLIC,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+15,2018-05-09,REPUBLIC,Suspension for Record Date,1,0,0,suspension for record date
+16,2018-05-07,REPUBLIC,Spot News,1,0,1,spot news
+17,2018-04-30,REPUBLIC,Buy declaration of a Director,0,0,0,buy declaration of a director
+18,2018-04-19,REPUBLIC,Appointment of CEO of the Company,0,0,0,appointment of ceo of the company
+19,2018-04-17,REPUBLIC,Price Limit Open,0,1,0,price limit open
+20,2018-04-17,REPUBLIC,Dividend Declaration,0,1,0,dividend declaration
+21,2018-04-09,REPUBLIC,Reschedule of Board Meeting under LR 19(1),0,0,1,reschedule of board meeting under lr 191
+22,2018-04-08,REPUBLIC,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+23,2017-11-06,REPUBLIC,Confirmation of transfer by a Sponsor,0,0,1,confirmation of transfer by a sponsor
+24,2017-10-31,REPUBLIC,Declaration of transfer by a Sponsor,0,1,0,declaration of transfer by a sponsor
+25,2017-10-31,REPUBLIC,Q3 Financials,0,1,0,q3 financials
+26,2017-10-31,REPUBLIC,Sale declaration of a Sponsor,0,1,0,sale declaration of a sponsor
+27,2017-10-24,REPUBLIC,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+28,2017-10-24,REPUBLIC,Buy confirmation of a Public Director,1,0,1,buy confirmation of a public director
+29,2017-10-12,REPUBLIC,Buy declaration of a Public Director,0,0,0,buy declaration of a public director
+30,2017-08-24,REPUBLIC,Credit Rating Result,1,0,0,credit rating result
+31,2017-07-30,REPUBLIC,Q2 Financials,1,1,1,q2 financials
+32,2017-07-24,REPUBLIC,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+33,2017-07-17,REPUBLIC,Dividend Disbursement,0,1,0,dividend disbursement
+34,2017-05-23,REPUBLIC,Resumption after Record Date,0,1,0,resumption after record date
+35,2017-05-22,REPUBLIC,Suspension for Record Date,1,0,1,suspension for record date
+36,2017-05-18,REPUBLIC,Spot News,0,0,0,spot news
+37,2017-05-16,REPUBLIC,Q1 Financials,0,1,0,q1 financials
+38,2017-05-09,REPUBLIC,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+39,2017-05-02,REPUBLIC,Price Limit Open,0,0,1,price limit open
+40,2017-05-02,REPUBLIC,Dividend Declaration,0,0,1,dividend declaration
+41,2017-04-24,REPUBLIC,Reschedule of Board Meeting under LR 19(1),0,0,0,reschedule of board meeting under lr 191
+42,2017-04-19,REPUBLIC,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+43,2016-11-01,REPUBLIC,Q3 Financials,0,0,1,q3 financials
+44,2016-10-27,REPUBLIC,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+45,2016-08-22,REPUBLIC,Credit Rating Result,0,1,1,credit rating result
+46,2016-07-25,REPUBLIC,Q2 Financials,0,1,0,q2 financials
+47,2016-07-19,REPUBLIC,Confirmation of sale/buy of Sponsors,0,0,0,confirmation of salebuy of sponsors
+48,2016-07-19,REPUBLIC,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+49,2016-06-26,REPUBLIC,Buy Confirmation of a Director,1,0,1,buy confirmation of a director
+50,2016-06-19,REPUBLIC,Buy Declaration of a Director,0,1,0,buy declaration of a director
+51,2016-06-15,REPUBLIC,Declaration of sale/buy of Sponsors,0,1,0,declaration of salebuy of sponsors
+52,2016-06-12,REPUBLIC,Dividend Disbursement,0,0,0,dividend disbursement
+53,2016-05-12,REPUBLIC,Q1,1,0,0,q1
+54,2016-05-11,REPUBLIC,Resumption after Record date,0,1,0,resumption after record date
+55,2016-05-10,REPUBLIC,Resumption after Record date,0,0,1,resumption after record date
+56,2016-05-08,REPUBLIC,Spot News for AGM,1,0,0,spot news for agm
+57,2016-05-04,REPUBLIC,Board Meeting,1,0,0,board meeting
+58,2016-04-20,REPUBLIC,Price Limit Open,0,0,0,price limit open
+59,2016-04-20,REPUBLIC,Dividend Declaration,0,0,0,dividend declaration
+60,2016-04-17,REPUBLIC,Board Meeting,0,1,1,board meeting
+61,2015-10-29,REPUBLIC,Q3 Financials,0,0,0,q3 financials
+62,2015-08-11,REPUBLIC,Credit Rating,0,0,1,credit rating
+63,2015-07-30,REPUBLIC,Q2 Financials,0,0,0,q2 financials
+64,2015-07-07,REPUBLIC,Dividend Disbursement,1,1,0,dividend disbursement
+65,2015-06-28,REPUBLIC,Newly Elected Chairman and Vice Chairman,1,0,0,newly elected chairman and vice chairman
+66,2015-05-28,REPUBLIC,Buy confirmation of Sponsor,0,0,0,buy confirmation of sponsor
+67,2015-05-21,REPUBLIC,Resumption News after Record Date,0,0,0,resumption news after record date
+68,2015-05-20,REPUBLIC,Suspension News for Record Date,1,0,0,suspension news for record date
+69,2015-05-19,REPUBLIC,Confirmation of Transfer by Sponsor,1,1,0,confirmation of transfer by sponsor
+70,2015-05-18,REPUBLIC,Spot News for AGM,1,1,1,spot news for agm
+71,2015-05-17,REPUBLIC,Q1 Financials,0,1,1,q1 financials
+72,2015-05-13,REPUBLIC,Declaration of Transfer by Sponsor,0,0,0,declaration of transfer by sponsor
+73,2015-05-12,REPUBLIC,Buy Declaration of Sponsor,0,0,0,buy declaration of sponsor
+74,2015-04-27,REPUBLIC,no price limit today,0,0,0,no price limit today
+75,2015-04-27,REPUBLIC,Dividend,0,0,0,dividend
+76,2015-04-23,REPUBLIC,Board Meeeting,0,0,0,board meeeting
+77,2015-02-10,REPUBLIC,Appointment of Managing Director and CEO,0,0,1,appointment of managing director and ceo
+78,2014-11-30,REPUBLIC,right issue rejected by BSEC,0,0,0,right issue rejected by bsec
+79,2014-10-30,REPUBLIC,Q3 Earnings,1,0,0,q3 earnings
+80,2014-08-27,REPUBLIC,sponsor share buy/sell,0,0,0,sponsor share buysell
+81,2014-08-03,REPUBLIC,H/Y Earnings,0,0,0,hy earnings
+82,2014-07-16,REPUBLIC,Sponsor/Director Share Buy,1,0,0,sponsordirector share buy
+83,2014-05-14,REPUBLIC,Q1 Earnings,1,0,0,q1 earnings
+84,2014-05-08,REPUBLIC,credited the bonus shares,1,0,0,credited the bonus shares
+85,2014-04-28,REPUBLIC,Credit Rating,0,0,0,credit rating
+86,2014-03-31,REPUBLIC,trade resume,0,1,0,trade resume
+87,2014-03-30,REPUBLIC,trade suspension,0,0,1,trade suspension
+88,2014-03-24,REPUBLIC,Spot Market transactions,0,0,0,spot market transactions
+89,2014-03-18,REPUBLIC,recommended 12.50% stock dividend,0,0,1,recommended 12.50 stock dividend
+90,2014-03-12,REPUBLIC,Board Meeting,1,0,0,board meeting
+91,2013-10-31,REPUBLIC,Q3 Earnings,1,0,0,q3 earnings
+92,2013-10-06,REPUBLIC,DSE Didn't Consider The Right Issue,0,0,0,dse didn't consider the right issue
+93,2013-08-04,REPUBLIC,Sponsors Share Sell,0,0,0,sponsors share sell
+94,2013-07-30,REPUBLIC,Q2 Earnings,0,0,0,q2 earnings
+95,2013-07-17,REPUBLIC,Sponsors Share Sell,1,1,0,sponsors share sell
+96,2013-07-09,REPUBLIC,Credited Bonus Shares,1,0,0,credited bonus shares
+97,2013-06-27,REPUBLIC,Credit Rating,0,0,0,credit rating
+98,2013-06-20,REPUBLIC,Sponsor Share Sell,0,0,0,sponsor share sell
+99,2013-05-22,REPUBLIC,Trade Resume after Record Date,0,0,0,trade resume after record date
+100,2013-05-21,REPUBLIC,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+101,2013-05-16,REPUBLIC,Spot Market Trading,0,0,0,spot market trading
+102,2013-05-15,REPUBLIC,Q1 Earnings,0,0,0,q1 earnings
+103,2013-05-02,REPUBLIC,Corporate Declaration,0,0,0,corporate declaration
+104,2013-04-25,REPUBLIC,Board meeting,0,0,0,board meeting
+105,2012-10-31,REPUBLIC, Q3 Earnings 2012,0,1,0,q3 earnings 2012
+106,2012-10-01,REPUBLIC,sponsor share sell completed,1,1,0,sponsor share sell completed
+107,2012-08-02,REPUBLIC,- Mr. Md. Ali Kawser...,0,0,0,mr. md. ali kawser
+108,2012-05-24,REPUBLIC,-Mr. Mahboob-Ur-Rahman...,0,0,0,-mr. mahboob-ur-rahman
+109,2012-05-15,REPUBLIC,- Mr. S.M. Fazlul Haque...,1,1,1,mr. s.m. fazlul haque
+110,2012-04-29,REPUBLIC,- Trading of the shares...,0,1,0,trading of the shares
+111,2012-04-24,REPUBLIC,- The Company has further informed ...,0,0,0,the company has further informed
+112,2012-04-16,REPUBLIC,- The Board of Directors...,1,0,0,the board of directors
+113,2012-04-16,REPUBLIC,- There will be no price limit...,1,0,0,there will be no price limit
+114,2012-03-20,REPUBLIC,- Mr. Feroz U. Haider...,1,0,1,mr. feroz u. haider
+115,2012-01-31,REPUBLIC,- Mr. Feroz U. Haider...,0,1,0,mr. feroz u. haider
+116,2012-01-19,REPUBLIC,- Mr. Sadeque Hossain Chowdhury...,1,0,0,mr. sadeque hossain chowdhury
+117,2011-11-28,REPUBLIC,- The Credit Rating Agency...,1,0,1,the credit rating agency
+118,2011-10-31,REPUBLIC,- As per un-audited...,0,1,0,as per un-audited
+119,2011-10-20,REPUBLIC,- Trading of the shares...,1,0,0,trading of the shares
+120,2011-10-17,REPUBLIC,- Trading of the shares...,0,0,0,trading of the shares
+121,2011-10-10,REPUBLIC,- The Company has informed...,0,0,1,the company has informed
+122,2011-10-03,REPUBLIC,- Mrs. Ayesha Sultana...,0,0,0,mrs. ayesha sultana
+123,2011-07-28,REPUBLIC,- (H/Y): As per un-audited...,1,0,0,hy: as per un-audited
+124,2011-07-20,REPUBLIC,- Mrs. Ayesha Sultana...,0,0,0,mrs. ayesha sultana
+125,2011-07-19,REPUBLIC,- The Company has informed...,1,0,0,the company has informed

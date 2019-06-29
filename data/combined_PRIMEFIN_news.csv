@@ -1,0 +1,130 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-25,PRIMEFIN,Resumption after record date,0,0,0,resumption after record date
+1,2019-04-24,PRIMEFIN,Suspension for Record Date,1,0,0,suspension for record date
+2,2019-04-09,PRIMEFIN,Spot News,0,1,0,spot news
+3,2019-03-24,PRIMEFIN,Price Limit Open,0,0,0,price limit open
+4,2019-03-24,PRIMEFIN,Dividend Declaration,0,0,0,dividend declaration
+5,2019-03-18,PRIMEFIN,Board Meeting schedule under LR 19(1),0,1,1,board meeting schedule under lr 191
+7,2018-10-31,PRIMEFIN,Q3 Financials,1,0,0,q3 financials
+8,2018-10-24,PRIMEFIN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+9,2018-10-17,PRIMEFIN,Buy confirmation of a Corporate Sponsor,0,0,0,buy confirmation of a corporate sponsor
+10,2018-10-07,PRIMEFIN,Buy declaration of a Corporate Sponsor,0,1,0,buy declaration of a corporate sponsor
+11,2018-07-30,PRIMEFIN,Q2 Financials,0,1,1,q2 financials
+12,2018-07-24,PRIMEFIN,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+13,2018-07-09,PRIMEFIN,Buy Confirmation of a Corporate Sponsor,0,1,0,buy confirmation of a corporate sponsor
+14,2018-06-25,PRIMEFIN,Buy Declaration of a Corporate Sponsor,1,1,0,buy declaration of a corporate sponsor
+15,2018-06-24,PRIMEFIN,Elected Chairman,1,1,1,elected chairman
+16,2018-05-16,PRIMEFIN,Q1 Financials,0,0,0,q1 financials
+17,2018-05-09,PRIMEFIN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+18,2018-04-30,PRIMEFIN,Appointment of Managing Director,0,0,0,appointment of managing director
+19,2018-04-25,PRIMEFIN,Resumption after record date,0,0,0,resumption after record date
+20,2018-04-24,PRIMEFIN,Suspension for Record Date,0,0,0,suspension for record date
+21,2018-04-22,PRIMEFIN,Credit Rating Result,0,0,0,credit rating result
+22,2018-04-11,PRIMEFIN,Spot News,0,0,0,spot news
+23,2018-03-28,PRIMEFIN,Price Limit Open,1,1,0,price limit open
+25,2018-03-28,PRIMEFIN,Dividend Declaration,1,1,0,dividend declaration
+26,2018-03-20,PRIMEFIN,Reschedule of Board Meeting under LR 19(1),0,1,1,reschedule of board meeting under lr 191
+27,2018-02-19,PRIMEFIN,Postponement of Board Meeting schedule under LR 19(1),0,0,0,postponement of board meeting schedule under lr 191
+28,2018-02-13,PRIMEFIN,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+29,2017-10-31,PRIMEFIN,Q3 Financials,0,0,0,q3 financials
+30,2017-10-25,PRIMEFIN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+31,2017-07-27,PRIMEFIN,Q2 Financials,0,0,0,q2 financials
+32,2017-07-20,PRIMEFIN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+33,2017-05-15,PRIMEFIN,Q1 Financials,0,0,1,q1 financials
+34,2017-05-04,PRIMEFIN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+35,2017-03-13,PRIMEFIN,Suspension for Record Date,1,0,1,suspension for record date
+36,2017-02-28,PRIMEFIN,Spot News,0,1,0,spot news
+37,2017-02-22,PRIMEFIN,Price Limit Open,0,1,0,price limit open
+38,2017-02-22,PRIMEFIN,Dividend Declaration,0,1,0,dividend declaration
+39,2017-02-01,PRIMEFIN,Credit Rating Result,1,0,0,credit rating result
+40,2016-10-30,PRIMEFIN,Q3 Financials,0,1,1,q3 financials
+41,2016-10-23,PRIMEFIN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+42,2016-08-24,PRIMEFIN,Confirmation of sale by a Sponsor,0,0,0,confirmation of sale by a sponsor
+43,2016-08-14,PRIMEFIN,Declaration of Sale by a Sponsor,1,0,0,declaration of sale by a sponsor
+44,2016-07-31,PRIMEFIN,Q2 Financials,0,1,0,q2 financials
+45,2016-07-24,PRIMEFIN,Board Meeting,0,0,0,board meeting
+46,2016-07-24,PRIMEFIN,Board Meeting,0,0,0,board meeting
+47,2016-05-15,PRIMEFIN,Q1 Financials,0,0,1,q1 financials
+48,2016-05-08,PRIMEFIN,Board Meeting,1,1,0,board meeting
+49,2016-03-13,PRIMEFIN,Resumption after Record date,0,0,1,resumption after record date
+50,2016-03-10,PRIMEFIN,Suspension for Record,0,0,0,suspension for record
+51,2016-02-28,PRIMEFIN,Spot for AGM,1,0,0,spot for agm
+52,2016-02-22,PRIMEFIN,Prohibition on providing loan facilities to purchase securities,0,1,1,prohibition on providing loan facilities to purchase securities
+53,2016-02-22,PRIMEFIN,Category Change,0,1,1,category change
+54,2016-02-22,PRIMEFIN,Price Limit Open,0,1,1,price limit open
+55,2016-02-22,PRIMEFIN,Dividend Declaration,0,1,1,dividend declaration
+56,2016-02-11,PRIMEFIN,Board Meeting,0,0,0,board meeting
+57,2015-12-29,PRIMEFIN,Credit Rating Result,1,0,0,credit rating result
+58,2015-11-01,PRIMEFIN,Q3,0,0,0,q3
+59,2015-10-25,PRIMEFIN, Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+60,2015-07-30,PRIMEFIN,Q2 Financials,0,0,0,q2 financials
+61,2015-05-17,PRIMEFIN,Q1 Financials,0,1,1,q1 financials
+62,2015-04-23,PRIMEFIN,cash dividend,1,0,0,cash dividend
+63,2015-03-09,PRIMEFIN,Resumption News after Record Date,0,1,1,resumption news after record date
+64,2015-03-08,PRIMEFIN,Suspension News for Record date,0,0,1,suspension news for record date
+65,2015-03-04,PRIMEFIN,Spot News for AGM,1,0,0,spot news for agm
+66,2015-02-26,PRIMEFIN,Price Limit Open,0,0,0,price limit open
+67,2015-02-26,PRIMEFIN,Dividend Declaration,0,0,0,dividend declaration
+68,2015-02-19,PRIMEFIN,Board Meeting schedule under LR 30,0,0,0,board meeting schedule under lr 30
+69,2014-12-10,PRIMEFIN,Credit Rating,0,1,0,credit rating
+70,2014-10-26,PRIMEFIN,Q3 Earnings,0,0,0,q3 earnings
+71,2014-07-21,PRIMEFIN,H/Y Earnings,0,0,0,hy earnings
+72,2014-07-10,PRIMEFIN,Sponsor/Director Share Sale,1,0,0,sponsordirector share sale
+73,2014-07-03,PRIMEFIN,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+74,2014-06-11,PRIMEFIN,new Chairman,0,0,0,new chairman
+75,2014-05-14,PRIMEFIN,Q1 Earnings,0,0,0,q1 earnings
+76,2014-04-21,PRIMEFIN,cash dividend,1,1,0,cash dividend
+77,2014-03-11,PRIMEFIN,trade resume after record date,0,0,0,trade resume after record date
+78,2014-03-10,PRIMEFIN,trade suspension on record date,0,0,0,trade suspension on record date
+79,2014-03-05,PRIMEFIN,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+80,2014-03-02,PRIMEFIN,recommended 15% cash dividend,0,0,1,recommended 15 cash dividend
+81,2014-03-02,PRIMEFIN,no price limit,0,0,1,no price limit
+82,2014-02-25,PRIMEFIN,Board meeting rescheduled,0,1,0,board meeting rescheduled
+83,2014-02-23,PRIMEFIN,Board meeting,0,1,0,board meeting
+84,2013-10-30,PRIMEFIN,Q3 Earnings,1,0,0,q3 earnings
+85,2013-07-30,PRIMEFIN,Q2 Earnings,0,0,0,q2 earnings
+86,2013-07-29,PRIMEFIN,Sponsors Share Sell,0,0,0,sponsors share sell
+87,2013-07-23,PRIMEFIN,Sponsors Share Sell,0,1,0,sponsors share sell
+88,2013-07-16,PRIMEFIN,Sponsors Share Sell,1,1,0,sponsors share sell
+89,2013-06-26,PRIMEFIN,Sponsors Share Sell,1,0,0,sponsors share sell
+90,2013-06-23,PRIMEFIN,Sponsor Share Sell,0,0,0,sponsor share sell
+91,2013-06-13,PRIMEFIN,Sponsor Share Sell,0,0,0,sponsor share sell
+92,2013-06-12,PRIMEFIN,Sponsor Share Sell,1,0,0,sponsor share sell
+93,2013-06-11,PRIMEFIN,Sponsors Share Sell,1,1,0,sponsors share sell
+94,2013-06-09,PRIMEFIN,Sponsor Share Sell,0,0,1,sponsor share sell
+95,2013-06-09,PRIMEFIN,Sponsor Share Sell,0,0,1,sponsor share sell
+96,2013-06-09,PRIMEFIN,Share Sale,0,0,1,share sale
+97,2013-06-05,PRIMEFIN,Sponsor Share Sell,0,0,0,sponsor share sell
+98,2013-06-04,PRIMEFIN,Sponsor Share Sell,0,0,0,sponsor share sell
+99,2013-06-03,PRIMEFIN,Sponsor Share Sell,0,0,0,sponsor share sell
+100,2013-06-02,PRIMEFIN,Sponsor Share Sell,1,0,0,sponsor share sell
+101,2013-05-29,PRIMEFIN,Sponsor Share Sell,1,0,0,sponsor share sell
+102,2013-05-22,PRIMEFIN,Sponsor Share Sell,0,0,0,sponsor share sell
+103,2013-05-21,PRIMEFIN,Sponsor Share Sell,0,0,0,sponsor share sell
+104,2013-05-19,PRIMEFIN,Sponsor Share Sell,1,0,0,sponsor share sell
+105,2013-05-14,PRIMEFIN,Sponsor/Director Share sell,1,1,1,sponsordirector share sell
+106,2013-05-12,PRIMEFIN,Q1 Earnings,1,1,1,q1 earnings
+107,2013-05-09,PRIMEFIN,Sponsor/Director Share sell,0,0,0,sponsordirector share sell
+108,2013-05-07,PRIMEFIN,Sponsor/Director Share sell,1,0,0,sponsordirector share sell
+109,2013-04-29,PRIMEFIN,Sponsor/Director Share sell,0,1,0,sponsordirector share sell
+110,2013-04-25,PRIMEFIN,Share sell,0,0,0,share sell
+111,2013-04-23,PRIMEFIN,Sponsor/Director Share sell,1,0,0,sponsordirector share sell
+112,2013-04-22,PRIMEFIN,disbursement of Stock Dividend,0,1,0,disbursement of stock dividend
+113,2013-03-05,PRIMEFIN,trade resume after record date,0,0,0,trade resume after record date
+114,2013-03-04,PRIMEFIN,trade suspension on record date,1,0,0,trade suspension on record date
+115,2013-02-27,PRIMEFIN,spot market trading,0,0,0,spot market trading
+116,2013-02-26,PRIMEFIN,credit rating,0,0,0,credit rating
+117,2013-02-24,PRIMEFIN,Corporate Declaration,0,1,0,corporate declaration
+118,2012-10-30,PRIMEFIN,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+119,2012-10-09,PRIMEFIN,director sell announcement,0,0,1,director sell announcement
+120,2012-07-29,PRIMEFIN,- (H/Y): As per un-audited half yearly accounts...,0,0,0,hy: as per un-audited half yearly accounts
+121,2012-04-10,PRIMEFIN,- The Company has informed...,1,0,1,the company has informed
+122,2012-03-07,PRIMEFIN,- Normal trading of the shares...,0,0,0,normal trading of the shares
+123,2011-12-05,PRIMEFIN,- The Credit Rating...,0,0,0,the credit rating
+125,2011-10-31,PRIMEFIN,- As per un-audited...,1,1,0,as per un-audited
+126,2011-10-03,PRIMEFIN,- Mr. Tauseef Iqbal Ali...,0,0,0,mr. tauseef iqbal ali
+127,2011-09-25,PRIMEFIN,- Mawsons Limited...,1,1,0,mawsons limited
+128,2011-08-04,PRIMEFIN,- Mr. Tauseef Iqbal Ali...,0,0,0,mr. tauseef iqbal ali
+130,2011-07-27,PRIMEFIN,- (H/Y): As per un-audited...,0,1,0,hy: as per un-audited
+131,2011-07-26,PRIMEFIN,- Abeeco Industries Ltd...,0,0,1,abeeco industries ltd
+132,2011-07-26,PRIMEFIN,- Mawsons Limited...,0,0,1,mawsons limited

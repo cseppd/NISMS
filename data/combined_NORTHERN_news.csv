@@ -1,0 +1,136 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+1,2019-04-17,NORTHERN,Q3 Financials,0,0,0,q3 financials
+2,2019-04-10,NORTHERN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+3,2019-03-24,NORTHERN,Query Response,1,1,0,query response
+4,2019-01-17,NORTHERN,Q2 Financials,0,0,0,q2 financials
+5,2019-01-08,NORTHERN,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+6,2019-01-07,NORTHERN,Query Response,0,0,1,query response
+7,2018-12-05,NORTHERN,Query Response,1,1,0,query response
+8,2018-12-05,NORTHERN,Query Response,1,1,0,query response
+9,2018-11-22,NORTHERN,Enquiry Committee Formation for investigation as per BSEC Order,0,0,0,enquiry committee formation for investigation as per bsec order
+10,2018-11-13,NORTHERN,Query Response,1,0,0,query response
+11,2018-10-28,NORTHERN,Q1 Financials,1,0,0,q1 financials
+12,2018-10-23,NORTHERN,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+13,2018-10-14,NORTHERN,Resumption after Record Date,0,1,1,resumption after record date
+14,2018-10-11,NORTHERN,Suspension for Record Date,0,0,0,suspension for record date
+15,2018-10-07,NORTHERN,Query Response,1,1,0,query response
+16,2018-09-30,NORTHERN,Spot News,1,1,1,spot news
+17,2018-09-24,NORTHERN,Prohibition on providing loan facilities to purchase securities,1,1,1,prohibition on providing loan facilities to purchase securities
+18,2018-09-24,NORTHERN,Category Change,1,1,1,category change
+19,2018-09-24,NORTHERN,Price Limit Open,1,1,1,price limit open
+20,2018-09-24,NORTHERN,Dividend Declaration,1,1,1,dividend declaration
+21,2018-09-13,NORTHERN,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+22,2018-09-05,NORTHERN,Query Response,1,0,0,query response
+23,2018-09-04,NORTHERN,Q3 Financials (Repeat News),1,1,0,q3 financials repeat news
+24,2018-07-02,NORTHERN,Query Response,0,0,0,query response
+25,2018-04-17,NORTHERN,Query Response,1,1,0,query response
+26,2018-04-17,NORTHERN,Q3 Financials,1,1,0,q3 financials
+27,2018-04-10,NORTHERN,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+28,2018-02-08,NORTHERN,Resignation of IDB from the Board of the Company,1,0,0,resignation of idb from the board of the company
+29,2018-01-30,NORTHERN,Q2 Financials,0,0,1,q2 financials
+30,2018-01-23,NORTHERN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+32,2017-12-28,NORTHERN,Voluntary resignation of IDB from the Board of the Company,1,0,0,voluntary resignation of idb from the board of the company
+33,2017-11-27,NORTHERN,Prohibition on providing loan facilities to purchase securities,1,1,0,prohibition on providing loan facilities to purchase securities
+34,2017-11-27,NORTHERN,Category Change,1,1,0,category change
+35,2017-11-23,NORTHERN,Cash Dividend Disbursement,0,0,0,cash dividend disbursement
+36,2017-11-23,NORTHERN,Query Response,0,0,0,query response
+37,2017-11-22,NORTHERN,Q1 Financials (Repeat News),1,0,0,q1 financials repeat news
+38,2017-11-13,NORTHERN,Q1 Financials,1,1,1,q1 financials
+39,2017-11-06,NORTHERN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+40,2017-10-26,NORTHERN,Stock Dividend Disbursement,0,0,0,stock dividend disbursement
+41,2017-10-12,NORTHERN,Sale declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+42,2017-09-28,NORTHERN,Resumption after Record Date,0,0,0,resumption after record date
+43,2017-09-27,NORTHERN,Suspension for Record Date,0,0,0,suspension for record date
+44,2017-09-25,NORTHERN,Spot news,0,0,0,spot news
+45,2017-09-11,NORTHERN,Price Limit Open,1,0,0,price limit open
+46,2017-09-11,NORTHERN,Dividend Declaration,1,0,0,dividend declaration
+47,2017-08-24,NORTHERN,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+48,2017-08-08,NORTHERN,Query Response,0,1,0,query response
+49,2017-05-15,NORTHERN,Query Response,1,1,1,query response
+50,2017-04-26,NORTHERN,Q3 Financials,0,0,0,q3 financials
+51,2017-04-23,NORTHERN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+52,2017-01-24,NORTHERN,Q2 Financials,1,1,1,q2 financials
+53,2017-01-18,NORTHERN,Board Meeting,0,1,0,board meeting
+54,2016-12-18,NORTHERN,Prohibition on providing loan,0,0,0,prohibition on providing loan
+55,2016-12-18,NORTHERN,Category Change,0,0,0,category change
+56,2016-11-16,NORTHERN,Resumption after record date,0,1,0,resumption after record date
+57,2016-11-15,NORTHERN,Suspension for record date,1,0,1,suspension for record date
+58,2016-11-13,NORTHERN,Spot for AGM,0,0,1,spot for agm
+59,2016-11-09,NORTHERN,Board Meeting,0,0,0,board meeting
+60,2016-10-30,NORTHERN,Price Limit Open,1,0,1,price limit open
+61,2016-10-30,NORTHERN,Dividend Declaration,1,0,1,dividend declaration
+62,2016-10-19,NORTHERN,Board Meeting,1,0,0,board meeting
+63,2016-07-20,NORTHERN,Query Response,1,1,0,query response
+64,2016-04-27,NORTHERN,Q3 Financials,0,1,0,q3 financials
+65,2016-04-21,NORTHERN,Board Meeting (Q3),1,0,0,board meeting q3
+66,2016-01-26,NORTHERN,Q2,0,1,0,q2
+67,2016-01-20,NORTHERN,Board Meeting,0,1,0,board meeting
+68,2016-01-10,NORTHERN,Cash Dividend Disbursement,1,0,0,cash dividend disbursement
+69,2015-12-03,NORTHERN,Information for Margin Account Holders,1,0,0,information for margin account holders
+70,2015-11-15,NORTHERN,Resumption News,0,0,0,resumption news
+71,2015-11-12,NORTHERN,Suspension News,0,0,0,suspension news
+72,2015-11-11,NORTHERN,Q1 Financials,0,0,0,q1 financials
+73,2015-11-10,NORTHERN,Spot News,1,0,0,spot news
+74,2015-11-08,NORTHERN,Board Meeting,0,1,1,board meeting
+75,2015-10-26,NORTHERN,Price Limit Open,0,0,0,price limit open
+76,2015-10-26,NORTHERN,Dividend Declaration,0,0,0,dividend declaration
+77,2015-10-18,NORTHERN,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+78,2015-09-22,NORTHERN,Â Machineries Purchase,1,0,0,machineries purchase
+79,2015-08-12,NORTHERN,Query Response,0,0,0,query response
+80,2015-04-27,NORTHERN,Sponsors  sale,0,0,0,sponsors  sale
+81,2015-04-27,NORTHERN,Q3,0,0,0,q3
+82,2015-04-21,NORTHERN,Confirmation of buy/sale by Sponsor/Director,0,0,0,confirmation of buysale by sponsordirector
+83,2015-04-21,NORTHERN,Intention to buy/sale by Sponsor/Director in Block Market,0,0,0,intention to buysale by sponsordirector in block market
+84,2015-04-16,NORTHERN,Sponsors/Directors intention to sell,1,0,0,sponsorsdirectors intention to sell
+85,2015-04-09,NORTHERN,Confirmation of sale and buy of Sponsors/Director,1,0,0,confirmation of sale and buy of sponsorsdirector
+86,2015-04-06,NORTHERN,Declaration of sale and buy of Sponsors/Director in Block Market,0,0,0,declaration of sale and buy of sponsorsdirector in block market
+87,2015-04-06,NORTHERN,Confirmation of sale/buy of Sponsors/Director,0,0,0,confirmation of salebuy of sponsorsdirector
+88,2015-04-01,NORTHERN,Sponsors/Director  sale and buy,0,0,0,sponsorsdirector  sale and buy
+89,2015-03-25,NORTHERN,Confirmation of buy and sale of Sponsor/Director in Block Market,0,0,0,confirmation of buy and sale of sponsordirector in block market
+90,2015-03-19,NORTHERN,Declaration of buy and sale of Sponsor/Director in Block Market,0,0,0,declaration of buy and sale of sponsordirector in block market
+91,2015-01-27,NORTHERN,Half Yearly Financials,0,1,1,half yearly financials
+92,2015-01-14,NORTHERN,BSEC news,1,0,0,bsec news
+93,2015-01-01,NORTHERN,will be placed in A category from existing Z,0,0,0,will be placed in a category from existing z
+94,2014-12-24,NORTHERN,has  credited the bonus shares,0,0,0,has  credited the bonus shares
+95,2014-11-30,NORTHERN,New Chairman,0,0,0,new chairman
+96,2014-11-19,NORTHERN,Trade Resume,0,0,0,trade resume
+97,2014-11-18,NORTHERN,Trade Suspended,0,0,0,trade suspended
+98,2014-11-16,NORTHERN,Q1,0,0,0,q1
+99,2014-11-11,NORTHERN,Company News,0,0,0,company news
+100,2014-10-29,NORTHERN,no price limit,1,0,0,no price limit
+101,2014-10-29,NORTHERN,recommended 5% cash and 5% Stock Dividend,1,0,0,recommended 5 cash and 5 stock dividend
+102,2014-10-26,NORTHERN,Board Meeting,0,0,0,board meeting
+103,2014-08-28,NORTHERN,new MD,0,0,0,new md
+104,2014-07-24,NORTHERN,approved revaluation of Factory land,0,0,0,approved revaluation of factory land
+105,2014-06-29,NORTHERN,Registered Office shifted,0,0,0,registered office shifted
+106,2014-05-04,NORTHERN,Q3 Earning,0,0,0,q3 earning
+107,2014-04-01,NORTHERN,DSE formed an enquiry team,0,0,0,dse formed an enquiry team
+108,2014-03-25,NORTHERN,mill closed,1,0,1,mill closed
+109,2014-01-28,NORTHERN,H/Y Earnings,0,0,0,hy earnings
+110,2013-12-19,NORTHERN,AGM,1,0,0,agm
+111,2013-12-03,NORTHERN,trade resume,0,0,0,trade resume
+112,2013-12-02,NORTHERN,trade suspension,1,0,0,trade suspension
+113,2013-11-19,NORTHERN, Trade Suspension on Record Date,0,0,0,trade suspension on record date
+114,2013-11-19,NORTHERN,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+115,2013-11-17,NORTHERN,Q1 Earnings,0,0,0,q1 earnings
+116,2013-11-05,NORTHERN,mill closed temporary,0,0,0,mill closed temporary
+117,2013-11-04,NORTHERN,new record date,0,0,0,new record date
+118,2013-11-03,NORTHERN,No Dividend,0,0,0,no dividend
+119,2013-10-01,NORTHERN,No Undisclosed Price Sensitive Information,0,0,1,no undisclosed price sensitive information
+120,2013-10-01,NORTHERN,Trading of The Shares has Been Halted,0,0,1,trading of the shares has been halted
+121,2013-09-29,NORTHERN,Trading of The Shares has Been Halted,0,1,0,trading of the shares has been halted
+122,2013-09-26,NORTHERN,Q3 Earnings,0,0,0,q3 earnings
+123,2013-09-25,NORTHERN,No Undisclosed Price Sensitive Information,0,0,0,no undisclosed price sensitive information
+124,2013-05-02,NORTHERN,Q3 Earnings,0,0,0,q3 earnings
+125,2013-01-27,NORTHERN,HY Earnings,0,0,0,hy earnings
+126,2012-12-09,NORTHERN,trade will resume after record date,0,0,0,trade will resume after record date
+127,2012-12-06,NORTHERN,trade will remain suspended on record date,0,0,0,trade will remain suspended on record date
+128,2012-11-22,NORTHERN,spot market trading,0,0,0,spot market trading
+129,2012-11-13,NORTHERN,Q1 Earnings 2012,0,0,0,q1 earnings 2012
+130,2012-11-01,NORTHERN,Corporate declaration (NOCFPS),0,0,0,corporate declaration nocfps
+131,2012-10-31,NORTHERN,corporate declaration,0,0,0,corporate declaration
+132,2012-01-31,NORTHERN,- As per un-audited...,0,0,0,as per un-audited
+133,2011-11-23,NORTHERN,- Trading of the shares...,0,0,0,trading of the shares
+134,2011-11-15,NORTHERN,- As per un-audited...,0,0,0,as per un-audited
+135,2011-11-01,NORTHERN,- The Board of Directors...,0,0,0,the board of directors
+136,2011-11-01,NORTHERN,- There will be no price...,0,0,0,there will be no price

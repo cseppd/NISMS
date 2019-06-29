@@ -1,0 +1,110 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,SAFKOSPINN,Q3 Financials,0,0,0,q3 financials
+1,2019-04-25,SAFKOSPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-03-05,SAFKOSPINN,Query Response,1,0,1,query response
+3,2019-01-31,SAFKOSPINN,Q2 Financials,1,0,0,q2 financials
+4,2019-01-24,SAFKOSPINN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+5,2019-01-01,SAFKOSPINN,Dividend Disbursement,1,1,0,dividend disbursement
+6,2018-11-18,SAFKOSPINN,Resumption after record date,0,0,0,resumption after record date
+7,2018-11-15,SAFKOSPINN,Suspension for Record Date,0,0,0,suspension for record date
+8,2018-11-15,SAFKOSPINN,Q1 Financials,0,0,0,q1 financials
+9,2018-11-13,SAFKOSPINN,Spot News,0,0,0,spot news
+10,2018-11-08,SAFKOSPINN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+11,2018-10-29,SAFKOSPINN,Price Limit Open,0,1,0,price limit open
+12,2018-10-29,SAFKOSPINN,Dividend Declaration,0,1,0,dividend declaration
+13,2018-10-18,SAFKOSPINN,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+14,2018-09-20,SAFKOSPINN,Query Response,0,0,0,query response
+15,2018-07-12,SAFKOSPINN,Query Response,0,0,0,query response
+16,2018-06-04,SAFKOSPINN,Query Response,0,0,1,query response
+17,2018-04-30,SAFKOSPINN,Q3 Financials,0,0,0,q3 financials
+18,2018-04-24,SAFKOSPINN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+22,2018-02-18,SAFKOSPINN,Emphasis of Matter,0,0,0,emphasis of matter
+23,2018-01-31,SAFKOSPINN,Q2 Financials,0,0,0,q2 financials
+24,2018-01-24,SAFKOSPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+25,2017-12-28,SAFKOSPINN,Dividend Disbursement,1,0,0,dividend disbursement
+26,2017-11-16,SAFKOSPINN,Resumption after record date,0,0,0,resumption after record date
+27,2017-11-15,SAFKOSPINN,Suspension for Record Date,0,0,0,suspension for record date
+28,2017-11-14,SAFKOSPINN,Q1 Financials,1,0,0,q1 financials
+29,2017-11-13,SAFKOSPINN,Spot News,0,1,0,spot news
+30,2017-11-09,SAFKOSPINN,Reschedule of Board Meeting under LR 16(1),0,0,0,reschedule of board meeting under lr 161
+31,2017-11-09,SAFKOSPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+32,2017-10-29,SAFKOSPINN,Price Limit Open,0,0,1,price limit open
+33,2017-10-29,SAFKOSPINN,Dividend Declaration,0,0,1,dividend declaration
+34,2017-10-19,SAFKOSPINN,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+35,2017-09-20,SAFKOSPINN,Query Response (Repeat News),1,0,0,query response repeat news
+36,2017-09-19,SAFKOSPINN,Query Response,0,1,0,query response
+37,2017-09-18,SAFKOSPINN,Credit Rating Result,1,0,1,credit rating result
+38,2017-05-02,SAFKOSPINN,Q3 Financials,1,0,0,q3 financials
+39,2017-04-25,SAFKOSPINN,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+40,2017-01-31,SAFKOSPINN,Q2 Financials,0,1,0,q2 financials
+41,2017-01-24,SAFKOSPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+42,2016-12-20,SAFKOSPINN,Dividend Disbursement,0,1,1,dividend disbursement
+43,2016-11-27,SAFKOSPINN,Prohibition on providing loan facilities to purchase securities,0,1,1,prohibition on providing loan facilities to purchase securities
+44,2016-11-27,SAFKOSPINN,Category Change,0,1,1,category change
+45,2016-11-14,SAFKOSPINN,Q1 Financials,0,1,0,q1 financials
+46,2016-10-30,SAFKOSPINN,Approval of 18 months audited accounts,1,0,1,approval of 18 months audited accounts
+47,2016-10-19,SAFKOSPINN,Board meeting,0,1,0,board meeting
+48,2016-05-22,SAFKOSPINN,Address Change of Corporate,1,0,0,address change of corporate
+49,2016-05-18,SAFKOSPINN,Resumption after Record date,0,1,0,resumption after record date
+50,2016-05-17,SAFKOSPINN,Suspension for Record date,0,0,1,suspension for record date
+51,2016-05-16,SAFKOSPINN,"Change of Financial year, unchanged Record date",0,0,0,"change of financial year, unchanged record date"
+52,2016-05-15,SAFKOSPINN,Q1 Financials,0,0,0,q1 financials
+53,2016-05-09,SAFKOSPINN,Board Meeting,0,0,1,board meeting
+54,2016-04-27,SAFKOSPINN,Price Limit Open,0,1,0,price limit open
+55,2016-04-27,SAFKOSPINN,Dividend Declaration,0,1,0,dividend declaration
+56,2016-04-19,SAFKOSPINN,Board Meeting,0,0,0,board meeting
+57,2015-11-01,SAFKOSPINN,Q3,0,0,0,q3
+58,2015-10-25,SAFKOSPINN,Board Meeting,1,1,0,board meeting
+59,2015-08-02,SAFKOSPINN,Q2 Financials,0,1,0,q2 financials
+60,2015-07-05,SAFKOSPINN,Dividend Disbursement,0,0,0,dividend disbursement
+61,2015-05-18,SAFKOSPINN,Resumption News after Record Date,0,1,1,resumption news after record date
+62,2015-05-18,SAFKOSPINN,Q1 Financials,0,1,1,q1 financials
+63,2015-05-17,SAFKOSPINN,Suspension News for Record Date,0,0,1,suspension news for record date
+64,2015-05-13,SAFKOSPINN,Spot News for AGM,0,0,0,spot news for agm
+65,2015-05-10,SAFKOSPINN,Credit Ratings,0,0,1,credit ratings
+66,2015-05-04,SAFKOSPINN,Price Limit Open,0,0,1,price limit open
+67,2015-05-04,SAFKOSPINN,Dividend Declaration,0,0,1,dividend declaration
+68,2015-04-27,SAFKOSPINN,Board Meeting,0,0,1,board meeting
+69,2015-03-29,SAFKOSPINN,Address Change,1,0,0,address change
+70,2014-12-04,SAFKOSPINN,DSE query,1,0,0,dse query
+71,2014-11-02,SAFKOSPINN,Q3 earnings,0,0,0,q3 earnings
+72,2014-09-15,SAFKOSPINN,has no price sensitive information,1,0,1,has no price sensitive information
+73,2014-08-03,SAFKOSPINN,H/Y Earnings,1,1,1,hy earnings
+74,2014-05-15,SAFKOSPINN,Q1 Earnings,0,0,0,q1 earnings
+75,2014-04-30,SAFKOSPINN,credited the bonus shares,0,0,0,credited the bonus shares
+76,2014-03-20,SAFKOSPINN,trade resume,0,0,0,trade resume
+77,2014-03-19,SAFKOSPINN,trade suspension,0,0,0,trade suspension
+78,2014-03-13,SAFKOSPINN,trade suspension,1,0,0,trade suspension
+79,2014-03-10,SAFKOSPINN,No price limit,1,0,0,no price limit
+80,2014-03-10,SAFKOSPINN,10% Stock Dividend,1,0,0,10 stock dividend
+81,2014-03-06,SAFKOSPINN,Board Meeting,0,0,0,board meeting
+82,2013-11-03,SAFKOSPINN,Share sell,1,0,0,share sell
+83,2013-10-31,SAFKOSPINN,Sponsors Share Sell,1,0,0,sponsors share sell
+84,2013-09-17,SAFKOSPINN,No Undisclosed price Sensitive Information,1,0,0,no undisclosed price sensitive information
+85,2013-07-31,SAFKOSPINN,Q2 Earnings,0,0,0,q2 earnings
+86,2013-07-18,SAFKOSPINN,credited bonus share,1,0,0,credited bonus share
+87,2013-05-15,SAFKOSPINN,Trade Resume after Record Trade,0,1,0,trade resume after record trade
+88,2013-05-14,SAFKOSPINN,Q1 Earnings,1,0,1,q1 earnings
+89,2013-05-09,SAFKOSPINN,Spot Market Trading,1,0,0,spot market trading
+90,2013-04-30,SAFKOSPINN,Corporate Declaration,0,0,1,corporate declaration
+91,2013-04-24,SAFKOSPINN,Board meeting,1,0,0,board meeting
+92,2013-01-01,SAFKOSPINN,Asset Revaluation,0,0,1,asset revaluation
+93,2012-10-31,SAFKOSPINN,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+94,2012-09-11,SAFKOSPINN,reply DSE query,1,0,1,reply dse query
+95,2012-06-07,SAFKOSPINN,- The Company has informed...,0,0,0,the company has informed
+96,2012-05-22,SAFKOSPINN,- Mr. S.F.A.M. Shahjahan..,0,0,0,mr. s.f.a.m. shahjahan..
+97,2012-05-14,SAFKOSPINN,- (Q1): As per un-audited quarterly accounts...,1,0,0,q1: as per un-audited quarterly accounts
+98,2012-05-03,SAFKOSPINN,- Ms. Syeda Momena Begum...,0,0,0,ms. syeda momena begum
+99,2012-04-25,SAFKOSPINN,- Trading of the shares ...,1,0,0,trading of the shares
+100,2012-04-22,SAFKOSPINN,- Trading of the shares...,0,0,0,trading of the shares
+101,2012-04-16,SAFKOSPINN,- There will be no price limit...,0,0,0,there will be no price limit
+102,2012-04-16,SAFKOSPINN,- The Board of Directors...,0,0,0,the board of directors
+103,2012-04-10,SAFKOSPINN,- As per regulation...,1,0,0,as per regulation
+104,2012-04-02,SAFKOSPINN,- Ms. Syeda Momena Begum...,0,0,0,ms. syeda momena begum
+105,2012-03-29,SAFKOSPINN,- Mr. Syed Saqeb Ahmed...,0,0,0,mr. syed saqeb ahmed
+106,2011-10-31,SAFKOSPINN,- As per un-audited...,0,1,0,as per un-audited
+107,2011-09-08,SAFKOSPINN,- Mr. S.F.A.M. Shahjahan....,0,0,0,mr. s.f.a.m. shahjahan.
+108,2011-08-10,SAFKOSPINN,- Mr. Syed Md. Qaiser...,1,0,0,mr. syed md. qaiser
+109,2011-08-02,SAFKOSPINN,- Mr. Syed Md. Qaiser...,0,1,0,mr. syed md. qaiser
+110,2011-08-01,SAFKOSPINN,- (H/Y): As per un-audited...,1,0,1,hy: as per un-audited
+111,2011-07-26,SAFKOSPINN,- In response to a DSE query...,0,1,0,in response to a dse query

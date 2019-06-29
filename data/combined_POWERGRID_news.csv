@@ -1,0 +1,108 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,POWERGRID,Q3 Financials,1,0,0,q3 financials
+1,2019-04-18,POWERGRID,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+2,2019-03-04,POWERGRID,Address Change of the Head Office,0,0,0,address change of the head office
+3,2019-02-18,POWERGRID,Dividend Disbursement,0,0,1,dividend disbursement
+4,2019-01-29,POWERGRID,Q2 Financials,0,1,0,q2 financials
+5,2019-01-20,POWERGRID,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+14,2018-12-05,POWERGRID,Qualified Opinion,0,0,0,qualified opinion
+15,2018-11-26,POWERGRID,Resumption after record date,0,0,1,resumption after record date
+16,2018-11-26,POWERGRID,Board decision to increase Authorized Capital of the Company,0,0,1,board decision to increase authorized capital of the company
+17,2018-11-25,POWERGRID,Suspension for Record date,0,0,0,suspension for record date
+18,2018-11-20,POWERGRID,Spot News,0,0,1,spot news
+19,2018-11-05,POWERGRID,Q1 Financials,1,0,0,q1 financials
+20,2018-11-05,POWERGRID,Price Limit Open,1,0,0,price limit open
+21,2018-11-05,POWERGRID,Dividend Declaration,1,0,0,dividend declaration
+22,2018-10-28,POWERGRID,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+23,2018-10-22,POWERGRID,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+24,2018-04-26,POWERGRID,Q3 Financials,0,0,0,q3 financials
+25,2018-04-22,POWERGRID,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+35,2018-02-18,POWERGRID,Qualified Opinion,0,0,0,qualified opinion
+36,2018-02-04,POWERGRID,Dividend Disbursement,0,0,0,dividend disbursement
+37,2018-01-29,POWERGRID,Q2 Financials,0,0,0,q2 financials
+38,2018-01-22,POWERGRID,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+39,2017-11-16,POWERGRID,Resumption after record date,0,0,0,resumption after record date
+40,2017-11-15,POWERGRID,Suspension for Record Date,0,0,0,suspension for record date
+41,2017-11-13,POWERGRID,Spot News,0,1,0,spot news
+42,2017-11-05,POWERGRID,Q1 Financials,0,0,0,q1 financials
+43,2017-10-29,POWERGRID,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+44,2017-10-29,POWERGRID,Price Limit Open,0,0,1,price limit open
+45,2017-10-29,POWERGRID,Dividend Declaration,0,0,1,dividend declaration
+46,2017-10-19,POWERGRID,Reschedule of Board Meeting under LR 19(1),0,0,0,reschedule of board meeting under lr 191
+47,2017-10-15,POWERGRID,Board Meeting schedule under LR 19(1),1,1,1,board meeting schedule under lr 191
+48,2017-04-30,POWERGRID,Q3 Financials,0,0,0,q3 financials
+49,2017-04-19,POWERGRID,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+50,2017-01-24,POWERGRID,Q2 Financials,0,0,0,q2 financials
+51,2017-01-19,POWERGRID,Board Meeting,0,0,0,board meeting
+52,2017-01-08,POWERGRID,Qualified Opinion,0,1,1,qualified opinion
+53,2016-12-01,POWERGRID,Resumption after record date,1,0,0,resumption after record date
+54,2016-11-30,POWERGRID,Suspension for record date,1,1,0,suspension for record date
+55,2016-11-28,POWERGRID,Spot for AGM,0,0,1,spot for agm
+56,2016-11-14,POWERGRID,Q1 Financials,0,1,0,q1 financials
+57,2016-11-14,POWERGRID,Price Limit Open,0,1,0,price limit open
+58,2016-11-14,POWERGRID,Dividend Declaration & shares issuance,0,1,0,dividend declaration  shares issuance
+59,2016-11-07,POWERGRID,Board Meeting,0,1,1,board meeting
+60,2016-11-03,POWERGRID,Board Meeting,0,0,0,board meeting
+61,2016-05-02,POWERGRID,Q3 Financials,1,1,0,q3 financials
+62,2016-04-24,POWERGRID,Board Meeting,1,1,0,board meeting
+63,2016-02-10,POWERGRID,Dividend Disbursement,0,0,0,dividend disbursement
+64,2016-01-31,POWERGRID,Q2 Financials,0,0,1,q2 financials
+65,2016-01-25,POWERGRID,Board Meeting,1,0,0,board meeting
+66,2015-11-23,POWERGRID,Resumption News after Record date,0,0,0,resumption news after record date
+67,2015-11-22,POWERGRID,Suspension News for Record Date,1,0,0,suspension news for record date
+68,2015-11-18,POWERGRID,Spot News for AGM,1,1,0,spot news for agm
+69,2015-11-12,POWERGRID,Q1 Financials,1,0,0,q1 financials
+70,2015-11-08,POWERGRID,Board Meeting,1,0,0,board meeting
+71,2015-11-03,POWERGRID,Price Limit Open,0,1,1,price limit open
+72,2015-11-03,POWERGRID,Dividend Declaration,0,1,1,dividend declaration
+73,2015-10-25,POWERGRID,Board Meeting,0,1,1,board meeting
+74,2015-05-25,POWERGRID,Query Response,0,0,0,query response
+75,2015-04-30,POWERGRID,Q3 Financials,0,0,0,q3 financials
+76,2015-02-04,POWERGRID,Half Yearly Financials,1,1,0,half yearly financials
+77,2014-11-25,POWERGRID,trade resume,0,1,1,trade resume
+78,2014-11-24,POWERGRID,trade suspension,0,0,1,trade suspension
+79,2014-11-20,POWERGRID,audit report,0,0,0,audit report
+80,2014-11-20,POWERGRID,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+81,2014-11-13,POWERGRID,Q1,1,0,0,q1
+82,2014-11-05,POWERGRID,no price limit,0,1,0,no price limit
+83,2014-11-05,POWERGRID,dividend declaration,0,1,0,dividend declaration
+84,2014-10-30,POWERGRID,Board Meeting,1,0,0,board meeting
+85,2014-04-30,POWERGRID,Q3 Earning,1,0,0,q3 earning
+86,2014-01-30,POWERGRID,H/Y Earnings,0,0,0,hy earnings
+87,2014-01-06,POWERGRID,new AGM date,0,1,0,new agm date
+88,2013-12-05,POWERGRID,transmission of electricity,1,0,0,transmission of electricity
+89,2013-12-01,POWERGRID,trade resume,0,1,0,trade resume
+90,2013-11-28,POWERGRID,trade suspension on record date,1,0,0,trade suspension on record date
+91,2013-11-25,POWERGRID,trade Suspension on Record Date,0,0,1,trade suspension on record date
+92,2013-11-13,POWERGRID,Q1 earnings,1,0,0,q1 earnings
+93,2013-11-11,POWERGRID,no price limit,0,0,1,no price limit
+94,2013-11-11,POWERGRID,cash dividend,0,0,1,cash dividend
+95,2013-11-07,POWERGRID,board meeting,1,0,0,board meeting
+96,2013-10-23,POWERGRID,Fixed Asset Acquisition,1,0,0,fixed asset acquisition
+97,2013-01-30,POWERGRID,H/Y Accounts,0,1,0,hy accounts
+98,2012-12-18,POWERGRID,AGM date changed,0,1,0,agm date changed
+99,2012-11-15,POWERGRID,Spot Market Trading,0,0,0,spot market trading
+100,2012-11-12,POWERGRID,Q1 Earnings 2012,0,0,0,q1 earnings 2012
+101,2012-11-11,POWERGRID,corporate declaration,0,0,0,corporate declaration
+102,2012-11-06,POWERGRID,Board Meeting,0,0,0,board meeting
+103,2012-04-30,POWERGRID,- As per un-audited quarterly accounts....,1,0,1,as per un-audited quarterly accounts.
+104,2012-01-24,POWERGRID,- As per un-audited...,0,1,1,as per un-audited
+105,2011-12-22,POWERGRID,-Trading of the shares...,1,0,0,-trading of the shares
+106,2011-12-19,POWERGRID,- Trading of the shares...,1,0,1,trading of the shares
+107,2011-12-14,POWERGRID,- As per un-audited...,0,0,0,as per un-audited
+108,2011-12-13,POWERGRID,- continuation of news of POWERGRID...,0,0,0,continuation of news of powergrid
+109,2011-12-13,POWERGRID,- continuation of news of POWERGRID...,0,0,0,continuation of news of powergrid
+110,2011-12-13,POWERGRID,- continuation of news of POWERGRID...,0,0,0,continuation of news of powergrid
+111,2011-12-13,POWERGRID,- continuation of news of POWERGRID...,0,0,0,continuation of news of powergrid
+112,2011-12-13,POWERGRID,- Auditor Qualification...,0,0,0,auditor qualification
+113,2011-12-13,POWERGRID,- continuation of news of POWERGRID...,0,0,0,continuation of news of powergrid
+114,2011-12-11,POWERGRID,- In reference...,0,1,0,in reference
+115,2011-12-11,POWERGRID,- The Board of Directors...,0,1,0,the board of directors
+116,2011-12-11,POWERGRID,- There will be no price...,0,1,0,there will be no price
+117,2011-12-08,POWERGRID,- In connection...,0,0,0,in connection
+118,2011-12-05,POWERGRID,- As per regulation 30...,0,0,0,as per regulation 30
+119,2011-11-13,POWERGRID,- The Company has further...,0,0,0,the company has further
+120,2011-11-13,POWERGRID,- As per regulation...,0,0,0,as per regulation
+121,2011-10-20,POWERGRID,- Trading of the shares...,1,0,0,trading of the shares
+122,2011-10-17,POWERGRID,- Trading of the shares...,1,0,1,trading of the shares
+123,2011-10-10,POWERGRID,- The Company has informed...,1,0,1,the company has informed

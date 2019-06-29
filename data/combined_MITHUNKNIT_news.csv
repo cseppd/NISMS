@@ -1,0 +1,135 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-01-31,MITHUNKNIT,Q2 Financials,0,0,0,q2 financials
+1,2019-01-27,MITHUNKNIT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2018-12-13,MITHUNKNIT,Resumption after record date,0,0,0,resumption after record date
+3,2018-12-12,MITHUNKNIT,Suspension for Record date,1,0,0,suspension for record date
+4,2018-12-06,MITHUNKNIT,Q1 Financials,0,0,0,q1 financials
+5,2018-12-02,MITHUNKNIT,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+6,2018-11-29,MITHUNKNIT,Spot News,0,0,0,spot news
+7,2018-11-25,MITHUNKNIT,Price Limit Open,1,1,0,price limit open
+8,2018-11-25,MITHUNKNIT,Dividend Declaration,1,1,0,dividend declaration
+9,2018-11-14,MITHUNKNIT,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+10,2018-10-10,MITHUNKNIT,Query Response,0,0,0,query response
+11,2018-05-10,MITHUNKNIT,Q3 Financials,0,0,0,q3 financials
+12,2018-04-30,MITHUNKNIT,Reschedule of Board Meeting under LR 16(1),0,0,0,reschedule of board meeting under lr 161
+13,2018-04-23,MITHUNKNIT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+14,2018-02-12,MITHUNKNIT,Q2 Financials,1,1,0,q2 financials
+15,2018-02-07,MITHUNKNIT,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+16,2018-01-25,MITHUNKNIT,Resumption after record date,0,0,0,resumption after record date
+17,2018-01-24,MITHUNKNIT,Suspension for Record Date,0,0,0,suspension for record date
+18,2018-01-11,MITHUNKNIT,Spot for EGM,0,0,0,spot for egm
+19,2018-01-04,MITHUNKNIT,Name Change in the EGM,1,0,0,name change in the egm
+20,2017-12-18,MITHUNKNIT,Q1 Financials,1,0,1,q1 financials
+21,2017-12-14,MITHUNKNIT,Resumption after record date,0,0,0,resumption after record date
+22,2017-12-13,MITHUNKNIT,Suspension for Record Date,0,0,0,suspension for record date
+23,2017-12-12,MITHUNKNIT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+24,2017-11-30,MITHUNKNIT,Spot News,0,0,0,spot news
+25,2017-11-26,MITHUNKNIT,Prohibition on providing loan facilities to purchase securities,1,0,0,prohibition on providing loan facilities to purchase securities
+26,2017-11-26,MITHUNKNIT,Category Change,1,0,0,category change
+27,2017-11-26,MITHUNKNIT,Price Limit Open,1,0,0,price limit open
+28,2017-11-26,MITHUNKNIT,Dividend Declaration,1,0,0,dividend declaration
+29,2017-11-19,MITHUNKNIT,Board Meeting schedule under LR 19(1),0,1,1,board meeting schedule under lr 191
+30,2017-10-15,MITHUNKNIT,Q3 Financials,0,1,1,q3 financials
+31,2017-10-15,MITHUNKNIT,Q2 Financials,0,1,1,q2 financials
+32,2017-10-09,MITHUNKNIT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+33,2017-09-10,MITHUNKNIT,Query Response,1,0,0,query response
+34,2017-09-10,MITHUNKNIT,Query Response,1,0,0,query response
+35,2017-05-14,MITHUNKNIT,Appointment of Chairman and Managing Director,0,1,0,appointment of chairman and managing director
+36,2017-04-17,MITHUNKNIT,Sale confirmation of the Sponsors,0,0,0,sale confirmation of the sponsors
+37,2017-03-23,MITHUNKNIT,Declaration of sale by a Sponsor,0,0,0,declaration of sale by a sponsor
+38,2017-03-22,MITHUNKNIT,Sale declaration of Sponsors,1,0,0,sale declaration of sponsors
+39,2017-03-22,MITHUNKNIT,Sale confirmation of Sponsors,1,0,0,sale confirmation of sponsors
+40,2017-03-07,MITHUNKNIT,Declaration of sale by a Sponsor,0,0,1,declaration of sale by a sponsor
+41,2017-03-07,MITHUNKNIT,Declaration of sale by a Sponsor,0,0,1,declaration of sale by a sponsor
+42,2017-03-01,MITHUNKNIT,Sale confirmation,1,0,0,sale confirmation
+43,2017-03-01,MITHUNKNIT,Sale declaration,1,0,0,sale declaration
+44,2017-02-28,MITHUNKNIT,Declaration of transfer,0,1,0,declaration of transfer
+45,2017-01-30,MITHUNKNIT,Postponement of Board Meeting,0,1,1,postponement of board meeting
+46,2017-01-24,MITHUNKNIT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+47,2017-01-24,MITHUNKNIT,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+48,2017-01-18,MITHUNKNIT,Declaration of sale by Sponsors,0,0,0,declaration of sale by sponsors
+49,2017-01-17,MITHUNKNIT,Confirmation of sale by Sponsors,0,0,0,confirmation of sale by sponsors
+50,2017-01-09,MITHUNKNIT,Declaration of sale by Sponsors,0,1,0,declaration of sale by sponsors
+51,2017-01-08,MITHUNKNIT,Dividend Disbursement,0,0,1,dividend disbursement
+52,2016-12-22,MITHUNKNIT,Confirmation of sale,1,0,0,confirmation of sale
+53,2016-12-14,MITHUNKNIT,Transmission Completion of Deceased Sponsor's shares to her successor,1,0,0,transmission completion of deceased sponsor's shares to her successor
+54,2016-12-14,MITHUNKNIT,Suspension for Record Date,1,0,0,suspension for record date
+55,2016-12-08,MITHUNKNIT,intention to Buy/Sale,1,0,0,intention to buysale
+56,2016-12-01,MITHUNKNIT,Q1 Financials,1,0,0,q1 financials
+57,2016-11-28,MITHUNKNIT,Transmission of Deceased Sponsor's shares to her successor(s),1,0,0,transmission of deceased sponsor's shares to her successors
+58,2016-11-27,MITHUNKNIT,Board Meeting,0,1,0,board meeting
+59,2016-11-27,MITHUNKNIT,Revaluation of Fixed Assets,0,1,0,revaluation of fixed assets
+60,2016-11-27,MITHUNKNIT,Revaluation of Fixed Assets,0,1,0,revaluation of fixed assets
+61,2016-11-27,MITHUNKNIT,Price Limit Open,0,1,0,price limit open
+62,2016-11-27,MITHUNKNIT,Dividend Declaration,0,1,0,dividend declaration
+63,2016-11-21,MITHUNKNIT,Board Meeting,0,0,1,board meeting
+64,2016-09-26,MITHUNKNIT, Resignation of all existing Directors & appointment of Chairman & MD,0,0,1,resignation of all existing directors  appointment of chairman  md
+65,2016-05-15,MITHUNKNIT,Q3 Financials,0,0,0,q3 financials
+66,2016-05-08,MITHUNKNIT,Board Meeting,0,1,0,board meeting
+67,2016-01-31,MITHUNKNIT,Q2 Financials,0,0,0,q2 financials
+68,2016-01-25,MITHUNKNIT,Board Meeting,1,1,0,board meeting
+69,2016-01-12,MITHUNKNIT,Dividend Disbursement,0,0,0,dividend disbursement
+70,2015-12-15,MITHUNKNIT,Resumption after Record date,0,0,0,resumption after record date
+71,2015-12-14,MITHUNKNIT,Suspension for Record Date,0,0,0,suspension for record date
+72,2015-12-13,MITHUNKNIT,Change of AGM Date,0,0,0,change of agm date
+73,2015-12-10,MITHUNKNIT,Spot for AGM,1,0,0,spot for agm
+74,2015-11-29,MITHUNKNIT,Q1,1,1,0,q1
+75,2015-11-25,MITHUNKNIT,Board Meeting,0,1,0,board meeting
+76,2015-11-25,MITHUNKNIT,Price Limit Open,0,1,0,price limit open
+77,2015-11-25,MITHUNKNIT,Dividend Declaration,0,1,0,dividend declaration
+78,2015-11-22,MITHUNKNIT,Board Meeting,0,0,0,board meeting
+79,2015-11-10,MITHUNKNIT,Board Meeting (Correction),1,0,1,board meeting correction
+80,2015-11-10,MITHUNKNIT,Board Meeting,1,0,1,board meeting
+81,2015-11-10,MITHUNKNIT,Board Meeting,1,0,1,board meeting
+82,2015-11-09,MITHUNKNIT,Board Meeting,0,1,0,board meeting
+83,2015-10-29,MITHUNKNIT,Board Meeting,1,0,0,board meeting
+84,2015-05-04,MITHUNKNIT,Q3,1,1,1,q3
+85,2015-02-01,MITHUNKNIT,Half Yearly Financials,0,0,1,half yearly financials
+86,2015-01-13,MITHUNKNIT,credited the bonus shares,0,1,0,credited the bonus shares
+87,2014-11-20,MITHUNKNIT,Trade Resume,0,0,0,trade resume
+88,2014-11-19,MITHUNKNIT,Trade Suspended,0,0,0,trade suspended
+89,2014-11-17,MITHUNKNIT,Spot Market and Block/Odd lot transactions,0,1,0,spot market and blockodd lot transactions
+90,2014-11-16,MITHUNKNIT,Q1 Earning,1,0,1,q1 earning
+91,2014-11-11,MITHUNKNIT,no price limit,0,0,0,no price limit
+92,2014-11-11,MITHUNKNIT,20% stock dividend,0,0,0,20 stock dividend
+93,2014-10-30,MITHUNKNIT,Board Meeting,1,0,0,board meeting
+94,2014-09-30,MITHUNKNIT,trade resume,0,1,0,trade resume
+95,2014-09-29,MITHUNKNIT,trade suspension,1,0,1,trade suspension
+96,2014-09-25,MITHUNKNIT,trade suspension,0,0,0,trade suspension
+97,2014-09-21,MITHUNKNIT,EGM,0,0,0,egm
+98,2014-04-30,MITHUNKNIT,Q3 Earning,1,0,0,q3 earning
+99,2014-02-25,MITHUNKNIT,CSE query,0,1,0,cse query
+100,2014-02-02,MITHUNKNIT,H/Y Earnings,0,1,0,hy earnings
+101,2013-12-26,MITHUNKNIT,bonus shares,1,0,0,bonus shares
+102,2013-12-08,MITHUNKNIT,AGM,0,0,1,agm
+103,2013-11-17,MITHUNKNIT,Q1 Earnings,1,1,0,q1 earnings
+104,2013-11-12,MITHUNKNIT,trade resume after record date,0,1,0,trade resume after record date
+105,2013-11-11,MITHUNKNIT,trade suspension on record date,1,0,1,trade suspension on record date
+106,2013-11-06,MITHUNKNIT,trade suspension on record date,0,0,0,trade suspension on record date
+107,2013-10-24,MITHUNKNIT,No Price limit,0,0,0,no price limit
+108,2013-10-24,MITHUNKNIT,Corporate Action,0,0,0,corporate action
+109,2013-10-06,MITHUNKNIT,Board Meeting,0,0,0,board meeting
+110,2013-09-15,MITHUNKNIT,BSEC NEWS,0,0,0,bsec news
+111,2013-05-12,MITHUNKNIT,Office transfer,0,0,0,office transfer
+112,2013-04-30,MITHUNKNIT,Q3 earnings,0,0,1,q3 earnings
+113,2013-01-31,MITHUNKNIT,H/Y Earnings 2012-13,0,0,0,hy earnings 2012-13
+114,2012-11-20,MITHUNKNIT,AGM venue changed,0,0,1,agm venue changed
+115,2012-11-14,MITHUNKNIT,Q1 Earnings 2012,0,0,0,q1 earnings 2012
+116,2012-11-11,MITHUNKNIT,will have no price limit today,0,0,1,will have no price limit today
+117,2012-11-11,MITHUNKNIT,corporate declaration,0,0,1,corporate declaration
+118,2012-11-04,MITHUNKNIT,Board Meeting,0,0,0,board meeting
+119,2012-09-04,MITHUNKNIT,- In response to a DSE query...,1,0,0,in response to a dse query
+120,2012-04-26,MITHUNKNIT,- The National Credit Ratings Limited...,0,0,0,the national credit ratings limited
+121,2012-04-25,MITHUNKNIT,- Mr. Md. Rafiqul Haque...,0,0,0,mr. md. rafiqul haque
+122,2012-04-25,MITHUNKNIT,- Mr. Md. Mahbub-Ul Haque...,0,0,0,mr. md. mahbub-ul haque
+123,2012-04-25,MITHUNKNIT,- Mr. Md. Atiqul Haque...,0,0,0,mr. md. atiqul haque
+125,2012-03-06,MITHUNKNIT, - SEC has given consent...,0,0,1,sec has given consent
+126,2012-01-31,MITHUNKNIT,- The Company has informed...,0,0,0,the company has informed
+127,2012-01-31,MITHUNKNIT,- As per un-audited...,0,0,0,as per un-audited
+128,2011-12-05,MITHUNKNIT,- Normal trading...,0,0,0,normal trading
+129,2011-11-28,MITHUNKNIT,- Trading of the shares...,1,0,1,trading of the shares
+130,2011-11-14,MITHUNKNIT,- As per un-audited...,0,0,0,as per un-audited
+131,2011-11-13,MITHUNKNIT,- In connection...,0,0,0,in connection
+132,2011-11-13,MITHUNKNIT, - The Board of Directors...,0,0,0,the board of directors
+133,2011-11-13,MITHUNKNIT,- There will be no price...,0,0,0,there will be no price
+134,2011-10-30,MITHUNKNIT,- As per regulation...,0,0,1,as per regulation

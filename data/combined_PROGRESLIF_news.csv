@@ -1,0 +1,70 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-01-27,PROGRESLIF,Withdrawal of Investment,1,1,1,withdrawal of investment
+1,2018-08-02,PROGRESLIF,Q1 Financials,0,0,0,q1 financials
+2,2018-08-02,PROGRESLIF,Q3 Financials,0,0,0,q3 financials
+3,2018-08-02,PROGRESLIF,Q2 Financials,0,0,0,q2 financials
+4,2018-08-02,PROGRESLIF,Q1 Financials,0,0,0,q1 financials
+5,2018-08-02,PROGRESLIF,Q3 Financials,0,0,0,q3 financials
+6,2018-08-02,PROGRESLIF,Q2 Financials,0,0,0,q2 financials
+7,2018-08-02,PROGRESLIF,Q1 Financials,0,0,0,q1 financials
+8,2018-08-02,PROGRESLIF,Q3 Financials,0,0,0,q3 financials
+10,2018-08-02,PROGRESLIF,Financial Statements Information from the years 2014 to 2018,0,0,0,financial statements information from the years 2014 to 2018
+11,2018-08-02,PROGRESLIF,Q2 Financials,0,0,0,q2 financials
+12,2018-08-02,PROGRESLIF,Q1 Financials,0,0,0,q1 financials
+13,2018-08-02,PROGRESLIF,Q3 Financials,0,0,0,q3 financials
+14,2018-08-02,PROGRESLIF,Q2 Financials,0,0,0,q2 financials
+15,2018-02-14,PROGRESLIF,Query Response,0,0,0,query response
+16,2017-12-17,PROGRESLIF,Query Response (Repeat News),1,0,1,query response repeat news
+17,2017-12-14,PROGRESLIF,Query Response,1,0,0,query response
+18,2016-10-19,PROGRESLIF,Appointment of Chief Executive Officer,0,0,0,appointment of chief executive officer
+19,2015-11-08,PROGRESLIF,Imposing Fine on Directors,0,0,0,imposing fine on directors
+20,2015-08-31,PROGRESLIF,Withdrawal of Investment in ACML,0,0,0,withdrawal of investment in acml
+21,2015-05-11,PROGRESLIF,Land Purchase,1,1,0,land purchase
+22,2015-01-07,PROGRESLIF,Mr. Md. Shahjahan Azadi(Current Charge),1,0,0,mr. md. shahjahan azadicurrent charge
+23,2014-12-30,PROGRESLIF,non marginable,1,0,0,non marginable
+24,2014-12-30,PROGRESLIF,will be placed in Z category,1,0,0,will be placed in z category
+25,2014-11-16,PROGRESLIF,new chairman & Vice chairman,0,0,0,new chairman  vice chairman
+26,2014-10-02,PROGRESLIF,DSE query,1,0,0,dse query
+27,2014-06-30,PROGRESLIF,Q1 Earnings,1,0,1,q1 earnings
+28,2014-03-04,PROGRESLIF,appointment of new CEO,0,1,1,appointment of new ceo
+29,2013-10-31,PROGRESLIF,Q3 Earnings,1,0,0,q3 earnings
+30,2013-10-29,PROGRESLIF,Sponsors Share Buy,1,0,1,sponsors share buy
+31,2013-10-27,PROGRESLIF,Sponsors Share Buy,0,0,1,sponsors share buy
+32,2013-09-16,PROGRESLIF,Bonus Share Credited To The BO Account,0,1,1,bonus share credited to the bo account
+33,2013-09-04,PROGRESLIF,Directors News,0,0,0,directors news
+34,2013-07-31,PROGRESLIF,Q2 Earnings,0,1,0,q2 earnings
+35,2013-07-22,PROGRESLIF,Sponsors Share Sell,0,0,1,sponsors share sell
+36,2013-07-18,PROGRESLIF,Trade Resume after Record Date,0,0,0,trade resume after record date
+37,2013-07-18,PROGRESLIF,Trade Resume After Record Date,0,0,0,trade resume after record date
+38,2013-07-17,PROGRESLIF,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+39,2013-07-14,PROGRESLIF,Sponsors Share Sell,0,1,0,sponsors share sell
+40,2013-07-14,PROGRESLIF,Trade Suspension on Record Date,0,1,0,trade suspension on record date
+41,2013-06-30,PROGRESLIF,no price limit,1,0,1,no price limit
+42,2013-06-30,PROGRESLIF,Corporate Action,1,0,1,corporate action
+43,2013-06-26,PROGRESLIF,Directors News,0,0,0,directors news
+44,2013-06-26,PROGRESLIF,Directors News,0,0,0,directors news
+45,2013-06-26,PROGRESLIF,Asset Acquisition,0,0,0,asset acquisition
+46,2012-10-31,PROGRESLIF,Director share transfer completed,1,1,0,director share transfer completed
+47,2012-10-31,PROGRESLIF,Q3 Earnings 2012,1,1,0,q3 earnings 2012
+48,2012-10-30,PROGRESLIF,Director share transfer announcement,0,1,1,director share transfer announcement
+49,2012-10-23,PROGRESLIF,Director share transfer completed,1,0,0,director share transfer completed
+50,2012-10-22,PROGRESLIF,Director share transfer announcement,0,1,0,director share transfer announcement
+51,2012-10-22,PROGRESLIF,director sell announcement,0,1,0,director sell announcement
+52,2012-09-19,PROGRESLIF,elected Chairman and Vice Chairman,0,0,0,elected chairman and vice chairman
+53,2012-09-13,PROGRESLIF,bonus shares credited to BO accounts,0,0,0,bonus shares credited to bo accounts
+54,2012-06-26,PROGRESLIF,- (Q1): As per un-audited quarterly accounts...,1,1,0,q1: as per un-audited quarterly accounts
+55,2012-06-19,PROGRESLIF,- As per regulation..,0,0,1,as per regulation..
+56,2011-11-29,PROGRESLIF,- The Company has sent...,0,1,0,the company has sent
+57,2011-11-23,PROGRESLIF,- SEC has issued...,0,0,0,sec has issued
+58,2011-11-17,PROGRESLIF,- Normal trading...,0,0,0,normal trading
+59,2011-11-16,PROGRESLIF,- Trading of the shares...,0,0,0,trading of the shares
+60,2011-11-13,PROGRESLIF,- Trading of the shares...,0,0,0,trading of the shares
+61,2011-11-02,PROGRESLIF,- The Company has informed...,1,0,0,the company has informed
+62,2011-11-01,PROGRESLIF,- As per un-audited...,1,1,0,as per un-audited
+63,2011-08-01,PROGRESLIF,- (H/Y): As per un-audited...,0,0,1,hy: as per un-audited
+64,2011-07-14,PROGRESLIF,- Mr. Gulam Mostofa Ahmed...,0,0,0,mr. gulam mostofa ahmed
+65,2011-07-13,PROGRESLIF,- Normal trading of the shares...,0,0,0,normal trading of the shares
+66,2011-07-13,PROGRESLIF,- The Company has informed...,0,0,0,the company has informed
+67,2011-07-12,PROGRESLIF,- Trading of the shares...,1,0,0,trading of the shares
+68,2011-07-07,PROGRESLIF,- Mr. Gulam Mostofa Ahmed...,1,0,0,mr. gulam mostofa ahmed
+69,2011-07-07,PROGRESLIF,- Trading of the shares...,1,0,0,trading of the shares

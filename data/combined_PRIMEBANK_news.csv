@@ -1,0 +1,188 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-29,PRIMEBANK,Declaration of share transfer by a Sponsor,0,0,0,declaration of share transfer by a sponsor
+1,2019-04-28,PRIMEBANK,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-04-28,PRIMEBANK,Resumption after record date,0,0,0,resumption after record date
+3,2019-04-28,PRIMEBANK,Information regarding Margin Loan,0,0,0,information regarding margin loan
+4,2019-04-25,PRIMEBANK,Suspension for Record Date,1,0,0,suspension for record date
+5,2019-04-23,PRIMEBANK,Spot News,0,1,1,spot news
+6,2019-04-11,PRIMEBANK,Sale Declaration of a Sponsor,1,0,0,sale declaration of a sponsor
+7,2019-04-04,PRIMEBANK,Price Limit Open,0,0,0,price limit open
+9,2019-04-04,PRIMEBANK,Dividend Declaration,0,0,0,dividend declaration
+10,2019-03-27,PRIMEBANK,Reschedule of Board Meeting under LR 19(1),0,0,0,reschedule of board meeting under lr 191
+11,2019-03-21,PRIMEBANK,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+12,2018-11-11,PRIMEBANK,Sale Confirmation of a Sponsor,0,1,0,sale confirmation of a sponsor
+13,2018-11-05,PRIMEBANK,Sale confirmation of a Sponsor,1,1,1,sale confirmation of a sponsor
+14,2018-10-28,PRIMEBANK,Q3 Financials,0,1,1,q3 financials
+15,2018-10-28,PRIMEBANK,Sale Declaration of a Sponsor,0,1,1,sale declaration of a sponsor
+16,2018-10-24,PRIMEBANK,Sale Declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+17,2018-10-17,PRIMEBANK,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+18,2018-10-11,PRIMEBANK,Sale Confirmation of a Sponsor,1,0,0,sale confirmation of a sponsor
+19,2018-10-01,PRIMEBANK,Buy confirmation of a Sponsor Director,0,0,1,buy confirmation of a sponsor director
+20,2018-09-27,PRIMEBANK,Sale Confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+21,2018-09-26,PRIMEBANK,Sale Declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+22,2018-09-16,PRIMEBANK,Sale Declaration of a Sponsor,0,0,1,sale declaration of a sponsor
+23,2018-09-13,PRIMEBANK,Sale Declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+24,2018-08-27,PRIMEBANK,Sale Confirmation of a Sponsor,0,1,0,sale confirmation of a sponsor
+25,2018-08-09,PRIMEBANK,Buy Declaration of a Sponsor Director,1,0,0,buy declaration of a sponsor director
+26,2018-07-29,PRIMEBANK,Q2 Financials,1,0,0,q2 financials
+27,2018-07-15,PRIMEBANK,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+28,2018-07-05,PRIMEBANK,Sale Declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+29,2018-06-28,PRIMEBANK,Credit Rating Result,0,0,0,credit rating result
+30,2018-06-28,PRIMEBANK,Credit Rating Result,0,0,0,credit rating result
+31,2018-06-12,PRIMEBANK,Cash Dividend Disbursement,1,0,0,cash dividend disbursement
+32,2018-05-31,PRIMEBANK,Stock Dividend Disbursement,1,0,0,stock dividend disbursement
+33,2018-05-14,PRIMEBANK,Q1 Financials,1,0,1,q1 financials
+34,2018-05-06,PRIMEBANK,Resumption after record date,0,0,1,resumption after record date
+35,2018-05-06,PRIMEBANK,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+36,2018-05-03,PRIMEBANK,Suspension for Record Date,1,0,0,suspension for record date
+37,2018-04-26,PRIMEBANK,Spot News,1,0,0,spot news
+38,2018-04-22,PRIMEBANK,Updating information,1,1,1,updating information
+39,2018-04-22,PRIMEBANK,Updating information,1,1,1,updating information
+42,2018-04-11,PRIMEBANK,Revising Consolidated NOCFPS figure for the year 2016,1,0,0,revising consolidated nocfps figure for the year 2016
+43,2018-04-11,PRIMEBANK,Price Limit Open,1,0,0,price limit open
+45,2018-04-11,PRIMEBANK,Dividend Declaration,1,0,0,dividend declaration
+47,2018-04-04,PRIMEBANK,"BSEC approval for issuing ""Prime Bank Subordinated Bond-3""",0,0,0,bsec approval for issuing prime bank subordinated bond-3
+48,2018-04-03,PRIMEBANK,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+49,2017-12-14,PRIMEBANK,Appointment of Managing Director,1,0,0,appointment of managing director
+50,2017-10-30,PRIMEBANK,Issuance of Prime Bank Subordinated Bond-3,0,0,1,issuance of prime bank subordinated bond-3
+51,2017-10-30,PRIMEBANK,Q3 Financials,0,0,1,q3 financials
+52,2017-10-23,PRIMEBANK,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+53,2017-09-18,PRIMEBANK,Query Response,0,1,0,query response
+54,2017-09-14,PRIMEBANK,Buy Confirmation of a Sponsor Director,0,0,0,buy confirmation of a sponsor director
+55,2017-08-27,PRIMEBANK,Land Purchase,1,0,0,land purchase
+56,2017-07-30,PRIMEBANK,Q2 Financials,0,1,0,q2 financials
+57,2017-07-20,PRIMEBANK,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+58,2017-07-20,PRIMEBANK,Buy declaration of a Sponsor Director,1,0,0,buy declaration of a sponsor director
+59,2017-06-22,PRIMEBANK,Credit Rating Result,1,0,0,credit rating result
+60,2017-06-22,PRIMEBANK,Credit Rating Result,1,0,0,credit rating result
+61,2017-05-25,PRIMEBANK,Dividend Disbursement,1,0,0,dividend disbursement
+62,2017-05-14,PRIMEBANK,Q1 Financials,0,1,0,q1 financials
+63,2017-05-07,PRIMEBANK,Confirmation of transfer by a Sponsor,0,0,1,confirmation of transfer by a sponsor
+64,2017-05-04,PRIMEBANK,Confirmation of transfer by a Sponsor Director,0,0,0,confirmation of transfer by a sponsor director
+65,2017-05-04,PRIMEBANK,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+66,2017-04-30,PRIMEBANK,Declaration of transfer by a Sponsor Director,1,0,1,declaration of transfer by a sponsor director
+67,2017-04-30,PRIMEBANK,Declaration of transfer by a Sponsor,1,0,1,declaration of transfer by a sponsor
+68,2017-04-20,PRIMEBANK,Resumption after record date,0,0,0,resumption after record date
+69,2017-04-19,PRIMEBANK,Suspension for Record Date,0,0,0,suspension for record date
+70,2017-04-17,PRIMEBANK,Spot News,1,1,0,spot news
+71,2017-04-10,PRIMEBANK,Updating information,1,1,0,updating information
+72,2017-04-10,PRIMEBANK,Updating information,1,1,0,updating information
+73,2017-03-30,PRIMEBANK,Price Limit Open,0,0,0,price limit open
+75,2017-03-30,PRIMEBANK,Dividend Declaration,0,0,0,dividend declaration
+76,2017-03-22,PRIMEBANK,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+77,2016-11-07,PRIMEBANK,Buy Confirmation of a Sponsor/Director,0,0,1,buy confirmation of a sponsordirector
+78,2016-10-30,PRIMEBANK,Q3 Financials,0,0,0,q3 financials
+79,2016-10-18,PRIMEBANK,Buy Completion of a Sponsor/Director,1,1,0,buy completion of a sponsordirector
+80,2016-10-18,PRIMEBANK,Board Meeting,1,1,0,board meeting
+81,2016-10-17,PRIMEBANK,Buy Declaration of a Sponsor/Director,1,1,1,buy declaration of a sponsordirector
+82,2016-08-28,PRIMEBANK,Buy Declaration of a Sponsor/Director,0,1,1,buy declaration of a sponsordirector
+83,2016-08-10,PRIMEBANK,Buy Confirmation,1,1,0,buy confirmation
+84,2016-07-28,PRIMEBANK,Q2 Financials,0,0,0,q2 financials
+85,2016-06-30,PRIMEBANK,Credit Rating result,0,0,0,credit rating result
+86,2016-06-29,PRIMEBANK,Credit Rating Result,0,0,0,credit rating result
+87,2016-06-20,PRIMEBANK,Buy Declaration of a Sponsor/Director,1,0,1,buy declaration of a sponsordirector
+88,2016-05-17,PRIMEBANK,Cash Dividend Disbursement,1,1,0,cash dividend disbursement
+89,2016-05-17,PRIMEBANK,Buy Confirmation of a Sponsor/Director,1,1,0,buy confirmation of a sponsordirector
+90,2016-05-15,PRIMEBANK,Q1 Financials,1,1,1,q1 financials
+91,2016-04-28,PRIMEBANK,Buy Declaration of a Sponsor/Director,0,0,0,buy declaration of a sponsordirector
+92,2016-04-11,PRIMEBANK,Resumption after Record date,0,0,1,resumption after record date
+93,2016-04-10,PRIMEBANK,Suspension for Record date,0,0,0,suspension for record date
+94,2016-04-06,PRIMEBANK,Spot for AGM,1,0,0,spot for agm
+95,2016-03-22,PRIMEBANK,Price Limit Open,1,1,0,price limit open
+96,2016-03-22,PRIMEBANK,Dividend Declaration,1,1,0,dividend declaration
+97,2016-03-14,PRIMEBANK,Board Meeting,0,1,0,board meeting
+98,2015-10-27,PRIMEBANK,Completion of Transfer by a Sponsor,0,1,0,completion of transfer by a sponsor
+99,2015-10-25,PRIMEBANK, Buy confirmation of a Sponsor/Director,0,0,0,buy confirmation of a sponsordirector
+100,2015-10-25,PRIMEBANK,Q3 Financials,0,0,0,q3 financials
+101,2015-10-21,PRIMEBANK,Declaration of Transfer by a Sponsor,0,0,0,declaration of transfer by a sponsor
+102,2015-10-07,PRIMEBANK,Buy Declaration,0,1,0,buy declaration
+103,2015-09-22,PRIMEBANK,Confirmation of sale by a Sponsor,0,0,0,confirmation of sale by a sponsor
+104,2015-09-03,PRIMEBANK,Confirmation of sale by Sponsor,0,0,0,confirmation of sale by sponsor
+105,2015-09-03,PRIMEBANK,Declaration of sale by a Sponsor,0,0,0,declaration of sale by a sponsor
+106,2015-08-25,PRIMEBANK,Confirmation of Sale by a Sponsor,0,0,0,confirmation of sale by a sponsor
+107,2015-07-26,PRIMEBANK,Half Yearly Financials,1,0,0,half yearly financials
+108,2015-07-23,PRIMEBANK,Declaration of sale by a Sponsor,1,0,0,declaration of sale by a sponsor
+109,2015-06-29,PRIMEBANK,Confirmation of sale by a Sponsor,1,1,0,confirmation of sale by a sponsor
+110,2015-06-28,PRIMEBANK,Credit Rating Result,1,1,1,credit rating result
+111,2015-06-28,PRIMEBANK, Credit Rating Result,1,1,1,credit rating result
+112,2015-06-15,PRIMEBANK,Declaration of Sale by Sponsor,0,0,1,declaration of sale by sponsor
+113,2015-06-10,PRIMEBANK,LOI issuance for a Security Custodian Registration Certificate,0,0,0,loi issuance for a security custodian registration certificate
+114,2015-05-14,PRIMEBANK,Q1 Financials,1,0,0,q1 financials
+115,2015-05-11,PRIMEBANK,Declaration of Sale of Sponsor/Director in the Block Market,1,0,0,declaration of sale of sponsordirector in the block market
+116,2015-03-10,PRIMEBANK,Resumption News after Record Date,0,0,0,resumption news after record date
+117,2015-03-09,PRIMEBANK,Suspension News for Record date,0,0,0,suspension news for record date
+118,2015-03-05,PRIMEBANK,Spot News for AGM,0,0,0,spot news for agm
+119,2015-03-01,PRIMEBANK,Price Limit Open,1,1,0,price limit open
+120,2015-03-01,PRIMEBANK,Dividend Declaration,1,1,0,dividend declaration
+121,2015-02-26,PRIMEBANK,Board Meeting schedule under LR 30,1,0,0,board meeting schedule under lr 30
+122,2014-10-30,PRIMEBANK,given consent for issuing Debt Securities,1,0,0,given consent for issuing debt securities
+123,2014-10-29,PRIMEBANK,Q3 Earnings,0,1,0,q3 earnings
+124,2014-08-26,PRIMEBANK,sponsor share sell/buy,0,0,0,sponsor share sellbuy
+125,2014-08-11,PRIMEBANK,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+126,2014-07-24,PRIMEBANK,H/Y Earnings,1,0,0,hy earnings
+127,2014-06-29,PRIMEBANK,Credit Rating,0,0,0,credit rating
+128,2014-06-23,PRIMEBANK,Credit Rating,0,1,0,credit rating
+129,2014-06-02,PRIMEBANK,New Chairman,0,0,0,new chairman
+130,2014-05-14,PRIMEBANK,Q1 Earnings,0,0,0,q1 earnings
+131,2014-04-30,PRIMEBANK,informed that Cash Dividend,0,0,0,informed that cash dividend
+132,2014-03-30,PRIMEBANK,Sponsor/Director Share Sale,0,1,0,sponsordirector share sale
+133,2014-03-27,PRIMEBANK,AGM Rescheduled,0,0,0,agm rescheduled
+134,2014-03-20,PRIMEBANK,Sponsor/Director Share Sale,1,0,0,sponsordirector share sale
+135,2014-03-13,PRIMEBANK,trade resume,0,0,0,trade resume
+136,2014-03-12,PRIMEBANK,trade suspension,0,0,0,trade suspension
+137,2014-03-09,PRIMEBANK,trade suspension on record date,1,1,1,trade suspension on record date
+138,2014-03-05,PRIMEBANK,no price limit,1,1,0,no price limit
+139,2014-03-05,PRIMEBANK,recommended 12.50% cash dividend,1,1,0,recommended 12.50 cash dividend
+140,2014-03-04,PRIMEBANK,Board meeting,1,1,1,board meeting
+141,2013-12-29,PRIMEBANK,assets revaluation,1,1,0,assets revaluation
+142,2013-07-30,PRIMEBANK,Q2 Earnings,0,0,0,q2 earnings
+143,2013-07-02,PRIMEBANK,Credit Rating,1,1,1,credit rating
+144,2013-07-02,PRIMEBANK,CRISL news,1,1,1,crisl news
+145,2013-06-26,PRIMEBANK,Sponsors Share Sell,0,0,0,sponsors share sell
+146,2013-06-20,PRIMEBANK,Sponsor Share Sell,0,0,0,sponsor share sell
+147,2013-06-09,PRIMEBANK,Chairman Election,0,1,1,chairman election
+148,2013-05-13,PRIMEBANK,Q1 Earnings,0,0,0,q1 earnings
+149,2013-04-03,PRIMEBANK,Bonus share credited,0,1,0,bonus share credited
+150,2013-03-12,PRIMEBANK,AGM,0,1,1,agm
+151,2013-03-12,PRIMEBANK,trade resume after record date,0,1,1,trade resume after record date
+152,2013-03-11,PRIMEBANK,trade suspension on record date,0,0,1,trade suspension on record date
+153,2013-03-06,PRIMEBANK,spot market trading,1,1,0,spot market trading
+154,2013-03-03,PRIMEBANK,Corporate declaration,0,1,1,corporate declaration
+155,2013-02-28,PRIMEBANK,Board meeting date changed,0,0,0,board meeting date changed
+156,2013-01-31,PRIMEBANK,Fixed asset acquisition,0,0,0,fixed asset acquisition
+157,2012-12-17,PRIMEBANK,Land purchase,1,1,1,land purchase
+158,2012-10-23,PRIMEBANK,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+159,2012-10-17,PRIMEBANK,director sell announcement,0,0,0,director sell announcement
+160,2012-05-31,PRIMEBANK,- The Credit Rating Information...,1,0,0,the credit rating information
+161,2012-05-22,PRIMEBANK,- The Bank has informed...,0,0,0,the bank has informed
+162,2012-05-14,PRIMEBANK,- (Q1): As per un-audited quarterly accounts ...,1,1,0,q1: as per un-audited quarterly accounts
+163,2012-05-10,PRIMEBANK,- Mr. Quazi Sirazul Islam...,1,0,0,mr. quazi sirazul islam
+164,2012-04-16,PRIMEBANK,- East Coast Shipping Lines Limited...,0,1,0,east coast shipping lines limited
+165,2012-04-09,PRIMEBANK,- The Company has informed ...,1,1,0,the company has informed
+166,2012-04-04,PRIMEBANK,- Mr. Mafiz Ahmed Bhuiyan...,0,0,0,mr. mafiz ahmed bhuiyan
+167,2012-03-28,PRIMEBANK,- The Bank has informed...,0,0,0,the bank has informed
+168,2012-03-19,PRIMEBANK,- Mr. Mafiz Ahmed Bhuiyan...,0,1,1,mr. mafiz ahmed bhuiyan
+169,2012-03-12,PRIMEBANK,- Ms. Marina Yasmin Chowdhury...,1,1,0,ms. marina yasmin chowdhury
+170,2012-03-05,PRIMEBANK,- Mr. Mafiz Ahmed Bhuiyan...,0,1,1,mr. mafiz ahmed bhuiyan
+171,2012-03-05,PRIMEBANK,- Mr. Quazi Sirazul Islam...,0,1,1,mr. quazi sirazul islam
+172,2012-03-05,PRIMEBANK,- Mr. Md. Shirajul Islam Mollah...,0,1,1,mr. md. shirajul islam mollah
+173,2012-03-05,PRIMEBANK,"- Mr. Nafis Sikder, one of the Directors...",0,1,1,"mr. nafis sikder, one of the directors"
+174,2012-03-05,PRIMEBANK,- Normal trading of the...,0,1,1,normal trading of the
+175,2012-03-05,PRIMEBANK, - Mr. Mafiz Ahmed Bhuiyan...,0,1,1,mr. mafiz ahmed bhuiyan
+176,2012-03-04,PRIMEBANK,- Trading of the shares...,0,0,1,trading of the shares
+177,2012-01-26,PRIMEBANK,- Ms. Firoja Amin...,0,0,0,ms. firoja amin
+178,2011-11-27,PRIMEBANK,- The Bank has informed...,0,1,1,the bank has informed
+179,2011-11-01,PRIMEBANK,- Mr. Nafis Sikder...,1,0,1,mr. nafis sikder
+180,2011-10-31,PRIMEBANK,- Mr. Nafis Sikder...,1,1,0,mr. nafis sikder
+181,2011-10-30,PRIMEBANK,- The Bank has informed...,0,1,1,the bank has informed
+182,2011-10-30,PRIMEBANK,- As per un-audited...,0,1,1,as per un-audited
+184,2011-10-24,PRIMEBANK,- Mr. Nafis Sikder...,1,1,1,mr. nafis sikder
+185,2011-09-29,PRIMEBANK,- The Bank has informed...,0,0,0,the bank has informed
+186,2011-09-13,PRIMEBANK,- Mr. Mizanur Rahman Bhuiyan...,1,0,1,mr. mizanur rahman bhuiyan
+187,2011-09-07,PRIMEBANK,- The Bank has informed...,1,0,0,the bank has informed
+188,2011-09-05,PRIMEBANK,- East Coast Shipping Lines Ltd...,0,1,1,east coast shipping lines ltd
+189,2011-08-07,PRIMEBANK,- East Coast Shipping Lines Ltd...,0,1,1,east coast shipping lines ltd
+190,2011-07-31,PRIMEBANK,- (H/Y): As per un-audited...,1,1,0,hy: as per un-audited
+192,2011-07-31,PRIMEBANK,- The Bank has informed...,1,1,0,the bank has informed
+193,2011-07-26,PRIMEBANK,- Mr. Mizanur Rahman Bhuiyan...,0,1,0,mr. mizanur rahman bhuiyan
+194,2011-07-21,PRIMEBANK,- Mr. Mizanur Rahman Bhuiyan...,1,0,0,mr. mizanur rahman bhuiyan

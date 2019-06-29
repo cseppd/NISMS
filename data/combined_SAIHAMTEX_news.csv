@@ -1,0 +1,122 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-24,SAIHAMTEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+1,2019-03-24,SAIHAMTEX,Credit Rating Result,0,0,0,credit rating result
+2,2019-01-31,SAIHAMTEX,Q2 Financials,0,0,0,q2 financials
+3,2019-01-24,SAIHAMTEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2019-01-17,SAIHAMTEX,Query Response,0,0,0,query response
+5,2019-01-16,SAIHAMTEX,Dividend Disbursement,0,0,0,dividend disbursement
+9,2018-12-17,SAIHAMTEX,DSE Query Response,0,0,0,dse query response
+10,2018-11-15,SAIHAMTEX,Resumption after Record Date,0,0,0,resumption after record date
+11,2018-11-14,SAIHAMTEX,Suspension for Record Date,1,0,0,suspension for record date
+12,2018-11-12,SAIHAMTEX,Spot News,1,0,1,spot news
+13,2018-10-31,SAIHAMTEX,Q1 Financials,0,1,0,q1 financials
+14,2018-10-25,SAIHAMTEX,Price Limit Open,0,0,0,price limit open
+15,2018-10-25,SAIHAMTEX,Dividend Declaration,0,0,0,dividend declaration
+16,2018-10-24,SAIHAMTEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+17,2018-10-14,SAIHAMTEX,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+18,2018-10-11,SAIHAMTEX,Query Response,1,0,0,query response
+19,2018-09-10,SAIHAMTEX,Query Response,0,0,1,query response
+20,2018-08-07,SAIHAMTEX,Query Response,0,0,1,query response
+21,2018-07-10,SAIHAMTEX,Query Response,0,0,1,query response
+22,2018-04-30,SAIHAMTEX,Q3 Financials,0,0,0,q3 financials
+23,2018-04-22,SAIHAMTEX,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+24,2018-03-01,SAIHAMTEX,Buy Confirmation of a Sponsor Director,1,0,0,buy confirmation of a sponsor director
+25,2018-02-26,SAIHAMTEX,Buy confirmation of a Sponsor Director,0,1,0,buy confirmation of a sponsor director
+26,2018-02-14,SAIHAMTEX,Credit Rating Result,1,0,0,credit rating result
+27,2018-02-08,SAIHAMTEX,Buy declaration of a Sponsor Director,0,0,0,buy declaration of a sponsor director
+28,2018-01-31,SAIHAMTEX,Q2 Financials,0,0,0,q2 financials
+29,2018-01-24,SAIHAMTEX,Buy declaration of a Sponsor Director,0,0,0,buy declaration of a sponsor director
+30,2018-01-23,SAIHAMTEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+31,2018-01-14,SAIHAMTEX,Dividend Disbursement,0,0,0,dividend disbursement
+32,2017-12-05,SAIHAMTEX,Purchase of an Office Space,0,0,0,purchase of an office space
+33,2017-11-16,SAIHAMTEX,Resumption after record date,0,0,0,resumption after record date
+34,2017-11-15,SAIHAMTEX,Suspension for Record Date,1,0,0,suspension for record date
+35,2017-11-14,SAIHAMTEX,Q1 Financials,0,1,0,q1 financials
+36,2017-11-13,SAIHAMTEX,Spot News,0,0,1,spot news
+37,2017-11-08,SAIHAMTEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+38,2017-10-26,SAIHAMTEX,Price Limit Open,0,0,0,price limit open
+39,2017-10-26,SAIHAMTEX,Dividend Declaration,0,0,0,dividend declaration
+40,2017-10-17,SAIHAMTEX,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+41,2017-04-26,SAIHAMTEX,Q3 Financials,1,1,0,q3 financials
+42,2017-04-23,SAIHAMTEX,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+43,2017-02-01,SAIHAMTEX,Credit Rating Result,0,0,0,credit rating result
+44,2017-01-26,SAIHAMTEX,Q2 Financials,0,0,0,q2 financials
+45,2017-01-22,SAIHAMTEX,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+46,2017-01-17,SAIHAMTEX,Dividend Disbursemen,0,0,1,dividend disbursemen
+47,2017-01-15,SAIHAMTEX,Dividend Disbursement,1,0,0,dividend disbursement
+48,2016-11-20,SAIHAMTEX,Suspension for record date,0,0,1,suspension for record date
+49,2016-11-16,SAIHAMTEX,Spot for AGM,0,1,0,spot for agm
+50,2016-11-15,SAIHAMTEX,Q1 Financials,1,0,1,q1 financials
+51,2016-11-07,SAIHAMTEX,Board Meeting,0,0,0,board meeting
+52,2016-10-30,SAIHAMTEX,Price Limit Open,0,1,0,price limit open
+53,2016-10-30,SAIHAMTEX,Dividend Declaration,0,1,0,dividend declaration
+54,2016-10-18,SAIHAMTEX,Board Meeting,1,0,0,board meeting
+55,2016-05-02,SAIHAMTEX,Q3 Financials,1,1,1,q3 financials
+56,2016-04-21,SAIHAMTEX,Board Meeting (Q3),1,0,0,board meeting q3
+57,2016-03-01,SAIHAMTEX,Completion of Transfer by a Director,0,0,0,completion of transfer by a director
+58,2016-02-24,SAIHAMTEX,Buy Completion of a Sponsor,1,0,0,buy completion of a sponsor
+59,2016-02-09,SAIHAMTEX,Declaration of Transfer,1,0,1,declaration of transfer
+60,2016-01-31,SAIHAMTEX,Q2 Financials,0,1,0,q2 financials
+61,2016-01-24,SAIHAMTEX,Board Meeting,1,1,0,board meeting
+62,2016-01-19,SAIHAMTEX,Dividend Disbursement,0,1,0,dividend disbursement
+63,2016-01-12,SAIHAMTEX,Buy Declaration,0,1,0,buy declaration
+64,2015-12-31,SAIHAMTEX,Credit Rating Result,1,0,0,credit rating result
+65,2015-11-24,SAIHAMTEX,Confirmation of Transfer by Director,0,0,0,confirmation of transfer by director
+66,2015-11-19,SAIHAMTEX,Resumption News after Record date,0,0,0,resumption news after record date
+67,2015-11-18,SAIHAMTEX,Suspension News for Record Date,1,0,0,suspension news for record date
+68,2015-11-18,SAIHAMTEX,Declaration of Transfer by Director,1,0,0,declaration of transfer by director
+69,2015-11-09,SAIHAMTEX,Board Meeting,0,0,1,board meeting
+70,2015-11-08,SAIHAMTEX,Board Meeting,1,0,0,board meeting
+71,2015-10-29,SAIHAMTEX,Price Limit Open,1,0,0,price limit open
+72,2015-10-29,SAIHAMTEX,Dividend Declaration,1,0,0,dividend declaration
+73,2015-10-19,SAIHAMTEX,Board Meeting schedule under LR 19(1),0,0,1,board meeting schedule under lr 191
+74,2015-10-05,SAIHAMTEX,Address Change,1,0,0,address change
+75,2015-05-04,SAIHAMTEX,Q3,1,1,0,q3
+76,2015-02-01,SAIHAMTEX,Half Yearly Financials,0,0,0,half yearly financials
+77,2015-01-15,SAIHAMTEX,cash dividend dispatched,0,0,0,cash dividend dispatched
+78,2014-12-03,SAIHAMTEX,Credit Rating,0,1,0,credit rating
+79,2014-11-16,SAIHAMTEX,Trade Resume,0,0,0,trade resume
+80,2014-11-16,SAIHAMTEX,Q1,0,0,0,q1
+81,2014-11-13,SAIHAMTEX,will remain suspended,0,0,0,will remain suspended
+82,2014-11-11,SAIHAMTEX,Spot Market,1,0,0,spot market
+83,2014-10-28,SAIHAMTEX,no price limit,1,0,0,no price limit
+84,2014-10-28,SAIHAMTEX,recommended 15% cash dividend,1,0,0,recommended 15 cash dividend
+85,2014-10-23,SAIHAMTEX,meeting of the Board of Directors,0,0,0,meeting of the board of directors
+86,2014-04-28,SAIHAMTEX,Q3 Earning,0,0,0,q3 earning
+87,2014-01-30,SAIHAMTEX,Sponsor/director share transfer,0,0,0,sponsordirector share transfer
+88,2014-01-30,SAIHAMTEX,H/Y Earnings,0,0,0,hy earnings
+89,2014-01-07,SAIHAMTEX,cash dividend credited,0,0,0,cash dividend credited
+90,2013-11-28,SAIHAMTEX,AGM Date changed,0,0,0,agm date changed
+91,2013-11-17,SAIHAMTEX,Q1 Earnigs,1,0,0,q1 earnigs
+92,2013-11-13,SAIHAMTEX,trade resume after record date,0,0,0,trade resume after record date
+93,2013-11-12,SAIHAMTEX,trade suspension on record date,0,0,0,trade suspension on record date
+94,2013-11-07,SAIHAMTEX,trade suspension on record date,0,0,0,trade suspension on record date
+95,2013-10-28,SAIHAMTEX,No Price Limit,0,0,1,no price limit
+96,2013-10-28,SAIHAMTEX,Corporate Action,0,0,1,corporate action
+97,2013-10-22,SAIHAMTEX,Board Meeting,1,1,0,board meeting
+98,2013-09-30,SAIHAMTEX,Credit Ratiing,0,0,1,credit ratiing
+99,2013-06-24,SAIHAMTEX,foreign borrowing,0,0,0,foreign borrowing
+100,2013-05-02,SAIHAMTEX,Q3 Earnings,1,0,0,q3 earnings
+101,2013-01-31,SAIHAMTEX,H/Y Earnings 2012-13,1,0,0,hy earnings 2012-13
+102,2013-01-23,SAIHAMTEX,cash dividend credited,1,1,0,cash dividend credited
+103,2012-11-05,SAIHAMTEX,Spot Market Trading,0,0,0,spot market trading
+104,2012-10-17,SAIHAMTEX,will have no price limit today,1,0,0,will have no price limit today
+105,2012-10-17,SAIHAMTEX,Corporate Declaration,1,0,0,corporate declaration
+106,2012-09-15,SAIHAMTEX,responses to DSE query,0,1,1,responses to dse query
+107,2012-07-30,SAIHAMTEX,- The Company has informed...,1,0,0,the company has informed
+108,2012-01-31,SAIHAMTEX,- Mr. S.F.A.M. Shahjahan...,0,0,0,mr. s.f.a.m. shahjahan
+109,2012-01-31,SAIHAMTEX,- As per un-audited...,0,0,0,as per un-audited
+110,2012-01-16,SAIHAMTEX,- Trading of the shares...,0,0,0,trading of the shares
+111,2012-01-11,SAIHAMTEX,- Mr. S.F.A.M. Shahjahan...,0,0,0,mr. s.f.a.m. shahjahan
+112,2012-01-11,SAIHAMTEX,- Trading of the shares...,0,0,0,trading of the shares
+113,2011-12-21,SAIHAMTEX,- SEC has approved...,1,0,0,sec has approved
+114,2011-11-02,SAIHAMTEX,- As per un-audited...,0,1,0,as per un-audited
+115,2011-09-14,SAIHAMTEX,- Normal trading of the shares...,0,1,0,normal trading of the shares
+116,2011-09-13,SAIHAMTEX,- Trading of the shares-...,1,0,1,trading of the shares-
+117,2011-09-08,SAIHAMTEX,- Trading of the shares....,0,0,0,trading of the shares.
+118,2011-09-05,SAIHAMTEX,- continuation of news...,0,0,0,continuation of news
+119,2011-09-05,SAIHAMTEX,- There will be no price...,0,0,0,there will be no price
+120,2011-09-05,SAIHAMTEX,-The Board of Directors...,0,0,0,-the board of directors
+121,2011-08-24,SAIHAMTEX,- As per regulation...,0,1,0,as per regulation
+122,2011-08-07,SAIHAMTEX,- The Company has informed...,0,0,0,the company has informed
+123,2011-07-10,SAIHAMTEX,- In response to a DSE query...,1,1,0,in response to a dse query

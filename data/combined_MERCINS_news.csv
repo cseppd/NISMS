@@ -1,0 +1,124 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-18,MERCINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+1,2019-03-25,MERCINS,Credit Rating Result,1,0,0,credit rating result
+2,2019-02-26,MERCINS,Query Response,0,0,0,query response
+3,2018-10-30,MERCINS,Q3 Financials,1,0,1,q3 financials
+4,2018-10-24,MERCINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+5,2018-08-05,MERCINS,Cash Dividend Disbursement,0,0,0,cash dividend disbursement
+6,2018-07-29,MERCINS,Q2 Financials,1,1,1,q2 financials
+7,2018-07-23,MERCINS,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+8,2018-05-23,MERCINS,Resumption after record date,0,0,0,resumption after record date
+9,2018-05-22,MERCINS,Suspension for Record Date,0,0,0,suspension for record date
+10,2018-05-20,MERCINS,Spot News,1,0,0,spot news
+11,2018-05-16,MERCINS,Q1 Financials,0,1,0,q1 financials
+12,2018-05-09,MERCINS,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+13,2018-05-03,MERCINS,Price Limit Open,0,0,0,price limit open
+14,2018-05-03,MERCINS,Dividend Declaration,0,0,0,dividend declaration
+15,2018-04-22,MERCINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+16,2018-01-25,MERCINS,Credit Rating Result,0,0,0,credit rating result
+17,2017-10-31,MERCINS,Q3 Financials,0,0,1,q3 financials
+18,2017-10-23,MERCINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+19,2017-08-06,MERCINS,Dividend Disbursement,1,0,1,dividend disbursement
+20,2017-08-01,MERCINS,Q2 Financials,0,0,0,q2 financials
+21,2017-07-25,MERCINS,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+22,2017-05-17,MERCINS,Resumption after Record Date,0,1,0,resumption after record date
+23,2017-05-16,MERCINS,Suspension for Record Date,1,0,1,suspension for record date
+24,2017-05-16,MERCINS,Q1 Financials,1,0,1,q1 financials
+25,2017-05-14,MERCINS,Spot News,0,0,1,spot news
+26,2017-05-08,MERCINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+27,2017-04-25,MERCINS,Price Limit Open,0,0,0,price limit open
+28,2017-04-25,MERCINS,Dividend Declaration,0,0,0,dividend declaration
+29,2017-04-17,MERCINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+30,2016-12-27,MERCINS,Credit Rating Result,0,1,0,credit rating result
+31,2016-10-27,MERCINS,Q3 Financials,0,0,0,q3 financials
+32,2016-10-23,MERCINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+33,2016-08-04,MERCINS,Dividend Disbursement,0,0,0,dividend disbursement
+34,2016-07-31,MERCINS,Q2 Financials,0,0,0,q2 financials
+35,2016-07-26,MERCINS,Board Meeting,0,1,0,board meeting
+36,2016-07-26,MERCINS,Board Meeting,0,1,0,board meeting
+37,2016-05-18,MERCINS,Resumption after Record date,0,1,0,resumption after record date
+38,2016-05-17,MERCINS,Suspension for Record date,1,0,1,suspension for record date
+39,2016-05-15,MERCINS,Q1 Financials,0,1,1,q1 financials
+40,2016-04-28,MERCINS,Price Limit Open,1,0,0,price limit open
+41,2016-04-28,MERCINS,Dividend Declaration,1,0,0,dividend declaration
+42,2016-04-21,MERCINS,Board Meeting,0,0,0,board meeting
+43,2015-11-02,MERCINS,Buy Confirmation of a Sponsor,0,0,1,buy confirmation of a sponsor
+44,2015-11-01,MERCINS,Q3,1,0,0,q3
+45,2015-10-26,MERCINS,Buy Declaration of a Sponsor,1,1,1,buy declaration of a sponsor
+46,2015-08-12,MERCINS,Credit Rating,0,1,0,credit rating
+47,2015-07-29,MERCINS,Q2 Financials,1,1,0,q2 financials
+48,2015-07-07,MERCINS,Cash Dividend Distribution,0,1,1,cash dividend distribution
+49,2015-05-13,MERCINS,Q1 Financials,0,0,0,q1 financials
+50,2015-04-27,MERCINS,Sponsors  sale,1,0,1,sponsors  sale
+51,2015-04-22,MERCINS,Resumption News after Record Date,0,1,0,resumption news after record date
+52,2015-04-21,MERCINS,Suspension News for Record date,1,0,1,suspension news for record date
+53,2015-04-20,MERCINS,Intention to buy/sell,0,1,0,intention to buysell
+54,2015-04-19,MERCINS,Spot News for AGM,1,0,1,spot news for agm
+55,2015-04-12,MERCINS,Price Limit Open,0,0,0,price limit open
+56,2015-04-12,MERCINS,Dividend Declaration,0,0,0,dividend declaration
+57,2015-04-07,MERCINS,Board Meeting schedule under LR 30,0,1,0,board meeting schedule under lr 30
+58,2015-01-15,MERCINS,Managing Director,0,0,0,managing director
+59,2014-10-30,MERCINS,Q3 Earnings,0,0,0,q3 earnings
+60,2014-10-14,MERCINS,Sponsors/Directors sale,1,0,1,sponsorsdirectors sale
+61,2014-10-01,MERCINS,Sponsor/Director Share Sale,1,1,0,sponsordirector share sale
+62,2014-07-22,MERCINS,H/Y Earnings,1,1,1,hy earnings
+63,2014-07-17,MERCINS,cash dividend credited,0,0,0,cash dividend credited
+64,2014-05-15,MERCINS,will resume after record date,0,0,0,will resume after record date
+65,2014-05-14,MERCINS,trade suspended,0,0,0,trade suspended
+66,2014-05-11,MERCINS,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+67,2014-05-04,MERCINS,no price limit,0,0,0,no price limit
+68,2014-05-04,MERCINS,10% cash dividend,0,0,0,10 cash dividend
+69,2014-04-23,MERCINS,Board Meeting,0,0,0,board meeting
+70,2013-10-31,MERCINS,Q3 Earnings,1,0,0,q3 earnings
+71,2013-10-31,MERCINS,Q3 Earnings,1,0,0,q3 earnings
+72,2013-07-28,MERCINS,Q2 Earnings,1,0,0,q2 earnings
+73,2013-06-03,MERCINS,Credit Rating,0,0,1,credit rating
+74,2013-05-15,MERCINS,Q1 Earnings,1,1,0,q1 earnings
+75,2013-05-07,MERCINS,Trade Suspension on Record Date,1,0,1,trade suspension on record date
+76,2013-05-02,MERCINS,Spot Market Trading,0,0,0,spot market trading
+77,2013-04-25,MERCINS,No price limit,0,0,0,no price limit
+78,2013-04-25,MERCINS,Corporate Declaration,0,0,0,corporate declaration
+79,2013-04-21,MERCINS,Board meeting,0,1,0,board meeting
+80,2012-09-30,MERCINS,sponsor share sell completed,0,1,0,sponsor share sell completed
+81,2012-09-16,MERCINS,director sell announcement,1,0,1,director sell announcement
+82,2012-09-04,MERCINS,- Al-Haj Abdul Mannan Mazumder...,1,0,0,al-haj abdul mannan mazumder
+83,2012-08-02,MERCINS,- The Credit Rating Agency of Bangladesh Limited...,1,0,0,the credit rating agency of bangladesh limited
+84,2012-07-17,MERCINS,- Ms. Afroza Sultana...,1,1,1,ms. afroza sultana
+85,2012-07-17,MERCINS,- Mr. Rezwanuddin Chowdhury...,1,1,1,mr. rezwanuddin chowdhury
+86,2012-07-03,MERCINS,- The Company has informed...,0,0,1,the company has informed
+87,2012-06-25,MERCINS,- Ms. Afroza Sultana...,1,1,1,ms. afroza sultana
+88,2012-05-22,MERCINS,- Al-Haj Abdul Mannan Mazumder...,0,1,0,al-haj abdul mannan mazumder
+89,2012-05-16,MERCINS,- Al-Haj Abdul Mannan Mazumder...,1,1,0,al-haj abdul mannan mazumder
+90,2012-05-13,MERCINS,- Mr. Abdul Haque...,0,1,1,mr. abdul haque
+91,2012-05-13,MERCINS,- (Q1): As per un-audited quarterly accounts...,0,1,1,q1: as per un-audited quarterly accounts
+92,2012-05-10,MERCINS,- Normal trading of the shares...,0,0,0,normal trading of the shares
+93,2012-05-09,MERCINS,- Trading of the shares...,0,0,0,trading of the shares
+94,2012-04-23,MERCINS,- As per regulation ...,0,0,0,as per regulation
+95,2012-04-17,MERCINS,- Hazi Abdur Rahman...,0,0,0,hazi abdur rahman
+96,2012-04-05,MERCINS,- Mr. Abdul Haque...,1,0,0,mr. abdul haque
+97,2012-03-19,MERCINS,- Mr. Mohammad Nabi Ullah...,1,1,0,mr. mohammad nabi ullah
+98,2012-03-15,MERCINS,- Mr. Mohammad Nabi Ullah...,0,0,0,mr. mohammad nabi ullah
+99,2012-03-12,MERCINS,- Hazi Abdur Rahman...,1,1,0,hazi abdur rahman
+100,2011-10-20,MERCINS,- Normal trading of the shares...,0,0,0,normal trading of the shares
+101,2011-10-19,MERCINS,- Trading of the shares...,1,0,0,trading of the shares
+102,2011-10-16,MERCINS,- Trading of the shares...,0,1,0,trading of the shares
+103,2011-10-16,MERCINS,- As per un-audited...,0,1,0,as per un-audited
+104,2011-10-10,MERCINS,-The Company has informed...,0,0,1,-the company has informed
+105,2011-09-28,MERCINS,- The Credit Rating Agency...,0,0,0,the credit rating agency
+106,2011-09-21,MERCINS,- Mrs. Suraya Karim Muuny...,0,0,0,mrs. suraya karim muuny
+107,2011-09-09,MERCINS,- Mr. M. Kamal Uddin and...,0,0,0,mr. m. kamal uddin and
+108,2011-08-25,MERCINS,- Mr. M. Kamal Uddin...,0,0,0,mr. m. kamal uddin
+109,2011-08-08,MERCINS,- Mrs. Suraya Karim Munny...,1,0,0,mrs. suraya karim munny
+110,2011-08-03,MERCINS,- Ms. Farhana Islam Sonia...,1,0,0,ms. farhana islam sonia
+111,2011-08-01,MERCINS,- Mr. Abdul Haque...,0,0,1,mr. abdul haque
+112,2011-07-27,MERCINS,- Ms. Farhana Islam Sonia...,0,1,0,ms. farhana islam sonia
+113,2011-07-25,MERCINS,- In response to a DSE query...,1,0,0,in response to a dse query
+114,2011-07-21,MERCINS,- Mr. Syed Noor Alam...,0,0,0,mr. syed noor alam
+115,2011-07-20,MERCINS,- Dr. Md. Mizanur Rahman...,0,0,0,dr. md. mizanur rahman
+116,2011-07-19,MERCINS,- Mr. Abdul Haque...,1,0,0,mr. abdul haque
+117,2011-07-19,MERCINS,- Hazi Abdur Rahman...,1,0,0,hazi abdur rahman
+118,2011-07-14,MERCINS,- Al-haj Mohammed Hossain...,0,0,0,al-haj mohammed hossain
+119,2011-07-13,MERCINS,- The Company has informed...,1,0,0,the company has informed
+120,2011-07-10,MERCINS,- Hazi Abdur Rahman...,1,1,0,hazi abdur rahman
+121,2011-07-01,MERCINS,- Disclosure,0,0,1,disclosure
+122,2011-06-27,MERCINS,,0,1,0,

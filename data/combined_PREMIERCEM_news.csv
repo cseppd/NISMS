@@ -1,0 +1,103 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-29,PREMIERCEM,Q3 Financials,1,0,0,q3 financials
+1,2019-04-21,PREMIERCEM,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-01-30,PREMIERCEM,Q2 Financials,1,1,0,q2 financials
+3,2019-01-22,PREMIERCEM,Cash Dividend Disbursement,0,0,1,cash dividend disbursement
+4,2019-01-22,PREMIERCEM,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+5,2018-11-18,PREMIERCEM,Credit Rating Result,0,0,0,credit rating result
+6,2018-11-18,PREMIERCEM,Resumption after record date,0,0,0,resumption after record date
+7,2018-11-15,PREMIERCEM,Suspension for Record Date,1,0,0,suspension for record date
+8,2018-11-14,PREMIERCEM,Q1 Financials,1,1,0,q1 financials
+9,2018-11-13,PREMIERCEM,Spot News,0,1,1,spot news
+10,2018-11-08,PREMIERCEM,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+11,2018-10-28,PREMIERCEM,Price Limit Open,1,0,0,price limit open
+13,2018-10-28,PREMIERCEM,Dividend Declaration,1,0,0,dividend declaration
+14,2018-10-18,PREMIERCEM,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+15,2018-04-30,PREMIERCEM,Q3 Financials,0,0,0,q3 financials
+16,2018-04-23,PREMIERCEM,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+17,2018-01-29,PREMIERCEM,Q2 Financials,0,1,0,q2 financials
+18,2018-01-23,PREMIERCEM,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+19,2018-01-03,PREMIERCEM,Sale confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+20,2017-12-07,PREMIERCEM,Sale declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+21,2017-12-06,PREMIERCEM,Buy declaration,0,0,0,buy declaration
+22,2017-11-19,PREMIERCEM,Dividend Disbursement,0,0,1,dividend disbursement
+23,2017-11-16,PREMIERCEM,Address Change of Registered Office,1,0,0,address change of registered office
+24,2017-11-13,PREMIERCEM,Q1 Financials,0,0,1,q1 financials
+25,2017-11-06,PREMIERCEM,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+26,2017-10-15,PREMIERCEM,Reconstitution of the Board of Directors,1,0,1,reconstitution of the board of directors
+27,2017-09-21,PREMIERCEM,Resumption after Record Date,0,0,0,resumption after record date
+28,2017-09-20,PREMIERCEM,Suspension for Record Date,1,0,0,suspension for record date
+29,2017-09-18,PREMIERCEM,Spot News,1,0,1,spot news
+30,2017-08-28,PREMIERCEM,Price Limit Open,0,0,1,price limit open
+31,2017-08-28,PREMIERCEM,Dividend Declaration,0,0,1,dividend declaration
+32,2017-08-20,PREMIERCEM,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+33,2017-07-18,PREMIERCEM,Credit Rating Result,0,0,0,credit rating result
+34,2017-04-30,PREMIERCEM,Q3 Financials,0,0,0,q3 financials
+35,2017-04-24,PREMIERCEM,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+36,2017-04-12,PREMIERCEM,"Agreement signing with FL Smidth, Denmark",0,1,0,"agreement signing with fl smidth, denmark"
+37,2017-01-29,PREMIERCEM,Q2 Financials (Additional information),1,0,0,q2 financials additional information
+38,2017-01-29,PREMIERCEM,Q2 Financials,1,0,0,q2 financials
+39,2017-01-22,PREMIERCEM,Confirmation of transfer by a Sponsor,1,0,0,confirmation of transfer by a sponsor
+40,2017-01-19,PREMIERCEM,Declaration of transfer by a Sponsor,1,0,0,declaration of transfer by a sponsor
+41,2017-01-19,PREMIERCEM,Board Meeting,1,0,0,board meeting
+42,2016-12-27,PREMIERCEM,Cash Dividend Disbursement,1,1,1,cash dividend disbursement
+43,2016-11-27,PREMIERCEM,Approval of proposal for merger/amalgamation in AGM,1,1,0,approval of proposal for mergeramalgamation in agm
+44,2016-11-13,PREMIERCEM,Q1 Financials,0,1,0,q1 financials
+45,2016-11-13,PREMIERCEM,Q1 Financials,0,1,0,q1 financials
+46,2016-11-09,PREMIERCEM,Resumption after record date,1,1,0,resumption after record date
+47,2016-11-08,PREMIERCEM,Suspension for record date,0,1,1,suspension for record date
+48,2016-11-07,PREMIERCEM,Board Meeting,1,0,1,board meeting
+49,2016-11-06,PREMIERCEM,Spot for AGM,1,1,0,spot for agm
+50,2016-10-23,PREMIERCEM,Price Limit Open,0,1,1,price limit open
+51,2016-10-23,PREMIERCEM,Dividend Declaration,0,1,1,dividend declaration
+52,2016-10-13,PREMIERCEM,Board Meeting,0,0,0,board meeting
+53,2016-08-03,PREMIERCEM,Confirmation of Transfer,1,0,0,confirmation of transfer
+54,2016-08-02,PREMIERCEM,Declaration of Transfer,1,1,0,declaration of transfer
+55,2016-07-25,PREMIERCEM,Enhancement of Production capacity by Expansion,1,0,0,enhancement of production capacity by expansion
+56,2016-05-31,PREMIERCEM,Credit Rating Result,0,0,1,credit rating result
+57,2016-04-27,PREMIERCEM,Q3 Financials,0,0,0,q3 financials
+58,2016-04-21,PREMIERCEM,Board Meeting (Q3),0,0,0,board meeting q3
+59,2016-03-07,PREMIERCEM,Revaluation of PPE,0,1,1,revaluation of ppe
+60,2016-02-25,PREMIERCEM,Completion of Transfer by a Sponsor/Director,1,0,0,completion of transfer by a sponsordirector
+61,2016-02-22,PREMIERCEM,Declaration of Transfer by a Sponsor/Director,1,1,0,declaration of transfer by a sponsordirector
+62,2016-01-28,PREMIERCEM,Q2 Financials,1,0,0,q2 financials
+63,2016-01-21,PREMIERCEM,Board Meeting,0,0,0,board meeting
+64,2015-12-30,PREMIERCEM,Completion of Transfer by a Sponsor,0,0,0,completion of transfer by a sponsor
+65,2015-12-27,PREMIERCEM,Cash Dividend Disbursement,0,0,0,cash dividend disbursement
+66,2015-12-24,PREMIERCEM,Declaration of Transfer by a Sponsor,0,0,0,declaration of transfer by a sponsor
+67,2015-11-12,PREMIERCEM,Q1 Financials,0,0,0,q1 financials
+68,2015-11-08,PREMIERCEM,Board Meeting,0,0,1,board meeting
+69,2015-10-20,PREMIERCEM,Change of Date of AGM,1,0,0,change of date of agm
+70,2015-10-15,PREMIERCEM,Suspension News for Record Date,1,0,0,suspension news for record date
+71,2015-10-13,PREMIERCEM,Spot News for AGM,1,0,1,spot news for agm
+72,2015-09-28,PREMIERCEM,Price Limit Open,1,0,0,price limit open
+73,2015-09-28,PREMIERCEM,Dividend Declaration,1,0,0,dividend declaration
+74,2015-09-21,PREMIERCEM, Board Meeting schedule under LR 19 (1),0,0,0,board meeting schedule under lr 19 1
+75,2015-05-20,PREMIERCEM,Credit Rating result,0,1,0,credit rating result
+76,2015-05-04,PREMIERCEM,Q3,0,0,1,q3
+77,2015-02-01,PREMIERCEM,Half Yearly Financials,0,1,0,half yearly financials
+78,2014-11-17,PREMIERCEM,Trade Resume,0,0,1,trade resume
+79,2014-11-16,PREMIERCEM,Trade suspended,1,0,0,trade suspended
+80,2014-11-13,PREMIERCEM,Q1,0,0,0,q1
+81,2014-11-12,PREMIERCEM,Spot Market,1,0,0,spot market
+82,2014-10-29,PREMIERCEM,recommended 30% cash dividend,1,1,0,recommended 30 cash dividend
+83,2014-10-26,PREMIERCEM,Board Meeting,0,0,0,board meeting
+84,2014-08-24,PREMIERCEM,Q3 Earnings,1,0,0,q3 earnings
+85,2014-08-20,PREMIERCEM,DSE query,0,1,0,dse query
+86,2014-04-29,PREMIERCEM,Q3 Earning,0,1,0,q3 earning
+87,2014-03-06,PREMIERCEM,Credit Rating,1,0,0,credit rating
+88,2014-02-02,PREMIERCEM,H/Y Earnings,0,1,0,hy earnings
+89,2014-01-20,PREMIERCEM,category changed,0,1,0,category changed
+90,2013-12-09,PREMIERCEM,AGM,1,0,1,agm
+91,2013-11-17,PREMIERCEM,Q1 Earnings,1,1,1,q1 earnings
+92,2013-11-10,PREMIERCEM,trade resume after record date,0,1,0,trade resume after record date
+93,2013-11-07,PREMIERCEM,trade suspension on record date,0,0,0,trade suspension on record date
+94,2013-11-04,PREMIERCEM,trade suspension on record date,0,0,0,trade suspension on record date
+95,2013-10-29,PREMIERCEM,No Price limit,0,1,0,no price limit
+96,2013-10-29,PREMIERCEM,40% Cash Dividend,0,1,0,40 cash dividend
+97,2013-10-28,PREMIERCEM,Board Meeting,1,0,1,board meeting
+98,2013-05-12,PREMIERCEM,Credit rating,0,0,1,credit rating
+99,2013-05-02,PREMIERCEM,Q3 Earnings,1,0,0,q3 earnings
+100,2013-03-03,PREMIERCEM,trade commence at DSE,1,1,0,trade commence at dse
+101,2013-02-28,PREMIERCEM,HY Earnings 2012-13,0,0,0,hy earnings 2012-13
+102,2013-02-27,PREMIERCEM,Listing,0,0,0,listing

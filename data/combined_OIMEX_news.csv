@@ -1,0 +1,41 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-24,OIMEX,Credit Rating Result,0,0,0,credit rating result
+1,2019-04-24,OIMEX,Q3 Financials,0,0,0,q3 financials
+2,2019-04-17,OIMEX,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+3,2019-01-31,OIMEX,Q2 Financials,1,0,0,q2 financials
+4,2019-01-28,OIMEX,Dividend Disbursement,1,0,0,dividend disbursement
+5,2019-01-24,OIMEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+6,2018-12-10,OIMEX,Venue for AGM,0,1,0,venue for agm
+7,2018-11-26,OIMEX,Resumption after record date,0,0,1,resumption after record date
+8,2018-11-25,OIMEX,Suspension for Record date,0,0,0,suspension for record date
+9,2018-11-20,OIMEX,Spot News,0,0,0,spot news
+10,2018-11-12,OIMEX,Q1 Financials,0,1,1,q1 financials
+11,2018-11-04,OIMEX,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+12,2018-10-29,OIMEX,Price Limit Open,1,1,0,price limit open
+13,2018-10-29,OIMEX,Dividend Declaration,1,1,0,dividend declaration
+14,2018-10-21,OIMEX,Board Meeting schedule under LR 19(1),0,0,1,board meeting schedule under lr 191
+15,2018-09-11,OIMEX,Query Response,0,1,0,query response
+18,2018-07-23,OIMEX,Decision to revise the issue size of Non-Convertible Preference shares,0,0,1,decision to revise the issue size of non-convertible preference shares
+19,2018-04-30,OIMEX,Q3 Financials,0,0,0,q3 financials
+20,2018-04-24,OIMEX,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+21,2018-04-11,OIMEX,Venue of EGM,0,1,0,venue of egm
+22,2018-04-05,OIMEX,Resumption after record date,0,0,0,resumption after record date
+23,2018-04-04,OIMEX,Suspension for Record Date,1,0,0,suspension for record date
+24,2018-04-02,OIMEX,Spot News for EGM,0,0,1,spot news for egm
+25,2018-03-15,OIMEX,Increase Authorized Capital & issuance of Non-Convertible Preference share,1,0,0,increase authorized capital  issuance of non-convertible preference share
+26,2018-03-15,OIMEX,Increase Authorized Capital & issuance of Non-Convertible Preference share,1,0,0,increase authorized capital  issuance of non-convertible preference share
+27,2018-02-14,OIMEX,Credit Rating Result,0,1,0,credit rating result
+28,2018-01-30,OIMEX,Q2 Financials,0,0,0,q2 financials
+29,2018-01-24,OIMEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+30,2018-01-18,OIMEX,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+31,2018-01-18,OIMEX,Category Change,0,0,0,category change
+32,2018-01-18,OIMEX,Dividend Disbursement,0,0,0,dividend disbursement
+33,2017-11-30,OIMEX,Venue of EGM & AGM,1,0,0,venue of egm  agm
+34,2017-11-26,OIMEX,Resumption after record date,0,1,0,resumption after record date
+35,2017-11-23,OIMEX,Suspension for Record Date for EGM & AGM,0,0,0,suspension for record date for egm  agm
+36,2017-11-21,OIMEX,Spot News for EGM & AGM,0,0,0,spot news for egm  agm
+37,2017-11-14,OIMEX,Q1 Financials,0,0,0,q1 financials
+38,2017-11-08,OIMEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+40,2017-11-06,OIMEX,Dividend Declaration & increase of Authorized Capital (Repeat News),1,0,0,dividend declaration  increase of authorized capital repeat news
+41,2017-11-06,OIMEX,Prohibition on providing loan facilities to purchase securities,1,0,0,prohibition on providing loan facilities to purchase securities
+42,2017-11-06,OIMEX,Trading of New Security,1,0,0,trading of new security

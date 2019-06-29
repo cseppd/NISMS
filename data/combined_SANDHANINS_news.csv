@@ -1,0 +1,127 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-01-20,SANDHANINS,Query Response,0,1,0,query response
+1,2018-10-31,SANDHANINS,Q3 Financials,1,0,0,q3 financials
+2,2018-10-29,SANDHANINS,Dividend Disbursement,1,1,1,dividend disbursement
+3,2018-10-24,SANDHANINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2018-10-23,SANDHANINS,Dividend Disbursement,1,0,0,dividend disbursement
+5,2018-09-13,SANDHANINS,Resumption after record date,0,0,0,resumption after record date
+6,2018-09-12,SANDHANINS,Suspension for Record Date,0,0,0,suspension for record date
+7,2018-09-10,SANDHANINS,Spot News,0,1,0,spot news
+9,2018-08-16,SANDHANINS,Q2 Financials,0,0,0,q2 financials
+10,2018-08-16,SANDHANINS,Q1 Financials,0,0,0,q1 financials
+11,2018-08-16,SANDHANINS,Price Limit Open,0,0,0,price limit open
+13,2018-08-16,SANDHANINS,Dividend Declaration,0,0,0,dividend declaration
+14,2018-08-07,SANDHANINS,Board Meeting schedules under LR 16(1),0,0,0,board meeting schedules under lr 161
+15,2018-08-07,SANDHANINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+16,2018-01-18,SANDHANINS,Credit Rating Result,0,0,0,credit rating result
+17,2017-11-06,SANDHANINS,Confirmation of transfer by a Sponsor,0,0,1,confirmation of transfer by a sponsor
+18,2017-11-06,SANDHANINS,Confirmation of transfer by a Sponsor,0,0,1,confirmation of transfer by a sponsor
+19,2017-10-31,SANDHANINS,Q3 Financials,0,1,1,q3 financials
+20,2017-10-30,SANDHANINS,Declaration of transfer by a Sponsor,1,0,1,declaration of transfer by a sponsor
+21,2017-10-30,SANDHANINS,Declaration of transfer by a Sponsor,1,0,1,declaration of transfer by a sponsor
+22,2017-10-25,SANDHANINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+23,2017-10-18,SANDHANINS,Dividend Disbursement,0,1,0,dividend disbursement
+24,2017-08-20,SANDHANINS,Resumption after Record Date,0,0,0,resumption after record date
+25,2017-08-17,SANDHANINS,Suspension for Record Date,1,0,0,suspension for record date
+26,2017-08-13,SANDHANINS,Spot News,0,0,0,spot news
+27,2017-07-30,SANDHANINS,Q2 Financials,0,1,0,q2 financials
+28,2017-07-25,SANDHANINS,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+29,2017-07-10,SANDHANINS,Q1 Financials,0,0,0,q1 financials
+30,2017-07-10,SANDHANINS,Price Limit Open,0,0,0,price limit open
+32,2017-07-10,SANDHANINS,Dividend Declaration,0,0,0,dividend declaration
+33,2017-06-29,SANDHANINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+34,2017-06-29,SANDHANINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+35,2016-10-30,SANDHANINS,Confirmation of Transfer,0,0,0,confirmation of transfer
+36,2016-10-30,SANDHANINS,Q3 Financials,0,0,0,q3 financials
+37,2016-10-25,SANDHANINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+38,2016-10-24,SANDHANINS,Completion of Transfer by a Sponsor,0,0,0,completion of transfer by a sponsor
+39,2016-10-24,SANDHANINS,Declaration of Transfer by a Sponsor,0,0,0,declaration of transfer by a sponsor
+40,2016-10-24,SANDHANINS,Declaration of Transfer by a Director,0,0,0,declaration of transfer by a director
+41,2016-10-17,SANDHANINS,Declaration of Transfer by a Sponsor,0,1,0,declaration of transfer by a sponsor
+42,2016-09-25,SANDHANINS,Dividend Disbursement,0,0,0,dividend disbursement
+43,2016-08-14,SANDHANINS,Resumption after record date,0,0,0,resumption after record date
+44,2016-08-11,SANDHANINS,Suspension news for record date,0,0,0,suspension news for record date
+45,2016-08-09,SANDHANINS,Spot for AGM,1,0,0,spot for agm
+46,2016-07-31,SANDHANINS,Q2 Financials,0,1,1,q2 financials
+47,2016-07-25,SANDHANINS,Board Meeting,0,0,0,board meeting
+48,2016-07-10,SANDHANINS,Q1,0,0,0,q1
+49,2016-07-10,SANDHANINS,Price Limit Open,0,0,0,price limit open
+50,2016-07-10,SANDHANINS,Dividend Declaration,0,0,0,dividend declaration
+51,2016-06-26,SANDHANINS,Board Meeting,1,1,0,board meeting
+52,2016-06-26,SANDHANINS,Board Meeting,1,1,0,board meeting
+53,2015-10-29,SANDHANINS,Completion of Transfer by Sponsor,1,0,0,completion of transfer by sponsor
+54,2015-10-29,SANDHANINS,Q3 Financials,1,0,0,q3 financials
+55,2015-10-26,SANDHANINS,Credit Rating Result,1,1,0,credit rating result
+56,2015-10-25,SANDHANINS,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+57,2015-10-20,SANDHANINS,Declaration of Transfer by a Sponsor,1,1,0,declaration of transfer by a sponsor
+58,2015-09-16,SANDHANINS,Dividend Disbursement,0,0,0,dividend disbursement
+59,2015-08-12,SANDHANINS,Resumption News,0,1,0,resumption news
+60,2015-08-11,SANDHANINS,Suspension News,0,0,1,suspension news
+61,2015-08-09,SANDHANINS,Spot News,0,1,0,spot news
+62,2015-07-30,SANDHANINS,Q2 Financials,0,0,0,q2 financials
+63,2015-07-02,SANDHANINS,Q1 Financials,1,0,0,q1 financials
+64,2015-06-29,SANDHANINS,Price Limit Open,0,0,0,price limit open
+65,2015-06-29,SANDHANINS,Dividend Declaration,0,0,0,dividend declaration
+66,2015-06-25,SANDHANINS,Board Meeting,0,0,0,board meeting
+67,2015-03-15,SANDHANINS,Floor Purchase,1,0,0,floor purchase
+68,2014-10-30,SANDHANINS,Sponsor/Director Share Transfer,1,0,0,sponsordirector share transfer
+69,2014-10-30,SANDHANINS,Q3 Earnings,1,0,0,q3 earnings
+70,2014-10-29,SANDHANINS,Sponsor/Director Share Transfer,0,1,0,sponsordirector share transfer
+71,2014-10-28,SANDHANINS,Sponsors share transfer,0,0,1,sponsors share transfer
+72,2014-10-26,SANDHANINS,Sponsor/Director Share transfer,1,1,0,sponsordirector share transfer
+73,2014-10-01,SANDHANINS,credited the bonus shares,1,0,0,credited the bonus shares
+74,2014-10-01,SANDHANINS,DSE query,1,0,0,dse query
+75,2014-08-03,SANDHANINS,H/Y Earnings,1,0,1,hy earnings
+76,2014-07-16,SANDHANINS,trade resume,0,0,0,trade resume
+77,2014-07-15,SANDHANINS,trade suspension,0,0,0,trade suspension
+78,2014-07-13,SANDHANINS,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+79,2014-07-02,SANDHANINS,Q1 Earnings,0,0,0,q1 earnings
+80,2014-06-30,SANDHANINS,no price limit,0,0,0,no price limit
+81,2014-06-30,SANDHANINS,recommended 25.50% stock dividend,0,0,0,recommended 25.50 stock dividend
+82,2014-04-17,SANDHANINS,Registered Office shifted,1,0,0,registered office shifted
+83,2013-11-07,SANDHANINS,credit rating,1,0,0,credit rating
+84,2013-11-03,SANDHANINS,Share sell,1,1,0,share sell
+85,2013-10-30,SANDHANINS,Q3 Earnings,1,1,0,q3 earnings
+86,2013-10-23,SANDHANINS,Office Shifting,0,0,0,office shifting
+87,2013-10-01,SANDHANINS,Sponsors Share Sell,0,0,0,sponsors share sell
+88,2013-09-30,SANDHANINS,Sponsors Share Sell,0,0,0,sponsors share sell
+89,2013-09-22,SANDHANINS,Sponsors Share Sell,0,1,1,sponsors share sell
+90,2013-09-16,SANDHANINS,Sponsors Share Sell,0,0,0,sponsors share sell
+91,2013-09-10,SANDHANINS,Sponsors Share Sell,0,0,1,sponsors share sell
+92,2013-07-29,SANDHANINS,Q2 Earnings,0,0,1,q2 earnings
+93,2013-07-11,SANDHANINS,Credited Bonus Shares,0,0,0,credited bonus shares
+94,2013-06-11,SANDHANINS,Trade Resume after Record Date,0,0,1,trade resume after record date
+95,2013-06-10,SANDHANINS,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+96,2013-06-05,SANDHANINS,Spot Market Trading,0,0,0,spot market trading
+97,2013-06-02,SANDHANINS,Corporate Declaration,0,1,0,corporate declaration
+98,2013-05-29,SANDHANINS,Board Meeting,1,0,0,board meeting
+99,2013-04-08,SANDHANINS,Merchant Banker Registration,0,1,0,merchant banker registration
+100,2012-10-30,SANDHANINS,Director share transfer completed,1,1,0,director share transfer completed
+101,2012-10-09,SANDHANINS,Director sell completed,0,0,0,director sell completed
+102,2012-10-07,SANDHANINS,director share transfer announcement,0,0,0,director share transfer announcement
+103,2012-07-12,SANDHANINS,- The Company has informed...,0,0,0,the company has informed
+104,2012-06-28,SANDHANINS,- (Q1): As per un-audited quarterly accounts...,0,0,0,q1: as per un-audited quarterly accounts
+105,2012-06-11,SANDHANINS,- Normal trading of the shares...,0,1,1,normal trading of the shares
+106,2012-05-31,SANDHANINS,- The Board of Directors...,0,0,0,the board of directors
+107,2012-05-31,SANDHANINS,- There will be no price limit...,0,0,0,there will be no price limit
+108,2012-05-22,SANDHANINS,- Mr. Kazi Mahabub...,0,1,0,mr. kazi mahabub
+109,2012-05-03,SANDHANINS,- Mr. Kazi Mahabub..,0,0,0,mr. kazi mahabub..
+110,2012-04-10,SANDHANINS,- Mr. Kazi Mahabub..,1,0,1,mr. kazi mahabub..
+111,2012-04-09,SANDHANINS,- Panna Spinning Mills Ltd...,1,1,0,panna spinning mills ltd
+112,2012-04-05,SANDHANINS,- Mr. Kazi Mahabub..,0,0,0,mr. kazi mahabub..
+113,2011-12-28,SANDHANINS,- In connection with...,0,0,0,in connection with
+114,2011-12-19,SANDHANINS,- Mr. Kazi Mahabub...,0,1,1,mr. kazi mahabub
+115,2011-10-30,SANDHANINS,- As per un-audited...,0,0,1,as per un-audited
+116,2011-09-21,SANDHANINS,- Mrs. Rowshan Ara...,0,1,0,mrs. rowshan ara
+117,2011-09-19,SANDHANINS,- Mrs. Rowshan Ara...,1,0,0,mrs. rowshan ara
+118,2011-08-10,SANDHANINS,- The Company has informed...,0,1,0,the company has informed
+119,2011-08-03,SANDHANINS,- Mrs. Suraiya Rahman...,0,0,0,mrs. suraiya rahman
+120,2011-07-31,SANDHANINS,- (H/Y): As per un-audited...,0,0,0,hy: as per un-audited
+121,2011-07-31,SANDHANINS,- Mrs. Suraiya Rahman...,0,0,0,mrs. suraiya rahman
+122,2011-07-26,SANDHANINS,- Mrs. Suraiya Rahman...,1,1,0,mrs. suraiya rahman
+123,2011-07-25,SANDHANINS, -Mrs. Suraiya Rahman...,0,1,1,-mrs. suraiya rahman
+124,2011-07-11,SANDHANINS,- Normal trading of the shares...,0,0,0,normal trading of the shares
+125,2011-07-10,SANDHANINS,- Trading of the shares...,0,0,0,trading of the shares
+126,2011-07-05,SANDHANINS,- Trading of the shares...,1,1,0,trading of the shares
+127,2011-07-01,SANDHANINS,- Stock Dividend,0,0,0,stock dividend
+128,2011-07-01,SANDHANINS,- No Price Limit,0,0,0,no price limit

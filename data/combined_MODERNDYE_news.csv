@@ -1,0 +1,98 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2018-06-06,MODERNDYE,Query Response,0,1,0,query response
+1,2018-04-30,MODERNDYE,Q3 Financials,0,0,0,q3 financials
+2,2018-04-22,MODERNDYE,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+3,2018-01-28,MODERNDYE,Q2 Financials,0,1,1,q2 financials
+4,2018-01-22,MODERNDYE,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+5,2017-12-03,MODERNDYE,Reconstitution of the Board of the Company,1,0,1,reconstitution of the board of the company
+9,2017-11-14,MODERNDYE,Emphasis of Matter,1,1,0,emphasis of matter
+10,2017-11-07,MODERNDYE,Q1 Financials,0,0,1,q1 financials
+11,2017-11-01,MODERNDYE,Resumption after Record Date,0,0,0,resumption after record date
+12,2017-10-31,MODERNDYE,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+13,2017-10-31,MODERNDYE,Suspension for Record Date,0,0,0,suspension for record date
+14,2017-10-18,MODERNDYE,Spot News,0,1,0,spot news
+15,2017-10-12,MODERNDYE,Price Limit Open,0,0,0,price limit open
+16,2017-10-12,MODERNDYE,Dividend Declaration,0,0,0,dividend declaration
+17,2017-10-12,MODERNDYE,Dividend Declaration,0,0,0,dividend declaration
+18,2017-10-03,MODERNDYE,Board Meeting schedule under LR 19(1) & EGM related,0,1,0,board meeting schedule under lr 191  egm related
+19,2017-04-30,MODERNDYE,Q3 Financials,1,0,1,q3 financials
+20,2017-04-23,MODERNDYE,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+21,2017-01-30,MODERNDYE,Q2 Financials,0,0,1,q2 financials
+22,2017-01-23,MODERNDYE,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+23,2016-12-11,MODERNDYE,Emphasis of Matter,0,1,0,emphasis of matter
+24,2016-11-22,MODERNDYE,Resumption after record date,0,0,0,resumption after record date
+25,2016-11-13,MODERNDYE,Q1 Financials,0,0,1,q1 financials
+26,2016-11-13,MODERNDYE,Q1 Financials,0,0,1,q1 financials
+27,2016-11-08,MODERNDYE,Spot for AGM,0,1,1,spot for agm
+28,2016-11-06,MODERNDYE,Board Meeting,0,1,0,board meeting
+29,2016-11-01,MODERNDYE,Price Limit Open,1,0,0,price limit open
+30,2016-11-01,MODERNDYE,Dividend Declaration,1,0,0,dividend declaration
+31,2016-10-26,MODERNDYE,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+32,2016-08-21,MODERNDYE,Query Response (Repeat),0,1,0,query response repeat
+33,2016-08-17,MODERNDYE,Query Response,1,0,0,query response
+34,2016-07-14,MODERNDYE,Query,0,0,1,query
+35,2016-05-19,MODERNDYE,Query Response,0,0,0,query response
+36,2016-05-18,MODERNDYE,Query Response,1,0,0,query response
+37,2016-05-02,MODERNDYE,Q3 Financials,0,0,0,q3 financials
+38,2016-04-28,MODERNDYE,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+39,2016-01-31,MODERNDYE,Q2 Financials (additional information),0,0,0,q2 financials additional information
+40,2016-01-31,MODERNDYE,Q2 Financials,0,0,0,q2 financials
+41,2015-11-22,MODERNDYE,Continuation of trading under ÂZÂ category,0,0,0,continuation of trading under z category
+42,2015-11-08,MODERNDYE,Q1 Financials,1,1,0,q1 financials
+43,2015-09-28,MODERNDYE,Resumption News after Record Date,0,1,1,resumption news after record date
+44,2015-09-22,MODERNDYE,Suspension News for Record Date,1,0,0,suspension news for record date
+45,2015-09-09,MODERNDYE,Spot News,0,1,0,spot news
+46,2015-09-03,MODERNDYE,"Change of Record date in compliance with DSE Listing Regulations,2015",1,0,0,"change of record date in compliance with dse listing regulations,2015"
+47,2015-09-03,MODERNDYE,Price Limit Open,1,0,0,price limit open
+48,2015-09-03,MODERNDYE,Dividend Declaration,1,0,0,dividend declaration
+49,2015-08-23,MODERNDYE,Board Meeting,0,1,1,board meeting
+50,2015-04-30,MODERNDYE,Q3,0,0,0,q3
+51,2015-01-29,MODERNDYE,H/Y,0,0,0,hy
+52,2015-01-14,MODERNDYE,DSE query,1,0,0,dse query
+53,2014-11-13,MODERNDYE,will remain suspended,0,0,0,will remain suspended
+54,2014-11-12,MODERNDYE,will resume,0,0,0,will resume
+55,2014-11-11,MODERNDYE,Q1,0,0,0,q1
+56,2014-10-29,MODERNDYE,Spot Market Transaction,1,1,0,spot market transaction
+57,2014-10-23,MODERNDYE,no price limit,1,0,0,no price limit
+58,2014-10-23,MODERNDYE,8% cash dividend,1,0,0,8 cash dividend
+59,2014-10-20,MODERNDYE,meeting of the Board of Directors,0,0,0,meeting of the board of directors
+60,2014-04-29,MODERNDYE,Q3 Earnings,0,0,0,q3 earnings
+61,2014-04-29,MODERNDYE,Q3 Earning,0,0,0,q3 earning
+62,2014-01-28,MODERNDYE,H/Y Earnings,0,0,0,hy earnings
+63,2013-12-17,MODERNDYE,category change,0,1,0,category change
+64,2013-11-25,MODERNDYE,DSE Visit To The Factory Premises,0,0,0,dse visit to the factory premises
+65,2013-11-12,MODERNDYE,Q1 earnings,0,1,1,q1 earnings
+66,2013-10-23,MODERNDYE,The Production of The Company Has been Closed,0,1,0,the production of the company has been closed
+67,2013-09-24,MODERNDYE,DSE Has Visited The Factory Premises,0,0,1,dse has visited the factory premises
+68,2013-09-17,MODERNDYE, No Undisclosed Price Sensitive Information,1,0,0,no undisclosed price sensitive information
+69,2013-09-04,MODERNDYE,Trade Resume After Record Date,0,0,0,trade resume after record date
+70,2013-09-03,MODERNDYE,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+71,2013-08-29,MODERNDYE,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+72,2013-08-25,MODERNDYE,No Price Limit,0,0,0,no price limit
+73,2013-08-25,MODERNDYE,Corporate Action,0,0,0,corporate action
+74,2013-08-22,MODERNDYE,Board Meeting,0,0,0,board meeting
+75,2013-04-29,MODERNDYE,Q3 Earnings,0,0,0,q3 earnings
+76,2013-04-09,MODERNDYE,sponsor/director share buy,0,0,0,sponsordirector share buy
+77,2013-04-03,MODERNDYE,sponsor/director share buy,0,0,0,sponsordirector share buy
+78,2013-02-27,MODERNDYE,director buy completed,0,1,0,director buy completed
+79,2013-02-20,MODERNDYE,director buy announcement,0,0,0,director buy announcement
+80,2013-01-29,MODERNDYE,H/Y Earnings 2012-13,0,0,0,hy earnings 2012-13
+81,2013-01-20,MODERNDYE,director buy announcement,0,0,0,director buy announcement
+82,2013-01-01,MODERNDYE,,0,0,0,
+83,2012-12-18,MODERNDYE,Director share buy completed,0,0,1,director share buy completed
+84,2012-12-13,MODERNDYE,Director share buy announcement,0,0,0,director share buy announcement
+85,2012-12-04,MODERNDYE,director buy announcement,1,0,0,director buy announcement
+86,2012-11-14,MODERNDYE,Q1 Earnings 2012,1,1,0,q1 earnings 2012
+87,2012-11-11,MODERNDYE,non marginable,0,0,0,non marginable
+88,2012-11-11,MODERNDYE,category change,0,0,0,category change
+89,2012-09-18,MODERNDYE,trading will be suspended on record date,0,0,0,trading will be suspended on record date
+90,2011-11-14,MODERNDYE,- As per un-audited...,1,0,1,as per un-audited
+91,2011-11-02,MODERNDYE,- Normal trading of the shares...,0,0,0,normal trading of the shares
+92,2011-11-01,MODERNDYE,- Trading of the shares...,0,0,0,trading of the shares
+93,2011-10-27,MODERNDYE,- Trading of the shares...,0,0,0,trading of the shares
+94,2011-10-26,MODERNDYE,- Trading of the shares...,0,0,0,trading of the shares
+95,2011-10-18,MODERNDYE,- Trading of the shares...,0,0,0,trading of the shares
+96,2011-10-13,MODERNDYE,- Trading of the shares...,0,0,0,trading of the shares
+97,2011-10-13,MODERNDYE,- There will be no price...,0,0,0,there will be no price
+98,2011-10-13,MODERNDYE,- The Board of Directors...,0,0,0,the board of directors
+99,2011-10-05,MODERNDYE,- The Company has informed...,0,0,0,the company has informed

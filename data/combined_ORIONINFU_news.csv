@@ -1,0 +1,93 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-25,ORIONINFU,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+1,2019-03-07,ORIONINFU,Credit Rating Result,1,0,0,credit rating result
+3,2019-02-03,ORIONINFU,Q2 Financials,0,0,0,q2 financials
+4,2019-01-27,ORIONINFU,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+5,2019-01-20,ORIONINFU,Dividend Disbursement,1,0,0,dividend disbursement
+6,2018-11-22,ORIONINFU,Resumption after record date,0,0,0,resumption after record date
+7,2018-11-20,ORIONINFU,Suspension for Record date,0,0,0,suspension for record date
+8,2018-11-18,ORIONINFU,Spot News,0,0,0,spot news
+9,2018-11-15,ORIONINFU,Q1 Financials,1,0,0,q1 financials
+10,2018-11-11,ORIONINFU,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+11,2018-11-01,ORIONINFU,Price Limit Open,0,0,0,price limit open
+12,2018-11-01,ORIONINFU,Dividend Declaration,0,0,0,dividend declaration
+13,2018-10-24,ORIONINFU,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+14,2018-07-04,ORIONINFU,Query Response,1,1,0,query response
+15,2018-04-30,ORIONINFU,Q3 Financials,0,0,0,q3 financials
+16,2018-04-23,ORIONINFU,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+17,2018-03-29,ORIONINFU,Credit Rating Result,1,0,0,credit rating result
+18,2018-01-29,ORIONINFU,Q2 Financials,1,0,0,q2 financials
+19,2018-01-23,ORIONINFU,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+20,2018-01-17,ORIONINFU,Dividend Disbursement,0,1,0,dividend disbursement
+21,2017-11-29,ORIONINFU,Resumption after record date,0,0,0,resumption after record date
+22,2017-11-28,ORIONINFU,Suspension for Record Date,0,0,0,suspension for record date
+23,2017-11-26,ORIONINFU,Spot News,1,0,0,spot news
+24,2017-11-15,ORIONINFU,Q1 Financials,1,0,0,q1 financials
+25,2017-11-08,ORIONINFU,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+26,2017-11-08,ORIONINFU,Price Limit Open,0,0,0,price limit open
+27,2017-11-08,ORIONINFU,Dividend Declaration,0,0,0,dividend declaration
+28,2017-10-31,ORIONINFU,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+29,2017-05-02,ORIONINFU,Q3 Financials,0,0,1,q3 financials
+30,2017-04-24,ORIONINFU,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+31,2017-02-01,ORIONINFU,Q2 Financials,0,0,0,q2 financials
+32,2016-11-30,ORIONINFU,Resumption after record date,0,0,0,resumption after record date
+33,2016-11-30,ORIONINFU,Resumption after record date,0,0,0,resumption after record date
+34,2016-11-29,ORIONINFU,Suspension for record date,1,0,0,suspension for record date
+35,2016-11-27,ORIONINFU,Spot for AGM,0,1,1,spot for agm
+36,2016-11-14,ORIONINFU,Q1 Financials,0,0,1,q1 financials
+37,2016-11-09,ORIONINFU,Price Limit Open,0,0,0,price limit open
+38,2016-11-09,ORIONINFU,Dividend Declaration,0,0,0,dividend declaration
+39,2016-11-07,ORIONINFU,Board Meeting,1,0,0,board meeting
+40,2016-10-31,ORIONINFU,Board Meeting,1,1,1,board meeting
+41,2016-05-02,ORIONINFU,Q3 Financials,0,1,0,q3 financials
+42,2016-04-24,ORIONINFU,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+43,2016-04-03,ORIONINFU,Query Response,1,0,0,query response
+44,2016-01-31,ORIONINFU,Q2 Financials,0,0,0,q2 financials
+45,2016-01-26,ORIONINFU,Board Meeting,1,0,1,board meeting
+46,2016-01-21,ORIONINFU, Dividend Disbursement,0,0,0,dividend disbursement
+47,2015-12-10,ORIONINFU,Credit Rating Result,1,0,0,credit rating result
+48,2015-11-25,ORIONINFU,Suspension News for Record Date,1,0,0,suspension news for record date
+49,2015-11-23,ORIONINFU,Spot News for AGM,0,0,1,spot news for agm
+50,2015-11-15,ORIONINFU,Q1,1,1,1,q1
+51,2015-11-09,ORIONINFU,Board Meeting,0,0,1,board meeting
+52,2015-11-08,ORIONINFU,Price Limit Open,1,0,0,price limit open
+53,2015-11-08,ORIONINFU,Dividend Declaration,1,0,0,dividend declaration
+54,2015-11-01,ORIONINFU,Board Meeting,0,0,1,board meeting
+55,2015-06-21,ORIONINFU,Credit Rating result,1,0,0,credit rating result
+56,2015-04-30,ORIONINFU,Q3 Financials,0,0,0,q3 financials
+57,2015-01-29,ORIONINFU,H/Y,0,0,0,hy
+58,2014-11-25,ORIONINFU,trade resume,0,1,0,trade resume
+59,2014-11-24,ORIONINFU,trade suspension,0,0,1,trade suspension
+60,2014-11-20,ORIONINFU,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+61,2014-11-16,ORIONINFU,Q1 Earning,0,0,0,q1 earning
+62,2014-11-16,ORIONINFU,no price limit,0,0,0,no price limit
+63,2014-11-16,ORIONINFU,15% cash dividend,0,0,0,15 cash dividend
+64,2014-11-09,ORIONINFU,Board Meeting,1,1,1,board meeting
+65,2014-09-22,ORIONINFU,DSE query,0,0,0,dse query
+66,2014-04-30,ORIONINFU,Q3 Earning,1,0,0,q3 earning
+67,2014-01-30,ORIONINFU,H/Y Earnings,0,0,0,hy earnings
+68,2013-11-25,ORIONINFU,Trade Resume After Record Date,0,0,0,trade resume after record date
+69,2013-11-24,ORIONINFU,Trade Suspension on Record Date,1,0,0,trade suspension on record date
+70,2013-11-19,ORIONINFU,trade Suspension on Record date,0,1,1,trade suspension on record date
+71,2013-11-17,ORIONINFU,Q1 Earnings,1,1,0,q1 earnings
+72,2013-11-14,ORIONINFU,No Price Lmit,1,0,0,no price lmit
+73,2013-11-14,ORIONINFU,12% Cash Dividend,1,0,0,12 cash dividend
+74,2013-11-07,ORIONINFU,board meeting,0,0,0,board meeting
+75,2013-04-30,ORIONINFU,Q3 Earnings,0,0,1,q3 earnings
+76,2013-01-29,ORIONINFU,H/Y Earnings 2012-13,0,0,0,hy earnings 2012-13
+77,2013-01-01,ORIONINFU,Credit Rating,0,1,1,credit rating
+78,2012-11-11,ORIONINFU,Q1 Earnings 2012-13,0,0,1,q1 earnings 2012-13
+79,2012-11-05,ORIONINFU,Record date,0,0,0,record date
+80,2012-10-21,ORIONINFU,corporate declaration,0,1,0,corporate declaration
+81,2012-05-02,ORIONINFU,- Q3): As per un-audited quarterly accounts....,1,0,0,q3: as per un-audited quarterly accounts.
+82,2011-11-23,ORIONINFU,- Normal trading...,0,0,0,normal trading
+83,2011-11-22,ORIONINFU,- Trading of the shares...,1,0,0,trading of the shares
+84,2011-11-17,ORIONINFU,- Trading of the shares ...,1,0,0,trading of the shares
+85,2011-11-15,ORIONINFU,- As per un-audited...,0,1,1,as per un-audited
+86,2011-11-13,ORIONINFU,- There will be no price...,0,0,0,there will be no price
+87,2011-11-13,ORIONINFU,- The Board of Directors...,0,0,0,the board of directors
+88,2011-11-03,ORIONINFU,- Normal trading of the shares...,0,0,0,normal trading of the shares
+89,2011-11-02,ORIONINFU,- Trading of the shares...,0,0,0,trading of the shares
+90,2011-10-30,ORIONINFU,- Trading of the shares...,0,0,0,trading of the shares
+91,2011-10-25,ORIONINFU,- The Company has informed...,0,0,0,the company has informed
+92,2011-07-03,ORIONINFU,- In response to a DSE query...,1,0,1,in response to a dse query

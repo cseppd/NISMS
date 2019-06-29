@@ -1,0 +1,135 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2018-12-02,POPULARLIF,Board Decision to Sell Land,0,0,0,board decision to sell land
+1,2018-12-02,POPULARLIF,Board Decision to Sell Land,0,0,0,board decision to sell land
+2,2018-10-29,POPULARLIF,Decision to purchase Land,1,0,1,decision to purchase land
+3,2018-10-29,POPULARLIF,Q3 Financials,1,0,1,q3 financials
+4,2018-10-18,POPULARLIF,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+5,2018-10-03,POPULARLIF,Dividend Disbursement,0,0,0,dividend disbursement
+6,2018-10-01,POPULARLIF,Sale confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+7,2018-09-24,POPULARLIF,Sale Declaration of a Sponsor,0,0,1,sale declaration of a sponsor
+8,2018-09-12,POPULARLIF,Query Response,1,0,0,query response
+9,2018-09-04,POPULARLIF,Credit Rating Result,0,0,1,credit rating result
+10,2018-08-19,POPULARLIF,Sale Confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+11,2018-08-07,POPULARLIF,Sale Declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+12,2018-07-30,POPULARLIF,Sale confirmation of a Sponsor,0,1,0,sale confirmation of a sponsor
+13,2018-07-26,POPULARLIF,Q2 Financials,1,0,0,q2 financials
+14,2018-07-24,POPULARLIF,Resumption after record date,0,1,1,resumption after record date
+15,2018-07-23,POPULARLIF,Suspension for Record Date,1,0,1,suspension for record date
+16,2018-07-23,POPULARLIF,Sale declaration of a Sponsor,1,0,1,sale declaration of a sponsor
+17,2018-07-22,POPULARLIF,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+18,2018-07-19,POPULARLIF,Spot News,1,0,0,spot news
+19,2018-06-28,POPULARLIF,Q1 Financials,0,0,0,q1 financials
+20,2018-06-28,POPULARLIF,Price Limit Open,0,0,0,price limit open
+21,2018-06-28,POPULARLIF,Dividend Declaration,0,0,0,dividend declaration
+22,2018-06-20,POPULARLIF,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+23,2018-06-20,POPULARLIF,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+24,2018-06-18,POPULARLIF,Query Response (Repeat News),1,0,0,query response repeat news
+25,2018-06-12,POPULARLIF,Query Response,1,0,0,query response
+26,2018-04-24,POPULARLIF,Enquiry Committee formation by BSEC,0,0,0,enquiry committee formation by bsec
+27,2018-04-12,POPULARLIF,Query Response,1,0,0,query response
+28,2017-10-29,POPULARLIF,Q3 Financials,0,0,1,q3 financials
+29,2017-10-19,POPULARLIF,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+30,2017-09-17,POPULARLIF,Dividend Disbursement,1,1,1,dividend disbursement
+31,2017-08-22,POPULARLIF,Credit Rating Result,0,0,0,credit rating result
+32,2017-07-30,POPULARLIF,Q2 Financials,1,0,0,q2 financials
+33,2017-07-23,POPULARLIF,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+34,2017-07-13,POPULARLIF,Emphasis of Matter,0,0,0,emphasis of matter
+35,2017-07-10,POPULARLIF,Resumption after Record Date,0,0,0,resumption after record date
+36,2017-07-09,POPULARLIF,Suspension for Record Date,1,0,0,suspension for record date
+37,2017-07-05,POPULARLIF,Spot News,1,0,0,spot news
+38,2017-06-13,POPULARLIF,Q1 Financials,0,0,1,q1 financials
+39,2017-06-13,POPULARLIF,Price Limit Open,0,0,1,price limit open
+40,2017-06-13,POPULARLIF,Dividend Declaration,0,0,1,dividend declaration
+41,2017-06-04,POPULARLIF,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+42,2017-04-23,POPULARLIF,Floor Space purchase,0,1,1,floor space purchase
+43,2017-02-22,POPULARLIF,Floor Space Purchase,0,1,0,floor space purchase
+44,2016-10-27,POPULARLIF,Q3 Financials,0,0,0,q3 financials
+45,2016-10-23,POPULARLIF,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+46,2016-09-22,POPULARLIF,Dividend Disbursement,0,0,0,dividend disbursement
+47,2016-07-31,POPULARLIF,Q2 Financials,0,1,1,q2 financials
+48,2016-07-24,POPULARLIF,Board Meeting,1,1,1,board meeting
+49,2016-07-10,POPULARLIF,Resumption after record date,1,0,0,resumption after record date
+50,2016-07-10,POPULARLIF,Q1,1,0,0,q1
+51,2016-06-29,POPULARLIF,Suspension news for record date,0,0,0,suspension news for record date
+52,2016-06-28,POPULARLIF,Board Meeting,1,0,0,board meeting
+53,2016-06-28,POPULARLIF,Board Meeting,1,0,0,board meeting
+54,2016-06-27,POPULARLIF,Spot News for AGM,0,1,0,spot news for agm
+55,2016-06-12,POPULARLIF,Price Limit Open,0,0,0,price limit open
+56,2016-06-12,POPULARLIF,Dividend Declaration,0,0,0,dividend declaration
+57,2016-05-31,POPULARLIF,Board Meeting,1,0,0,board meeting
+58,2016-02-24,POPULARLIF,Decision for Land Purchase including 2 Buildings,0,1,0,decision for land purchase including 2 buildings
+59,2016-01-20,POPULARLIF,Floor Spaces Purchase,0,0,0,floor spaces purchase
+60,2015-10-28,POPULARLIF,Q3 Financials,1,1,0,q3 financials
+61,2015-10-28,POPULARLIF,Land Purchase with Building,1,1,0,land purchase with building
+62,2015-10-20,POPULARLIF,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+63,2015-08-25,POPULARLIF,Confirmation of Transfer by a Sponsor,1,1,1,confirmation of transfer by a sponsor
+64,2015-08-23,POPULARLIF,Declaration of Transfer by a Sponsor,1,0,1,declaration of transfer by a sponsor
+65,2015-07-30,POPULARLIF,Q2 Financials,0,0,0,q2 financials
+66,2015-06-30,POPULARLIF,Q1 Financials,0,0,0,q1 financials
+67,2015-06-21,POPULARLIF,Dividend Disbursement,0,0,0,dividend disbursement
+68,2015-04-23,POPULARLIF,Resuption News after Record date,0,0,0,resuption news after record date
+69,2015-04-22,POPULARLIF,Suspension News for Record date,0,0,0,suspension news for record date
+70,2015-04-20,POPULARLIF,Spot News for AGM,0,0,0,spot news for agm
+71,2015-04-12,POPULARLIF, Price Limit Open,0,1,0,price limit open
+72,2015-04-12,POPULARLIF,Dividend Declaration,0,1,0,dividend declaration
+73,2015-04-09,POPULARLIF,Credit Rating result,0,0,0,credit rating result
+74,2015-04-07,POPULARLIF,Board Meeting schedule under LR 30,0,0,0,board meeting schedule under lr 30
+75,2015-01-01,POPULARLIF,credited the bonus shares,0,0,0,credited the bonus shares
+76,2015-01-01,POPULARLIF,Credit Rating,0,0,0,credit rating
+77,2014-12-08,POPULARLIF,purchase land,0,0,0,purchase land
+78,2014-10-30,POPULARLIF,Q3 Earnings,0,0,0,q3 earnings
+79,2014-10-28,POPULARLIF,will remain suspended,0,1,0,will remain suspended
+80,2014-10-28,POPULARLIF,trade resume,0,1,0,trade resume
+81,2014-10-27,POPULARLIF,trade suspension,0,0,1,trade suspension
+82,2014-10-23,POPULARLIF,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+83,2014-10-19,POPULARLIF, no price limit,0,1,1,no price limit
+84,2014-10-19,POPULARLIF,40% Stock dividend,0,1,1,40 stock dividend
+85,2014-10-02,POPULARLIF,Board Meeting,1,0,0,board meeting
+86,2014-10-02,POPULARLIF,DSE query,1,0,0,dse query
+87,2014-08-27,POPULARLIF,H/Y Earning,1,0,0,hy earning
+88,2014-07-15,POPULARLIF,Q1 Earnings,0,0,0,q1 earnings
+89,2014-05-26,POPULARLIF,sponsor of UFS-Popular Life Unit fund,0,0,1,sponsor of ufs-popular life unit fund
+90,2013-10-30,POPULARLIF,Q3 Earnings,1,1,0,q3 earnings
+91,2013-10-01,POPULARLIF,Fixed Asset Acquisition,0,0,0,fixed asset acquisition
+92,2013-07-30,POPULARLIF,Q2 Earnings,1,0,1,q2 earnings
+93,2013-06-30,POPULARLIF,Q1 Earnings,0,0,0,q1 earnings
+94,2013-06-18,POPULARLIF,Trade Resume after Record Date,0,1,0,trade resume after record date
+95,2013-06-17,POPULARLIF,Trade Suspension on Record Date,0,0,1,trade suspension on record date
+96,2013-06-12,POPULARLIF,Trade Suspension on Record Date,0,1,0,trade suspension on record date
+97,2013-06-09,POPULARLIF,No Price Limit,1,0,1,no price limit
+98,2013-06-09,POPULARLIF,Corporate Declaration,1,0,1,corporate declaration
+99,2013-05-29,POPULARLIF,Board Meeting,0,0,0,board meeting
+100,2013-03-06,POPULARLIF,Emerging Credit Rating,1,1,0,emerging credit rating
+101,2012-10-30,POPULARLIF,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+102,2012-10-04,POPULARLIF,Director sell completed,1,0,0,director sell completed
+103,2012-09-30,POPULARLIF,director sell announcement,1,0,1,director sell announcement
+104,2012-09-30,POPULARLIF,director sell announcement,1,0,1,director sell announcement
+105,2012-09-17,POPULARLIF,director sell announcement,1,0,1,director sell announcement
+106,2012-09-13,POPULARLIF,decided to purchase land,1,0,0,decided to purchase land
+107,2012-09-04,POPULARLIF,- Engr. M. A. Rashid...,0,0,0,engr. m. a. rashid
+108,2012-08-02,POPULARLIF,- Engr. M. A. Rashid...,0,0,0,engr. m. a. rashid
+109,2012-08-02,POPULARLIF,- Engr. M. A. Rashid...,0,0,0,engr. m. a. rashid
+110,2012-07-23,POPULARLIF,- Engr. M. A. Rashid...,0,0,0,engr. m. a. rashid
+111,2012-07-19,POPULARLIF,- Mr. Syed Zahurul Huq..,1,0,0,mr. syed zahurul huq..
+112,2012-06-28,POPULARLIF,- The Company has informed ...,1,0,0,the company has informed
+113,2012-06-28,POPULARLIF,- (Q1): As per un-audited quarterly accounts...,1,0,0,q1: as per un-audited quarterly accounts
+114,2012-05-24,POPULARLIF,- Mr. Mohammed Mizanur Rahman...,0,0,0,mr. mohammed mizanur rahman
+115,2012-04-29,POPULARLIF,- Normal trading of the shares...,0,1,0,normal trading of the shares
+116,2012-04-26,POPULARLIF,- Trading of the shares ...,0,0,0,trading of the shares
+117,2012-04-24,POPULARLIF,- Mr. Shamsul Arefin Khaled...,0,0,0,mr. shamsul arefin khaled
+118,2012-04-23,POPULARLIF,- Trading of the shares...,0,0,0,trading of the shares
+119,2012-04-18,POPULARLIF,- The Company has informed...,1,0,0,the company has informed
+120,2012-04-18,POPULARLIF,- There will be no price limit ...,1,0,0,there will be no price limit
+121,2012-04-18,POPULARLIF,- The Board of Directors...,1,0,0,the board of directors
+122,2012-04-09,POPULARLIF,- As per regulation...,1,0,0,as per regulation
+123,2011-12-15,POPULARLIF,- Mr. Mohammed Zahirul...,0,0,0,mr. mohammed zahirul
+124,2011-12-12,POPULARLIF,- Mr. Mohammed Zahirul Islam Chowdhury...,1,1,0,mr. mohammed zahirul islam chowdhury
+125,2011-10-31,POPULARLIF,- As per un-audited...,0,0,1,as per un-audited
+126,2011-10-10,POPULARLIF,- Mr. Syed Zahurul Huq...,1,0,1,mr. syed zahurul huq
+127,2011-09-19,POPULARLIF,- Mr. Mohammed Mizanur Rahman...,1,0,0,mr. mohammed mizanur rahman
+128,2011-09-04,POPULARLIF,- Mr. Syed Zahurul Huq...,0,1,0,mr. syed zahurul huq
+129,2011-08-25,POPULARLIF,- The Company has informed...,1,0,0,the company has informed
+130,2011-08-25,POPULARLIF,- Mr. Syed Zahurul Huq...,1,0,0,mr. syed zahurul huq
+131,2011-08-16,POPULARLIF,- Mr. Mohammad Akhtarul Haque...,1,1,0,mr. mohammad akhtarul haque
+132,2011-07-31,POPULARLIF,- (H/Y): As per un-audited...,0,1,0,hy: as per un-audited
+133,2011-07-05,POPULARLIF,- Mr. Syed Zahurul Huq...,1,0,1,mr. syed zahurul huq

@@ -1,0 +1,125 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+1,2019-04-16,RECKITTBEN,Q1 Financials,0,0,0,q1 financials
+2,2019-04-16,RECKITTBEN,Price Limit Open,0,0,0,price limit open
+4,2019-04-16,RECKITTBEN,Dividend Declaration,0,0,0,dividend declaration
+5,2019-04-09,RECKITTBEN,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+6,2019-04-09,RECKITTBEN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+7,2019-03-13,RECKITTBEN,Query Response,1,1,0,query response
+8,2019-02-11,RECKITTBEN,Query Response,0,1,1,query response
+9,2018-11-27,RECKITTBEN,Query Response,1,0,0,query response
+10,2018-10-30,RECKITTBEN,Q3 Financials,0,1,1,q3 financials
+11,2018-10-18,RECKITTBEN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+13,2018-07-29,RECKITTBEN,Q2 Financials,0,1,0,q2 financials
+14,2018-07-24,RECKITTBEN,Dividend Disbursement,0,0,0,dividend disbursement
+15,2018-07-23,RECKITTBEN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+16,2018-05-24,RECKITTBEN,Resumption after record date,0,0,0,resumption after record date
+17,2018-05-23,RECKITTBEN,Suspension for Record Date,0,0,0,suspension for record date
+18,2018-05-21,RECKITTBEN,Spot News,0,1,0,spot news
+20,2018-05-03,RECKITTBEN,Q1 Financials,0,0,0,q1 financials
+21,2018-05-03,RECKITTBEN,Price Limit Open,0,0,0,price limit open
+23,2018-05-03,RECKITTBEN,Dividend Declaration,0,0,0,dividend declaration
+24,2018-04-22,RECKITTBEN,Board Meeting schedule under LR 19(1),0,1,1,board meeting schedule under lr 191
+25,2018-04-22,RECKITTBEN,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+26,2018-03-27,RECKITTBEN,Query Response,1,1,0,query response
+27,2018-01-08,RECKITTBEN,Interim Dividend Disbursement,0,0,0,interim dividend disbursement
+28,2017-12-20,RECKITTBEN,Resumption after record date,0,0,0,resumption after record date
+29,2017-12-19,RECKITTBEN,Suspension for Record Date,1,0,0,suspension for record date
+30,2017-12-17,RECKITTBEN,Spot for interim dividend entitlement,0,0,1,spot for interim dividend entitlement
+31,2017-11-30,RECKITTBEN,Price Limit Open,0,0,0,price limit open
+32,2017-11-30,RECKITTBEN,Interim Cash Dividend Declaration,0,0,0,interim cash dividend declaration
+33,2017-11-26,RECKITTBEN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+34,2017-10-30,RECKITTBEN,Q3 Financials,1,0,0,q3 financials
+35,2017-10-23,RECKITTBEN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+36,2017-07-31,RECKITTBEN,Q2 Financials,0,0,0,q2 financials
+37,2017-07-27,RECKITTBEN,Dividend Disbursement,0,0,0,dividend disbursement
+38,2017-07-25,RECKITTBEN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+39,2017-05-24,RECKITTBEN,Resumption after Record Date,0,0,0,resumption after record date
+40,2017-05-23,RECKITTBEN,Suspension for Record Date,1,0,0,suspension for record date
+41,2017-05-21,RECKITTBEN,Spot News,0,0,1,spot news
+42,2017-05-02,RECKITTBEN,Q1 Financials,0,0,1,q1 financials
+43,2017-05-02,RECKITTBEN,Price Limit Open,0,0,1,price limit open
+45,2017-05-02,RECKITTBEN,Dividend Declaration,0,0,1,dividend declaration
+46,2017-04-23,RECKITTBEN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+47,2017-04-23,RECKITTBEN,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+48,2016-12-08,RECKITTBEN,Dividend Disbursement,1,0,0,dividend disbursement
+49,2016-11-20,RECKITTBEN,Resumption after record date,1,1,1,resumption after record date
+50,2016-11-17,RECKITTBEN,Suspension for record date,0,0,0,suspension for record date
+51,2016-11-17,RECKITTBEN,Suspension for record date,0,0,0,suspension for record date
+52,2016-11-15,RECKITTBEN,Spot for interim,0,1,0,spot for interim
+53,2016-10-31,RECKITTBEN,Q3 Financials,0,0,0,q3 financials
+54,2016-10-31,RECKITTBEN,Price Limit Open,0,0,0,price limit open
+55,2016-10-31,RECKITTBEN,Interim Cash Dividend,0,0,0,interim cash dividend
+56,2016-10-25,RECKITTBEN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+57,2016-08-18,RECKITTBEN,Suspension news for record date,0,0,0,suspension news for record date
+58,2016-08-17,RECKITTBEN,"Change of Date, Time and Venue of the 55th AGM",1,0,0,"change of date, time and venue of the 55th agm"
+59,2016-08-16,RECKITTBEN,Spot for AGM,0,1,0,spot for agm
+60,2016-07-28,RECKITTBEN,Q2 Financials,1,0,0,q2 financials
+61,2016-07-28,RECKITTBEN,Price Limit Open,1,0,0,price limit open
+62,2016-07-28,RECKITTBEN,Dividend Declaration and Re-fixation of postponed AGM date,1,0,0,dividend declaration and re-fixation of postponed agm date
+63,2016-07-25,RECKITTBEN,Board Meeting,0,1,1,board meeting
+64,2016-05-19,RECKITTBEN,Resumption after Record date,0,0,0,resumption after record date
+65,2016-05-18,RECKITTBEN,Suspension for Record date,0,0,0,suspension for record date
+66,2016-05-18,RECKITTBEN,"Postponement of AGM, unchanged Record date",0,0,0,"postponement of agm, unchanged record date"
+67,2016-05-16,RECKITTBEN,Spot News,0,1,0,spot news
+68,2016-04-28,RECKITTBEN,Q1 Financials,0,0,0,q1 financials
+69,2016-04-28,RECKITTBEN,Price Limit Open,0,0,0,price limit open
+70,2016-04-28,RECKITTBEN,Dividend Declaration,0,0,0,dividend declaration
+71,2016-04-21,RECKITTBEN,Board Meeting (Q1),1,0,0,board meeting q1
+72,2016-04-21,RECKITTBEN,Board Meeting (Annual),1,0,0,board meeting annual
+73,2016-04-03,RECKITTBEN,Appointment of MD,0,0,0,appointment of md
+74,2015-10-27,RECKITTBEN,Q3 Financials,0,1,0,q3 financials
+75,2015-10-20,RECKITTBEN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+76,2015-08-05,RECKITTBEN,Resumption News after Record Date,0,0,0,resumption news after record date
+77,2015-08-04,RECKITTBEN,Suspension News for Record Date,0,0,0,suspension news for record date
+78,2015-08-02,RECKITTBEN,Spot News for Interim Dividend,1,0,0,spot news for interim dividend
+79,2015-07-28,RECKITTBEN, Q2 Financials,1,0,1,q2 financials
+80,2015-07-27,RECKITTBEN,Half Yearly Financials,0,1,0,half yearly financials
+81,2015-07-27,RECKITTBEN,Price Limit Open,0,1,0,price limit open
+82,2015-07-27,RECKITTBEN,Interim Cash Dividend Declaration,0,1,0,interim cash dividend declaration
+83,2015-05-12,RECKITTBEN,Resumption News after Record Date,0,0,0,resumption news after record date
+84,2015-05-11,RECKITTBEN,Suspension News for Record Date,0,0,0,suspension news for record date
+85,2015-05-07,RECKITTBEN,Spot Market,1,0,0,spot market
+86,2015-04-30,RECKITTBEN,Q1,1,0,0,q1
+87,2015-04-30,RECKITTBEN,no price limit today,1,0,0,no price limit today
+88,2015-04-30,RECKITTBEN,dividend,1,0,0,dividend
+89,2015-04-22,RECKITTBEN,Board Meeting,0,1,0,board meeting
+90,2015-03-02,RECKITTBEN,Query Response,0,0,0,query response
+91,2014-12-15,RECKITTBEN,Trade Resume,0,0,1,trade resume
+92,2014-12-14,RECKITTBEN,trade suspended on record date,1,0,0,trade suspended on record date
+93,2014-12-10,RECKITTBEN,Spot Market,0,0,0,spot market
+94,2014-12-04,RECKITTBEN,no price limit,1,0,0,no price limit
+95,2014-12-04,RECKITTBEN,dividend declaration,1,0,0,dividend declaration
+96,2014-11-02,RECKITTBEN,Q3 earnings,1,1,0,q3 earnings
+97,2014-07-23,RECKITTBEN,H/Y Earnings,0,1,0,hy earnings
+98,2014-07-07,RECKITTBEN,trade resume,0,0,0,trade resume
+99,2014-07-06,RECKITTBEN,trade suspension,1,0,0,trade suspension
+100,2014-07-02,RECKITTBEN,Spot and Block/Odd lot transactions,0,0,0,spot and blockodd lot transactions
+101,2014-06-26,RECKITTBEN,interim cash dividend @ 275%,0,0,0,interim cash dividend  275
+102,2014-04-20,RECKITTBEN,trade resume,0,0,0,trade resume
+103,2014-04-17,RECKITTBEN,trade suspension,1,0,0,trade suspension
+104,2014-04-13,RECKITTBEN,Spot Market Transaction,1,0,0,spot market transaction
+105,2014-04-08,RECKITTBEN,no price limit,0,0,0,no price limit
+106,2014-04-08,RECKITTBEN,Q1,0,0,0,q1
+107,2014-04-08,RECKITTBEN,recommended final 400% cash dividend,0,0,0,recommended final 400 cash dividend
+108,2014-04-01,RECKITTBEN,Board Meeting,0,0,1,board meeting
+109,2013-10-10,RECKITTBEN,Q3 earnings,0,0,0,q3 earnings
+110,2013-07-30,RECKITTBEN,Q2 Earnings,0,1,0,q2 earnings
+111,2013-05-06,RECKITTBEN,trade resume,0,0,0,trade resume
+112,2013-05-05,RECKITTBEN,trade suspension on record date,0,0,0,trade suspension on record date
+113,2013-04-30,RECKITTBEN,Q1 Earnings,0,0,0,q1 earnings
+114,2013-04-29,RECKITTBEN,Spot Market,1,0,0,spot market
+115,2013-04-24,RECKITTBEN,Corporate Declaration,0,0,0,corporate declaration
+116,2013-04-21,RECKITTBEN,Board meeting,0,0,1,board meeting
+117,2012-10-10,RECKITTBEN,Q3 earnings,1,0,0,q3 earnings
+118,2012-07-26,RECKITTBEN, - (H/Y): As per un-audited half yearly accounts,0,0,0,hy: as per un-audited half yearly accounts
+119,2012-05-17,RECKITTBEN,- Trading of the shares ...,0,0,0,trading of the shares
+120,2012-05-14,RECKITTBEN,- Trading of the shares ....,1,0,0,trading of the shares .
+121,2012-04-22,RECKITTBEN,- As per regulation ...,0,1,0,as per regulation
+122,2011-10-20,RECKITTBEN,- As per un-audited...,0,0,0,as per un-audited
+123,2011-09-15,RECKITTBEN,- Normal trading of the shares...,0,0,0,normal trading of the shares
+124,2011-09-14,RECKITTBEN,- Trading of the shares...,0,0,0,trading of the shares
+125,2011-09-12,RECKITTBEN,- Trading of the shares,0,1,0,trading of the shares
+126,2011-08-24,RECKITTBEN,- There will be no price limit...,0,1,0,there will be no price limit
+127,2011-08-24,RECKITTBEN,- The Board of Directors...,0,1,0,the board of directors
+128,2011-07-31,RECKITTBEN,- The Company has informed...,1,1,0,the company has informed
+129,2011-07-24,RECKITTBEN,- (H/Y): As per un-audited...,0,0,0,hy: as per un-audited

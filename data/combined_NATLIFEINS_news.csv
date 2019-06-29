@@ -1,0 +1,151 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2018-11-01,NATLIFEINS,Q3 Financials,1,0,0,q3 financials
+1,2018-10-25,NATLIFEINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+2,2018-10-10,NATLIFEINS,Cash Dividend Disbursement,0,1,0,cash dividend disbursement
+3,2018-10-01,NATLIFEINS,Dividend Disbursement,0,0,0,dividend disbursement
+4,2018-09-11,NATLIFEINS,Query Response,0,0,1,query response
+5,2018-08-20,NATLIFEINS,Resumption after record date,0,0,0,resumption after record date
+6,2018-08-19,NATLIFEINS,Suspension for Record Date,0,0,0,suspension for record date
+7,2018-08-14,NATLIFEINS,Spot News,0,0,1,spot news
+8,2018-07-31,NATLIFEINS,Q2 Financials,0,1,0,q2 financials
+9,2018-07-31,NATLIFEINS,Q1 Financials,0,1,0,q1 financials
+10,2018-07-31,NATLIFEINS,Price Limit Open,0,1,0,price limit open
+11,2018-07-31,NATLIFEINS,Dividend Declaration,0,1,0,dividend declaration
+12,2018-07-23,NATLIFEINS,Board Meeting schedules under LR 16(1),0,1,0,board meeting schedules under lr 161
+13,2018-07-23,NATLIFEINS,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+14,2017-11-29,NATLIFEINS,Q3 Financials,0,1,0,q3 financials
+15,2017-11-26,NATLIFEINS,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+16,2017-10-19,NATLIFEINS,Cash Dividend Disbursement,1,0,0,cash dividend disbursement
+17,2017-10-02,NATLIFEINS,Dividend Disbursement,1,1,1,dividend disbursement
+18,2017-09-05,NATLIFEINS,Buy confirmation of a Sponsor Director,0,1,1,buy confirmation of a sponsor director
+19,2017-08-22,NATLIFEINS,Buy Declaration of a Sponsor Director,0,1,0,buy declaration of a sponsor director
+20,2017-08-08,NATLIFEINS,Resumption after Record Date,0,1,0,resumption after record date
+21,2017-08-07,NATLIFEINS,Suspension for Record Date,0,0,1,suspension for record date
+22,2017-08-03,NATLIFEINS,Spot News,0,0,0,spot news
+23,2017-08-01,NATLIFEINS,Q2 Financials,1,1,0,q2 financials
+24,2017-07-26,NATLIFEINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+25,2017-07-19,NATLIFEINS,Q1 Financials,1,0,0,q1 financials
+26,2017-07-19,NATLIFEINS,Price Limit Open,1,0,0,price limit open
+27,2017-07-19,NATLIFEINS,Dividend Declaration,1,0,0,dividend declaration
+28,2017-07-13,NATLIFEINS,Reschedule of Board Meeting under LR 16(1),0,0,0,reschedule of board meeting under lr 161
+29,2017-07-13,NATLIFEINS,Reschedule of Board Meeting under LR 19(1),0,0,0,reschedule of board meeting under lr 191
+30,2017-07-10,NATLIFEINS,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+31,2017-07-10,NATLIFEINS,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+32,2016-11-01,NATLIFEINS,Confirmation of sale by a Sponsor,1,1,0,confirmation of sale by a sponsor
+33,2016-10-30,NATLIFEINS,Declaration of sale,0,0,1,declaration of sale
+34,2016-10-27,NATLIFEINS,Q3 Financials,0,0,0,q3 financials
+35,2016-10-27,NATLIFEINS,Declaration of sale by a Director,0,0,0,declaration of sale by a director
+36,2016-10-26,NATLIFEINS,Confirmation of sale by a Sponsor,0,0,0,confirmation of sale by a sponsor
+37,2016-10-23,NATLIFEINS,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+38,2016-10-16,NATLIFEINS,Dividend Disbursement,0,0,0,dividend disbursement
+39,2016-10-04,NATLIFEINS,Declaration of sale by a Sponsor,0,1,1,declaration of sale by a sponsor
+40,2016-09-29,NATLIFEINS,Dividend Disbursement,0,0,0,dividend disbursement
+41,2016-08-10,NATLIFEINS,Resumption after record date,0,1,0,resumption after record date
+42,2016-08-07,NATLIFEINS,Spot for AGM,0,0,0,spot for agm
+43,2016-08-01,NATLIFEINS,Q2 Financials,0,0,0,q2 financials
+44,2016-07-27,NATLIFEINS,Board Meeting,0,0,0,board meeting
+45,2016-07-24,NATLIFEINS,Q1 Financials,1,0,0,q1 financials
+46,2016-07-24,NATLIFEINS,Price Limit Open,1,0,0,price limit open
+47,2016-07-24,NATLIFEINS,Dividend Declaration,1,0,0,dividend declaration
+48,2016-07-13,NATLIFEINS,Board Meeting,0,1,0,board meeting
+49,2016-07-13,NATLIFEINS,Board Meeting,0,1,0,board meeting
+50,2015-11-01,NATLIFEINS,Q3,0,0,0,q3
+51,2015-09-01,NATLIFEINS,Dividend Disbursement,0,0,1,dividend disbursement
+52,2015-08-02,NATLIFEINS,Q2 Financials,1,1,1,q2 financials
+53,2015-07-22,NATLIFEINS,Confirmation of receipt by a Director,1,1,0,confirmation of receipt by a director
+54,2015-07-09,NATLIFEINS,Declaration of receipt by a Director,0,0,0,declaration of receipt by a director
+55,2015-07-02,NATLIFEINS,Q1 Financials,0,0,0,q1 financials
+56,2015-06-30,NATLIFEINS,Resumption News after Record Date,0,0,0,resumption news after record date
+57,2015-06-29,NATLIFEINS, Suspension News for Record Date,0,0,0,suspension news for record date
+58,2015-06-25,NATLIFEINS,Spot News for AGM,1,0,0,spot news for agm
+59,2015-06-21,NATLIFEINS,Price Limit Open,0,1,0,price limit open
+60,2015-06-21,NATLIFEINS,Dividend Declaration,0,1,0,dividend declaration
+61,2015-06-15,NATLIFEINS,Board Meeting schedule under LR 30,1,1,0,board meeting schedule under lr 30
+62,2014-11-02,NATLIFEINS,Q3 earnings,1,1,0,q3 earnings
+63,2014-09-09,NATLIFEINS,Sponsor/Director Share Transfer,0,0,1,sponsordirector share transfer
+64,2014-09-07,NATLIFEINS,Sponsor/Director Share Transfer,0,0,0,sponsordirector share transfer
+65,2014-09-02,NATLIFEINS,Sponsor/Director Share Transfer,0,0,0,sponsordirector share transfer
+66,2014-09-02,NATLIFEINS,Sponsor/Director Share Transfer,0,0,0,sponsordirector share transfer
+67,2014-08-31,NATLIFEINS,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+68,2014-08-25,NATLIFEINS,sponsor share sell/buy,0,0,0,sponsor share sellbuy
+69,2014-08-14,NATLIFEINS,Sponsor/Director Share Sale,1,0,0,sponsordirector share sale
+70,2014-08-03,NATLIFEINS,credited the bonus shares,0,0,1,credited the bonus shares
+71,2014-07-24,NATLIFEINS,H/Y Earnings,1,0,0,hy earnings
+72,2014-07-03,NATLIFEINS,trade resume,0,0,0,trade resume
+73,2014-07-02,NATLIFEINS,trade suspension,0,0,0,trade suspension
+74,2014-06-30,NATLIFEINS,Q1 Earnings,1,0,0,q1 earnings
+75,2014-06-29,NATLIFEINS,Spot Market Transaction,0,1,0,spot market transaction
+76,2014-06-24,NATLIFEINS,20% cash and 38% stock dividend,0,1,1,20 cash and 38 stock dividend
+77,2014-06-24,NATLIFEINS,no price limit,0,1,1,no price limit
+78,2014-06-17,NATLIFEINS,Board Meeting,1,1,1,board meeting
+79,2014-05-14,NATLIFEINS,increase authorized capital,0,1,0,increase authorized capital
+80,2013-10-31,NATLIFEINS,Q3 Earnings,1,0,0,q3 earnings
+81,2013-10-10,NATLIFEINS,sponsor/director share transfer,0,0,0,sponsordirector share transfer
+82,2013-10-01,NATLIFEINS,Sponsors Share Sell,1,1,0,sponsors share sell
+83,2013-09-29,NATLIFEINS,Sponsors Share Sell,0,1,1,sponsors share sell
+84,2013-09-16,NATLIFEINS,Sponsors Share Sell,0,1,0,sponsors share sell
+85,2013-09-11,NATLIFEINS,Sponsors Share Sell,1,0,0,sponsors share sell
+86,2013-09-11,NATLIFEINS,Sponsors Share Sell,1,0,0,sponsors share sell
+87,2013-09-08,NATLIFEINS,Sponsors Share Sell,0,1,0,sponsors share sell
+88,2013-08-29,NATLIFEINS,Sponsors Share Sell,0,0,0,sponsors share sell
+89,2013-08-29,NATLIFEINS,Sponsors Share Sell,0,0,0,sponsors share sell
+90,2013-08-21,NATLIFEINS,Sponsors Share Sell,1,0,0,sponsors share sell
+91,2013-08-21,NATLIFEINS,Sponsors Share Sell,1,0,0,sponsors share sell
+92,2013-08-13,NATLIFEINS,Sponsors Share Sell,1,1,0,sponsors share sell
+93,2013-08-12,NATLIFEINS,Sponsors Share Sell,1,1,1,sponsors share sell
+94,2013-08-05,NATLIFEINS,Sponsors Share sell,1,0,0,sponsors share sell
+95,2013-07-31,NATLIFEINS,Q2 Earnings,0,0,0,q2 earnings
+96,2013-07-30,NATLIFEINS,Sponsors Share Sell,1,0,0,sponsors share sell
+97,2013-07-30,NATLIFEINS,Sponsors share sell,1,0,0,sponsors share sell
+98,2013-07-29,NATLIFEINS,Sponsors Share Sell,1,1,0,sponsors share sell
+99,2013-07-28,NATLIFEINS,Sponsors Share Sell,0,1,1,sponsors share sell
+100,2013-07-24,NATLIFEINS,Sponsors Share Sell,0,1,0,sponsors share sell
+101,2013-07-23,NATLIFEINS,Sponsor Share Sell,0,0,1,sponsor share sell
+102,2013-07-21,NATLIFEINS,Sponsors Share Sell,0,0,0,sponsors share sell
+103,2013-07-17,NATLIFEINS,Sponsors Share Sell,1,0,0,sponsors share sell
+104,2013-07-16,NATLIFEINS,Credited Bonus Shares,0,1,0,credited bonus shares
+105,2013-07-15,NATLIFEINS,Chairman Election,0,0,1,chairman election
+106,2013-07-08,NATLIFEINS,Sponsors Share Sell,0,0,1,sponsors share sell
+107,2013-06-24,NATLIFEINS,Sponsors Share Sell,1,0,1,sponsors share sell
+108,2013-06-13,NATLIFEINS,Sponsors Share Sell,1,0,0,sponsors share sell
+109,2013-06-13,NATLIFEINS,Sponsors Share Buy,1,0,0,sponsors share buy
+110,2013-06-09,NATLIFEINS,Trade Resume after Record Date,0,0,1,trade resume after record date
+111,2013-06-06,NATLIFEINS,Trading Suspension  on Record Date,1,0,0,trading suspension  on record date
+112,2013-06-05,NATLIFEINS,Sponsor Share Sell,0,1,0,sponsor share sell
+113,2013-06-05,NATLIFEINS,Sponsors share buy,0,1,0,sponsors share buy
+114,2013-06-03,NATLIFEINS,Spot Market Trading,0,1,0,spot market trading
+115,2013-05-29,NATLIFEINS,No Price Limit,0,0,0,no price limit
+116,2012-09-20,NATLIFEINS,decided to purchase DSE membership,0,0,0,decided to purchase dse membership
+117,2012-09-12,NATLIFEINS,director buy completed,0,1,0,director buy completed
+118,2012-06-27,NATLIFEINS,- Q1): As per un-audited quarterly accounts ...,1,1,0,q1: as per un-audited quarterly accounts
+119,2012-05-30,NATLIFEINS,- The Company has informed....,0,0,0,the company has informed.
+120,2012-05-02,NATLIFEINS,- Normal trading of the shares...,0,1,0,normal trading of the shares
+121,2012-04-25,NATLIFEINS,- Trading of the shares...,0,0,0,trading of the shares
+122,2012-04-22,NATLIFEINS,- The Board of Directors...,0,0,0,the board of directors
+123,2012-04-22,NATLIFEINS,- There will be no price limit ...,0,0,0,there will be no price limit
+124,2012-04-17,NATLIFEINS,- As per regulation ...,1,0,0,as per regulation
+125,2012-01-22,NATLIFEINS,- Al-Haj K. M. Habib Zaman...,0,1,0,al-haj k. m. habib zaman
+126,2011-10-31,NATLIFEINS,- As per un-audited...,1,1,1,as per un-audited
+127,2011-10-19,NATLIFEINS,- The Company has informed...,1,1,0,the company has informed
+128,2011-09-26,NATLIFEINS,- Mrs. Bilkis Nahar...,1,0,0,mrs. bilkis nahar
+129,2011-09-26,NATLIFEINS,- Mrs. Shirina Akhter...,1,0,0,mrs. shirina akhter
+130,2011-09-26,NATLIFEINS,- Mr. Md. Shafiqur Rahman Titu...,1,0,0,mr. md. shafiqur rahman titu
+131,2011-09-19,NATLIFEINS,- Mrs. Shirina Akhter...,0,0,0,mrs. shirina akhter
+132,2011-09-18,NATLIFEINS,- Mrs. Shirina Akhter...,0,0,0,mrs. shirina akhter
+133,2011-09-18,NATLIFEINS,- Mrs. Bilkis Nahar...,0,0,0,mrs. bilkis nahar
+134,2011-09-14,NATLIFEINS,- Mr. Md. Shafiqur Rahman Titu...,0,1,0,mr. md. shafiqur rahman titu
+135,2011-09-07,NATLIFEINS,- Mrs. Shirina Akhter...,1,0,0,mrs. shirina akhter
+136,2011-09-07,NATLIFEINS,- Mr. Mahmudul Huq Taher...,1,0,0,mr. mahmudul huq taher
+137,2011-08-24,NATLIFEINS,- Mr. SK. Abdul Momin...,1,1,0,mr. sk. abdul momin
+138,2011-08-18,NATLIFEINS,- Normal trading of the shares...,0,0,0,normal trading of the shares
+139,2011-08-17,NATLIFEINS,- Trading of the shares...,1,0,0,trading of the shares
+140,2011-08-17,NATLIFEINS, - Mr. SK. Abdul Momin...,1,0,0,mr. sk. abdul momin
+141,2011-08-16,NATLIFEINS,- Mr. Durand Mehdadur Rahman...,0,1,0,mr. durand mehdadur rahman
+142,2011-08-11,NATLIFEINS,- Trading of the shares...,0,0,0,trading of the shares
+143,2011-08-10,NATLIFEINS,- Mrs. Razia Hossain...,0,0,0,mrs. razia hossain
+144,2011-08-09,NATLIFEINS,- Mr. Kazi Fahim Fayyaz...,0,0,0,mr. kazi fahim fayyaz
+145,2011-08-02,NATLIFEINS,- The Board of Directors...,0,1,0,the board of directors
+146,2011-08-02,NATLIFEINS,- There will be no price...,0,1,0,there will be no price
+147,2011-08-01,NATLIFEINS,- (H/Y): As per un-audited...,0,0,1,hy: as per un-audited
+148,2011-07-27,NATLIFEINS,- As per regulation 30 of DSE...,1,1,0,as per regulation 30 of dse
+149,2011-07-03,NATLIFEINS,- (Q1): As per un-audited quarterly...,0,0,0,q1: as per un-audited quarterly

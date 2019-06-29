@@ -1,0 +1,130 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,MJLBD,Q3 Financials,0,0,0,q3 financials
+1,2019-04-24,MJLBD,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-01-28,MJLBD,Q2 Financials,1,1,0,q2 financials
+3,2019-01-23,MJLBD,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+4,2018-12-20,MJLBD,Dividend Disbursement,1,0,0,dividend disbursement
+5,2018-11-15,MJLBD,Q1 Financials,0,0,0,q1 financials
+6,2018-11-12,MJLBD,Reschedule of Board Meeting under LR 16(1),0,0,0,reschedule of board meeting under lr 161
+8,2018-11-11,MJLBD,Basis for Qualified Opinion,1,0,0,basis for qualified opinion
+9,2018-11-07,MJLBD,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+10,2018-11-04,MJLBD,Resumption after Record Date,0,0,1,resumption after record date
+11,2018-11-01,MJLBD,Suspension for Record Date,1,0,0,suspension for record date
+12,2018-10-30,MJLBD,Spot News,1,0,1,spot news
+13,2018-10-15,MJLBD,Price Limit Open,1,0,0,price limit open
+15,2018-10-15,MJLBD,Dividend Declaration,1,0,0,dividend declaration
+16,2018-10-04,MJLBD,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+17,2018-06-24,MJLBD,Land Purchase,1,0,0,land purchase
+18,2018-04-30,MJLBD,Q3 Financials,0,0,0,q3 financials
+19,2018-04-24,MJLBD,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+20,2018-04-09,MJLBD,Decision to invest additional amount in Omera Petroleum Limited,1,0,0,decision to invest additional amount in omera petroleum limited
+21,2018-02-18,MJLBD,Approval for Land Purchase,0,0,0,approval for land purchase
+22,2018-01-31,MJLBD,Q2 Financials,0,1,0,q2 financials
+23,2018-01-28,MJLBD,Dividend Disbursement,0,1,1,dividend disbursement
+24,2018-01-25,MJLBD,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+25,2018-01-23,MJLBD,Basis for Qualified Opinion,1,1,1,basis for qualified opinion
+26,2018-01-23,MJLBD,Basis for Qualified Opinion,1,1,1,basis for qualified opinion
+27,2017-11-23,MJLBD,Resumption after record date,0,0,0,resumption after record date
+28,2017-11-22,MJLBD,Suspension for Record Date,1,0,0,suspension for record date
+29,2017-11-20,MJLBD,Spot News,1,0,1,spot news
+30,2017-11-14,MJLBD,Q1 Financials,0,1,0,q1 financials
+31,2017-11-08,MJLBD,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+32,2017-10-29,MJLBD,Price Limit Open,0,0,1,price limit open
+34,2017-10-29,MJLBD,Dividend Declaration,0,0,1,dividend declaration
+35,2017-10-19,MJLBD,Reschedule of Board Meeting schedule under LR 19(1),1,0,0,reschedule of board meeting schedule under lr 191
+36,2017-10-12,MJLBD,Postponement of Board Meeting schedule under LR 19(1),0,0,0,postponement of board meeting schedule under lr 191
+37,2017-10-10,MJLBD,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+38,2017-08-21,MJLBD,Procurement of an Aframax Tanker,0,1,0,procurement of an aframax tanker
+39,2017-05-02,MJLBD,Q3 Financials,1,1,1,q3 financials
+40,2017-04-24,MJLBD,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+41,2017-01-30,MJLBD,Q2 Financials,0,1,0,q2 financials
+42,2017-01-26,MJLBD,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+43,2017-01-08,MJLBD,Qualified Opinion,0,1,0,qualified opinion
+44,2017-01-01,MJLBD,Dividend Disbursement,1,1,0,dividend disbursement
+45,2016-11-22,MJLBD,Signing MOU of a subsidiary company with Bangladesh Economic Zone,0,0,1,signing mou of a subsidiary company with bangladesh economic zone
+46,2016-11-10,MJLBD,Q1 Financials,1,0,0,q1 financials
+47,2016-11-10,MJLBD,Credit Rating Result,1,0,0,credit rating result
+48,2016-11-08,MJLBD,Board Meeting,1,0,1,board meeting
+49,2016-11-03,MJLBD,Resumption after record date,0,0,0,resumption after record date
+50,2016-11-02,MJLBD,Suspension for record date,1,0,0,suspension for record date
+51,2016-10-31,MJLBD,Spot for AGM,0,0,1,spot for agm
+52,2016-10-10,MJLBD,Dividend Declaration,0,0,0,dividend declaration
+53,2016-10-03,MJLBD,Board Meeting schedule under LR 19(1),1,0,1,board meeting schedule under lr 191
+54,2016-07-26,MJLBD,Appointment of Chief Executive Officer,0,0,1,appointment of chief executive officer
+55,2016-05-26,MJLBD,Postponement of AGM,0,0,0,postponement of agm
+56,2016-05-24,MJLBD,Resumption after Record date,0,0,0,resumption after record date
+57,2016-05-22,MJLBD,Suspension news,1,0,0,suspension news
+58,2016-05-18,MJLBD,Spot News,0,1,0,spot news
+59,2016-05-02,MJLBD,Q1 Financials,0,1,0,q1 financials
+60,2016-04-28,MJLBD,Dividend Declaration,0,0,0,dividend declaration
+61,2016-04-19,MJLBD,Board Meeting,0,1,0,board meeting
+62,2016-04-19,MJLBD, Board Meeting,0,1,0,board meeting
+63,2016-02-22,MJLBD,Appointment of Chairman,0,1,0,appointment of chairman
+64,2015-10-28,MJLBD,Q3 Financials,1,0,0,q3 financials
+65,2015-10-25,MJLBD, Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+66,2015-07-29,MJLBD,Q2 Financials,0,1,0,q2 financials
+67,2015-07-06,MJLBD,Dividend Disbursement,0,1,1,dividend disbursement
+68,2015-05-20,MJLBD,Resumption News after Record Date,0,1,0,resumption news after record date
+69,2015-05-19,MJLBD,Suspension News for Record Date,1,0,1,suspension news for record date
+70,2015-05-17,MJLBD,Spot News for AGM,1,0,1,spot news for agm
+71,2015-05-17,MJLBD,Q1 Financials,1,0,1,q1 financials
+72,2015-04-30,MJLBD,no price limit today,0,0,0,no price limit today
+73,2015-04-30,MJLBD,Dividend,0,0,0,dividend
+74,2015-04-26,MJLBD,Board  Meeting,0,1,0,board  meeting
+75,2014-10-27,MJLBD,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+76,2014-10-27,MJLBD,Q3 Earnings,0,0,0,q3 earnings
+77,2014-10-12,MJLBD,approved the appointment of Mr. Abu Bakar Siddique,0,1,1,approved the appointment of mr. abu bakar siddique
+78,2014-09-28,MJLBD,Sponsor/Director Sell,0,0,1,sponsordirector sell
+79,2014-09-22,MJLBD,DSE query,1,1,0,dse query
+80,2014-08-10,MJLBD,Sponsor/Director Share Sale,1,0,0,sponsordirector share sale
+81,2014-08-10,MJLBD,CSE query,1,0,0,cse query
+82,2014-08-05,MJLBD,sponsor buy or sell,0,1,1,sponsor buy or sell
+83,2014-07-24,MJLBD,credited the bonus shares,0,0,0,credited the bonus shares
+84,2014-07-20,MJLBD,H/Y Earnings,0,0,1,hy earnings
+85,2014-06-30,MJLBD,Sponsor/Director Share Sale,1,0,0,sponsordirector share sale
+86,2014-06-10,MJLBD,Sponsor/Director Share Sale,0,1,0,sponsordirector share sale
+87,2014-05-22,MJLBD,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+88,2014-05-08,MJLBD,trade resume,0,0,0,trade resume
+89,2014-05-07,MJLBD,trade suspended,1,0,0,trade suspended
+90,2014-05-05,MJLBD,Spot Market and Block/Odd lot transactions,0,0,1,spot market and blockodd lot transactions
+91,2014-04-27,MJLBD,Quaterly Earning,1,0,1,quaterly earning
+92,2014-04-21,MJLBD,recommended 25% cash dividend,0,1,1,recommended 25 cash dividend
+93,2014-04-21,MJLBD,no price limit,0,1,1,no price limit
+94,2014-04-16,MJLBD,Board Meeting,0,1,0,board meeting
+95,2014-01-26,MJLBD,approved the EPCC,0,0,0,approved the epcc
+96,2013-10-31,MJLBD,Q3 Earnings,1,0,0,q3 earnings
+97,2013-07-30,MJLBD,Q2 Earnings,0,0,1,q2 earnings
+98,2013-07-30,MJLBD,Directors News,0,0,1,directors news
+99,2013-07-17,MJLBD,Credited Cash Dividend,0,0,0,credited cash dividend
+100,2013-04-30,MJLBD,Land Purchase,0,0,1,land purchase
+101,2013-04-30,MJLBD,Q1 Earnings,0,0,1,q1 earnings
+102,2013-04-17,MJLBD,Trading resume after record date,0,0,0,trading resume after record date
+103,2013-04-16,MJLBD,trade suspension on record date,0,0,0,trade suspension on record date
+104,2013-04-10,MJLBD,Spot Market Trading,0,1,0,spot market trading
+105,2013-04-09,MJLBD,MOU,1,0,1,mou
+106,2013-03-31,MJLBD,new Chairman,1,1,0,new chairman
+107,2013-03-27,MJLBD,Land purchase,0,1,0,land purchase
+108,2013-03-27,MJLBD,Corporate declaration,0,1,0,corporate declaration
+109,2013-03-19,MJLBD,Board meeting,1,1,0,board meeting
+110,2012-10-30,MJLBD,Q3 Earnings 2012,1,1,1,q3 earnings 2012
+111,2012-10-30,MJLBD,new joint venture formed,1,1,1,new joint venture formed
+112,2012-07-26,MJLBD,- As per un-audited half yearly accounts...,0,0,0,as per un-audited half yearly accounts
+113,2012-04-29,MJLBD,- Normal trading of the shares...,0,0,0,normal trading of the shares
+114,2012-04-23,MJLBD,- Trading of the shares...,1,0,0,trading of the shares
+115,2012-04-09,MJLBD,- In connection with...,1,0,0,in connection with
+116,2012-04-05,MJLBD,- The Board of Directors...,1,0,0,the board of directors
+117,2012-04-05,MJLBD,- There will be no price...,1,0,0,there will be no price
+118,2012-04-05,MJLBD,- The Company has informed...,1,0,0,the company has informed
+119,2012-04-04,MJLBD,- As per regulation...,0,1,0,as per regulation
+120,2011-12-01,MJLBD,- The Company has informed...,0,0,0,the company has informed
+121,2011-10-18,MJLBD,- DSE NEWS: The Stock Brokers...,0,1,1,dse news: the stock brokers
+122,2011-10-18,MJLBD,- The company will be placed...,0,1,1,the company will be placed
+123,2011-10-12,MJLBD,- The Company has informed...,1,0,0,the company has informed
+124,2011-09-20,MJLBD,- The Company has informed...,0,0,0,the company has informed
+125,2011-08-11,MJLBD,- Trading of the shares...,0,0,0,trading of the shares
+126,2011-08-08,MJLBD,- Trading of the shares ...,1,0,0,trading of the shares
+127,2011-08-01,MJLBD,- The Board of Directors...,0,0,1,the board of directors
+128,2011-08-01,MJLBD,- There will be no price...,0,0,1,there will be no price
+129,2011-07-28,MJLBD,- (H/Y): As per un-audited...,1,0,0,hy: as per un-audited
+131,2011-07-28,MJLBD,- The Company has informed...,1,0,0,the company has informed
+132,2011-07-17,MJLBD,- As per regulation...,1,0,1,as per regulation

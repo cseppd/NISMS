@@ -1,0 +1,100 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-18,PURABIGEN,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+1,2019-03-27,PURABIGEN,Fine Imposed in connection with noncompliance of securities laws,0,1,0,fine imposed in connection with noncompliance of securities laws
+2,2019-01-22,PURABIGEN,Query Response,0,1,1,query response
+3,2018-10-30,PURABIGEN,Q3 Financials,0,1,0,q3 financials
+4,2018-10-23,PURABIGEN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+5,2018-08-07,PURABIGEN,Dividend Disbursement,0,1,1,dividend disbursement
+6,2018-07-16,PURABIGEN,Q2 Financials,1,0,0,q2 financials
+7,2018-07-10,PURABIGEN,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+8,2018-06-07,PURABIGEN,Resumption after record date,0,0,0,resumption after record date
+9,2018-06-06,PURABIGEN,Suspension for Record Date,0,0,0,suspension for record date
+10,2018-06-04,PURABIGEN,Spot News,1,1,0,spot news
+11,2018-05-15,PURABIGEN,Q1 Financials,1,0,0,q1 financials
+12,2018-05-10,PURABIGEN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+13,2018-05-03,PURABIGEN,Price Limit Open,1,0,0,price limit open
+14,2018-05-03,PURABIGEN,Dividend Declaration,1,0,0,dividend declaration
+15,2018-04-23,PURABIGEN,Board Meeting schedule under LR 19(1),0,0,1,board meeting schedule under lr 191
+16,2018-03-06,PURABIGEN,Credit Rating Result,0,0,0,credit rating result
+17,2017-10-31,PURABIGEN,Q3 Financials,0,0,0,q3 financials
+18,2017-10-25,PURABIGEN,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+19,2017-08-23,PURABIGEN,Dividend Disbursement,1,0,0,dividend disbursement
+20,2017-07-30,PURABIGEN,Q2 Financials,0,1,0,q2 financials
+21,2017-07-24,PURABIGEN,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+22,2017-07-09,PURABIGEN,Resumption after Record Date,0,1,1,resumption after record date
+23,2017-07-06,PURABIGEN,Suspension for Record Date,1,0,0,suspension for record date
+24,2017-07-04,PURABIGEN,Spot News for EGM,0,0,1,spot news for egm
+25,2017-06-12,PURABIGEN,Resumption after Record Date,0,0,0,resumption after record date
+26,2017-06-11,PURABIGEN,Suspension for Record Date,0,0,0,suspension for record date
+27,2017-06-07,PURABIGEN,Changing time of EGM,0,0,0,changing time of egm
+28,2017-06-07,PURABIGEN,Spot News,0,0,0,spot news
+29,2017-06-07,PURABIGEN,EGM to increase Authorized Capital of the Company,0,0,0,egm to increase authorized capital of the company
+30,2017-05-15,PURABIGEN,Q1 Financials,1,0,0,q1 financials
+31,2017-05-07,PURABIGEN,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+32,2017-05-02,PURABIGEN,Price Limit Open,0,0,1,price limit open
+33,2017-05-02,PURABIGEN,Dividend Declaration,0,0,1,dividend declaration
+34,2017-04-24,PURABIGEN,Board Meeting schedule under LR 19(1),0,1,1,board meeting schedule under lr 191
+35,2016-10-31,PURABIGEN,Q3 Financials,1,1,1,q3 financials
+36,2016-10-25,PURABIGEN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+37,2016-10-13,PURABIGEN,Qualified Opinion,0,0,0,qualified opinion
+38,2016-08-28,PURABIGEN,Dividend Disbursement,1,1,0,dividend disbursement
+39,2016-07-31,PURABIGEN,Q2 Financials,0,1,0,q2 financials
+40,2016-07-26,PURABIGEN,Board Meeting,0,0,1,board meeting
+41,2016-06-30,PURABIGEN,Buy Declaration of a Sponsor,1,0,0,buy declaration of a sponsor
+42,2016-06-12,PURABIGEN,Resumption after record date,0,0,0,resumption after record date
+43,2016-06-09,PURABIGEN,Suspension news for record date,0,0,0,suspension news for record date
+44,2016-06-07,PURABIGEN,Spot News for AGM,0,0,0,spot news for agm
+45,2016-05-15,PURABIGEN,Q1 Financials,0,0,0,q1 financials
+46,2016-05-11,PURABIGEN,Board Meeting,1,0,0,board meeting
+47,2016-05-02,PURABIGEN,Price Limit Open,1,0,0,price limit open
+48,2016-05-02,PURABIGEN,Dividend Declaration,1,0,0,dividend declaration
+49,2016-04-24,PURABIGEN,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+50,2015-11-01,PURABIGEN,Q3,0,0,0,q3
+51,2015-10-26,PURABIGEN,Board Meeting,1,0,0,board meeting
+52,2015-09-07,PURABIGEN,Dividend Disbursement,1,0,0,dividend disbursement
+53,2015-07-22,PURABIGEN,H/Y,0,1,0,hy
+54,2015-06-07,PURABIGEN,Resumption News after Record Date,0,0,0,resumption news after record date
+55,2015-06-04,PURABIGEN,Sale Confirmation by Sponsor/Director,0,0,0,sale confirmation by sponsordirector
+56,2015-06-04,PURABIGEN,Suspension News for Record Date,0,0,0,suspension news for record date
+57,2015-06-01,PURABIGEN,Spot News for AGM,0,1,0,spot news for agm
+58,2015-05-24,PURABIGEN,Declaration of sale by Sponsor/Director,0,0,1,declaration of sale by sponsordirector
+59,2015-05-17,PURABIGEN,Q1 Financials,0,0,0,q1 financials
+60,2015-05-11,PURABIGEN,Price Limit Open,1,0,1,price limit open
+61,2015-05-11,PURABIGEN,Dividend Declaration,1,0,1,dividend declaration
+62,2015-05-06,PURABIGEN, Board meeting,1,1,0,board meeting
+63,2014-11-02,PURABIGEN,Q3 earninsg,1,0,0,q3 earninsg
+64,2014-08-03,PURABIGEN,H/Y Earnings,0,0,0,hy earnings
+65,2014-07-20,PURABIGEN,credited the bonus shares,0,0,1,credited the bonus shares
+66,2014-05-21,PURABIGEN,trade resume,0,0,0,trade resume
+67,2014-05-20,PURABIGEN,trade suspension,0,0,0,trade suspension
+68,2014-05-18,PURABIGEN,Spot Market Transaction,0,0,0,spot market transaction
+69,2014-05-15,PURABIGEN,Q1 Earnings (Rectified),0,0,0,q1 earnings rectified
+70,2014-05-14,PURABIGEN,Q1 Earnings,0,0,0,q1 earnings
+71,2014-05-11,PURABIGEN,15% stock dividend,0,0,0,15 stock dividend
+72,2014-05-07,PURABIGEN,Board Meeting,0,0,0,board meeting
+73,2013-10-31,PURABIGEN,Q3 Earnings,0,0,0,q3 earnings
+74,2013-07-31,PURABIGEN,Q2 Earnings,0,0,0,q2 earnings
+75,2013-07-23,PURABIGEN,Bonus shares,0,1,0,bonus shares
+76,2013-05-21,PURABIGEN,Trade Resume after Record date,0,0,0,trade resume after record date
+77,2013-05-20,PURABIGEN,Trade Suspension on Record date,0,0,0,trade suspension on record date
+78,2013-05-16,PURABIGEN,Q1 Earnings,1,0,0,q1 earnings
+79,2013-05-15,PURABIGEN,Spot Market Trading,1,1,0,spot market trading
+80,2013-05-12,PURABIGEN,Corporate Declaration,1,1,1,corporate declaration
+81,2013-05-08,PURABIGEN,Board Meeting,0,0,0,board meeting
+82,2013-02-14,PURABIGEN,trade resume after record date,0,0,0,trade resume after record date
+83,2013-02-13,PURABIGEN,trade suspension on record date,1,0,0,trade suspension on record date
+84,2013-02-10,PURABIGEN,spot market trading,0,0,0,spot market trading
+85,2013-01-24,PURABIGEN,right issue record date,0,0,0,right issue record date
+86,2013-01-22,PURABIGEN,right issue approved,1,0,0,right issue approved
+87,2012-10-31,PURABIGEN,Q3 Earnings 2012,1,0,0,q3 earnings 2012
+88,2012-05-31,PURABIGEN,- Trading of the shares....,0,0,0,trading of the shares.
+89,2012-05-28,PURABIGEN,- The Company has informed...,0,1,1,the company has informed
+90,2012-05-28,PURABIGEN,- There will be no price..,0,1,1,there will be no price..
+91,2012-05-22,PURABIGEN,- Normal trading of the shares...,0,0,0,normal trading of the shares
+92,2012-05-22,PURABIGEN,- Al-Haj Md. Mockbul Hossain...,0,0,0,al-haj md. mockbul hossain
+93,2012-05-21,PURABIGEN,- Trading of the shares...,0,0,0,trading of the shares
+94,2012-05-14,PURABIGEN,- (Q1): As per audited quarterly accounts ...,1,0,1,q1: as per audited quarterly accounts
+95,2011-10-31,PURABIGEN,- As per un-audited...,0,0,0,as per un-audited
+96,2011-08-25,PURABIGEN,- The Company has informed...,1,0,0,the company has informed
+97,2011-08-01,PURABIGEN,- (H/Y): As per un-audited...,0,1,1,hy: as per un-audited
+98,2011-07-12,PURABIGEN,- In response to a DSE query...,0,0,1,in response to a dse query

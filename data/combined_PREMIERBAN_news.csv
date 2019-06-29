@@ -1,0 +1,152 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-23,PREMIERBAN,Resumption after record date,0,0,1,resumption after record date
+1,2019-04-21,PREMIERBAN,Suspension for Record Date,1,0,0,suspension for record date
+2,2019-04-17,PREMIERBAN,Spot News,1,1,0,spot news
+3,2019-04-01,PREMIERBAN,Price Limit Open,0,0,0,price limit open
+5,2019-04-01,PREMIERBAN,Dividend Declaration,0,0,0,dividend declaration
+6,2019-03-24,PREMIERBAN,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+7,2018-10-25,PREMIERBAN,Q3 Financials,0,0,0,q3 financials
+8,2018-10-21,PREMIERBAN,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+9,2018-07-31,PREMIERBAN,Q2 Financials,0,1,1,q2 financials
+11,2018-07-25,PREMIERBAN,Emphasis of Matter,0,0,0,emphasis of matter
+12,2018-07-25,PREMIERBAN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+13,2018-06-18,PREMIERBAN,Credit Rating Result,0,0,1,credit rating result
+14,2018-06-03,PREMIERBAN,Dividend Disbursement,0,0,0,dividend disbursement
+15,2018-05-10,PREMIERBAN,Q1 Financials,0,0,0,q1 financials
+16,2018-05-07,PREMIERBAN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+17,2018-04-30,PREMIERBAN,Appointment of Managing Director and CEO,0,0,0,appointment of managing director and ceo
+18,2018-04-30,PREMIERBAN,Appointment of Managing Director and CEO,0,0,0,appointment of managing director and ceo
+19,2018-04-25,PREMIERBAN,Resumption after record date,0,0,0,resumption after record date
+20,2018-04-24,PREMIERBAN,Suspension for Record Date,0,0,0,suspension for record date
+21,2018-04-22,PREMIERBAN,Spot News,0,0,0,spot news
+22,2018-04-05,PREMIERBAN,Price Limit Open,0,0,0,price limit open
+24,2018-04-05,PREMIERBAN,Dividend Declaration,0,0,0,dividend declaration
+25,2018-03-28,PREMIERBAN,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+26,2017-10-29,PREMIERBAN,Q3 Financials,1,0,0,q3 financials
+27,2017-10-24,PREMIERBAN,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+28,2017-08-23,PREMIERBAN,Dividend Disbursement,0,1,0,dividend disbursement
+29,2017-08-01,PREMIERBAN,Dividend Disbursement,1,1,0,dividend disbursement
+30,2017-07-27,PREMIERBAN,Q2 Financials,1,0,0,q2 financials
+31,2017-07-23,PREMIERBAN,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+32,2017-07-09,PREMIERBAN,Information for Margin Account Holder,1,1,0,information for margin account holder
+33,2017-06-20,PREMIERBAN,Credit Rating Result,0,1,1,credit rating result
+34,2017-05-25,PREMIERBAN,Resumption after Record Date,0,0,0,resumption after record date
+35,2017-05-24,PREMIERBAN,Suspension for Record Date,0,0,0,suspension for record date
+36,2017-05-23,PREMIERBAN,Buy confirmation of a Director,1,0,0,buy confirmation of a director
+37,2017-05-22,PREMIERBAN,Spot News,1,1,0,spot news
+38,2017-05-14,PREMIERBAN,Buy declaration of a Director,0,0,0,buy declaration of a director
+39,2017-05-14,PREMIERBAN,Q1 Financials,0,0,0,q1 financials
+40,2017-05-07,PREMIERBAN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+41,2017-04-27,PREMIERBAN,Price Limit Open,0,0,0,price limit open
+43,2017-04-27,PREMIERBAN,Dividend Declaration,0,0,0,dividend declaration
+44,2017-04-19,PREMIERBAN,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+45,2016-12-22,PREMIERBAN,Consent from BSEC for issuance,0,0,0,consent from bsec for issuance
+46,2016-11-06,PREMIERBAN,Buy Confirmatio,0,0,0,buy confirmatio
+47,2016-11-02,PREMIERBAN,Confirmation of sale,1,1,0,confirmation of sale
+48,2016-11-01,PREMIERBAN,Confirmation of sale by a Sponsor,0,1,1,confirmation of sale by a sponsor
+49,2016-10-31,PREMIERBAN,Declaration of sale,1,0,1,declaration of sale
+50,2016-10-31,PREMIERBAN,Buy Declaration,1,0,1,buy declaration
+51,2016-10-31,PREMIERBAN,Q3 Financials,1,0,1,q3 financials
+52,2016-10-27,PREMIERBAN,Confirmation of Transfer by a Sponsor,0,0,0,confirmation of transfer by a sponsor
+53,2016-10-26,PREMIERBAN,Declaration of sale by a Sponsor,0,0,0,declaration of sale by a sponsor
+54,2016-10-25,PREMIERBAN,Declaration of Transfer by a Sponsor,0,0,0,declaration of transfer by a sponsor
+55,2016-10-25,PREMIERBAN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+56,2016-09-06,PREMIERBAN,Issuance of additional Non-Convertible Subordinated Bond,0,0,1,issuance of additional non-convertible subordinated bond
+57,2016-07-31,PREMIERBAN,Q2 Financials,0,0,0,q2 financials
+58,2016-07-26,PREMIERBAN,Board Meeting,0,1,1,board meeting
+59,2016-06-23,PREMIERBAN,Credit Rating Result,1,0,0,credit rating result
+60,2016-06-20,PREMIERBAN, Increasing Paid up and Authorized Capital of Subsidiary Company,0,0,0,increasing paid up and authorized capital of subsidiary company
+61,2016-06-20,PREMIERBAN,Dividend Disbursement,0,0,0,dividend disbursement
+62,2016-05-18,PREMIERBAN,Suspension for Record date,1,0,0,suspension for record date
+63,2016-05-16,PREMIERBAN,Spot News,0,0,1,spot news
+64,2016-05-16,PREMIERBAN,Confirmation of sale by an Independent Director,0,0,1,confirmation of sale by an independent director
+65,2016-05-12,PREMIERBAN,Q1,0,0,0,q1
+66,2016-05-09,PREMIERBAN,Board Meeting,1,0,0,board meeting
+67,2016-05-08,PREMIERBAN,Declaration of sale by an Independent Director,0,1,0,declaration of sale by an independent director
+68,2016-04-28,PREMIERBAN,Price Limit Open,0,0,0,price limit open
+69,2016-04-28,PREMIERBAN,Dividend Declaration,0,0,0,dividend declaration
+70,2016-04-26,PREMIERBAN,Issuance of additional Non-Convertible Subordinated Bond,0,1,0,issuance of additional non-convertible subordinated bond
+71,2016-04-26,PREMIERBAN,Reschedule of Board Meeting under LR 19(1),0,1,0,reschedule of board meeting under lr 191
+72,2016-04-20,PREMIERBAN,Board Meeting,1,0,0,board meeting
+73,2015-12-02,PREMIERBAN,Consent of BSEC for issuing Non Convertible Subordinated Bond,0,0,0,consent of bsec for issuing non convertible subordinated bond
+74,2015-11-08,PREMIERBAN,Buy confirmation,0,1,0,buy confirmation
+75,2015-11-03,PREMIERBAN,Issuance of additional Subordinated Bond,0,0,0,issuance of additional subordinated bond
+76,2015-10-28,PREMIERBAN,Q3 Financials,0,0,0,q3 financials
+77,2015-10-05,PREMIERBAN,Buy Declaration,1,0,0,buy declaration
+78,2015-08-02,PREMIERBAN,Q2 Financials,1,1,0,q2 financials
+79,2015-07-08,PREMIERBAN,Dividend Disbursement,1,1,0,dividend disbursement
+80,2015-07-02,PREMIERBAN,Credit Rating Result,1,0,0,credit rating result
+81,2015-05-17,PREMIERBAN,Q1 Financials,1,1,1,q1 financials
+82,2015-05-14,PREMIERBAN,Resumption News after Record Date,0,0,0,resumption news after record date
+83,2015-05-13,PREMIERBAN,Suspension News for Record Date for EGM & AGM,1,0,0,suspension news for record date for egm  agm
+84,2015-05-11,PREMIERBAN,Spot News for AGM & EGM,1,0,1,spot news for agm  egm
+85,2015-05-04,PREMIERBAN,no price limit today,0,1,1,no price limit today
+86,2015-05-04,PREMIERBAN,Dividend,0,1,1,dividend
+87,2015-04-27,PREMIERBAN,Board Meeting,1,0,1,board meeting
+88,2015-03-29,PREMIERBAN,Floor Purchase,1,1,0,floor purchase
+89,2015-02-15,PREMIERBAN,Appointment of Managing Director,0,1,1,appointment of managing director
+90,2014-11-03,PREMIERBAN,Sponsors Buy/Sell/Transfer,0,0,0,sponsors buyselltransfer
+91,2014-10-30,PREMIERBAN,Sponsor/Director Share Transfer,1,0,0,sponsordirector share transfer
+92,2014-10-30,PREMIERBAN,Q3 Earnings,1,0,0,q3 earnings
+93,2014-10-29,PREMIERBAN,Sponsor/Director Share Sale,1,1,0,sponsordirector share sale
+94,2014-07-24,PREMIERBAN,H/Y Earnings,0,0,0,hy earnings
+95,2014-07-10,PREMIERBAN,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+96,2014-06-29,PREMIERBAN,Sponsor/Director Share Sale,1,1,0,sponsordirector share sale
+97,2014-06-24,PREMIERBAN,Sponsors has intention to sell share,1,0,0,sponsors has intention to sell share
+98,2014-06-24,PREMIERBAN,Sponsors has completed sale share,1,0,0,sponsors has completed sale share
+99,2014-06-24,PREMIERBAN,Sponsor/Director Share Sale,1,0,0,sponsordirector share sale
+100,2014-06-22,PREMIERBAN,Sponsor/Director Share Sale,0,1,1,sponsordirector share sale
+101,2014-06-18,PREMIERBAN,Credit Ratings Report,0,0,0,credit ratings report
+102,2014-06-16,PREMIERBAN,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+103,2014-06-15,PREMIERBAN,credited the bonus shares,0,0,0,credited the bonus shares
+104,2014-06-09,PREMIERBAN,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+105,2014-05-12,PREMIERBAN,Q1 Earning,1,0,0,q1 earning
+106,2014-05-11,PREMIERBAN,will resum after record date.,0,1,0,will resum after record date.
+107,2014-05-08,PREMIERBAN,trade suspension,0,0,0,trade suspension
+108,2014-05-06,PREMIERBAN,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+109,2014-04-29,PREMIERBAN,no price limit,0,0,0,no price limit
+110,2014-04-29,PREMIERBAN,Dividend Declaration,0,0,0,dividend declaration
+111,2014-04-27,PREMIERBAN,Board Meeting,0,1,0,board meeting
+112,2013-12-26,PREMIERBAN,purpose of Bond issue,0,0,0,purpose of bond issue
+113,2013-12-24,PREMIERBAN,issuing Non-Convertible Variable Coupon Rate Bond,0,0,0,issuing non-convertible variable coupon rate bond
+114,2013-10-31,PREMIERBAN,Q3 Earnings,1,0,0,q3 earnings
+115,2013-09-19,PREMIERBAN,EGM,0,0,0,egm
+116,2013-09-12,PREMIERBAN,trade resume after record date,0,0,0,trade resume after record date
+117,2013-09-11,PREMIERBAN,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+118,2013-09-08,PREMIERBAN,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+119,2013-09-05,PREMIERBAN,Bond Issue,0,0,0,bond issue
+120,2013-07-30,PREMIERBAN,Q2 Earnings,0,0,0,q2 earnings
+121,2013-06-04,PREMIERBAN,Credit Rating,0,0,0,credit rating
+122,2013-05-09,PREMIERBAN,Bonus Share,1,0,0,bonus share
+123,2013-04-17,PREMIERBAN,Trade suspension on record date,0,0,0,trade suspension on record date
+124,2013-04-11,PREMIERBAN,Spot Market Trading,0,0,0,spot market trading
+125,2013-04-10,PREMIERBAN,Corporate Declaration,1,0,0,corporate declaration
+126,2013-04-08,PREMIERBAN,Board meeting,1,1,1,board meeting
+127,2012-11-11,PREMIERBAN,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+128,2012-09-27,PREMIERBAN,sponsor share buy completed,0,0,0,sponsor share buy completed
+129,2012-07-23,PREMIERBAN, - Mrs. Ferdous Amin...,0,0,0,mrs. ferdous amin
+130,2012-07-18,PREMIERBAN,- Mrs. Ferdous Amin...,1,1,0,mrs. ferdous amin
+131,2012-07-03,PREMIERBAN,- The National Credit Ratings...,0,0,0,the national credit ratings
+132,2012-05-24,PREMIERBAN,- Mr. Moin Iqbal...,0,0,0,mr. moin iqbal
+133,2012-05-24,PREMIERBAN,- Mr. Mohammad Imran Iqbal...,0,0,0,mr. mohammad imran iqbal
+134,2012-05-24,PREMIERBAN,- Mr. Shah Mohammed Nahyan Haroon...,0,0,0,mr. shah mohammed nahyan haroon
+135,2012-05-24,PREMIERBAN,- Mr. Shah Mohammed Adnan Haroon...,0,0,0,mr. shah mohammed adnan haroon
+136,2012-05-24,PREMIERBAN,- Mr. Shafiqur Rahman...,0,0,0,mr. shafiqur rahman
+137,2012-04-29,PREMIERBAN,- Mr. Shafiqur Rahman...,0,1,0,mr. shafiqur rahman
+138,2012-04-25,PREMIERBAN,- Mrs. Nawrin Iqbal...,0,0,0,mrs. nawrin iqbal
+139,2012-04-23,PREMIERBAN,,0,0,0,
+140,2012-04-16,PREMIERBAN,- Mr. Shafiqur Rahman...,0,1,0,mr. shafiqur rahman
+141,2012-04-16,PREMIERBAN,- Mrs. Nawrin Iqbal...,0,1,0,mrs. nawrin iqbal
+142,2012-04-09,PREMIERBAN,- Mrs. Nawrin Iqbal...,0,1,0,mrs. nawrin iqbal
+143,2012-04-09,PREMIERBAN,- Mr. Shafiqur Rahman...,0,1,0,mr. shafiqur rahman
+144,2012-03-29,PREMIERBAN,- Normal trading of the shares...,0,0,0,normal trading of the shares
+145,2012-03-28,PREMIERBAN,- Trading of the shares...,0,0,0,trading of the shares
+146,2012-03-28,PREMIERBAN,- Mrs. Nawrin Iqbal...,0,0,0,mrs. nawrin iqbal
+147,2012-03-22,PREMIERBAN,- Trading of the shares...,1,0,0,trading of the shares
+148,2012-03-19,PREMIERBAN,- The Board of Directors...,0,1,0,the board of directors
+149,2012-03-19,PREMIERBAN,- There will be no price limit...,0,1,0,there will be no price limit
+150,2012-01-01,PREMIERBAN,- The Premier Bank Ltd....,1,0,0,the premier bank ltd.
+151,2011-10-30,PREMIERBAN,- As per un-audited...,0,0,1,as per un-audited
+152,2011-10-09,PREMIERBAN,- The Bank has informed...,0,0,0,the bank has informed
+153,2011-07-28,PREMIERBAN,- (H/Y): As per un-audited...,0,0,0,hy: as per un-audited
+154,2011-07-24,PREMIERBAN,- In response to a DSE query...,1,0,0,in response to a dse query

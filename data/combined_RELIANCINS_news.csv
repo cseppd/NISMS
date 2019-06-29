@@ -1,0 +1,102 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-28,RELIANCINS,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+1,2019-04-23,RELIANCINS,Dividend Disbursement,0,1,1,dividend disbursement
+2,2019-03-13,RELIANCINS,Resumption after record date,0,1,0,resumption after record date
+3,2019-03-12,RELIANCINS,Suspension for Record date,0,0,1,suspension for record date
+4,2019-03-10,RELIANCINS,Spot News,1,1,0,spot news
+5,2019-02-20,RELIANCINS,Update of Information,0,0,0,update of information
+6,2019-02-20,RELIANCINS,Price Limit Open,0,0,0,price limit open
+8,2019-02-20,RELIANCINS,Dividend Declaration,0,0,0,dividend declaration
+9,2019-02-12,RELIANCINS,Board Meeting schedule under LR 19(1),0,1,1,board meeting schedule under lr 191
+10,2019-01-20,RELIANCINS,Revaluation of Properties,0,0,0,revaluation of properties
+11,2018-12-24,RELIANCINS,Credit Rating Result,0,0,0,credit rating result
+12,2018-10-29,RELIANCINS,Q3 Financials,0,0,0,q3 financials
+13,2018-10-23,RELIANCINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+14,2018-07-30,RELIANCINS,Q2 Financials,1,0,1,q2 financials
+15,2018-07-23,RELIANCINS,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+16,2018-05-14,RELIANCINS,Q1 Financials,1,0,1,q1 financials
+17,2018-05-07,RELIANCINS,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+18,2018-04-23,RELIANCINS,Dividend Disbursement,1,1,1,dividend disbursement
+19,2018-03-12,RELIANCINS,Resumption after record date,0,1,1,resumption after record date
+20,2018-03-11,RELIANCINS,Suspension for Record Date,0,0,1,suspension for record date
+21,2018-03-07,RELIANCINS,Spot News,0,0,0,spot news
+22,2018-02-19,RELIANCINS,Furnishing 12 digits e-TIN Number,1,0,0,furnishing 12 digits e-tin number
+23,2018-02-19,RELIANCINS,Price Limit Open,1,0,0,price limit open
+24,2018-02-19,RELIANCINS,Dividend Declaration,1,0,0,dividend declaration
+25,2018-02-08,RELIANCINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+26,2017-12-04,RELIANCINS,Credit Rating Result,1,1,1,credit rating result
+27,2017-10-24,RELIANCINS,Q3 Financials,1,0,0,q3 financials
+28,2017-10-17,RELIANCINS,RELIANCINS Board Meeting schedule under LR 16(1),1,1,1,reliancins board meeting schedule under lr 161
+29,2017-07-25,RELIANCINS,Q2 Financials,0,0,0,q2 financials
+30,2017-07-18,RELIANCINS,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+31,2017-05-24,RELIANCINS,Dividend Disbursement,0,0,0,dividend disbursement
+32,2017-05-02,RELIANCINS,Q1 Financials,0,0,1,q1 financials
+33,2017-04-25,RELIANCINS,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+34,2017-03-16,RELIANCINS,Resumption after record date,0,0,0,resumption after record date
+35,2017-03-15,RELIANCINS,Suspension for Record Date,0,0,0,suspension for record date
+36,2017-03-13,RELIANCINS,Spot News,1,0,0,spot news
+37,2017-02-26,RELIANCINS,Floor Space Purchase,1,0,0,floor space purchase
+38,2017-02-26,RELIANCINS,Furnishing 12 digit e-TIN,1,0,0,furnishing 12 digit e-tin
+39,2017-02-26,RELIANCINS,Dividend Declaration,1,0,0,dividend declaration
+40,2017-02-26,RELIANCINS,Price Limit Open,1,0,0,price limit open
+41,2016-10-26,RELIANCINS,Credit Rating Result,0,0,0,credit rating result
+42,2016-10-24,RELIANCINS,Q3 Financials,0,1,0,q3 financials
+43,2016-10-17,RELIANCINS,Board Meeting,0,1,1,board meeting
+44,2016-07-25,RELIANCINS,Q2 Financials,0,1,1,q2 financials
+45,2016-07-18,RELIANCINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+46,2016-05-02,RELIANCINS,Q1 Financials,0,0,0,q1 financials
+47,2016-04-25,RELIANCINS,Board Meeting,1,0,0,board meeting
+48,2016-04-24,RELIANCINS,Dividend Disbursement,1,1,0,dividend disbursement
+49,2016-03-08,RELIANCINS,Resumption after Record,0,0,0,resumption after record
+50,2016-03-07,RELIANCINS,Suspension for Record,0,0,0,suspension for record
+51,2016-03-03,RELIANCINS,Spot for AGM,1,0,0,spot for agm
+52,2016-02-16,RELIANCINS,Price Limit Open,0,0,1,price limit open
+53,2016-02-16,RELIANCINS,Dividend Declaration,0,0,1,dividend declaration
+54,2015-10-29,RELIANCINS,Credit Rating Result,1,0,0,credit rating result
+55,2015-10-27,RELIANCINS,Q3 Financials,1,0,1,q3 financials
+56,2015-10-19,RELIANCINS,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+57,2015-07-14,RELIANCINS,Half Yearly Financials,0,0,0,half yearly financials
+58,2015-05-21,RELIANCINS,Dividend Disbursement,1,0,0,dividend disbursement
+59,2015-05-04,RELIANCINS,Q1,0,0,1,q1
+60,2015-03-19,RELIANCINS,Resumption News after Record Date,0,0,0,resumption news after record date
+61,2015-03-18,RELIANCINS,Suspension News for Record date,0,0,0,suspension news for record date
+62,2015-03-15,RELIANCINS,Spot News for AGM,0,1,0,spot news for agm
+63,2015-03-09,RELIANCINS,Price Limit Open,0,0,0,price limit open
+64,2015-03-09,RELIANCINS,Dividend Declaration,0,0,0,dividend declaration
+65,2015-03-03,RELIANCINS,Board Meeting,0,0,1,board meeting
+66,2014-10-23,RELIANCINS,Q3 Earning,0,0,0,q3 earning
+67,2014-10-01,RELIANCINS,Credit Rating,0,0,0,credit rating
+68,2014-07-21,RELIANCINS,H/Y Earnings,0,1,0,hy earnings
+69,2014-05-04,RELIANCINS,Q1 Earning,1,0,1,q1 earning
+70,2014-04-22,RELIANCINS,Dividend distribution notification,0,0,0,dividend distribution notification
+71,2014-03-05,RELIANCINS,trade resume,0,0,0,trade resume
+72,2014-03-04,RELIANCINS,trade suspension,1,0,0,trade suspension
+73,2014-02-27,RELIANCINS,Spot Market transactions,0,0,0,spot market transactions
+74,2014-02-24,RELIANCINS,no price limit,0,0,0,no price limit
+75,2014-02-24,RELIANCINS,recommended 15% cash and 15% stock dividend,0,0,0,recommended 15 cash and 15 stock dividend
+76,2014-02-17,RELIANCINS,Board Meeting,0,0,0,board meeting
+77,2013-08-01,RELIANCINS,CPA Rating,0,0,0,cpa rating
+78,2013-07-28,RELIANCINS,Q2 Earnings,1,1,0,q2 earnings
+79,2013-05-20,RELIANCINS,Credited Bonus Share,0,0,1,credited bonus share
+80,2013-05-13,RELIANCINS,Q1 Earnings,0,1,1,q1 earnings
+81,2013-04-03,RELIANCINS,trade resume after record date,0,0,0,trade resume after record date
+82,2013-04-02,RELIANCINS,trade suspension on record date,0,0,0,trade suspension on record date
+83,2013-03-28,RELIANCINS,spot market trading,0,0,0,spot market trading
+84,2013-03-24,RELIANCINS,Corporate declaration,0,0,0,corporate declaration
+85,2013-03-24,RELIANCINS,no price limit,0,0,0,no price limit
+86,2013-03-21,RELIANCINS,no price limit,0,0,0,no price limit
+87,2013-03-21,RELIANCINS,Corporate declaration,0,0,0,corporate declaration
+88,2013-03-14,RELIANCINS,Board Meeting,1,0,0,board meeting
+89,2012-10-22,RELIANCINS,Q3 Earnings 2012,0,1,0,q3 earnings 2012
+90,2012-07-26,RELIANCINS,- As per un-audited half yearly accounts...,1,0,0,as per un-audited half yearly accounts
+91,2012-05-24,RELIANCINS,- The Company has informed....,0,0,0,the company has informed.
+92,2012-05-13,RELIANCINS,- (Q1): As per un-audited quarterly accounts...,0,1,1,q1: as per un-audited quarterly accounts
+93,2012-03-29,RELIANCINS,- Normal trading of the shares...,0,0,0,normal trading of the shares
+94,2012-03-28,RELIANCINS,- Trading of the shares...,1,0,0,trading of the shares
+95,2012-03-22,RELIANCINS,- Trading of the shares...,0,0,0,trading of the shares
+96,2012-03-18,RELIANCINS,- The Board of Directors...,0,1,1,the board of directors
+97,2011-12-22,RELIANCINS,- The Company has informed...,0,0,0,the company has informed
+98,2011-10-27,RELIANCINS,- As per un-audited...,0,0,0,as per un-audited
+99,2011-09-25,RELIANCINS,- The Company has informed...,0,0,1,the company has informed
+100,2011-07-31,RELIANCINS,- (H/Y): As per un-audited...,0,0,0,hy: as per un-audited
+101,2011-07-21,RELIANCINS,- R. R. Cold Storage Limited...,0,0,0,r. r. cold storage limited

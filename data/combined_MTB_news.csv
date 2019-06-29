@@ -1,0 +1,178 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,MTB,Price Limit Open,1,0,0,price limit open
+2,2019-04-30,MTB,Dividend Declaration,1,0,0,dividend declaration
+3,2019-04-21,MTB,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+4,2018-10-31,MTB,Declaration of share receipt by a Sponsor Director,0,1,0,declaration of share receipt by a sponsor director
+5,2018-10-31,MTB,Q3 Financials,0,1,0,q3 financials
+6,2018-10-30,MTB,Declaration of share receipt by a Sponsor Director,1,0,1,declaration of share receipt by a sponsor director
+7,2018-10-29,MTB,Buy confirmation of a Director,1,1,0,buy confirmation of a director
+8,2018-10-25,MTB,Declaration of share receipt by a Sponsor Director,1,0,0,declaration of share receipt by a sponsor director
+9,2018-10-23,MTB,Buy confirmation of a Sponsor Director,0,0,1,buy confirmation of a sponsor director
+10,2018-10-21,MTB,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+11,2018-10-21,MTB,Buy Confirmation of a Director,0,0,0,buy confirmation of a director
+12,2018-10-21,MTB,Buy declaration of a Director,0,0,0,buy declaration of a director
+13,2018-10-18,MTB,Buy confirmation of a Sponsor Director,0,0,0,buy confirmation of a sponsor director
+14,2018-10-18,MTB,Buy confirmation of a Sponsor Director,0,0,0,buy confirmation of a sponsor director
+15,2018-10-18,MTB,Buy declaration of a Sponsor Director,0,0,0,buy declaration of a sponsor director
+16,2018-10-18,MTB,Declaration of share receipt by a Director,0,0,0,declaration of share receipt by a director
+17,2018-10-16,MTB,Buy confirmation of a Sponsor Director,0,0,0,buy confirmation of a sponsor director
+18,2018-10-15,MTB,Buy confirmation of a Director,0,0,0,buy confirmation of a director
+19,2018-10-15,MTB,Buy declaration of a Sponsor Director,0,0,0,buy declaration of a sponsor director
+20,2018-10-15,MTB,Buy declaration of a Director,0,0,0,buy declaration of a director
+21,2018-10-11,MTB,Buy declaration of a Sponsor Director,1,0,0,buy declaration of a sponsor director
+22,2018-10-10,MTB,Resumption after Record Date,0,1,0,resumption after record date
+23,2018-10-09,MTB,Suspension for Record Date,0,0,1,suspension for record date
+24,2018-10-08,MTB,Buy confirmation of a Director,0,0,0,buy confirmation of a director
+25,2018-10-08,MTB,Buy declaration of a Director,0,0,0,buy declaration of a director
+26,2018-10-07,MTB,Spot News for EGM,1,0,0,spot news for egm
+27,2018-10-03,MTB,Buy declaration of a Sponsor Director,1,1,0,buy declaration of a sponsor director
+28,2018-10-02,MTB,Buy confirmation of a Sponsor Director,1,1,1,buy confirmation of a sponsor director
+29,2018-10-02,MTB,Buy confirmation of a Sponsor Director,1,1,1,buy confirmation of a sponsor director
+30,2018-10-02,MTB,Buy declaration of a Sponsor Director,1,1,1,buy declaration of a sponsor director
+31,2018-10-02,MTB,Buy confirmation of a Sponsor Director,1,1,1,buy confirmation of a sponsor director
+32,2018-10-02,MTB,Buy declaration of a Sponsor Director,1,1,1,buy declaration of a sponsor director
+33,2018-09-27,MTB,Buy declaration of a Director,0,0,0,buy declaration of a director
+34,2018-09-25,MTB,Buy declaration of a Sponsor Director,1,1,0,buy declaration of a sponsor director
+37,2018-09-20,MTB,Issuance of fresh equity and changes in Articles of Association,1,0,0,issuance of fresh equity and changes in articles of association
+38,2018-09-13,MTB,Buy Confirmation of a Director,0,0,0,buy confirmation of a director
+39,2018-09-03,MTB,Buy Declaration of a Director,1,0,0,buy declaration of a director
+40,2018-08-30,MTB,Buy Confirmation of a Sponsor Director,1,0,0,buy confirmation of a sponsor director
+41,2018-08-28,MTB,Buy Confirmation of a Sponsor Director,1,0,1,buy confirmation of a sponsor director
+42,2018-08-20,MTB,Buy declaration of a Sponsor Director,1,0,0,buy declaration of a sponsor director
+43,2018-08-14,MTB,Buy Declaration of a Sponsor Director,0,0,0,buy declaration of a sponsor director
+44,2018-08-07,MTB,Buy Confirmation of a Sponsor Director,1,1,0,buy confirmation of a sponsor director
+45,2018-08-05,MTB,Buy Declaration of a Sponsor Director,1,1,1,buy declaration of a sponsor director
+46,2018-08-01,MTB,Buy confirmation of a Sponsor Director,1,1,0,buy confirmation of a sponsor director
+47,2018-07-26,MTB,Buy confirmation of a Corporate Director,0,0,0,buy confirmation of a corporate director
+49,2018-07-26,MTB,Q2 Financials,0,0,0,q2 financials
+50,2018-07-19,MTB,Buy declaration of a Sponsor Director,0,0,0,buy declaration of a sponsor director
+51,2018-07-19,MTB,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+52,2018-07-08,MTB,Buy declaration of a Corporate Director,1,1,1,buy declaration of a corporate director
+53,2018-06-24,MTB,Buy confirmation of a Sponsor Director,0,1,1,buy confirmation of a sponsor director
+54,2018-06-19,MTB,Buy confirmation of a Sponsor Director,0,1,0,buy confirmation of a sponsor director
+55,2018-06-18,MTB,Buy declaration of a Sponsor Director,1,0,1,buy declaration of a sponsor director
+56,2018-06-07,MTB,Buy confirmation of a Sponsor Director,1,0,0,buy confirmation of a sponsor director
+57,2018-06-06,MTB,Sale confirmation of a Sponsor,1,1,0,sale confirmation of a sponsor
+58,2018-06-06,MTB,Dividend Disbursement,1,1,0,dividend disbursement
+59,2018-06-06,MTB,Buy declaration of a Sponsor Director,1,1,0,buy declaration of a sponsor director
+60,2018-06-04,MTB,Buy Confirmation of a Director,1,0,1,buy confirmation of a director
+61,2018-06-03,MTB,Buy Confirmation of a Sponsor Director,1,1,0,buy confirmation of a sponsor director
+62,2018-06-03,MTB,Elected Chairman and Vice Chairman,1,1,0,elected chairman and vice chairman
+63,2018-05-31,MTB,Buy Confirmation of a Sponsor Director,0,0,0,buy confirmation of a sponsor director
+64,2018-05-30,MTB,Buy Declaration of a Sponsor Director,1,0,0,buy declaration of a sponsor director
+65,2018-05-29,MTB,Buy Declarations of Sponsor Director,1,1,0,buy declarations of sponsor director
+66,2018-05-27,MTB,Sale Declaration of a Sponsor,1,1,1,sale declaration of a sponsor
+67,2018-05-17,MTB,Buy declaration of a Sponsor Director,1,0,0,buy declaration of a sponsor director
+68,2018-05-14,MTB,Buy Confirmation of a Corporate Director,0,0,0,buy confirmation of a corporate director
+69,2018-05-10,MTB,Resumption after record date,0,0,0,resumption after record date
+70,2018-05-09,MTB,Suspension for Record Date,1,0,0,suspension for record date
+71,2018-05-07,MTB,Spot News,0,0,1,spot news
+72,2018-05-06,MTB,Buy confirmation of a Corporate Director,1,0,0,buy confirmation of a corporate director
+73,2018-05-06,MTB,Buy declaration of a Corporate Director,1,0,0,buy declaration of a corporate director
+74,2018-04-30,MTB,Buy declaration of a Corporate Director,1,0,0,buy declaration of a corporate director
+75,2018-04-26,MTB,Q1 Financials,1,0,0,q1 financials
+76,2018-04-22,MTB,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+77,2018-04-18,MTB,Price Limit Open,1,1,0,price limit open
+79,2018-04-18,MTB,Dividend Declaration,1,1,0,dividend declaration
+80,2018-04-12,MTB,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+81,2018-02-08,MTB,Withdrawal of Authorized Representative,1,0,0,withdrawal of authorized representative
+82,2018-01-08,MTB,Withdrawal of Authorized Representative,0,1,0,withdrawal of authorized representative
+83,2017-10-30,MTB,Q3 Financials,0,0,1,q3 financials
+84,2017-10-25,MTB,Sale Confirmation of a Corporate Director,1,1,0,sale confirmation of a corporate director
+85,2017-10-23,MTB,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+86,2017-10-19,MTB,Sale confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+87,2017-10-15,MTB,Query Response,1,1,1,query response
+88,2017-10-12,MTB,Sale declaration of a Sponsor,1,0,0,sale declaration of a sponsor
+89,2017-10-11,MTB,Sale declaration of a Corporate Director,1,1,0,sale declaration of a corporate director
+90,2017-08-21,MTB,Buy confirmation of a Nominated Director,1,1,0,buy confirmation of a nominated director
+91,2017-08-02,MTB,Buy declaration of a Nominated Director,1,0,0,buy declaration of a nominated director
+92,2017-08-01,MTB,Dividend Disbursement,1,1,0,dividend disbursement
+93,2017-07-31,MTB,Q2 Financials,1,1,1,q2 financials
+94,2017-07-24,MTB,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+95,2017-07-11,MTB,Revised date and time of AGM,1,0,1,revised date and time of agm
+96,2017-07-02,MTB,Sale confirmation of a Sponsor,0,1,0,sale confirmation of a sponsor
+97,2017-06-18,MTB,Buy confirmation of a Director,0,0,0,buy confirmation of a director
+98,2017-06-15,MTB,Sale declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+99,2017-06-13,MTB,Buy declaration of a Nominated Director,1,1,0,buy declaration of a nominated director
+100,2017-06-12,MTB,AGM Postponed,0,1,1,agm postponed
+101,2017-05-31,MTB,Resumption after Record Date,0,1,0,resumption after record date
+102,2017-05-30,MTB,Suspension for Record Date,0,0,1,suspension for record date
+103,2017-05-28,MTB,Spot News,1,0,0,spot news
+104,2017-05-16,MTB,Credit Rating Result,0,0,1,credit rating result
+105,2017-05-07,MTB,Q1 Financials,0,0,1,q1 financials
+106,2017-04-27,MTB,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+107,2017-04-25,MTB,Price Limit Open,1,1,1,price limit open
+108,2017-04-25,MTB,Dividend Declaration,1,1,1,dividend declaration
+109,2017-04-16,MTB,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+110,2016-11-23,MTB,Consent from BSEC for issuance of Non-Convertible Subordinated Bond,1,0,0,consent from bsec for issuance of non-convertible subordinated bond
+111,2016-10-30,MTB,Buy Confirmation,0,0,1,buy confirmation
+112,2016-10-25,MTB,Q3 Financials,0,0,0,q3 financials
+113,2016-10-20,MTB,Board Meeting,0,0,0,board meeting
+114,2016-10-04,MTB,Buy Declaration of a Corporate Director,1,0,0,buy declaration of a corporate director
+115,2016-09-26,MTB,Corporate Director sale,1,1,0,corporate director sale
+116,2016-09-19,MTB,Confirmation of sale by a Sponsor,1,1,1,confirmation of sale by a sponsor
+117,2016-09-08,MTB,Confirmation of sale by a Sponsor,1,0,0,confirmation of sale by a sponsor
+118,2016-09-05,MTB,Declaration of sale by a Sponsor,1,0,1,declaration of sale by a sponsor
+119,2016-09-05,MTB,Declaration of sale by a Corporate Director,1,0,1,declaration of sale by a corporate director
+120,2016-08-31,MTB,Confirmation of sale by a Sponsor,0,0,0,confirmation of sale by a sponsor
+121,2016-08-23,MTB, Declaration of sale by a Sponsor,0,1,0,declaration of sale by a sponsor
+122,2016-07-31,MTB,Q2 Financials,0,1,1,q2 financials
+123,2016-07-31,MTB,Issuance of Subordinated,0,1,1,issuance of subordinated
+124,2016-07-24,MTB,Board Meeting,1,1,0,board meeting
+125,2016-05-17,MTB,Credit Rating Result,1,1,1,credit rating result
+126,2016-05-04,MTB,Stock Dividend Disbursement,1,1,0,stock dividend disbursement
+127,2016-05-03,MTB,Buy Confirmation by a Nominated Director,1,1,1,buy confirmation by a nominated director
+128,2016-04-25,MTB,Board Meeting,1,0,0,board meeting
+129,2016-04-19,MTB,Buy Declaration of a nominated Director,0,1,1,buy declaration of a nominated director
+130,2016-04-05,MTB,Resumption after Record,0,1,0,resumption after record
+131,2016-04-04,MTB,Suspension for Record date,1,0,1,suspension for record date
+132,2016-03-31,MTB,Spot for AGM,1,0,0,spot for agm
+133,2016-03-16,MTB,Price Limit Open,1,0,0,price limit open
+134,2016-03-16,MTB,Dividend Declaration,1,0,0,dividend declaration
+135,2016-03-08,MTB,Board Meeting,1,0,1,board meeting
+136,2016-02-28,MTB,Election of Chairman and Vice Chairman,0,1,0,election of chairman and vice chairman
+137,2015-11-01,MTB,Buy Confirmation,0,1,1,buy confirmation
+138,2015-11-01,MTB,Confirmation of sale,0,1,1,confirmation of sale
+139,2015-10-25,MTB,Confirmation of sale by a Sponsor,0,0,1,confirmation of sale by a sponsor
+140,2015-10-21,MTB,Declaration of sale by a Sponsor,1,0,0,declaration of sale by a sponsor
+141,2015-10-19,MTB,Q3 Financials,1,1,1,q3 financials
+142,2015-10-15,MTB,Declaration of sale by a Sponsor,0,0,0,declaration of sale by a sponsor
+143,2015-10-04,MTB,Buy Declaration,1,1,1,buy declaration
+144,2015-09-01,MTB,Confirmation of sale by a Sponsor,1,0,0,confirmation of sale by a sponsor
+145,2015-08-30,MTB,Buy Confirmation of a Nominated Director,1,1,1,buy confirmation of a nominated director
+146,2015-08-25,MTB,Subordinated Bond,1,0,1,subordinated bond
+147,2015-08-09,MTB,Declaration of sale,1,1,0,declaration of sale
+148,2015-08-02,MTB,Q2 Financials,0,1,0,q2 financials
+149,2015-05-31,MTB,Buy confirmation of Sponsor,0,1,0,buy confirmation of sponsor
+150,2015-05-17,MTB,Credit Rating result,0,1,1,credit rating result
+151,2015-04-27,MTB,Q1,0,0,0,q1
+152,2015-04-13,MTB,Directors buy,1,0,1,directors buy
+153,2015-04-09,MTB,Buy Declaration of Sponsor/Director,0,0,0,buy declaration of sponsordirector
+154,2015-04-08,MTB,Dividend Disbursement,0,0,0,dividend disbursement
+155,2015-04-02,MTB,Declaration of purchase by Nominated Director,1,0,0,declaration of purchase by nominated director
+156,2015-03-09,MTB,Confirmation of Transfer by Sponsor /Director,1,1,1,confirmation of transfer by sponsor director
+157,2015-03-08,MTB,Resumption News after Record Date,0,1,1,resumption news after record date
+158,2015-03-05,MTB,Declaration of Transfer by Sponsor /Director,0,0,0,declaration of transfer by sponsor director
+159,2015-03-05,MTB,Suspension News for Record date,0,0,0,suspension news for record date
+160,2015-03-03,MTB,Spot News for EGM and AGM,1,0,0,spot news for egm and agm
+161,2015-02-25,MTB,Price Limit Open,0,0,0,price limit open
+162,2015-02-25,MTB,Dividend Declaration,0,0,0,dividend declaration
+163,2015-02-22,MTB,Board Meeting schedule under LR 30,1,0,0,board meeting schedule under lr 30
+164,2015-01-28,MTB,Issue of Subordinated Bond,1,1,0,issue of subordinated bond
+165,2014-10-23,MTB,Q3 Earning,1,0,0,q3 earning
+166,2014-10-19,MTB,Sponsors share sell,1,1,0,sponsors share sell
+167,2014-09-28,MTB,Sponsor/Director Share Sale,0,1,0,sponsordirector share sale
+168,2014-09-22,MTB,Sponsors Buy/Sell/Transfer,1,0,0,sponsors buyselltransfer
+169,2014-09-09,MTB,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+170,2014-09-04,MTB,Share Department shifted,0,0,0,share department shifted
+171,2014-08-31,MTB,Sponsor/Director Share Sale,1,1,0,sponsordirector share sale
+172,2014-08-11,MTB,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+173,2014-08-06,MTB,Sponsor/Director Share Buy,0,0,0,sponsordirector share buy
+174,2014-07-23,MTB,H/Y Earnings,0,1,0,hy earnings
+175,2014-07-21,MTB,Sponsor/Director Share Buy,1,1,0,sponsordirector share buy
+176,2014-06-23,MTB,Credit Rating,1,0,0,credit rating
+177,2014-05-22,MTB,Sponsor's share buy,0,0,0,sponsor's share buy
+178,2014-05-08,MTB,Sponsor/Director Share Buy,1,0,0,sponsordirector share buy
+179,2014-05-04,MTB,Q1 Earning,0,0,1,q1 earning
+180,2014-04-21,MTB,credited the bonus shares,1,0,1,credited the bonus shares
+181,2014-04-21,MTB,Sponsor/Director Share Sale,1,0,1,sponsordirector share sale

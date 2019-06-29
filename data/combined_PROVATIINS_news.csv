@@ -1,0 +1,223 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,PROVATIINS,Q1 Financials,1,0,0,q1 financials
+1,2019-04-30,PROVATIINS,Price Limit Open,1,0,0,price limit open
+2,2019-04-30,PROVATIINS,Dividend Declaration,1,0,0,dividend declaration
+3,2019-04-21,PROVATIINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2019-04-21,PROVATIINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+5,2019-01-22,PROVATIINS,Query Response,0,1,1,query response
+6,2018-10-30,PROVATIINS,Q3 Financials,1,0,0,q3 financials
+7,2018-10-23,PROVATIINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+8,2018-09-16,PROVATIINS,Credit Rating Result,0,1,0,credit rating result
+9,2018-08-19,PROVATIINS,Confirmation of share transfer by a Public Shareholder Director,0,0,0,confirmation of share transfer by a public shareholder director
+10,2018-08-19,PROVATIINS,Dividend Disbursement,0,0,0,dividend disbursement
+11,2018-08-13,PROVATIINS,Declaration of share transfer by a Public Shareholder Director,0,1,0,declaration of share transfer by a public shareholder director
+12,2018-08-08,PROVATIINS,Query Response,1,0,0,query response
+13,2018-07-24,PROVATIINS,Q2 Financials,1,0,0,q2 financials
+14,2018-07-16,PROVATIINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+15,2018-07-05,PROVATIINS,Updating information of the Shareholders,1,0,0,updating information of the shareholders
+16,2018-05-30,PROVATIINS,Resumption after record date,0,0,0,resumption after record date
+17,2018-05-29,PROVATIINS,Suspension for Record Date,0,0,0,suspension for record date
+18,2018-05-27,PROVATIINS,Spot News,1,0,0,spot news
+19,2018-05-03,PROVATIINS,Price Limit Open,1,0,0,price limit open
+20,2018-05-03,PROVATIINS,Dividend Declaration,1,0,0,dividend declaration
+21,2018-04-30,PROVATIINS,Q1 Financials,1,0,0,q1 financials
+22,2018-04-22,PROVATIINS,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+23,2018-04-22,PROVATIINS,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+24,2017-11-27,PROVATIINS,Query Response,1,1,0,query response
+25,2017-11-07,PROVATIINS,PROVATIINS Sale confirmation of a Sponsor Director,0,0,0,provatiins sale confirmation of a sponsor director
+26,2017-10-31,PROVATIINS,Confirmation of transfer by a Director,1,0,0,confirmation of transfer by a director
+27,2017-10-31,PROVATIINS,Q3 Financials,1,0,0,q3 financials
+28,2017-10-30,PROVATIINS,Sale confirmation of a Sponsor,0,1,0,sale confirmation of a sponsor
+29,2017-10-29,PROVATIINS,Sale declaration of a Sponsor,1,0,1,sale declaration of a sponsor
+30,2017-10-24,PROVATIINS,Declaration of transfer by a Director,0,0,0,declaration of transfer by a director
+31,2017-10-24,PROVATIINS,Sale confirmation of a Public Director,0,0,0,sale confirmation of a public director
+32,2017-10-19,PROVATIINS,Sale confirmation of a Sponsor,1,0,0,sale confirmation of a sponsor
+33,2017-10-18,PROVATIINS,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+34,2017-10-17,PROVATIINS,Sale declaration of a Sponsor,0,0,1,sale declaration of a sponsor
+35,2017-10-11,PROVATIINS,Sale declaration of a Public Director,0,1,0,sale declaration of a public director
+36,2017-10-05,PROVATIINS,Sale declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+37,2017-09-17,PROVATIINS,Credit Rating Result,1,0,0,credit rating result
+38,2017-09-13,PROVATIINS,Query Response,1,0,0,query response
+39,2017-08-03,PROVATIINS,Dividend Disbursement,1,0,0,dividend disbursement
+40,2017-08-03,PROVATIINS,Dividend Disbursement,1,0,0,dividend disbursement
+41,2017-07-30,PROVATIINS,Q2 Financials,1,0,1,q2 financials
+42,2017-07-20,PROVATIINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+43,2017-07-18,PROVATIINS,Dividend Disbursement,1,0,0,dividend disbursement
+45,2017-07-10,PROVATIINS,Decision to set up a new subsidiary Company with an AMC license,1,0,0,decision to set up a new subsidiary company with an amc license
+46,2017-05-28,PROVATIINS,Information for Margin Account Holders,0,0,1,information for margin account holders
+47,2017-05-23,PROVATIINS,Resumption after Record Date,0,1,1,resumption after record date
+48,2017-05-22,PROVATIINS,Suspension for Record Date,0,0,1,suspension for record date
+49,2017-05-18,PROVATIINS,Spot News,1,0,0,spot news
+50,2017-05-15,PROVATIINS,Q1 Financials,1,0,0,q1 financials
+51,2017-05-03,PROVATIINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+52,2017-05-02,PROVATIINS,Price Limit Open,0,0,0,price limit open
+53,2017-05-02,PROVATIINS,Dividend Declaration,0,0,0,dividend declaration
+54,2017-04-20,PROVATIINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+55,2016-10-31,PROVATIINS,Q3 Financials,0,1,1,q3 financials
+56,2016-10-24,PROVATIINS,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+57,2016-09-22,PROVATIINS,Credit Rating Result,0,0,1,credit rating result
+58,2016-09-05,PROVATIINS,Buy Declaration of an Independent Director,0,0,0,buy declaration of an independent director
+59,2016-08-09,PROVATIINS,Appointment of Chief Executive Officer,0,0,1,appointment of chief executive officer
+60,2016-08-01,PROVATIINS,Q2 Financials,1,1,0,q2 financials
+61,2016-07-26,PROVATIINS,Dividend Disbursement,1,0,1,dividend disbursement
+62,2016-07-26,PROVATIINS,Dividend Disbursement,1,0,1,dividend disbursement
+63,2016-06-30,PROVATIINS,Elected Chairman,0,0,0,elected chairman
+64,2016-06-30,PROVATIINS,Dividend Disbursement,0,0,0,dividend disbursement
+65,2016-05-18,PROVATIINS,Declaration of sale by a Sponsor/ Director,1,0,0,declaration of sale by a sponsor director
+66,2016-05-16,PROVATIINS,Spot News,0,0,1,spot news
+67,2016-04-28,PROVATIINS,Price Limit Open,0,0,0,price limit open
+68,2016-04-28,PROVATIINS,Dividend Declaration,0,0,0,dividend declaration
+69,2016-04-21,PROVATIINS,Board Meeting,0,0,0,board meeting
+70,2015-10-25,PROVATIINS,Q3 Financials,1,0,1,q3 financials
+71,2015-10-19,PROVATIINS,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+72,2015-10-18,PROVATIINS,Buy Confirmation of a Director,1,1,0,buy confirmation of a director
+73,2015-09-21,PROVATIINS,Credit Rating Result,0,1,0,credit rating result
+74,2015-09-17,PROVATIINS,Buy Confirmation of a Public Director,0,0,0,buy confirmation of a public director
+75,2015-09-14,PROVATIINS,Buy Declaration of a Public Director,0,0,0,buy declaration of a public director
+76,2015-08-25,PROVATIINS,Buy Confirmation of a Public Director,1,1,0,buy confirmation of a public director
+77,2015-08-24,PROVATIINS,Buy Declaration of a Public Director,1,1,1,buy declaration of a public director
+78,2015-08-16,PROVATIINS,Buy Confirmation of a Director,1,1,1,buy confirmation of a director
+79,2015-08-12,PROVATIINS,Buy Declaration,0,0,0,buy declaration
+80,2015-08-10,PROVATIINS,Buy Declaration,1,1,0,buy declaration
+81,2015-07-29,PROVATIINS,Q2 Financials,1,1,0,q2 financials
+82,2015-07-06,PROVATIINS,Dividend Disbursement,1,1,1,dividend disbursement
+83,2015-05-17,PROVATIINS,Q1 Financials,0,1,0,q1 financials
+84,2015-05-06,PROVATIINS, Sponsors share buy,1,1,0,sponsors share buy
+85,2015-05-04,PROVATIINS,Trade will resume,0,0,1,trade will resume
+86,2015-04-30,PROVATIINS,Trade suspend,0,0,0,trade suspend
+87,2015-04-29,PROVATIINS,Buy Declaration of Public Director,1,0,0,buy declaration of public director
+88,2015-04-27,PROVATIINS,Spot Market,1,0,1,spot market
+89,2015-04-20,PROVATIINS,Price Limit Open,1,1,1,price limit open
+90,2015-04-20,PROVATIINS,Dividend Declaration,1,1,1,dividend declaration
+91,2015-04-15,PROVATIINS,meeting of the Board of Directors,1,0,0,meeting of the board of directors
+92,2014-11-02,PROVATIINS,Sponsors Buy/Sell/Transfer,1,0,0,sponsors buyselltransfer
+93,2014-11-02,PROVATIINS,Q3 earnings,1,0,0,q3 earnings
+94,2014-10-30,PROVATIINS,Sponsors/Directors share sale,0,0,0,sponsorsdirectors share sale
+95,2014-10-30,PROVATIINS,Sponsors/Directors share buy,0,0,0,sponsorsdirectors share buy
+96,2014-10-26,PROVATIINS,Sponsors/Directors share buy,0,1,0,sponsorsdirectors share buy
+97,2014-10-22,PROVATIINS,Directors share buy,0,0,0,directors share buy
+98,2014-10-21,PROVATIINS,Sponsors intention to sell,0,0,0,sponsors intention to sell
+99,2014-10-15,PROVATIINS,Directors buy,0,0,0,directors buy
+100,2014-10-14,PROVATIINS,Directors intention to sell,1,0,0,directors intention to sell
+101,2014-10-13,PROVATIINS,Directors intention to buy,0,1,0,directors intention to buy
+102,2014-10-12,PROVATIINS,Credit Rating,1,0,1,credit rating
+103,2014-10-01,PROVATIINS,Sponsors/Directors share buy,0,1,0,sponsorsdirectors share buy
+104,2014-10-01,PROVATIINS,Sponsors/Directors share sale,0,1,0,sponsorsdirectors share sale
+105,2014-09-30,PROVATIINS,Sponsors/Directors share buy,1,0,1,sponsorsdirectors share buy
+106,2014-09-28,PROVATIINS,Sponsors/Directors share sale,0,0,1,sponsorsdirectors share sale
+107,2014-09-25,PROVATIINS,sponsor share sell/buy,1,0,0,sponsor share sellbuy
+108,2014-09-11,PROVATIINS,Directors share buy,0,0,0,directors share buy
+109,2014-09-09,PROVATIINS,Sponsors/Directors share buy,0,1,0,sponsorsdirectors share buy
+110,2014-09-02,PROVATIINS,Sponsors/Directors share buy,0,0,1,sponsorsdirectors share buy
+111,2014-08-31,PROVATIINS,Sponsors/Directors share buy,1,0,0,sponsorsdirectors share buy
+112,2014-08-24,PROVATIINS,sponsor share sell/buy,0,0,0,sponsor share sellbuy
+113,2014-08-21,PROVATIINS,Sponsors/Directors share buy,1,0,0,sponsorsdirectors share buy
+114,2014-08-13,PROVATIINS,Sponsors/Directors share buy,1,1,0,sponsorsdirectors share buy
+115,2014-08-07,PROVATIINS,Sponsors/Directors share sale,0,0,0,sponsorsdirectors share sale
+116,2014-08-03,PROVATIINS,H/Y Earnings,0,0,1,hy earnings
+117,2014-07-17,PROVATIINS,Sponsors/Directors share sale,0,0,0,sponsorsdirectors share sale
+118,2014-06-26,PROVATIINS,has credited the bonus shares,0,0,0,has credited the bonus shares
+119,2014-06-26,PROVATIINS,elected Chairman,0,0,0,elected chairman
+120,2014-06-15,PROVATIINS,Sponsors/Directors share buy,1,0,0,sponsorsdirectors share buy
+121,2014-05-15,PROVATIINS,Q1 Earning,1,0,0,q1 earning
+122,2014-05-08,PROVATIINS,Sponsors/Directors share buy,1,0,0,sponsorsdirectors share buy
+123,2014-05-04,PROVATIINS,trade resume,0,1,0,trade resume
+124,2014-04-30,PROVATIINS,trade suspended,0,0,0,trade suspended
+125,2014-04-30,PROVATIINS,share sell,0,0,0,share sell
+126,2014-04-30,PROVATIINS,Sponsors share buy,0,0,0,sponsors share buy
+127,2014-04-28,PROVATIINS,Spot Market and Block/Odd lot transactions,1,0,0,spot market and blockodd lot transactions
+128,2014-04-28,PROVATIINS,Sponsors share sell,1,0,0,sponsors share sell
+129,2014-04-20,PROVATIINS,recommended 12% stock dividend,0,1,1,recommended 12 stock dividend
+130,2014-04-10,PROVATIINS,Board Meeting,0,0,0,board meeting
+131,2013-11-05,PROVATIINS,sponsor share sell,1,1,1,sponsor share sell
+132,2013-11-03,PROVATIINS,Share sell,0,1,1,share sell
+133,2013-10-31,PROVATIINS,Sponsors Share Sell,1,0,0,sponsors share sell
+134,2013-10-30,PROVATIINS,Q3 Earnings,0,1,0,q3 earnings
+135,2013-10-06,PROVATIINS,Sponsors Share Sell,0,0,0,sponsors share sell
+136,2013-10-01,PROVATIINS,Sponsors Share Sell,1,1,0,sponsors share sell
+137,2013-10-01,PROVATIINS,Credit Rating,1,1,0,credit rating
+138,2013-09-30,PROVATIINS,Sponsors Share Sell,0,1,1,sponsors share sell
+139,2013-09-24,PROVATIINS,Sponsors Share Sell,0,1,1,sponsors share sell
+140,2013-09-22,PROVATIINS,Sponsors Share Sell,0,1,0,sponsors share sell
+141,2013-09-10,PROVATIINS,Sponsors Share Sell,1,0,1,sponsors share sell
+142,2013-07-30,PROVATIINS,Q2 Earnings,0,0,0,q2 earnings
+143,2013-07-29,PROVATIINS,Sponsors share sell,0,0,0,sponsors share sell
+144,2013-07-11,PROVATIINS,Credited Bonus Shares,0,0,0,credited bonus shares
+145,2013-06-26,PROVATIINS,Sponsors Share Sell,0,0,0,sponsors share sell
+146,2013-06-19,PROVATIINS,Sponsor Share Sell,0,1,0,sponsor share sell
+147,2013-06-13,PROVATIINS,Sponsors Share Sell,1,0,0,sponsors share sell
+148,2013-06-04,PROVATIINS,Sponsor Share Sell,0,0,0,sponsor share sell
+149,2013-06-04,PROVATIINS,Sponsor Share Receipt,0,0,0,sponsor share receipt
+150,2013-05-29,PROVATIINS,Completion of Share Transfer,0,0,0,completion of share transfer
+151,2013-05-22,PROVATIINS,Sponsor Share Sell,1,0,0,sponsor share sell
+152,2013-05-22,PROVATIINS,Sponsors Share Sell,1,0,0,sponsors share sell
+153,2013-05-16,PROVATIINS,Completion of Share Buy,0,0,0,completion of share buy
+154,2013-05-15,PROVATIINS,Q1 Earnings,1,0,0,q1 earnings
+155,2013-05-13,PROVATIINS,trade resume,0,1,1,trade resume
+156,2013-05-12,PROVATIINS,Sponsor/Director Share transfer,1,0,1,sponsordirector share transfer
+157,2013-05-12,PROVATIINS,Sponsor/Director Share transfer,1,0,1,sponsordirector share transfer
+158,2013-05-12,PROVATIINS,Sponsor/Director Share transfer,1,0,1,sponsordirector share transfer
+159,2013-05-09,PROVATIINS,Sponsor/Director Share buy,1,0,0,sponsordirector share buy
+160,2013-05-07,PROVATIINS,Spot Market Trading,1,0,1,spot market trading
+161,2013-05-05,PROVATIINS,Sponsor/Director Share buy,0,1,1,sponsordirector share buy
+162,2013-04-29,PROVATIINS,Corporate Declaration,1,1,0,corporate declaration
+163,2013-04-24,PROVATIINS,Board meeting,1,0,0,board meeting
+164,2013-04-02,PROVATIINS,trade resume after record date,0,1,0,trade resume after record date
+165,2013-04-01,PROVATIINS,trade suspension on record date,0,0,1,trade suspension on record date
+166,2013-03-27,PROVATIINS,spot market trading,0,1,0,spot market trading
+167,2013-03-19,PROVATIINS,raise authorized capital,1,0,0,raise authorized capital
+168,2012-11-07,PROVATIINS,director sell completed,1,0,0,director sell completed
+169,2012-11-05,PROVATIINS,director sell completed,1,0,1,director sell completed
+170,2012-10-23,PROVATIINS,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+171,2012-10-17,PROVATIINS,director sell announcement,1,0,0,director sell announcement
+172,2012-10-09,PROVATIINS,director sell announcement,1,0,0,director sell announcement
+173,2012-09-27,PROVATIINS,sponsor share sell completed,0,0,0,sponsor share sell completed
+174,2012-09-24,PROVATIINS,Director share sell completed,0,1,0,director share sell completed
+175,2012-09-23,PROVATIINS,director sell announcement,1,0,1,director sell announcement
+176,2012-09-23,PROVATIINS,Director share sell completed,1,0,1,director share sell completed
+177,2012-09-20,PROVATIINS,Director share sell completed,0,0,0,director share sell completed
+178,2012-09-18,PROVATIINS,director sell announcement,0,1,0,director sell announcement
+179,2012-09-11,PROVATIINS,Sponsor Director sale declaration,1,0,1,sponsor director sale declaration
+180,2012-07-23,PROVATIINS,- The Company has informed...,1,1,0,the company has informed
+181,2012-07-03,PROVATIINS,- Mr. Shah Md. Taffazal Hossain...,0,0,1,mr. shah md. taffazal hossain
+182,2012-05-14,PROVATIINS,- (Q1): As per audited quarterly accounts...,0,0,1,q1: as per audited quarterly accounts
+183,2012-05-14,PROVATIINS,- Normal trading of the shares...,0,0,1,normal trading of the shares
+184,2012-05-08,PROVATIINS,- Trading of the shares...,0,0,1,trading of the shares
+185,2012-04-25,PROVATIINS,- As per regulation...,0,1,0,as per regulation
+186,2012-04-23,PROVATIINS,- Mr. Shahjahan Kabir...,0,0,0,mr. shahjahan kabir
+187,2012-04-10,PROVATIINS,- Mr. Shahjahan Kabir...,0,1,1,mr. shahjahan kabir
+188,2012-04-09,PROVATIINS,- Mr. Shahjahan Kabir...,0,0,1,mr. shahjahan kabir
+189,2012-04-04,PROVATIINS,- Mr. Shahjahan Kabir...,0,1,0,mr. shahjahan kabir
+190,2012-04-02,PROVATIINS,- Mr. Shahjahan Kabir...,0,1,0,mr. shahjahan kabir
+191,2012-03-29,PROVATIINS,- Mr. Shahjahan Kabir...,1,0,0,mr. shahjahan kabir
+192,2012-03-15,PROVATIINS,- Mr. Shahjahan Kabir...,0,0,0,mr. shahjahan kabir
+193,2012-03-05,PROVATIINS,"- Mr. Shahjahan Kabir, one of the Directors...",0,1,0,"mr. shahjahan kabir, one of the directors"
+194,2011-11-23,PROVATIINS,- SEC has issued...,0,0,0,sec has issued
+195,2011-10-31,PROVATIINS,- As per un-audited...,0,1,0,as per un-audited
+196,2011-10-19,PROVATIINS,- Normal trading of the shares...,0,1,0,normal trading of the shares
+197,2011-10-18,PROVATIINS,- Trading of the shares...,0,0,1,trading of the shares
+198,2011-10-13,PROVATIINS,- Trading of the shares...,1,0,0,trading of the shares
+199,2011-10-10,PROVATIINS,- The Company has further...,1,0,1,the company has further
+200,2011-10-10,PROVATIINS,- The Company has informed...,1,0,1,the company has informed
+201,2011-09-14,PROVATIINS,- Mr. Abdur Rahman Ansari...,0,0,0,mr. abdur rahman ansari
+202,2011-09-13,PROVATIINS,- Al-Haj Mojir Ahmed...,0,0,0,al-haj mojir ahmed
+203,2011-09-12,PROVATIINS,- Mr. Md. Shahadat Hossain Ali..,0,0,0,mr. md. shahadat hossain ali..
+204,2011-09-07,PROVATIINS,- Mr. Salauddin Shohag...,1,1,0,mr. salauddin shohag
+205,2011-09-05,PROVATIINS,- Al-Haj Mohammad Ali...,0,0,1,al-haj mohammad ali
+206,2011-08-23,PROVATIINS,- The Company has informed...,0,1,0,the company has informed
+207,2011-08-10,PROVATIINS,- Mr. Md. Mohshin Kawser...,1,0,0,mr. md. mohshin kawser
+208,2011-08-07,PROVATIINS,- Mr. Md. Ekram Hossain...,0,0,0,mr. md. ekram hossain
+209,2011-08-04,PROVATIINS,- Al-Haj Shadat Hossain...,0,0,0,al-haj shadat hossain
+210,2011-08-01,PROVATIINS,- Mr. Joarder Nowsher Ali...,0,0,1,mr. joarder nowsher ali
+211,2011-08-01,PROVATIINS,- (H/Y): As per un-audited...,0,0,1,hy: as per un-audited
+212,2011-07-28,PROVATIINS,- Mr. Md. Ali Ashgar...,1,0,0,mr. md. ali ashgar
+213,2011-07-25,PROVATIINS,- Al-Haj Shadat Hossain...,1,1,0,al-haj shadat hossain
+214,2011-07-20,PROVATIINS,- Al-haj Mofizur Rahman....,0,0,0,al-haj mofizur rahman.
+215,2011-07-19,PROVATIINS,- Mr. Md. Saiful Islam...,1,0,0,mr. md. saiful islam
+216,2011-07-12,PROVATIINS,- Mr. Md. Mohshin Kawser...,0,1,0,mr. md. mohshin kawser
+217,2011-07-12,PROVATIINS,- Al-Haj Mohammad Ali,0,1,0,al-haj mohammad ali
+218,2011-07-11,PROVATIINS,- Mr. Joarder Nowsher Ali...,0,0,1,mr. joarder nowsher ali
+219,2011-07-11,PROVATIINS,- The company will be placed...,0,0,1,the company will be placed
+220,2011-07-11,PROVATIINS,- The Stock Brokers...,0,0,1,the stock brokers
+221,2011-07-07,PROVATIINS,- The Company has informed...,0,0,0,the company has informed
+222,2011-07-06,PROVATIINS,- The Company has informed...,1,0,0,the company has informed
