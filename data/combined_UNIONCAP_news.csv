@@ -1,0 +1,163 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-23,UNIONCAP,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+2,2018-10-31,UNIONCAP,Q3 Financials,1,0,0,q3 financials
+3,2018-10-24,UNIONCAP,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2018-07-30,UNIONCAP,Q2 Financials,0,0,1,q2 financials
+5,2018-07-29,UNIONCAP,Sale declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+6,2018-07-23,UNIONCAP,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+7,2018-07-15,UNIONCAP,Dividend Disbursement,0,1,0,dividend disbursement
+8,2018-06-28,UNIONCAP,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+9,2018-06-28,UNIONCAP,Category Change,0,0,0,category change
+10,2018-06-07,UNIONCAP,Credit Rating Result,0,0,0,credit rating result
+11,2018-05-28,UNIONCAP,Resumption after record date,0,0,1,resumption after record date
+12,2018-05-27,UNIONCAP,Suspension for Record Date,0,0,0,suspension for record date
+13,2018-05-23,UNIONCAP,Spot News,0,1,0,spot news
+14,2018-05-14,UNIONCAP,Q1 Financials,1,0,0,q1 financials
+15,2018-05-07,UNIONCAP,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+16,2018-04-26,UNIONCAP,Price Limit Open,1,0,0,price limit open
+18,2018-04-26,UNIONCAP,Dividend Declaration,1,0,0,dividend declaration
+19,2018-04-18,UNIONCAP,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+20,2017-10-31,UNIONCAP,Sale confirmation of a Sponsor,0,1,1,sale confirmation of a sponsor
+21,2017-10-31,UNIONCAP,Q3 Financials,0,1,1,q3 financials
+22,2017-10-23,UNIONCAP,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+23,2017-10-11,UNIONCAP,Sale Confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+24,2017-10-11,UNIONCAP,Sale declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+25,2017-10-05,UNIONCAP,Sale declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+26,2017-09-27,UNIONCAP,BSEC accorded Consent for issuance of Non-Convertible Subordinated Bond,0,0,0,bsec accorded consent for issuance of non-convertible subordinated bond
+27,2017-09-27,UNIONCAP,BSEC accorded Consent for issuance of Non-Convertible Subordinated Bond,0,0,0,bsec accorded consent for issuance of non-convertible subordinated bond
+28,2017-08-31,UNIONCAP,Sale confirmation of a Nominated Director,1,0,0,sale confirmation of a nominated director
+29,2017-08-23,UNIONCAP,Sale declaration of a Nominated Director,1,0,0,sale declaration of a nominated director
+30,2017-07-31,UNIONCAP,Q2 Financials,1,1,0,q2 financials
+31,2017-07-27,UNIONCAP,Sale confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+32,2017-07-24,UNIONCAP,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+33,2017-07-18,UNIONCAP,Sale declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+34,2017-07-13,UNIONCAP,Dividend Disbursement,0,0,0,dividend disbursement
+35,2017-07-09,UNIONCAP,Dividend Disbursement,1,1,0,dividend disbursement
+36,2017-06-18,UNIONCAP,Audited Q1 Financials,0,0,1,audited q1 financials
+37,2017-06-11,UNIONCAP,Board meeting to review and approve Q1 audited financials,1,0,1,board meeting to review and approve q1 audited financials
+38,2017-06-11,UNIONCAP,Board meeting to review and approve Q1 audited financials,1,0,1,board meeting to review and approve q1 audited financials
+39,2017-05-31,UNIONCAP,Resumption after Record Date,0,0,0,resumption after record date
+40,2017-05-30,UNIONCAP,Suspension for Record Date,0,0,0,suspension for record date
+41,2017-05-28,UNIONCAP,Spot News,0,0,0,spot news
+42,2017-05-28,UNIONCAP,Credit Rating Result,0,0,0,credit rating result
+43,2017-05-08,UNIONCAP,Issuance of Subordinated Redeemable Non-convertible Bonds,1,0,0,issuance of subordinated redeemable non-convertible bonds
+44,2017-05-08,UNIONCAP,Q1 Financials,1,0,0,q1 financials
+45,2017-05-08,UNIONCAP,Price Limit Open,1,0,0,price limit open
+47,2017-05-08,UNIONCAP,Dividend Declaration,1,0,0,dividend declaration
+48,2017-05-02,UNIONCAP,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+49,2017-04-30,UNIONCAP,Board Meeting schedule under LR 19(1),1,0,1,board meeting schedule under lr 191
+50,2016-12-11,UNIONCAP,Agreement for purchase of floor Space,0,1,0,agreement for purchase of floor space
+51,2016-10-31,UNIONCAP,Q3 Financials,0,1,1,q3 financials
+52,2016-10-25,UNIONCAP,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+53,2016-10-02,UNIONCAP,Query Response,1,0,0,query response
+54,2016-09-21,UNIONCAP,Confirmation of sale by a Sponsor,1,1,0,confirmation of sale by a sponsor
+55,2016-09-06,UNIONCAP,Declaration of sale by a Sponsor,0,0,1,declaration of sale by a sponsor
+56,2016-09-06,UNIONCAP,Floor Space Purchase,0,0,1,floor space purchase
+57,2016-08-02,UNIONCAP,Completion of Transfer by a Sponsor Director,0,0,0,completion of transfer by a sponsor director
+58,2016-07-31,UNIONCAP,Q2 Financials,0,0,0,q2 financials
+59,2016-07-28,UNIONCAP,Declaration of Transfer by a Sponsor Director,0,0,0,declaration of transfer by a sponsor director
+60,2016-06-16,UNIONCAP,Confirmation of sale of a Sponsor/Director,0,0,0,confirmation of sale of a sponsordirector
+61,2016-05-29,UNIONCAP,Declaration of sale by a Sponsor/Director,1,0,0,declaration of sale by a sponsordirector
+62,2016-05-15,UNIONCAP,Q1,0,0,1,q1
+63,2016-05-10,UNIONCAP,Stock Dividend Disbursement,1,1,0,stock dividend disbursement
+64,2016-05-08,UNIONCAP,Board Meeting,0,0,1,board meeting
+65,2016-05-08,UNIONCAP,Credit Rating Result,0,0,1,credit rating result
+66,2016-04-18,UNIONCAP,Information for Brokerage houses relating to Margin Loan,0,0,0,information for brokerage houses relating to margin loan
+67,2016-04-11,UNIONCAP,Resumption after Record date,0,0,1,resumption after record date
+68,2016-04-10,UNIONCAP,Suspension for Record date,0,0,0,suspension for record date
+69,2016-04-06,UNIONCAP,Spot for AGM,1,0,0,spot for agm
+70,2016-03-22,UNIONCAP,Price Limit Open,0,0,0,price limit open
+71,2016-03-22,UNIONCAP, Dividend Declaration,0,0,0,dividend declaration
+72,2016-03-14,UNIONCAP,Board Meeting,0,0,0,board meeting
+73,2016-01-17,UNIONCAP,Appointment of Managing Director & CEO,0,0,0,appointment of managing director  ceo
+74,2015-10-28,UNIONCAP,Q3 Financials,1,0,0,q3 financials
+75,2015-10-25,UNIONCAP,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+76,2015-10-19,UNIONCAP,Completion of Transfer by a Sponsor/Director,1,0,0,completion of transfer by a sponsordirector
+77,2015-10-13,UNIONCAP, Sponsor/Director Transfer,0,0,1,sponsordirector transfer
+78,2015-09-29,UNIONCAP,Confirmation of sale by a Sponsor,1,1,0,confirmation of sale by a sponsor
+79,2015-08-09,UNIONCAP,Declaration of sale,1,0,0,declaration of sale
+80,2015-07-30,UNIONCAP,Q2 Financials,1,0,0,q2 financials
+81,2015-05-14,UNIONCAP,Confirmation of sale by Sponsor,0,0,0,confirmation of sale by sponsor
+82,2015-05-14,UNIONCAP,Q1 Financials,0,0,0,q1 financials
+83,2015-05-06,UNIONCAP,Credit Ratings,0,0,0,credit ratings
+84,2015-04-16,UNIONCAP,credited the bonus shares,0,0,0,credited the bonus shares
+85,2015-04-12,UNIONCAP,Auditors Qualified Opinion,0,1,0,auditors qualified opinion
+86,2015-04-02,UNIONCAP,Declaration of sale by Sponsor,0,0,0,declaration of sale by sponsor
+87,2015-03-16,UNIONCAP,Resumption News after Record Date,0,0,1,resumption news after record date
+88,2015-03-15,UNIONCAP,Suspension News for Record date,1,0,0,suspension news for record date
+89,2015-03-11,UNIONCAP,Spot News for AGM,0,1,0,spot news for agm
+90,2015-03-05,UNIONCAP,Price Limit Open,0,0,0,price limit open
+91,2015-03-05,UNIONCAP,Dividend Declaration,0,0,0,dividend declaration
+92,2015-03-03,UNIONCAP,Reschedule of Board Meeting,0,1,0,reschedule of board meeting
+93,2015-03-01,UNIONCAP,Board Meeting,0,1,0,board meeting
+94,2014-12-11,UNIONCAP,Cumulative Redeemable Pref. Shares,0,0,0,cumulative redeemable pref. shares
+95,2014-10-27,UNIONCAP,Q3 Earnings,1,0,1,q3 earnings
+96,2014-10-12,UNIONCAP,has no undisclosed price sensitive information,0,0,0,has no undisclosed price sensitive information
+97,2014-07-22,UNIONCAP,H/Y Earnings,1,0,0,hy earnings
+98,2014-06-23,UNIONCAP,Sponsor/Director Share Sale,1,1,0,sponsordirector share sale
+99,2014-06-02,UNIONCAP,Sponsors share sale,0,0,0,sponsors share sale
+100,2014-04-29,UNIONCAP,Q1 Earning,0,0,0,q1 earning
+101,2014-04-20,UNIONCAP,Category change,1,1,1,category change
+102,2014-04-13,UNIONCAP,bonus shares credited,0,0,0,bonus shares credited
+103,2014-03-18,UNIONCAP,Credit Rating,1,0,1,credit rating
+104,2014-03-13,UNIONCAP,trade resume,0,0,0,trade resume
+105,2014-03-12,UNIONCAP,trade suspension,1,0,0,trade suspension
+106,2014-03-09,UNIONCAP,trade suspension on record date,1,1,0,trade suspension on record date
+107,2014-03-05,UNIONCAP,no price limit,0,0,0,no price limit
+108,2014-03-05,UNIONCAP,recommended 10% stock dividend,0,0,0,recommended 10 stock dividend
+109,2014-03-02,UNIONCAP,Board Meeting,1,0,1,board meeting
+110,2013-12-18,UNIONCAP,issue Non-convertible Preference Shares,0,1,0,issue non-convertible preference shares
+111,2013-10-31,UNIONCAP,Q3 Earnings,0,0,0,q3 earnings
+112,2013-07-29,UNIONCAP,Q2 Earnings,1,0,0,q2 earnings
+113,2013-07-15,UNIONCAP,Sponsors Share Sell,1,0,1,sponsors share sell
+114,2013-07-02,UNIONCAP,Sponsors Share Sell,0,0,1,sponsors share sell
+115,2013-06-04,UNIONCAP,Credit Rating,1,0,1,credit rating
+116,2013-06-03,UNIONCAP,Sponsor Share Sell,0,1,0,sponsor share sell
+117,2013-05-22,UNIONCAP,Sponsor Share Sell,0,0,0,sponsor share sell
+118,2013-05-14,UNIONCAP,Q1 Earnings,1,1,1,q1 earnings
+119,2013-05-14,UNIONCAP,Sponsor/Director Share sell,1,1,1,sponsordirector share sell
+120,2013-05-13,UNIONCAP,Sponsor/Director Share sell,1,1,1,sponsordirector share sell
+121,2013-05-08,UNIONCAP,Bonus Share,0,0,0,bonus share
+122,2013-05-06,UNIONCAP,Sponsor/Director Share sell,0,0,0,sponsordirector share sell
+123,2013-04-30,UNIONCAP,Category Change,1,0,1,category change
+124,2013-04-30,UNIONCAP,Review Petition,1,0,1,review petition
+125,2013-04-01,UNIONCAP,Z Category,0,0,1,z category
+126,2013-04-01,UNIONCAP,BB did not given consent for 5% Dividend,0,0,1,bb did not given consent for 5 dividend
+127,2013-03-31,UNIONCAP,category change,1,0,0,category change
+128,2013-03-11,UNIONCAP,trade resume after record date,0,1,0,trade resume after record date
+129,2013-03-10,UNIONCAP,trade suspension on record date,1,0,1,trade suspension on record date
+130,2013-03-05,UNIONCAP,spot market trading,1,1,1,spot market trading
+131,2013-03-03,UNIONCAP,Corporate declaration,1,1,1,corporate declaration
+132,2013-02-24,UNIONCAP,Board meeting,0,1,0,board meeting
+133,2012-11-07,UNIONCAP,director sell completed,0,0,0,director sell completed
+134,2012-10-31,UNIONCAP,Q3 Earnings 2012,0,1,0,q3 earnings 2012
+135,2012-07-30,UNIONCAP,- Mrs. Meherunnesa Haque...,0,0,0,mrs. meherunnesa haque
+136,2012-07-05,UNIONCAP,- The Company has informed ...,0,0,0,the company has informed
+137,2012-04-24,UNIONCAP,-Engr. M. A. Rashid...,0,0,0,-engr. m. a. rashid
+138,2012-04-22,UNIONCAP,- As per un-audited quarterly accounts ...,0,0,0,as per un-audited quarterly accounts
+139,2012-04-22,UNIONCAP,- Ms. Fahima Tasnim Rashid...,0,0,0,ms. fahima tasnim rashid
+140,2012-04-16,UNIONCAP,- Engr. M Abu Taher...,0,1,0,engr. m abu taher
+141,2012-04-09,UNIONCAP,- Engr. M Abu Taher...,0,0,0,engr. m abu taher
+142,2012-04-09,UNIONCAP,- The Company has informed...,0,0,0,the company has informed
+143,2012-03-19,UNIONCAP,- The National Credit Ratings....,1,1,1,the national credit ratings.
+144,2012-03-07,UNIONCAP,- Trading of the shares...,0,0,0,trading of the shares
+145,2012-03-04,UNIONCAP,- Trading of the shares...,1,0,1,trading of the shares
+147,2011-10-30,UNIONCAP,- As per un-audited...,0,0,0,as per un-audited
+148,2011-09-25,UNIONCAP,- Engr. M. A. Rashid...,1,1,0,engr. m. a. rashid
+149,2011-09-22,UNIONCAP,- Mrs. Rumana Sharif...,0,0,0,mrs. rumana sharif
+150,2011-09-19,UNIONCAP,- Mrs. Rumana Sharif...,0,0,0,mrs. rumana sharif
+151,2011-09-13,UNIONCAP,- Ms. Rumana Sharif...,1,0,0,ms. rumana sharif
+152,2011-08-09,UNIONCAP,- Enrilco Limited...,0,0,0,enrilco limited
+153,2011-08-01,UNIONCAP,- Mr. Muhammad Faizur Rahman...,0,0,0,mr. muhammad faizur rahman
+154,2011-08-01,UNIONCAP,- Engr. M. A. Rashid...,0,0,0,engr. m. a. rashid
+155,2011-07-25,UNIONCAP,- (continuation of news of UNIONCAP-H/Y)...,0,0,0,continuation of news of unioncap-hy
+156,2011-07-25,UNIONCAP,- (H/Y): As per un-audited...,0,0,0,hy: as per un-audited
+157,2011-07-20,UNIONCAP,- Ms. Rumana Sharif...,0,0,0,ms. rumana sharif
+158,2011-07-17,UNIONCAP,- Ms. Rumana Sharif...,0,0,1,ms. rumana sharif
+159,2011-07-10,UNIONCAP,- Ms. Rumana Sharif...,1,0,0,ms. rumana sharif
+160,2011-07-10,UNIONCAP,- Engr. M Abu Taher...,1,0,0,engr. m abu taher
+161,2011-07-07,UNIONCAP,- Mr. Muhammad Faizur Rahman...,0,0,0,mr. muhammad faizur rahman
+162,2011-07-07,UNIONCAP,- Ms. Rumana Sharif...,0,0,0,ms. rumana sharif
+163,2011-07-05,UNIONCAP,- Ms. Rumana Sharif...,0,0,0,ms. rumana sharif
+164,2011-07-04,UNIONCAP,- In response to a DSE query...,0,0,0,in response to a dse query
+165,2011-07-04,UNIONCAP,"- Enrilco Limited, one of the...",0,0,0,"enrilco limited, one of the"

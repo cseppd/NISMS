@@ -1,0 +1,111 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-28,UTTARABANK,Price Limit Open,0,0,1,price limit open
+2,2019-04-28,UTTARABANK,Dividend Declaration,0,0,1,dividend declaration
+3,2019-04-18,UTTARABANK,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+4,2018-10-23,UTTARABANK,Q3 Financials,0,1,0,q3 financials
+5,2018-10-17,UTTARABANK,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+6,2018-07-26,UTTARABANK,Q2 Financials,0,0,0,q2 financials
+7,2018-07-22,UTTARABANK,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+8,2018-07-02,UTTARABANK,Credit Rating Result,0,0,0,credit rating result
+9,2018-06-20,UTTARABANK,Dividend Disbursement,1,1,0,dividend disbursement
+10,2018-05-10,UTTARABANK,Q1 Financials,0,0,0,q1 financials
+11,2018-05-06,UTTARABANK,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+12,2018-05-03,UTTARABANK,Resumption after record date,0,0,0,resumption after record date
+13,2018-04-30,UTTARABANK,Suspension for Record Date,0,0,0,suspension for record date
+14,2018-04-25,UTTARABANK,Spot News,1,0,0,spot news
+15,2018-04-09,UTTARABANK,Price Limit Open,1,0,0,price limit open
+17,2018-04-09,UTTARABANK,Dividend Declaration,1,0,0,dividend declaration
+18,2018-04-01,UTTARABANK,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+19,2017-10-25,UTTARABANK,Q3 Financials,1,1,0,q3 financials
+20,2017-10-18,UTTARABANK,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+21,2017-08-16,UTTARABANK,Query Response,1,0,0,query response
+22,2017-07-26,UTTARABANK,Q2 Financials,1,0,0,q2 financials
+23,2017-07-20,UTTARABANK,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+24,2017-06-15,UTTARABANK,Credit Rating Result,1,0,0,credit rating result
+25,2017-06-14,UTTARABANK,Cash Dividend Disbursement,1,1,0,cash dividend disbursement
+26,2017-05-16,UTTARABANK,Q1 Financials,0,0,1,q1 financials
+27,2017-05-08,UTTARABANK,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+28,2017-05-04,UTTARABANK,Resumption after Record Date,0,0,0,resumption after record date
+29,2017-05-03,UTTARABANK,Suspension for Record Date,1,0,0,suspension for record date
+30,2017-04-30,UTTARABANK,Spot News,1,0,1,spot news
+31,2017-04-13,UTTARABANK,Price Limit Open,1,0,0,price limit open
+33,2017-04-13,UTTARABANK,Dividend Declaration,1,0,0,dividend declaration
+34,2017-04-05,UTTARABANK,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+35,2016-10-16,UTTARABANK,Q3 Financials,0,0,0,q3 financials
+36,2016-10-09,UTTARABANK, Board Meeting,1,0,0,board meeting
+37,2016-07-18,UTTARABANK,Q2 Financials,1,0,0,q2 financials
+38,2016-07-14,UTTARABANK,Board Meeting,1,0,0,board meeting
+39,2016-06-23,UTTARABANK,Credit Rating Result,0,0,0,credit rating result
+40,2016-05-15,UTTARABANK,Appointment of Managing Director,1,1,1,appointment of managing director
+41,2016-05-12,UTTARABANK,Cash Dividend Disbursement,1,0,0,cash dividend disbursement
+42,2016-05-08,UTTARABANK,Q1,1,1,1,q1
+43,2016-04-28,UTTARABANK,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+44,2016-04-07,UTTARABANK,Resumption after Record,0,0,0,resumption after record
+45,2016-04-06,UTTARABANK,Suspension for Record,0,0,0,suspension for record
+46,2016-04-04,UTTARABANK,Spot for AGM,1,0,0,spot for agm
+47,2016-03-20,UTTARABANK,Dividend Declaration,0,1,0,dividend declaration
+48,2016-03-08,UTTARABANK,Board Meeting,1,1,1,board meeting
+49,2015-10-25,UTTARABANK,Q3 Financials,0,0,1,q3 financials
+50,2015-10-20,UTTARABANK,Q3 Financials,1,0,0,q3 financials
+51,2015-10-15,UTTARABANK,Board Meeting,1,0,0,board meeting
+52,2015-08-02,UTTARABANK,Q2 Financials,1,1,0,q2 financials
+53,2015-05-14,UTTARABANK,Q1 Financials,0,0,0,q1 financials
+54,2015-04-01,UTTARABANK,Record Date,0,0,0,record date
+55,2015-03-31,UTTARABANK,Trade Suspension,1,0,0,trade suspension
+56,2015-03-29,UTTARABANK,Spot News for AGM,1,0,1,spot news for agm
+57,2015-03-24,UTTARABANK,Furnishing 12 digit e-TIN Number,1,1,0,furnishing 12 digit e-tin number
+58,2015-03-24,UTTARABANK,Furnishing 12 digit e-TIN Number,1,1,0,furnishing 12 digit e-tin number
+59,2015-03-22,UTTARABANK,Price Limit Open,0,1,1,price limit open
+60,2015-03-22,UTTARABANK,Dividend Declaration,0,1,1,dividend declaration
+61,2015-03-19,UTTARABANK,Board Meeting schedule under LR 30,0,0,0,board meeting schedule under lr 30
+62,2014-10-29,UTTARABANK,Q3 Earnings,1,0,0,q3 earnings
+63,2014-09-17,UTTARABANK,Sponsors sale,0,1,0,sponsors sale
+64,2014-08-28,UTTARABANK,sponsor share buy/sell,1,0,0,sponsor share buysell
+65,2014-08-03,UTTARABANK,H/Y Earnings,0,0,0,hy earnings
+66,2014-06-17,UTTARABANK,Credit Rating,0,1,0,credit rating
+67,2014-06-08,UTTARABANK,disbursement of Cash Dividend,1,1,0,disbursement of cash dividend
+68,2014-05-21,UTTARABANK,credited the Bonus shares,0,1,0,credited the bonus shares
+69,2014-05-14,UTTARABANK,Q1 Earnings,0,0,0,q1 earnings
+70,2014-04-06,UTTARABANK,trade resume,0,0,1,trade resume
+71,2014-04-03,UTTARABANK,trade suspension,0,0,0,trade suspension
+72,2014-03-31,UTTARABANK,Spot Market Transaction,1,0,1,spot market transaction
+73,2014-03-24,UTTARABANK,no price limit,0,1,0,no price limit
+74,2014-03-24,UTTARABANK,recommended 15% cash and 10% stock dividend,0,1,0,recommended 15 cash and 10 stock dividend
+75,2014-03-23,UTTARABANK,Board meeting,1,0,1,board meeting
+76,2013-10-31,UTTARABANK,Q3 Earnings,1,0,0,q3 earnings
+77,2013-10-31,UTTARABANK,Q3 Earnings,1,0,0,q3 earnings
+78,2013-07-31,UTTARABANK,Q2 Eanings,0,0,0,q2 eanings
+79,2013-06-20,UTTARABANK,Credited Bonus Share,0,0,0,credited bonus share
+80,2013-05-16,UTTARABANK,Q1 Earnings,0,0,0,q1 earnings
+81,2013-05-13,UTTARABANK,trade resume,0,1,0,trade resume
+82,2013-05-07,UTTARABANK,Spot Market Trading,1,0,1,spot market trading
+83,2013-04-30,UTTARABANK,Corporate Declaration,0,0,1,corporate declaration
+84,2013-04-28,UTTARABANK,Board Meeting,1,0,0,board meeting
+85,2012-11-01,UTTARABANK,Q3 Earnings 2012,1,0,0,q3 earnings 2012
+86,2012-09-30,UTTARABANK,will form new subsidiary,0,1,0,will form new subsidiary
+87,2012-09-13,UTTARABANK,expressed intention to buy DSE membership,0,0,0,expressed intention to buy dse membership
+88,2012-07-23,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam...,1,1,0,ms. badrunnessa sharmin islam
+89,2012-06-25,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam...,1,1,1,ms. badrunnessa sharmin islam
+90,2012-06-07,UTTARABANK,- The Company has informed...,0,0,0,the company has informed
+91,2012-05-28,UTTARABANK,- Mr. Arif Rahman...,0,0,1,mr. arif rahman
+92,2012-05-23,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam...,0,0,0,ms. badrunnessa sharmin islam
+93,2012-05-23,UTTARABANK,- The Company has informed...,0,0,0,the company has informed
+94,2012-05-13,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam....,0,1,1,ms. badrunnessa sharmin islam.
+95,2012-04-23,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam,0,0,0,ms. badrunnessa sharmin islam
+96,2012-04-10,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam...,1,0,1,ms. badrunnessa sharmin islam
+97,2012-04-05,UTTARABANK,- Normal trading of the shares...,0,0,0,normal trading of the shares
+98,2012-04-04,UTTARABANK,- Trading of the shares...,0,0,0,trading of the shares
+99,2012-04-02,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam...,1,0,0,ms. badrunnessa sharmin islam
+100,2012-04-01,UTTARABANK,- Trading of the shares...,1,1,0,trading of the shares
+101,2012-03-21,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam...,0,1,0,ms. badrunnessa sharmin islam
+102,2012-03-19,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam...,1,1,0,ms. badrunnessa sharmin islam
+103,2012-03-07,UTTARABANK,- Mr. Asif Rahman...,0,1,0,mr. asif rahman
+104,2012-03-07,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam...,0,1,0,ms. badrunnessa sharmin islam
+105,2012-01-30,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam...,1,0,0,ms. badrunnessa sharmin islam
+106,2012-01-22,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam...,0,0,0,ms. badrunnessa sharmin islam
+107,2012-01-04,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam...,1,0,0,ms. badrunnessa sharmin islam
+108,2012-01-02,UTTARABANK,- Mr. Sk. Amanullah...,0,0,1,mr. sk. amanullah
+109,2011-12-14,UTTARABANK,- Mr. Sk. Amanullah...,0,0,0,mr. sk. amanullah
+110,2011-12-13,UTTARABANK,- Ms. Badrunnessa (Sharmin) Islam...,1,0,0,ms. badrunnessa sharmin islam
+112,2011-10-30,UTTARABANK,- As per un-audited...,0,1,1,as per un-audited
+114,2011-08-01,UTTARABANK,- (H/Y): As per un-audited...,0,0,1,hy: as per un-audited

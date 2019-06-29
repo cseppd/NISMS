@@ -1,0 +1,121 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-17,UNITEDINS,Sale Confirmation of a Corporate Director,1,1,0,sale confirmation of a corporate director
+1,2019-04-08,UNITEDINS,Resumption after record date,0,0,1,resumption after record date
+2,2019-04-07,UNITEDINS,Suspension for Record Date,0,0,0,suspension for record date
+3,2019-04-03,UNITEDINS,Sale Declaration of a Corporate Director,1,0,0,sale declaration of a corporate director
+4,2019-04-03,UNITEDINS,Sale Confirmation of a Corporate Director,1,0,0,sale confirmation of a corporate director
+5,2019-04-03,UNITEDINS,Spot News,1,0,0,spot news
+6,2019-03-18,UNITEDINS,Sale Declaration of a Corporate Director,0,0,0,sale declaration of a corporate director
+7,2019-03-18,UNITEDINS,Price Limit Open,0,0,0,price limit open
+10,2019-03-18,UNITEDINS,Dividend Declaration,0,0,0,dividend declaration
+11,2019-03-14,UNITEDINS,Credit Rating Result,0,0,0,credit rating result
+12,2019-03-06,UNITEDINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+13,2019-01-08,UNITEDINS,Query Response,1,1,0,query response
+14,2018-10-21,UNITEDINS,Q3 Financials,1,1,0,q3 financials
+15,2018-10-14,UNITEDINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+16,2018-09-24,UNITEDINS,Sale Confirmation of a Corporate Director,1,1,0,sale confirmation of a corporate director
+17,2018-08-27,UNITEDINS,Sale Declaration of a Corporate Director,0,0,1,sale declaration of a corporate director
+18,2018-08-20,UNITEDINS,Sale Confirmation of a Corporate Director,0,0,0,sale confirmation of a corporate director
+19,2018-08-02,UNITEDINS,Sale Confirmation of a Corporate Director,1,0,0,sale confirmation of a corporate director
+20,2018-08-01,UNITEDINS,Sale Declaration of a Corporate Director,0,1,0,sale declaration of a corporate director
+21,2018-07-26,UNITEDINS,Board decision to sell shares of United Finance Limited,1,0,0,board decision to sell shares of united finance limited
+22,2018-07-26,UNITEDINS,Q2 Financials,1,0,0,q2 financials
+23,2018-07-22,UNITEDINS,Sale confirmation of a Corporate Director,1,1,0,sale confirmation of a corporate director
+24,2018-07-22,UNITEDINS,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+25,2018-07-18,UNITEDINS,Sale declaration of a Corporate Director,0,1,0,sale declaration of a corporate director
+26,2018-07-03,UNITEDINS,Sale Confirmation of a Corporate Director,0,0,0,sale confirmation of a corporate director
+27,2018-06-27,UNITEDINS,Sale Declaration of a Corporate Director,1,1,0,sale declaration of a corporate director
+28,2018-06-04,UNITEDINS,Sale Confirmation of a Corporate Director (Correction News),0,1,0,sale confirmation of a corporate director correction news
+29,2018-06-04,UNITEDINS,Dividend Disbursement,0,1,0,dividend disbursement
+30,2018-06-04,UNITEDINS,Sale Confirmation of a Corporate Director,0,1,0,sale confirmation of a corporate director
+31,2018-05-29,UNITEDINS,Sale Declaration of a Corporate Director,1,0,0,sale declaration of a corporate director
+32,2018-05-14,UNITEDINS,Q1 Financials,0,0,0,q1 financials
+33,2018-05-10,UNITEDINS,Sale Declaration of a Corporate Director,1,0,0,sale declaration of a corporate director
+34,2018-05-10,UNITEDINS,Sale Confirmation of a Corporate Director,1,0,0,sale confirmation of a corporate director
+35,2018-05-08,UNITEDINS,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+36,2018-04-15,UNITEDINS,Resumption after record date,0,1,0,resumption after record date
+37,2018-04-12,UNITEDINS,Suspension for Record Date,0,0,0,suspension for record date
+38,2018-04-10,UNITEDINS,Spot News,1,0,0,spot news
+39,2018-04-03,UNITEDINS,Sale Declaration of a Corporate Director,0,0,0,sale declaration of a corporate director
+40,2018-03-25,UNITEDINS,Price Limit Open,0,0,0,price limit open
+41,2018-03-25,UNITEDINS,Dividend Declaration,0,0,0,dividend declaration
+42,2018-03-18,UNITEDINS,Credit Rating Result,0,0,1,credit rating result
+43,2018-03-15,UNITEDINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+44,2017-10-22,UNITEDINS,Q3 Financials,0,1,1,q3 financials
+45,2017-10-17,UNITEDINS,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+46,2017-08-29,UNITEDINS,Address Change of Share Department,0,1,1,address change of share department
+47,2017-07-30,UNITEDINS,Q2 Financials,0,0,0,q2 financials
+48,2017-07-23,UNITEDINS,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+49,2017-06-04,UNITEDINS,Dividend Disbursement,0,1,0,dividend disbursement
+50,2017-04-23,UNITEDINS,Q1 Financials,0,0,1,q1 financials
+51,2017-04-20,UNITEDINS,Resumption after record date,0,0,0,resumption after record date
+52,2017-04-19,UNITEDINS,Suspension for Record Date,0,0,0,suspension for record date
+53,2017-04-17,UNITEDINS,Spot News,1,1,0,spot news
+54,2017-04-17,UNITEDINS,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+55,2017-04-16,UNITEDINS,Appointment of Chief Executive Officer and Managing Director,0,1,1,appointment of chief executive officer and managing director
+56,2017-04-02,UNITEDINS,Dividend Declaration,0,1,0,dividend declaration
+57,2017-04-02,UNITEDINS,Price Limit Open,0,1,0,price limit open
+58,2017-03-30,UNITEDINS,Credit Rating Result,1,0,0,credit rating result
+59,2017-03-23,UNITEDINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+60,2016-10-30,UNITEDINS,Q3 Financials (Correction),1,0,0,q3 financials correction
+61,2016-10-30,UNITEDINS,Q3 Financials,1,0,0,q3 financials
+62,2016-10-24,UNITEDINS,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+63,2016-09-18,UNITEDINS,Office Space Purchase,1,1,0,office space purchase
+64,2016-09-18,UNITEDINS,Office Space Purchase,1,1,0,office space purchase
+65,2016-07-28,UNITEDINS,Q2 Financials,0,0,0,q2 financials
+66,2016-07-21,UNITEDINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+67,2016-05-25,UNITEDINS,Dividend Disbursement,0,0,0,dividend disbursement
+68,2016-05-16,UNITEDINS,Q1 Financials,0,1,1,q1 financials
+69,2016-05-09,UNITEDINS,Board Meeting,0,1,1,board meeting
+70,2016-04-18,UNITEDINS,Resumption after Record date,0,0,0,resumption after record date
+71,2016-04-17,UNITEDINS,Suspension for Record date,1,0,0,suspension for record date
+72,2016-04-12,UNITEDINS,Spot News for AGM,1,1,0,spot news for agm
+73,2016-03-28,UNITEDINS,Price Limit Open,1,1,0,price limit open
+74,2016-03-28,UNITEDINS,Dividend Declaration,1,1,0,dividend declaration
+75,2016-03-20,UNITEDINS,Board Meeting,0,0,1,board meeting
+76,2015-10-18,UNITEDINS,Q3 Financials,0,1,0,q3 financials
+77,2015-09-14,UNITEDINS,Credit Rating Result,1,1,1,credit rating result
+78,2015-07-07,UNITEDINS,Half Yearly Financials,1,1,0,half yearly financials
+79,2015-05-21,UNITEDINS,Cash Dividend Disbursement,0,0,0,cash dividend disbursement
+80,2015-04-09,UNITEDINS,Resumption News after Record Date,0,0,0,resumption news after record date
+81,2015-04-08,UNITEDINS,Suspension News for Record date,0,0,0,suspension news for record date
+82,2015-04-06,UNITEDINS, Spot News for AGM,1,0,0,spot news for agm
+83,2015-03-30,UNITEDINS,Price Limit Open,1,0,1,price limit open
+84,2015-03-30,UNITEDINS,Dividend Declaration,1,0,1,dividend declaration
+85,2015-03-25,UNITEDINS,Board Meeting schedule under LR 30,1,0,0,board meeting schedule under lr 30
+86,2015-03-23,UNITEDINS,Transmission of Deceased Director's shares to his nominee,1,0,1,transmission of deceased director's shares to his nominee
+87,2014-10-26,UNITEDINS,Q3 Earnings,0,0,1,q3 earnings
+88,2014-07-24,UNITEDINS,H/Y Earnings,0,0,0,hy earnings
+89,2014-05-19,UNITEDINS,Cash Dividend credited,0,1,0,cash dividend credited
+90,2014-05-11,UNITEDINS,Q1 Earnings,0,1,0,q1 earnings
+91,2014-04-06,UNITEDINS,trade resume,0,0,0,trade resume
+92,2014-04-03,UNITEDINS,trade suspension,0,0,0,trade suspension
+93,2014-03-31,UNITEDINS,Spot Market Transaction,0,0,0,spot market transaction
+94,2014-03-24,UNITEDINS,recommended 10% cash dividend,1,1,0,recommended 10 cash dividend
+95,2014-03-24,UNITEDINS,no price limit,1,1,0,no price limit
+96,2014-03-20,UNITEDINS,Board Meeting,0,0,0,board meeting
+97,2013-11-14,UNITEDINS,Credit rating,0,0,0,credit rating
+98,2013-10-27,UNITEDINS,Q3 Earnings,1,0,0,q3 earnings
+99,2013-07-28,UNITEDINS,Q2 Earnings,1,1,0,q2 earnings
+100,2013-06-09,UNITEDINS,Distrubution of Dividend,0,1,0,distrubution of dividend
+101,2013-05-14,UNITEDINS,Q1 Earnings,0,0,1,q1 earnings
+102,2013-03-14,UNITEDINS,trade resume after record date,0,0,0,trade resume after record date
+103,2013-03-13,UNITEDINS,trade suspension on record date,0,0,0,trade suspension on record date
+104,2013-03-10,UNITEDINS,spot market trading,1,1,0,spot market trading
+105,2013-03-03,UNITEDINS,Corporate declaration,0,0,0,corporate declaration
+106,2013-02-28,UNITEDINS,Board meeting date changed,0,0,0,board meeting date changed
+107,2013-02-25,UNITEDINS,Board meeting,0,1,0,board meeting
+108,2012-10-30,UNITEDINS,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+109,2012-07-19,UNITEDINS,- (H/Y): As per un-audited half yearly ...,1,0,0,hy: as per un-audited half yearly
+110,2012-04-26,UNITEDINS,- As per un-audited quarterly accounts ...,0,0,0,as per un-audited quarterly accounts
+111,2012-03-20,UNITEDINS,- Normal trading of the shares...,0,0,0,normal trading of the shares
+112,2012-03-19,UNITEDINS, -Trading of the shares...,1,0,0,-trading of the shares
+113,2012-03-14,UNITEDINS,- Trading of the shares...,0,1,0,trading of the shares
+114,2012-03-07,UNITEDINS,- The Board of Directors...,0,1,0,the board of directors
+115,2012-03-07,UNITEDINS,- There will be no price...,0,1,0,there will be no price
+116,2011-10-25,UNITEDINS,- Normal trading of the shares...,0,0,1,normal trading of the shares
+117,2011-10-24,UNITEDINS,- Trading of the shares...,0,0,0,trading of the shares
+118,2011-10-19,UNITEDINS,- Trading of the shares...,1,0,0,trading of the shares
+119,2011-10-16,UNITEDINS,- As per un-audited...,1,1,0,as per un-audited
+120,2011-10-16,UNITEDINS,- The Company has informed...,1,1,0,the company has informed
+121,2011-07-31,UNITEDINS,- (H/Y): As per un-audited...,0,0,0,hy: as per un-audited

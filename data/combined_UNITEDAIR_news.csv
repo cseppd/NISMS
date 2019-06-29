@@ -1,0 +1,140 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-07,UNITEDAIR,Query Response,0,0,0,query response
+1,2018-12-27,UNITEDAIR,Address Change of Registered Office,1,0,0,address change of registered office
+2,2018-07-23,UNITEDAIR,Query Response,0,0,1,query response
+3,2018-02-27,UNITEDAIR,Fine Imposed on a shareholder,0,0,0,fine imposed on a shareholder
+4,2018-02-27,UNITEDAIR,Fine Imposed on the Sponsors of the Company,0,0,0,fine imposed on the sponsors of the company
+5,2018-01-09,UNITEDAIR,Revised NOCFPS from July-September 2016,0,0,0,revised nocfps from july-september 2016
+6,2018-01-09,UNITEDAIR,Q1 Financials,0,0,0,q1 financials
+7,2018-01-09,UNITEDAIR,Price Limit Open,0,0,0,price limit open
+8,2018-01-09,UNITEDAIR,Dividend Declaration,0,0,0,dividend declaration
+9,2018-01-07,UNITEDAIR,Q1 Financials (additional information),0,0,0,q1 financials additional information
+10,2018-01-07,UNITEDAIR,Q3 Financials,0,0,0,q3 financials
+11,2018-01-07,UNITEDAIR,Q2 Financials,0,0,0,q2 financials
+12,2018-01-07,UNITEDAIR,Q1 Financials,0,0,0,q1 financials
+13,2018-01-03,UNITEDAIR,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+14,2018-01-03,UNITEDAIR,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+15,2018-01-01,UNITEDAIR,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+16,2017-11-22,UNITEDAIR,Dividend Declaration (Additional Disclosure),0,1,0,dividend declaration additional disclosure
+17,2017-11-19,UNITEDAIR,Price Limit Open,0,0,1,price limit open
+18,2017-11-19,UNITEDAIR,Dividend Declaration,0,0,1,dividend declaration
+19,2017-11-12,UNITEDAIR,Reschedule of Board Meeting under LR 19(1),0,0,0,reschedule of board meeting under lr 191
+20,2017-11-12,UNITEDAIR,Q3 Financials,0,0,0,q3 financials
+21,2017-11-05,UNITEDAIR,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+22,2017-11-05,UNITEDAIR,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+23,2016-12-22,UNITEDAIR,BSEC 's consent for issuing,0,0,0,bsec 's consent for issuing
+24,2016-12-06,UNITEDAIR,Dse Query,0,0,1,dse query
+25,2016-09-05,UNITEDAIR,Prohibition on providing loan facilities to purchase securities,0,0,1,prohibition on providing loan facilities to purchase securities
+26,2016-09-05,UNITEDAIR,Category Change,0,0,1,category change
+27,2016-06-19,UNITEDAIR,Consent from BSEC of issuance of Coupon Bearing Redeemable Bond,0,0,0,consent from bsec of issuance of coupon bearing redeemable bond
+28,2016-06-02,UNITEDAIR,Consent accorded from BSEC for raising Paid-up Capital,0,0,0,consent accorded from bsec for raising paid-up capital
+29,2016-03-06,UNITEDAIR,Non-operation of Flights,0,0,0,non-operation of flights
+30,2016-02-24,UNITEDAIR,Resumption of Operation of Flights,1,0,0,resumption of operation of flights
+31,2016-02-04,UNITEDAIR,Status of Operation,0,0,0,status of operation
+32,2016-01-31,UNITEDAIR,Q2 Financials,0,0,0,q2 financials
+33,2016-01-27,UNITEDAIR,Board Meeting,0,0,0,board meeting
+34,2016-01-24,UNITEDAIR,Q1 Financials,0,0,0,q1 financials
+35,2016-01-19,UNITEDAIR,Dividend Disbursement,0,0,1,dividend disbursement
+36,2016-01-17,UNITEDAIR,Board Meeting,0,1,0,board meeting
+37,2015-12-07,UNITEDAIR,Resumption after Record date,0,1,0,resumption after record date
+38,2015-12-06,UNITEDAIR,Suspension for Record Date,0,0,1,suspension for record date
+39,2015-12-02,UNITEDAIR,Spot for AGM,0,0,0,spot for agm
+40,2015-11-18,UNITEDAIR,Q3 Financials,0,0,0,q3 financials
+41,2015-11-18,UNITEDAIR,Price Limit Open,0,0,0,price limit open
+42,2015-11-18,UNITEDAIR,Dividend Declaration,0,0,0,dividend declaration
+43,2015-11-02,UNITEDAIR,Credit Rating Result,0,0,0,credit rating result
+44,2015-10-29,UNITEDAIR,Reschedule of Board Meeting,0,0,0,reschedule of board meeting
+45,2015-10-25,UNITEDAIR,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+46,2015-09-13,UNITEDAIR,Query Response,0,1,1,query response
+47,2015-06-29,UNITEDAIR,Resumption News after Record Date,0,1,0,resumption news after record date
+48,2015-06-28,UNITEDAIR,Suspension News for Record Date,1,0,1,suspension news for record date
+49,2015-06-24,UNITEDAIR,Spot News for EGM,0,0,0,spot news for egm
+50,2015-06-16,UNITEDAIR,EGM for Increasing Authorized Capital and Paid up Capital(correction),0,1,0,egm for increasing authorized capital and paid up capitalcorrection
+51,2015-06-16,UNITEDAIR,EGM for Increasing Authorized Capital and Paid up Capital,0,1,0,egm for increasing authorized capital and paid up capital
+52,2015-06-10,UNITEDAIR,Query Response,0,1,0,query response
+53,2015-02-01,UNITEDAIR,Half Yearly Financials,0,1,1,half yearly financials
+54,2015-01-05,UNITEDAIR,credited the bonus,0,1,0,credited the bonus
+55,2015-01-01,UNITEDAIR,Credit Rating,1,0,0,credit rating
+56,2014-12-07,UNITEDAIR,New AGM,0,0,0,new agm
+57,2014-12-02,UNITEDAIR,AGM,0,0,0,agm
+58,2014-11-16,UNITEDAIR,Q1 Earning,0,0,0,q1 earning
+59,2014-11-09,UNITEDAIR,Emphasis of Matter,0,0,0,emphasis of matter
+60,2014-10-20,UNITEDAIR,trade resume,0,0,0,trade resume
+61,2014-10-19,UNITEDAIR,Trade suspended on record date,0,0,0,trade suspended on record date
+62,2014-10-15,UNITEDAIR,Spot Market,0,0,0,spot market
+63,2014-09-29,UNITEDAIR,9th AGM,0,0,0,9th agm
+64,2014-09-28,UNITEDAIR,BSEC enquiry committee,0,0,0,bsec enquiry committee
+65,2014-09-28,UNITEDAIR,Chairman & MD reinstated,0,0,0,chairman  md reinstated
+66,2014-09-28,UNITEDAIR,flights are resumed,0,0,0,flights are resumed
+67,2014-09-23,UNITEDAIR,new Chairman & MD,0,0,1,new chairman  md
+68,2014-09-23,UNITEDAIR,no price limit,0,0,1,no price limit
+69,2014-09-23,UNITEDAIR,dividend declaration,0,0,1,dividend declaration
+70,2014-09-21,UNITEDAIR,board meeting,1,0,0,board meeting
+71,2014-09-16,UNITEDAIR,Board,0,1,0,board
+72,2014-08-27,UNITEDAIR,informed no undisclosed price sensitive information,1,0,0,informed no undisclosed price sensitive information
+73,2014-05-04,UNITEDAIR,Q3 Earning,0,1,1,q3 earning
+74,2014-02-02,UNITEDAIR,H/Y Earnings,0,0,0,hy earnings
+75,2014-01-15,UNITEDAIR,credit rating,0,0,0,credit rating
+76,2014-01-02,UNITEDAIR,credited bonus share,1,0,0,credited bonus share
+77,2013-11-17,UNITEDAIR,Q1 Earnings,0,0,0,q1 earnings
+78,2013-11-14,UNITEDAIR,Deferred tax Liability,0,0,0,deferred tax liability
+79,2013-10-03,UNITEDAIR,Trade Resume After Record Date,0,0,0,trade resume after record date
+80,2013-10-02,UNITEDAIR,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+81,2013-09-29,UNITEDAIR,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+82,2013-09-19,UNITEDAIR,No Price Limit,0,0,0,no price limit
+83,2013-09-19,UNITEDAIR,Corporate Action,0,0,0,corporate action
+84,2013-09-16,UNITEDAIR,Board Meeting,1,0,0,board meeting
+85,2013-09-11,UNITEDAIR,Fixed Asset Acquisition,0,0,0,fixed asset acquisition
+86,2013-04-30,UNITEDAIR,Q3 Earnings,0,0,1,q3 earnings
+87,2013-04-21,UNITEDAIR,inducting Aircraft,0,0,0,inducting aircraft
+88,2013-02-26,UNITEDAIR,stay order by High Court,1,0,0,stay order by high court
+89,2013-02-26,UNITEDAIR,will place sell offer,1,0,0,will place sell offer
+90,2013-02-13,UNITEDAIR,director buy completed,0,0,0,director buy completed
+91,2013-02-13,UNITEDAIR,H/Y Earnings 2012-13,0,0,0,hy earnings 2012-13
+92,2013-01-22,UNITEDAIR,director buy announcement,0,0,0,director buy announcement
+93,2012-12-18,UNITEDAIR,Director share buy completed,0,0,0,director share buy completed
+94,2012-11-20,UNITEDAIR,enquiry committee,0,1,1,enquiry committee
+95,2012-11-14,UNITEDAIR,Bonus share credited,0,1,0,bonus share credited
+96,2012-11-13,UNITEDAIR,director buy announcement,1,0,1,director buy announcement
+97,2012-11-05,UNITEDAIR,Q1 Earnings 2012,0,0,0,q1 earnings 2012
+98,2012-10-16,UNITEDAIR,responses to DSE query,1,0,0,responses to dse query
+99,2012-10-07,UNITEDAIR,trade will resume after record date,0,1,1,trade will resume after record date
+100,2012-10-07,UNITEDAIR,DSE investigation,0,1,1,dse investigation
+101,2012-10-04,UNITEDAIR,trade will remain suspended on record date,0,0,0,trade will remain suspended on record date
+102,2012-10-01,UNITEDAIR,spot market trading,1,0,0,spot market trading
+103,2012-09-24,UNITEDAIR,will have no price limit today,0,1,1,will have no price limit today
+104,2012-09-24,UNITEDAIR,corporate declaration,0,1,1,corporate declaration
+105,2012-09-19,UNITEDAIR,Board Meeting,0,0,0,board meeting
+106,2012-09-12,UNITEDAIR,responses to DSE query,1,0,0,responses to dse query
+107,2012-05-31,UNITEDAIR,- Mr. Mohammed Khasruzzaman...,0,0,0,mr. mohammed khasruzzaman
+108,2012-05-22,UNITEDAIR,- Ms. Khandokar Taslima Choudhury...,0,0,0,ms. khandokar taslima choudhury
+109,2012-05-22,UNITEDAIR,- Mr. Shahinoor Alam...,0,0,0,mr. shahinoor alam
+110,2012-05-14,UNITEDAIR,- Mr. Mohammed Mahatabur Rahman...,0,0,0,mr. mohammed mahatabur rahman
+111,2012-05-14,UNITEDAIR,- Ms. Khandokar Taslima Choudhury...,0,0,0,ms. khandokar taslima choudhury
+112,2012-05-10,UNITEDAIR,- Ms. Khandokar Taslima Choudhury...,1,0,0,ms. khandokar taslima choudhury
+113,2012-05-09,UNITEDAIR,- Mr. Mohammad Mahtabur Rahman...,0,1,0,mr. mohammad mahtabur rahman
+114,2012-05-09,UNITEDAIR,- Mr. Mohammed Mahatabur Rahman...,0,1,0,mr. mohammed mahatabur rahman
+115,2012-05-02,UNITEDAIR,- Mr. Mohammad Mahtabur Rahman...,0,0,0,mr. mohammad mahtabur rahman
+116,2012-01-31,UNITEDAIR,- As per un-audited...,0,0,0,as per un-audited
+117,2012-01-22,UNITEDAIR,- Capt. Tasbirul Ahmed Choudhury...,0,0,0,capt. tasbirul ahmed choudhury
+118,2012-01-19,UNITEDAIR,- Mr. Md. Khasruzzaman...,1,0,0,mr. md. khasruzzaman
+119,2012-01-01,UNITEDAIR,- Capt. Tasbirul Ahmed Choudhury...,0,0,0,capt. tasbirul ahmed choudhury
+120,2011-11-28,UNITEDAIR,- The Company has informed...,1,0,1,the company has informed
+121,2011-10-31,UNITEDAIR,- As per un-audited...,0,1,0,as per un-audited
+122,2011-10-24,UNITEDAIR,- The Stock Brokers...,0,0,0,the stock brokers
+123,2011-10-24,UNITEDAIR,- The company will be placed...,0,0,0,the company will be placed
+124,2011-10-18,UNITEDAIR,- The Company has informed...,0,1,1,the company has informed
+125,2011-10-11,UNITEDAIR,- The company has informed...,0,1,1,the company has informed
+126,2011-09-21,UNITEDAIR,- In continuation of news...,0,0,0,in continuation of news
+127,2011-08-18,UNITEDAIR,- Normal trading of the shares...,0,0,0,normal trading of the shares
+128,2011-08-17,UNITEDAIR,- Trading of the shares...,0,0,0,trading of the shares
+129,2011-08-11,UNITEDAIR,- Trading of the shares...,0,0,0,trading of the shares
+130,2011-08-02,UNITEDAIR,- Mr. Sayed Chowdhury...,0,1,0,mr. sayed chowdhury
+131,2011-07-28,UNITEDAIR,- The company has informed...,0,0,0,the company has informed
+132,2011-07-26,UNITEDAIR,- SEC has approved the Rights...,1,0,0,sec has approved the rights
+134,2011-07-25,UNITEDAIR,- Mr. Sayed Chowdhury...,0,1,0,mr. sayed chowdhury
+135,2011-07-21,UNITEDAIR,- With reference to their application...,1,0,0,with reference to their application
+136,2011-07-17,UNITEDAIR,- There will be no price...,0,0,1,there will be no price
+137,2011-07-17,UNITEDAIR,- The Board of Directors...,0,0,1,the board of directors
+138,2011-07-14,UNITEDAIR,- As per regulation...,0,0,0,as per regulation
+139,2011-07-04,UNITEDAIR,- In response to a DSE query...,1,0,0,in response to a dse query

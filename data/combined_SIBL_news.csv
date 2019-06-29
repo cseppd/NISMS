@@ -1,0 +1,190 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-25,SIBL,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+1,2019-04-23,SIBL,Board Meeting schedule under LR 19(1),1,0,1,board meeting schedule under lr 191
+2,2018-10-28,SIBL,Q3 Financials,0,1,1,q3 financials
+3,2018-10-22,SIBL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2018-10-01,SIBL,Sale confirmation of a Sponsor,1,0,1,sale confirmation of a sponsor
+5,2018-09-30,SIBL,Consent accorded from BSEC for raising Capital,0,1,0,consent accorded from bsec for raising capital
+6,2018-08-20,SIBL,Sale Confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+7,2018-08-19,SIBL,Sale declaration of a Sponsor,1,0,0,sale declaration of a sponsor
+8,2018-08-14,SIBL,Sale Confirmation of a Sponsor,1,0,0,sale confirmation of a sponsor
+9,2018-08-13,SIBL,Sale Declaration of a Sponsor,1,1,0,sale declaration of a sponsor
+10,2018-08-09,SIBL,Sale Confirmation of a Sponsor,1,0,0,sale confirmation of a sponsor
+11,2018-08-08,SIBL,Sale Declaration of a Sponsor,1,1,0,sale declaration of a sponsor
+12,2018-08-06,SIBL,Sale confirmation of a Sponsor,1,1,1,sale confirmation of a sponsor
+13,2018-08-01,SIBL,Sale confirmation of a Sponsor,1,1,0,sale confirmation of a sponsor
+14,2018-08-01,SIBL,Sale confirmation of a Corporate Sponsor,1,1,0,sale confirmation of a corporate sponsor
+15,2018-07-30,SIBL,Sale declaration of a Sponsor,1,0,1,sale declaration of a sponsor
+16,2018-07-29,SIBL,Q2 Financials,0,1,0,q2 financials
+17,2018-07-23,SIBL,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+18,2018-07-17,SIBL,Sale declaration of a Sponsor,1,0,1,sale declaration of a sponsor
+19,2018-07-15,SIBL,Sale Confirmation of a Sponsor,0,0,1,sale confirmation of a sponsor
+20,2018-07-15,SIBL,Dividend Disbursement,0,0,1,dividend disbursement
+21,2018-07-10,SIBL,Sale declaration of a Sponsor,0,1,0,sale declaration of a sponsor
+22,2018-06-26,SIBL,Sale Declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+23,2018-06-25,SIBL,Sale Declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+24,2018-06-18,SIBL,Sale confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+25,2018-05-22,SIBL,Resumption after record date,0,1,1,resumption after record date
+26,2018-05-21,SIBL,Suspension for Record Date,1,0,1,suspension for record date
+27,2018-05-17,SIBL,Spot News,0,0,0,spot news
+28,2018-05-14,SIBL,Q1 Financials,1,1,1,q1 financials
+29,2018-05-10,SIBL,Sale declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+30,2018-05-09,SIBL,Credit Rating Result,0,0,0,credit rating result
+31,2018-05-08,SIBL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+32,2018-04-26,SIBL,Price Limit Open,1,0,0,price limit open
+33,2018-04-26,SIBL,Dividend Declaration,1,0,0,dividend declaration
+34,2018-04-19,SIBL,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+36,2017-12-05,SIBL,Issuance of SIBL 3rd Mudaraba Subordinated Redeemable Bond,1,0,0,issuance of sibl 3rd mudaraba subordinated redeemable bond
+37,2017-11-01,SIBL,Appointment of Chairman and Managing Director & CEO,0,0,0,appointment of chairman and managing director  ceo
+38,2017-10-31,SIBL,Q3 Financials,0,0,0,q3 financials
+39,2017-10-25,SIBL,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+40,2017-10-15,SIBL,Sale confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+41,2017-10-11,SIBL,Sale confirmation of Sponsors,0,0,0,sale confirmation of sponsors
+42,2017-10-10,SIBL,Sale declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+43,2017-09-25,SIBL,Sale declarations of Sponsors,0,0,0,sale declarations of sponsors
+44,2017-09-07,SIBL,Query Response (Repeat News),1,0,0,query response repeat news
+45,2017-09-06,SIBL,Query Response,1,1,0,query response
+46,2017-07-30,SIBL,Q2 Financials,0,1,1,q2 financials
+47,2017-07-25,SIBL,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+48,2017-05-02,SIBL,Q1 Financials,1,0,1,q1 financials
+49,2017-04-27,SIBL,Dividend Disbursement,1,0,0,dividend disbursement
+50,2017-04-25,SIBL,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+51,2017-03-27,SIBL,Sale confirmation of a Sponsor,1,1,0,sale confirmation of a sponsor
+52,2017-03-23,SIBL,Confirmation of transfer by a Sponsor,1,0,0,confirmation of transfer by a sponsor
+53,2017-03-22,SIBL,Declaration of transfer by a Sponsor,0,1,0,declaration of transfer by a sponsor
+54,2017-03-21,SIBL,Declaration of sale by a Sponsor,1,0,1,declaration of sale by a sponsor
+55,2017-03-14,SIBL,Buy confirmation of a Corporate Sponsor Director,0,0,0,buy confirmation of a corporate sponsor director
+56,2017-03-14,SIBL,Resumption after record date,0,0,0,resumption after record date
+57,2017-03-13,SIBL,Time and Venue of the AGM,1,0,0,time and venue of the agm
+58,2017-03-13,SIBL,Suspension for Record Date,1,0,0,suspension for record date
+59,2017-03-12,SIBL,Credit Rating Result,0,1,0,credit rating result
+60,2017-03-09,SIBL,Spot News,0,0,0,spot news
+61,2017-03-01,SIBL,Sale confirmation,0,0,0,sale confirmation
+62,2017-03-01,SIBL,Buy Declaration,0,0,0,buy declaration
+63,2017-02-27,SIBL,Declaration of sale,0,1,0,declaration of sale
+64,2017-02-22,SIBL,Price Limit Open,0,0,0,price limit open
+65,2017-02-22,SIBL,Dividend Declaration,0,0,0,dividend declaration
+66,2017-02-22,SIBL,Furnishing 12 digit e-TIN Number,0,0,0,furnishing 12 digit e-tin number
+67,2017-01-18,SIBL,Approval of BSEC on Issuance of SIBL 2nd Mudaraba Subordinated Bond,0,0,0,approval of bsec on issuance of sibl 2nd mudaraba subordinated bond
+68,2016-12-06,SIBL,Confirmation of Buy/Sale,1,1,1,confirmation of buysale
+69,2016-11-08,SIBL,Confirmation of sale,0,0,0,confirmation of sale
+70,2016-10-30,SIBL,Q3 Financials,1,1,1,q3 financials
+71,2016-10-24,SIBL,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+72,2016-10-17,SIBL,Declaration of sale by a Sponsor,0,0,0,declaration of sale by a sponsor
+73,2016-10-02,SIBL,Confirmation of sale by a Sponsor,1,1,1,confirmation of sale by a sponsor
+74,2016-09-21,SIBL,Declaration of sale by a Sponsor,1,0,0,declaration of sale by a sponsor
+75,2016-09-01,SIBL,Declaration of sale by a Sponsor,0,0,0,declaration of sale by a sponsor
+76,2016-08-22,SIBL,Confirmation of sale by a Sponsor,0,0,0,confirmation of sale by a sponsor
+77,2016-08-11,SIBL,Declaration of sale by a Sponsor,1,0,0,declaration of sale by a sponsor
+78,2016-07-31,SIBL,Q2 Financials,1,0,1,q2 financials
+79,2016-07-28,SIBL,Buy Confirmation of a Sponsor/Director,1,0,0,buy confirmation of a sponsordirector
+80,2016-07-27,SIBL,Confirmation of receipt by a Sponsor/Director,1,1,0,confirmation of receipt by a sponsordirector
+81,2016-07-25,SIBL,Declaration of sale by a Sponsor,1,0,1,declaration of sale by a sponsor
+82,2016-07-24,SIBL,Board Meeting,1,1,0,board meeting
+83,2016-07-24,SIBL,Buy Declaration of a Sponsor/Director,1,1,0,buy declaration of a sponsordirector
+84,2016-07-21,SIBL,Declaration of receiving shares by a Sponsor Director,0,0,0,declaration of receiving shares by a sponsor director
+85,2016-07-14,SIBL,Sponsors/Director's Buy,1,0,1,sponsorsdirector's buy
+86,2016-07-11,SIBL,Buy Declaration of a Sponsor/ Director,1,1,0,buy declaration of a sponsor director
+87,2016-06-15,SIBL,Dividend Disbursement,1,1,0,dividend disbursement
+88,2016-06-13,SIBL,Issuance of SIBL 2nd Mudaraba Subordinated Bond,0,0,1,issuance of sibl 2nd mudaraba subordinated bond
+89,2016-05-29,SIBL,Credit Rating Result,0,0,0,credit rating result
+90,2016-05-05,SIBL,Time and Venue of AGM,1,0,0,time and venue of agm
+91,2016-05-05,SIBL,Q1 Financials,1,0,0,q1 financials
+92,2016-05-03,SIBL,Confirmation of sale/buy of Directors,1,0,1,confirmation of salebuy of directors
+93,2016-05-03,SIBL,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+94,2016-05-02,SIBL,Resumption,0,1,0,resumption
+95,2016-04-28,SIBL,Suspension for Record date,0,0,0,suspension for record date
+96,2016-04-26,SIBL,Spot News for AGM,0,0,0,spot news for agm
+97,2016-04-19,SIBL,Declaration of sale/buy of Directors,1,0,0,declaration of salebuy of directors
+98,2016-04-10,SIBL,Price Limit Open,0,0,1,price limit open
+99,2016-04-10,SIBL,Dividend Declaration,0,0,1,dividend declaration
+100,2016-04-04,SIBL,Re-schedule of Board Meeting,1,0,0,re-schedule of board meeting
+101,2016-02-23,SIBL,Non Consideration of audited accounts in Board Meeting,0,0,0,non consideration of audited accounts in board meeting
+102,2016-02-18,SIBL, Board Meeting,0,0,0,board meeting
+103,2015-10-27,SIBL,Q3 Financials,0,0,0,q3 financials
+104,2015-10-21,SIBL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+105,2015-09-22,SIBL,Confirmation of buy and sale of Sponsor/Director in Block Market,0,0,0,confirmation of buy and sale of sponsordirector in block market
+106,2015-09-14,SIBL,Buy Declaration in the Block Market,0,1,0,buy declaration in the block market
+107,2015-09-13,SIBL,Buy Declaration of a Director,0,0,1,buy declaration of a director
+108,2015-09-10,SIBL,Declaration of sale,1,0,0,declaration of sale
+109,2015-07-30,SIBL,Q2 Financials,0,0,0,q2 financials
+110,2015-05-04,SIBL,Q1 Financials,1,0,1,q1 financials
+111,2015-04-26,SIBL,Intention to transfer by Sponsor/Director,1,1,0,intention to transfer by sponsordirector
+112,2015-04-19,SIBL,Credit Rating changed,1,1,1,credit rating changed
+113,2015-04-16,SIBL,Cash dividend disbursed to the respective shareholders,1,0,0,cash dividend disbursed to the respective shareholders
+114,2015-03-15,SIBL,Venue and Time of the 20th AGM of the Company,1,1,0,venue and time of the 20th agm of the company
+115,2015-03-09,SIBL,Suspension News for Record date,0,0,0,suspension news for record date
+116,2015-03-09,SIBL,Transmission of Deceased Sponsor's shares to his legal successors,0,0,0,transmission of deceased sponsor's shares to his legal successors
+117,2015-03-05,SIBL,Spot News for AGM,0,0,0,spot news for agm
+118,2015-03-01,SIBL,Price Limit Open,1,1,0,price limit open
+119,2015-03-01,SIBL,Dividend Declaration,1,1,0,dividend declaration
+120,2014-10-26,SIBL,Q3 Earnings,0,1,0,q3 earnings
+121,2014-10-13,SIBL,Directors sale,0,0,0,directors sale
+122,2014-10-02,SIBL,Sponsor/Director Share Buy,1,0,0,sponsordirector share buy
+123,2014-09-23,SIBL,Sponsors Buy/Sell/Transfer,1,0,1,sponsors buyselltransfer
+124,2014-08-27,SIBL,issuance of SIBL Mudaraba Subordinated Bond,1,0,0,issuance of sibl mudaraba subordinated bond
+125,2014-08-26,SIBL,issuance of Mudaraba Subordinated Bond,1,1,0,issuance of mudaraba subordinated bond
+126,2014-08-10,SIBL,Sponsor/Director Share Sale,0,0,1,sponsordirector share sale
+127,2014-07-21,SIBL,H/Y Earnings,0,0,0,hy earnings
+128,2014-06-11,SIBL,cash dividend has disbursed,0,0,0,cash dividend has disbursed
+129,2014-05-08,SIBL,Q1 Earnings,1,0,0,q1 earnings
+130,2014-05-07,SIBL,AGM,0,1,0,agm
+131,2014-04-24,SIBL,trade resume,0,0,0,trade resume
+132,2014-04-23,SIBL,Credit Rating,0,0,0,credit rating
+133,2014-04-23,SIBL,trade suspension,0,0,0,trade suspension
+134,2014-04-21,SIBL,Spot Market Transaction,1,0,0,spot market transaction
+135,2014-04-17,SIBL,Sponsor/Director Share Buy,0,0,0,sponsordirector share buy
+136,2014-04-10,SIBL,Sponsor/Director Share buy,1,0,0,sponsordirector share buy
+137,2014-03-31,SIBL,recommended 12% cash dividend,0,1,0,recommended 12 cash dividend
+138,2014-03-31,SIBL,no price limit,0,1,0,no price limit
+139,2014-03-30,SIBL,Board Meeting,1,0,1,board meeting
+140,2013-11-12,SIBL,sponsor share sell,0,0,1,sponsor share sell
+141,2013-10-27,SIBL,Q3 Earnings,1,0,1,q3 earnings
+142,2013-10-07,SIBL,sponsor/director sell announcement,0,0,0,sponsordirector sell announcement
+143,2013-09-16,SIBL,Sponsors Buy,1,0,0,sponsors buy
+144,2013-09-03,SIBL,Q2 Earnings,0,0,0,q2 earnings
+145,2013-08-20,SIBL,Sponsors Share Buy,1,0,1,sponsors share buy
+146,2013-07-17,SIBL,Credited Cash Dividend,0,0,0,credited cash dividend
+147,2013-07-09,SIBL,Credited Bonus Shares,0,0,0,credited bonus shares
+148,2013-05-22,SIBL,Trade Resume after Record Date,0,0,0,trade resume after record date
+149,2013-05-21,SIBL,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+150,2013-05-16,SIBL,Spot Market Trading,1,0,0,spot market trading
+151,2013-05-15,SIBL,Q1 Earnings,0,1,0,q1 earnings
+152,2013-05-12,SIBL,Corporate Declaration,1,1,1,corporate declaration
+153,2013-05-09,SIBL,Board Meeting,1,0,0,board meeting
+154,2013-03-04,SIBL,sponsor sell,1,0,0,sponsor sell
+155,2012-10-31,SIBL,Sponsor Share Sale Completed,0,1,0,sponsor share sale completed
+156,2012-10-31,SIBL,Q3 Earnings 2012,0,1,0,q3 earnings 2012
+157,2012-10-08,SIBL,director sell completed,1,0,0,director sell completed
+158,2012-10-01,SIBL,sponsor share buy completed,1,1,0,sponsor share buy completed
+159,2012-09-26,SIBL,director buy announcement,0,0,0,director buy announcement
+160,2012-08-13,SIBL,"- Dr. Md. Jahangir Hossain,...",0,1,0,"dr. md. jahangir hossain,"
+161,2012-07-26,SIBL,- Alhaj Sultan Mahmood Chowdhury...,0,0,0,alhaj sultan mahmood chowdhury
+162,2012-07-25,SIBL,- The Company has informed...,1,0,0,the company has informed
+163,2012-07-23,SIBL,- (H/Y): As per un-audited half yearly accounts...,1,1,1,hy: as per un-audited half yearly accounts
+164,2012-07-05,SIBL,- Alhaj Sultan Mahmood Chowdhury...,1,0,0,alhaj sultan mahmood chowdhury
+165,2012-07-05,SIBL,- Alhaj Sk. Mohammad Rabban Ali...,1,0,0,alhaj sk. mohammad rabban ali
+166,2012-06-25,SIBL,- Major (Retd.) Dr. Md. Rezaul Haque...,1,0,1,major retd. dr. md. rezaul haque
+167,2012-06-24,SIBL,- Major (Retd.) Dr. Md. Rezaul Haque...,0,1,0,major retd. dr. md. rezaul haque
+168,2012-06-12,SIBL,- Normal trading...,0,1,1,normal trading
+169,2012-06-12,SIBL,- Mr. Md. Sayedur Rahman...,0,1,1,mr. md. sayedur rahman
+170,2012-05-30,SIBL,- As per regulation...,1,0,0,as per regulation
+171,2012-05-22,SIBL,- Alhaj Sultan Mahmood Chowdhury...,0,0,0,alhaj sultan mahmood chowdhury
+172,2012-05-21,SIBL,- Alhaj Sultan Mahmood Chowdhury...,1,0,0,alhaj sultan mahmood chowdhury
+173,2012-05-21,SIBL,- Alhaj Sultan Mahmood Chowdhury...,1,0,0,alhaj sultan mahmood chowdhury
+174,2012-05-10,SIBL,- Hamdard Laboratories & (Waqf) BD....,1,0,0,hamdard laboratories  waqf bd.
+175,2012-03-19,SIBL,- Mr. Md. Lutfar Rahman...,0,1,0,mr. md. lutfar rahman
+176,2012-01-05,SIBL,- Alhaj Nasiruddin...,0,0,0,alhaj nasiruddin
+177,2011-12-11,SIBL,- The Bank has informed...,0,0,1,the bank has informed
+178,2011-11-23,SIBL,- SEC has issued...,0,0,0,sec has issued
+179,2011-10-27,SIBL,- As per un-audited...,0,0,0,as per un-audited
+181,2011-09-07,SIBL,- Mr. Mohammad Azam...,1,0,0,mr. mohammad azam
+182,2011-08-16,SIBL,- Mr. Ahmed Akbar Sobhan...,0,0,0,mr. ahmed akbar sobhan
+183,2011-08-10,SIBL,- Fountain Private Ltd....,0,1,0,fountain private ltd.
+184,2011-08-01,SIBL,- Mr. Ahmed Akbar Sobhan...,0,0,1,mr. ahmed akbar sobhan
+185,2011-07-21,SIBL,- The Bank has informed...,1,0,0,the bank has informed
+187,2011-07-21,SIBL,- As per un-audited...,1,0,0,as per un-audited
+188,2011-07-20,SIBL,- Fountain Private Ltd...,1,1,0,fountain private ltd
+189,2011-07-14,SIBL,- Mr. Mohammad Azam...,0,0,0,mr. mohammad azam
+190,2011-07-05,SIBL,- Dr. J. H. Gazi...,1,0,0,dr. j. h. gazi
+191,2011-07-05,SIBL,- In response to a DSE query...,1,0,0,in response to a dse query

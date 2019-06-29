@@ -1,0 +1,117 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-29,SONARGAON,Q3 Financials,1,0,0,q3 financials
+1,2019-04-15,SONARGAON,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-01-31,SONARGAON,Q2 Financials,0,0,0,q2 financials
+3,2019-01-20,SONARGAON,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+4,2018-12-27,SONARGAON,Query Response (Repeat News),0,0,0,query response repeat news
+5,2018-12-26,SONARGAON,Query Response,1,0,0,query response
+8,2018-12-04,SONARGAON,Emphasis of Matter,1,0,0,emphasis of matter
+9,2018-11-28,SONARGAON,Query Response (Repeat News),1,0,0,query response repeat news
+10,2018-11-27,SONARGAON,Query Response,0,1,0,query response
+11,2018-11-20,SONARGAON,Resumption after record date,0,0,0,resumption after record date
+12,2018-11-19,SONARGAON,Suspension for Record date,0,0,0,suspension for record date
+13,2018-11-15,SONARGAON,Rectifications in some financials in the audited accounts,1,0,0,rectifications in some financials in the audited accounts
+14,2018-11-15,SONARGAON,Q1 Financials,1,0,0,q1 financials
+15,2018-11-06,SONARGAON,Spot News,0,1,0,spot news
+16,2018-11-05,SONARGAON,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+17,2018-10-29,SONARGAON,Price Limit Open,1,1,0,price limit open
+18,2018-10-29,SONARGAON,Dividend Declaration,1,1,0,dividend declaration
+19,2018-10-18,SONARGAON,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+20,2018-10-08,SONARGAON,Query Response,1,0,1,query response
+21,2018-04-30,SONARGAON,Q3 Financials,0,0,0,q3 financials
+22,2018-04-16,SONARGAON,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+23,2018-02-13,SONARGAON,Q2 Financials (Repeat),1,0,0,q2 financials repeat
+24,2018-02-13,SONARGAON,Query Response (Repeat),1,0,0,query response repeat
+25,2018-02-12,SONARGAON,Query Response,0,1,0,query response
+26,2018-01-29,SONARGAON,Q2 Financials,1,1,0,q2 financials
+29,2018-01-23,SONARGAON,Emphasis of Matter,1,0,0,emphasis of matter
+30,2018-01-21,SONARGAON,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+31,2018-01-18,SONARGAON,Query Response,1,0,0,query response
+32,2017-12-12,SONARGAON,Query Response,1,1,0,query response
+33,2017-12-11,SONARGAON,Query Response,0,1,1,query response
+34,2017-11-20,SONARGAON,Resumption after record date,0,0,0,resumption after record date
+35,2017-11-19,SONARGAON,Suspension for Record Date,0,0,0,suspension for record date
+36,2017-11-15,SONARGAON,Q1 Financials,1,0,0,q1 financials
+37,2017-11-13,SONARGAON,Reschedule of Board Meeting under LR 16(1),0,1,1,reschedule of board meeting under lr 161
+38,2017-11-06,SONARGAON,Spot News,1,0,0,spot news
+39,2017-11-06,SONARGAON,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+40,2017-10-29,SONARGAON,Price Limit Open,1,1,1,price limit open
+41,2017-10-29,SONARGAON,Dividend Declaration,1,1,1,dividend declaration
+42,2017-10-17,SONARGAON,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+43,2017-04-30,SONARGAON,Q3 Financials,0,0,1,q3 financials
+44,2017-04-20,SONARGAON,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+45,2017-01-30,SONARGAON,Q2 Financials,1,1,1,q2 financials
+46,2017-01-19,SONARGAON,Board Meeting,0,0,0,board meeting
+47,2017-01-15,SONARGAON,Query Response (Repeat),1,0,1,query response repeat
+48,2017-01-05,SONARGAON,Query Response,0,0,0,query response
+49,2016-11-09,SONARGAON,Q1,0,0,0,q1
+50,2016-10-31,SONARGAON,Board Meeting,0,1,1,board meeting
+51,2016-10-13,SONARGAON,Emphasis of Matter,0,0,0,emphasis of matter
+52,2016-08-21,SONARGAON,18 Months Financials,0,1,0,18 months financials
+53,2016-08-21,SONARGAON,Re-fixation of postponed AGM date,0,1,0,re-fixation of postponed agm date
+54,2016-08-14,SONARGAON,Board meeting for considering 18 months financial statements,1,0,0,board meeting for considering 18 months financial statements
+55,2016-05-22,SONARGAON,Resumption after Record date,0,0,1,resumption after record date
+56,2016-05-19,SONARGAON,Suspension for Record date,0,0,0,suspension for record date
+57,2016-05-10,SONARGAON,"Postponement of AGM, unchanged Record date.",0,1,1,"postponement of agm, unchanged record date."
+58,2016-05-08,SONARGAON,Spot News for AGM,1,0,0,spot news for agm
+59,2016-05-02,SONARGAON,Price Limit Open,1,1,0,price limit open
+60,2016-05-02,SONARGAON,Dividend Declaration,1,1,0,dividend declaration
+61,2016-04-27,SONARGAON,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+62,2016-02-25,SONARGAON,Q3,0,0,0,q3
+63,2015-12-27,SONARGAON,Q3 Financials (Repeat),1,0,0,q3 financials repeat
+64,2015-11-15,SONARGAON,Address Change of Registered Office,0,1,0,address change of registered office
+65,2015-10-28,SONARGAON,Q3 Financials,0,0,0,q3 financials
+66,2015-09-15,SONARGAON,Query Response,0,0,1,query response
+67,2015-08-02,SONARGAON,Q2 Financials,1,0,0,q2 financials
+68,2015-05-24,SONARGAON,Resumption News after Record Date,0,0,1,resumption news after record date
+69,2015-05-21,SONARGAON,Suspension News for Record Date,1,0,0,suspension news for record date
+70,2015-05-17,SONARGAON,Q1 Financials,0,0,0,q1 financials
+71,2015-05-10,SONARGAON,Spot News for AGM,0,1,0,spot news for agm
+72,2015-04-30,SONARGAON,Dividend,0,0,0,dividend
+73,2015-04-30,SONARGAON,Dividend,0,0,0,dividend
+74,2015-04-19,SONARGAON,Board Meeting,0,0,1,board meeting
+75,2015-01-01,SONARGAON,Credit Rating,0,0,0,credit rating
+76,2014-12-07,SONARGAON,DSE query,1,0,0,dse query
+77,2014-12-07,SONARGAON,Q3,1,0,0,q3
+78,2014-10-30,SONARGAON,Q3 Earnings,0,0,0,q3 earnings
+79,2014-10-26,SONARGAON,office shifted,0,1,1,office shifted
+80,2014-08-03,SONARGAON,H/Y Earnings,0,0,0,hy earnings
+81,2014-05-20,SONARGAON,Basis for Qualified Opinion,0,0,0,basis for qualified opinion
+82,2014-05-15,SONARGAON,will resume after record date,0,0,0,will resume after record date
+83,2014-05-15,SONARGAON,Q1 Earning,0,0,0,q1 earning
+84,2014-05-14,SONARGAON,trade suspended,0,0,0,trade suspended
+85,2014-04-29,SONARGAON, Spot Market and Block/Odd lot transactions,0,1,0,spot market and blockodd lot transactions
+86,2014-04-29,SONARGAON,catagory changed,0,1,0,catagory changed
+87,2014-04-29,SONARGAON,no price limit,0,1,0,no price limit
+88,2014-04-29,SONARGAON,no dividend,0,1,0,no dividend
+89,2014-04-20,SONARGAON,Board Meeting,1,0,1,board meeting
+90,2013-10-31,SONARGAON,Q3 Earnings,0,0,0,q3 earnings
+91,2013-09-23,SONARGAON,There is No Undisclosed Price Sensitive Information,0,0,0,there is no undisclosed price sensitive information
+92,2013-09-17,SONARGAON,No Undisclosed Price Sensitive Information,1,0,0,no undisclosed price sensitive information
+93,2013-07-30,SONARGAON,Q2 Earnings,0,0,0,q2 earnings
+94,2013-07-15,SONARGAON,Credited Bonus Shares,0,1,0,credited bonus shares
+95,2013-06-23,SONARGAON,Category Change,0,0,0,category change
+96,2013-05-26,SONARGAON,Trade Resume after Record Date,0,1,0,trade resume after record date
+97,2013-05-22,SONARGAON,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+98,2013-05-19,SONARGAON,Spot Market Trading,0,0,0,spot market trading
+99,2013-05-19,SONARGAON,Auditor's Opinion,0,0,0,auditor's opinion
+100,2013-05-14,SONARGAON,Corporate Declaration,1,0,1,corporate declaration
+101,2013-05-14,SONARGAON,Q1 Earnings,1,0,1,q1 earnings
+102,2013-05-12,SONARGAON,Board Meeting,1,0,1,board meeting
+103,2012-11-05,SONARGAON,director sell completed,0,0,0,director sell completed
+104,2012-10-23,SONARGAON,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+105,2012-10-10,SONARGAON,director sell announcement,0,0,0,director sell announcement
+106,2012-10-03,SONARGAON,Director sell completed,0,0,0,director sell completed
+107,2012-10-03,SONARGAON,sponsor sell announcement,0,0,0,sponsor sell announcement
+108,2012-09-25,SONARGAON,director sell announcement,1,0,0,director sell announcement
+109,2012-09-20,SONARGAON,trading will resume after record date,0,0,0,trading will resume after record date
+110,2012-09-19,SONARGAON,trading will remain suspended on record date,0,0,0,trading will remain suspended on record date
+111,2012-09-16,SONARGAON,will be traded at spot market,1,1,1,will be traded at spot market
+112,2012-07-22,SONARGAON,- The Company has informed...,1,1,1,the company has informed
+113,2012-05-21,SONARGAON,- Normal trading...,0,0,0,normal trading
+114,2012-05-15,SONARGAON,- Trading of the shares....,0,0,0,trading of the shares.
+115,2012-05-10,SONARGAON,- Referring to their letter dated...,1,0,0,referring to their letter dated
+116,2012-05-02,SONARGAON,- The Company has further informed...,0,0,0,the company has further informed
+117,2011-10-31,SONARGAON,- As per un-audited...,0,1,0,as per un-audited
+118,2011-07-25,SONARGAON,- (H/Y): As per un-audited...,1,0,0,hy: as per un-audited
+119,2011-07-20,SONARGAON,- In response to a DSE query...,1,1,0,in response to a dse query

@@ -1,0 +1,109 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-03-20,UTTARAFIN,Postponement of Board Meeting under LR 19(1),0,0,0,postponement of board meeting under lr 191
+1,2019-03-05,UTTARAFIN,Reschedule of Board Meeting under LR 19(1),1,0,1,reschedule of board meeting under lr 191
+2,2019-02-25,UTTARAFIN,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+3,2018-10-28,UTTARAFIN,Q3 Financials,0,1,0,q3 financials
+4,2018-10-21,UTTARAFIN,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+5,2018-10-18,UTTARAFIN,Credit Rating Result,0,0,0,credit rating result
+6,2018-07-31,UTTARAFIN,Q2 Financials,1,1,0,q2 financials
+7,2018-07-24,UTTARAFIN,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+8,2018-06-25,UTTARAFIN,Dividend Disbursement,0,1,0,dividend disbursement
+9,2018-05-15,UTTARAFIN,Q1 Financials,0,0,0,q1 financials
+10,2018-04-26,UTTARAFIN,Resumption after record date,0,0,0,resumption after record date
+11,2018-04-25,UTTARAFIN,Suspension for Record Date,0,0,0,suspension for record date
+12,2018-04-23,UTTARAFIN,Spot News,1,1,0,spot news
+13,2018-04-08,UTTARAFIN,Price Limit Open,0,0,0,price limit open
+14,2018-04-08,UTTARAFIN,Dividend Declaration,0,0,0,dividend declaration
+15,2018-03-27,UTTARAFIN,Board Meeting schedule under LR 19(1),0,1,1,board meeting schedule under lr 191
+16,2017-10-30,UTTARAFIN,Issuing Nonconvertible Zero Coupon Bonds through Private Placement,0,0,1,issuing nonconvertible zero coupon bonds through private placement
+17,2017-10-30,UTTARAFIN,Q3 Financials,0,0,1,q3 financials
+18,2017-10-23,UTTARAFIN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+19,2017-10-08,UTTARAFIN,Credit Rating Result,1,0,1,credit rating result
+20,2017-07-31,UTTARAFIN,Q2 Financials,1,0,0,q2 financials
+21,2017-07-24,UTTARAFIN,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+22,2017-06-15,UTTARAFIN,Dividend Disbursement,0,0,0,dividend disbursement
+23,2017-05-16,UTTARAFIN,Q1 Financials,0,0,0,q1 financials
+24,2017-05-14,UTTARAFIN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+25,2017-04-12,UTTARAFIN,Resumption after record date,0,0,0,resumption after record date
+26,2017-04-11,UTTARAFIN,Suspension for Record Date,0,0,0,suspension for record date
+27,2017-04-09,UTTARAFIN,Spot News,0,0,0,spot news
+28,2017-03-19,UTTARAFIN,Price Limit Open,0,0,1,price limit open
+29,2017-03-19,UTTARAFIN,Dividend Declaration,0,0,1,dividend declaration
+30,2017-03-12,UTTARAFIN,Board Meeting,1,0,0,board meeting
+31,2016-10-31,UTTARAFIN,Q3 Financials,0,1,0,q3 financials
+32,2016-10-26,UTTARAFIN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+33,2016-10-09,UTTARAFIN,Credit Rating Result,0,0,0,credit rating result
+34,2016-08-30,UTTARAFIN,Completion of Transfer by a Director,1,0,1,completion of transfer by a director
+35,2016-08-21,UTTARAFIN,Declaration of Transfer by a Director,0,0,1,declaration of transfer by a director
+36,2016-07-31,UTTARAFIN,Q2 Financials,1,1,0,q2 financials
+37,2016-07-26,UTTARAFIN,Board Meeting,1,0,1,board meeting
+38,2016-07-26,UTTARAFIN,Board Meeting,1,0,1,board meeting
+39,2016-06-22,UTTARAFIN,Dividend Disbursement,1,1,0,dividend disbursement
+40,2016-05-22,UTTARAFIN,Buy Confirmation,0,0,0,buy confirmation
+41,2016-05-15,UTTARAFIN,Q1 Financials,0,0,0,q1 financials
+42,2016-05-09,UTTARAFIN,Board Meeting,1,1,1,board meeting
+43,2016-05-04,UTTARAFIN,Buy Declaration,0,1,0,buy declaration
+44,2016-04-21,UTTARAFIN,Resumption after Record date,0,0,0,resumption after record date
+45,2016-04-20,UTTARAFIN, Suspension for Record date,1,0,0,suspension for record date
+46,2016-04-18,UTTARAFIN, Spot News for AGM,0,0,1,spot news for agm
+47,2016-03-30,UTTARAFIN,Price Limit Open,0,0,0,price limit open
+48,2016-03-30,UTTARAFIN,Dividend Declaration,0,0,0,dividend declaration
+49,2016-03-22,UTTARAFIN, Board Meeting,1,0,0,board meeting
+50,2015-11-01,UTTARAFIN,Q3,0,0,1,q3
+51,2015-10-27,UTTARAFIN,Board Meeting,0,0,1,board meeting
+52,2015-09-17,UTTARAFIN,Credit Rating Result,0,0,0,credit rating result
+53,2015-07-28,UTTARAFIN,Q2 Financials,1,0,1,q2 financials
+54,2015-07-08,UTTARAFIN,Resumption News after Record Date,0,1,0,resumption news after record date
+55,2015-07-07,UTTARAFIN,Suspension News for Record Date,1,0,1,suspension news for record date
+56,2015-07-05,UTTARAFIN,Spot News for AGM,0,0,1,spot news for agm
+57,2015-06-25,UTTARAFIN,Price Limit Open,0,0,0,price limit open
+58,2015-06-25,UTTARAFIN,Dividend Declaration,0,0,0,dividend declaration
+59,2015-06-18,UTTARAFIN,Adjournment of Board Meeting,1,0,0,adjournment of board meeting
+60,2015-06-07,UTTARAFIN,Board Meeting schedule under LR 30,0,1,0,board meeting schedule under lr 30
+61,2015-05-14,UTTARAFIN,Q1 Financials,1,0,0,q1 financials
+62,2014-10-29,UTTARAFIN,Q3 Earnings,1,0,0,q3 earnings
+63,2014-07-21,UTTARAFIN,H/Y Earnings,1,0,0,hy earnings
+64,2014-07-03,UTTARAFIN,Credit Ratings,1,0,0,credit ratings
+65,2014-05-29,UTTARAFIN,cash dividend,1,0,0,cash dividend
+66,2014-05-06,UTTARAFIN,Q1 Earning,0,1,0,q1 earning
+67,2014-03-12,UTTARAFIN,tarde resume,0,0,0,tarde resume
+68,2014-03-11,UTTARAFIN,trade suspension on record date,1,0,0,trade suspension on record date
+69,2014-03-06,UTTARAFIN,Spot Market and Block/Odd lot transactions,1,0,0,spot market and blockodd lot transactions
+70,2014-03-03,UTTARAFIN,no price limit,0,0,0,no price limit
+71,2014-03-03,UTTARAFIN,recommended 30% cash dividend,0,0,0,recommended 30 cash dividend
+72,2014-02-27,UTTARAFIN,Board Meeting,0,0,0,board meeting
+73,2013-10-30,UTTARAFIN,Q3 Earnings,0,0,0,q3 earnings
+74,2013-07-28,UTTARAFIN,Q2 Earnings,0,0,0,q2 earnings
+75,2013-04-30,UTTARAFIN,Q1 Earnings,0,0,1,q1 earnings
+76,2013-04-11,UTTARAFIN,trade resume after record date,0,0,0,trade resume after record date
+77,2013-04-10,UTTARAFIN,trade suspension on record date,0,0,0,trade suspension on record date
+78,2013-04-07,UTTARAFIN,spot market trading,1,1,1,spot market trading
+79,2013-03-13,UTTARAFIN,no price limit,0,1,0,no price limit
+80,2013-03-13,UTTARAFIN,Corporate declaration,0,1,0,corporate declaration
+81,2013-03-11,UTTARAFIN,Board meeting,0,1,0,board meeting
+82,2012-10-22,UTTARAFIN,Q3 Earnings 2012 (revised),0,1,0,q3 earnings 2012 revised
+83,2012-10-22,UTTARAFIN,Q3 Earnings 2012,0,1,0,q3 earnings 2012
+84,2012-07-19,UTTARAFIN,- Ms. Tahmina Rahman Tina...,0,0,0,ms. tahmina rahman tina
+85,2012-06-28,UTTARAFIN,- The Company has informed...,0,0,0,the company has informed
+86,2012-05-30,UTTARAFIN,- Mr. Matiur Rahman...,1,1,0,mr. matiur rahman
+87,2012-05-23,UTTARAFIN,- Uttara Motors Ltd...,1,0,0,uttara motors ltd
+88,2012-05-22,UTTARAFIN,- Mr. Matiur Rahman...,0,1,0,mr. matiur rahman
+89,2012-05-09,UTTARAFIN,- Mr. Durand Mehdadur Rahman...,0,1,0,mr. durand mehdadur rahman
+90,2012-04-26,UTTARAFIN,- Normal trading of the shares...,0,0,0,normal trading of the shares
+91,2012-04-25,UTTARAFIN,- Trading of the shares...,0,0,0,trading of the shares
+92,2012-04-24,UTTARAFIN,- Mr. Matiur Rahman...,0,0,0,mr. matiur rahman
+93,2012-04-23,UTTARAFIN,- Mr. Durand Mehdadur Rahman...,0,0,0,mr. durand mehdadur rahman
+94,2012-04-22,UTTARAFIN,- Trading of the shares...,1,0,0,trading of the shares
+95,2012-04-17,UTTARAFIN,- The Board of Directors...,1,1,0,the board of directors
+96,2012-04-17,UTTARAFIN,-There will be no price limit...,1,1,0,-there will be no price limit
+97,2012-04-10,UTTARAFIN,- Mr. Durand Mehdadur Rahman...,1,1,1,mr. durand mehdadur rahman
+98,2012-04-01,UTTARAFIN,- Mr. Durand Mehdadur Rahman...,1,1,0,mr. durand mehdadur rahman
+99,2012-03-14,UTTARAFIN,- Mr. Durand Mehdadur Rahman...,1,0,0,mr. durand mehdadur rahman
+100,2012-03-13,UTTARAFIN,- Mr. Durand Mehdadur Rahman...,1,1,0,mr. durand mehdadur rahman
+101,2012-03-07,UTTARAFIN,- Mr. Durand Mehdadur Rahman...,1,1,0,mr. durand mehdadur rahman
+102,2012-03-04,UTTARAFIN,- Mr. Durand Mehdadur Rahman...,1,0,1,mr. durand mehdadur rahman
+103,2011-11-01,UTTARAFIN,- As per un-audited...,1,0,0,as per un-audited
+104,2011-09-29,UTTARAFIN,- The National Credit...,0,0,0,the national credit
+105,2011-08-02,UTTARAFIN,- The Company has informed...,0,1,0,the company has informed
+106,2011-08-01,UTTARAFIN,- (H/Y): As per un-audited...,0,0,1,hy: as per un-audited
+107,2011-07-10,UTTARAFIN,- In response to a DSE query...,1,0,0,in response to a dse query

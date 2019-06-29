@@ -1,0 +1,67 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,SIMTEX,Q3 Financials,1,0,0,q3 financials
+1,2019-04-23,SIMTEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-04-23,SIMTEX,Appointment of Chairman & Managing Director,0,0,0,appointment of chairman  managing director
+3,2019-04-15,SIMTEX,Declaration of share transfer by a Sponsor Director,0,0,0,declaration of share transfer by a sponsor director
+4,2019-01-31,SIMTEX,Q2 Financials,0,0,0,q2 financials
+5,2019-01-24,SIMTEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+6,2019-01-06,SIMTEX,Dividend Disbursement,1,0,0,dividend disbursement
+7,2018-11-18,SIMTEX,Resumption after record date,0,0,0,resumption after record date
+8,2018-11-15,SIMTEX,Suspension for Record Date,0,0,0,suspension for record date
+9,2018-11-15,SIMTEX,Q1 Financials,0,0,0,q1 financials
+10,2018-11-13,SIMTEX,Spot News,0,1,0,spot news
+12,2018-11-12,SIMTEX,Updating Information,0,0,1,updating information
+14,2018-11-11,SIMTEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+15,2018-10-28,SIMTEX,Price Limit Open,1,1,0,price limit open
+16,2018-10-28,SIMTEX,Dividend Declaration,1,1,0,dividend declaration
+17,2018-10-18,SIMTEX,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+18,2018-10-11,SIMTEX,Query Response,0,0,0,query response
+19,2018-09-19,SIMTEX,"Decision to set up a spinning unit of 26,000 spindles",0,0,0,"decision to set up a spinning unit of 26,000 spindles"
+20,2018-07-31,SIMTEX,Query Response (Repeat News),1,0,1,query response repeat news
+21,2018-07-30,SIMTEX,Query Response,1,1,0,query response
+22,2018-05-08,SIMTEX,Credit Rating Result,0,0,0,credit rating result
+24,2018-04-30,SIMTEX,Q3 Financials,0,0,0,q3 financials
+25,2018-04-23,SIMTEX,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+26,2018-01-30,SIMTEX,Q2 Financials,0,0,0,q2 financials
+27,2018-01-23,SIMTEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+28,2018-01-01,SIMTEX,Dividend Disbursement,1,1,1,dividend disbursement
+30,2017-11-14,SIMTEX,Q1 Financials,1,0,1,q1 financials
+31,2017-11-08,SIMTEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+32,2017-11-05,SIMTEX,Resumption after record date,0,1,0,resumption after record date
+33,2017-11-02,SIMTEX,Suspension for Record Date,0,0,0,suspension for record date
+34,2017-10-31,SIMTEX,Spot News,0,1,0,spot news
+36,2017-10-26,SIMTEX,Updating of information,0,0,0,updating of information
+37,2017-10-09,SIMTEX,Price Limit Open,0,0,0,price limit open
+38,2017-10-09,SIMTEX,Dividend Declaration,0,0,0,dividend declaration
+39,2017-09-27,SIMTEX,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+40,2017-07-19,SIMTEX,Query Response,0,0,0,query response
+41,2017-05-09,SIMTEX,Credit Rating Result,0,0,1,credit rating result
+42,2017-04-20,SIMTEX,Q3 Financials,0,0,0,q3 financials
+43,2017-04-12,SIMTEX,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+44,2017-01-31,SIMTEX,Q2 Financials,0,0,0,q2 financials
+45,2017-01-23,SIMTEX,Reschedule of Board Meeting under LR 16(1),1,0,0,reschedule of board meeting under lr 161
+46,2017-01-23,SIMTEX,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+47,2017-01-15,SIMTEX,Query Response,1,0,0,query response
+48,2016-11-27,SIMTEX,Dividend Disbursement,0,1,0,dividend disbursement
+49,2016-11-27,SIMTEX,Prohibition on providing loan facilities to purchase securities,0,1,0,prohibition on providing loan facilities to purchase securities
+50,2016-11-27,SIMTEX,Category Change,0,1,0,category change
+51,2016-11-15,SIMTEX,Q1 Financials,1,1,0,q1 financials
+52,2016-11-09,SIMTEX,Board Meeting,0,0,0,board meeting
+53,2016-09-29,SIMTEX,Resumption after record date,0,0,0,resumption after record date
+54,2016-09-28,SIMTEX,Suspension for record date,1,0,0,suspension for record date
+55,2016-09-26,SIMTEX,Spot for AGM,0,0,1,spot for agm
+56,2016-09-19,SIMTEX,Furnishing e-TIN Number,0,0,1,furnishing e-tin number
+57,2016-09-06,SIMTEX,Price Limit Open,0,0,0,price limit open
+58,2016-09-06,SIMTEX,Dividend Declaration,0,0,0,dividend declaration
+59,2016-08-29,SIMTEX,Board Meeting,1,1,0,board meeting
+60,2016-06-09,SIMTEX,Address Change of Share Office,1,0,0,address change of share office
+61,2016-06-09,SIMTEX,Address Change of Share Office,1,0,0,address change of share office
+62,2016-04-24,SIMTEX,Q3 Financials,0,0,1,q3 financials
+63,2016-04-17,SIMTEX,Board Meeting,0,1,1,board meeting
+64,2016-04-12,SIMTEX,Credit Rating Result,0,0,0,credit rating result
+65,2016-01-31,SIMTEX,Q2 Financials,0,0,0,q2 financials
+66,2016-01-25,SIMTEX,Board Meeting,0,1,1,board meeting
+67,2015-11-23,SIMTEX,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+68,2015-11-23,SIMTEX,Q1 Financials (Repeat),0,0,0,q1 financials repeat
+69,2015-11-23,SIMTEX,Trading of New Security,0,0,0,trading of new security
+70,2015-11-22,Simtex,Industries Limited Q1 Financials,0,0,0,industries limited q1 financials

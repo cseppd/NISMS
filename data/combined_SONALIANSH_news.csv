@@ -1,0 +1,108 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-02-14,SONALIANSH,Q2 Financials,0,0,0,q2 financials
+1,2019-02-10,SONALIANSH,Dividend Disbursement,1,0,0,dividend disbursement
+2,2019-02-07,SONALIANSH,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+3,2019-02-04,SONALIANSH,Credit Rating Result,1,0,0,credit rating result
+4,2019-01-14,SONALIANSH,Q1 Financials,1,1,0,q1 financials
+5,2019-01-09,SONALIANSH,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+6,2018-12-26,SONALIANSH,Resumption after record date,0,0,0,resumption after record date
+7,2018-12-24,SONALIANSH,Suspension for Record date,1,0,0,suspension for record date
+8,2018-12-20,SONALIANSH,Spot News,0,0,0,spot news
+18,2018-12-11,SONALIANSH,Audit Observations,0,1,0,audit observations
+23,2018-12-04,SONALIANSH,Special Resolutions for AGM,1,1,1,special resolutions for agm
+24,2018-12-04,SONALIANSH,Price Limit Open,1,1,1,price limit open
+25,2018-12-04,SONALIANSH,Dividend Declaration,1,1,1,dividend declaration
+26,2018-11-29,SONALIANSH,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+27,2018-11-14,SONALIANSH,Query Response,0,1,0,query response
+28,2018-10-08,SONALIANSH,Query Response,0,1,0,query response
+29,2018-06-28,SONALIANSH,Query Response,1,0,0,query response
+30,2018-05-07,SONALIANSH,Q3 Financials,0,0,1,q3 financials
+31,2018-04-16,SONALIANSH,Query Response (Repeat News),0,0,0,query response repeat news
+32,2018-04-15,SONALIANSH,Query Response,1,0,0,query response
+33,2018-03-08,SONALIANSH,Q2 Financials,0,0,0,q2 financials
+34,2018-02-08,SONALIANSH,Dividend Disbursement,1,0,0,dividend disbursement
+35,2018-01-28,SONALIANSH,Q1 Financials,0,0,0,q1 financials
+36,2018-01-04,SONALIANSH,Credit Rating Result,1,0,0,credit rating result
+37,2017-12-20,SONALIANSH,Resumption after record date,0,0,0,resumption after record date
+38,2017-12-19,SONALIANSH,Suspension for Record Date,1,0,0,suspension for record date
+39,2017-12-17,SONALIANSH,Spot News,1,0,1,spot news
+48,2017-12-11,SONALIANSH,Basis for Adverse Opinion,0,0,0,basis for adverse opinion
+49,2017-12-03,SONALIANSH,Price Limit Open,0,0,0,price limit open
+50,2017-12-03,SONALIANSH,Dividend Declaration,0,0,0,dividend declaration
+51,2017-11-15,SONALIANSH,Approval of audited accounts in the Board Meeting,0,1,0,approval of audited accounts in the board meeting
+52,2017-11-07,SONALIANSH,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+53,2017-05-03,SONALIANSH,Q3 Financials,0,0,0,q3 financials
+54,2017-04-19,SONALIANSH,Sale confirmation of a Sponsor,0,1,0,sale confirmation of a sponsor
+55,2017-04-05,SONALIANSH,Sale declaration of a Sponsor,1,0,0,sale declaration of a sponsor
+56,2017-01-23,SONALIANSH,Confirmation of transfer by a Director,0,1,1,confirmation of transfer by a director
+57,2017-01-11,SONALIANSH,Declaration of transfer by a Director,0,0,0,declaration of transfer by a director
+58,2016-12-20,SONALIANSH,Qualified Opinion,1,1,0,qualified opinion
+59,2016-12-20,SONALIANSH,Qualified Opinion,1,1,0,qualified opinion
+60,2016-12-18,SONALIANSH,Credit Rating Result,0,1,1,credit rating result
+61,2016-12-07,SONALIANSH,Q1,0,0,0,q1
+62,2016-11-28,SONALIANSH,Venue of the AGM,0,0,1,venue of the agm
+63,2016-11-28,SONALIANSH,Resumption after record date,0,0,1,resumption after record date
+64,2016-11-27,SONALIANSH,Suspension for record date,1,0,0,suspension for record date
+65,2016-11-23,SONALIANSH,Spot for AGM,0,0,0,spot for agm
+66,2016-11-08,SONALIANSH,Price Limit Open,1,1,0,price limit open
+67,2016-11-08,SONALIANSH,Dividend Declaration,1,1,0,dividend declaration
+68,2016-11-01,SONALIANSH,Board Meeting,1,0,0,board meeting
+69,2016-10-26,SONALIANSH,Query Response,0,0,0,query response
+70,2016-08-08,SONALIANSH,Query Response,0,1,1,query response
+71,2016-02-29,SONALIANSH,Q2 Financials (additional information),0,0,0,q2 financials additional information
+72,2016-02-29,SONALIANSH,Q2 Financials,0,0,0,q2 financials
+73,2016-02-08,SONALIANSH,Q1 Financials,0,0,0,q1 financials
+74,2016-01-31,SONALIANSH,Cash Dividend Disbursement,0,0,0,cash dividend disbursement
+75,2015-12-13,SONALIANSH,Imposing Fine on Directors,0,0,0,imposing fine on directors
+76,2015-12-03,SONALIANSH,Venue of AGM,0,0,0,venue of agm
+77,2015-11-30,SONALIANSH,Resumption after Record date,0,1,0,resumption after record date
+78,2015-11-29,SONALIANSH,Suspension for Record Date,0,0,1,suspension for record date
+79,2015-11-25,SONALIANSH,Spot for AGM,0,1,0,spot for agm
+80,2015-11-15,SONALIANSH,Price Limit Open,0,0,1,price limit open
+81,2015-11-15,SONALIANSH,Dividend Declaration,0,0,1,dividend declaration
+82,2015-11-08,SONALIANSH,Board Meeting,1,0,0,board meeting
+83,2015-10-21,SONALIANSH,Confirmation for Transmission of Deceased MD/Sponsor's shares,1,0,0,confirmation for transmission of deceased mdsponsor's shares
+84,2015-10-14,SONALIANSH,Transmission of Deceased MD/Sponsor's shares,0,0,0,transmission of deceased mdsponsor's shares
+85,2015-07-08,SONALIANSH,Query Response,0,0,0,query response
+86,2015-07-05,SONALIANSH,Q3 Financials,0,1,0,q3 financials
+87,2015-05-11,SONALIANSH, Half Yearly Financials,1,0,0,half yearly financials
+88,2015-03-01,SONALIANSH,Query Response,1,0,1,query response
+89,2015-01-22,SONALIANSH,Q1 Earning,0,0,0,q1 earning
+90,2014-12-21,SONALIANSH,will resume,0,0,0,will resume
+91,2014-12-18,SONALIANSH,Trade suspended on record date,1,0,0,trade suspended on record date
+92,2014-12-15,SONALIANSH,Spot Market and Block/Odd lot transactions,0,0,1,spot market and blockodd lot transactions
+93,2014-12-09,SONALIANSH,10% cash dividend,0,0,0,10 cash dividend
+94,2014-12-09,SONALIANSH,no price limit TODAY,0,0,0,no price limit today
+95,2014-12-07,SONALIANSH,Board Meeting,1,0,0,board meeting
+96,2014-11-24,SONALIANSH,Q3 earnings (Repeat),0,0,0,q3 earnings repeat
+97,2014-11-18,SONALIANSH, DSE query,1,0,0,dse query
+98,2014-07-22,SONALIANSH,Q3 Earning,0,0,1,q3 earning
+99,2014-03-16,SONALIANSH,Qualified Opinion,1,0,0,qualified opinion
+100,2014-02-24,SONALIANSH,H/Y Earnings,1,0,0,hy earnings
+101,2013-12-24,SONALIANSH,Q1 earnings,0,0,0,q1 earnings
+102,2013-12-12,SONALIANSH,trade resume,0,0,0,trade resume
+103,2013-12-11,SONALIANSH,trade suspension,0,0,0,trade suspension
+104,2013-12-08,SONALIANSH,spot Market trade,1,1,0,spot market trade
+105,2013-12-04,SONALIANSH,no price limit,0,1,0,no price limit
+106,2013-12-04,SONALIANSH,10% cash dividend,0,1,0,10 cash dividend
+107,2013-12-01,SONALIANSH,Board meeting,0,0,1,board meeting
+108,2013-05-13,SONALIANSH,Q3 Earnings,0,1,1,q3 earnings
+109,2013-02-17,SONALIANSH,H/Y Earnings 2012-13,1,0,0,hy earnings 2012-13
+110,2012-12-30,SONALIANSH,Q1 Earnings,1,0,0,q1 earnings
+111,2012-12-20,SONALIANSH,trading will resume after record date,0,0,0,trading will resume after record date
+112,2012-12-19,SONALIANSH,trading will remain suspended,1,0,0,trading will remain suspended
+113,2012-12-10,SONALIANSH,Qualified Opinion,0,0,0,qualified opinion
+114,2012-11-06,SONALIANSH,responses to DSE query,0,0,1,responses to dse query
+115,2012-10-02,SONALIANSH,responses to DSE query,0,0,0,responses to dse query
+116,2012-05-02,SONALIANSH,- (Q3): As per un-audited quarterly accounts...,1,0,0,q3: as per un-audited quarterly accounts
+117,2012-04-09,SONALIANSH,- Mr. Md. Mahbubur Rahman Patwari...,0,1,0,mr. md. mahbubur rahman patwari
+118,2011-12-19,SONALIANSH,- continuation of news of SONALIANSH...,1,1,1,continuation of news of sonaliansh
+119,2011-12-19,SONALIANSH,- Auditor Qualification...,1,1,1,auditor qualification
+120,2011-12-15,SONALIANSH,- Normal trading of the shares...,0,0,0,normal trading of the shares
+121,2011-12-15,SONALIANSH,- As per un-audited...,0,0,0,as per un-audited
+122,2011-12-14,SONALIANSH,- Trading of the shares...,0,0,0,trading of the shares
+123,2011-12-07,SONALIANSH,- The Board of Directors...,0,1,0,the board of directors
+124,2011-10-31,SONALIANSH,- Normal trading of the shares...,0,0,0,normal trading of the shares
+125,2011-10-25,SONALIANSH,- Trading of the shares...,0,0,0,trading of the shares
+126,2011-10-19,SONALIANSH,- The Company has informed...,0,1,0,the company has informed
+127,2011-07-12,SONALIANSH,- In response to a DSE query...,1,1,0,in response to a dse query

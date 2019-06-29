@@ -1,0 +1,123 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-01-22,SUNLIFEINS,Query Response,0,0,1,query response
+1,2018-12-17,SUNLIFEINS,Query Response,1,1,0,query response
+2,2018-11-01,SUNLIFEINS,Credit Rating Result,0,0,0,credit rating result
+3,2018-11-01,SUNLIFEINS,Sale confirmation of a Sponsor Director,0,0,0,sale confirmation of a sponsor director
+4,2018-10-31,SUNLIFEINS,Q3 Financials,0,0,0,q3 financials
+5,2018-10-15,SUNLIFEINS,Sale confirmation of a Sponsor Director,0,0,0,sale confirmation of a sponsor director
+6,2018-10-02,SUNLIFEINS,Sale Declaration of a Sponsor Director,0,0,0,sale declaration of a sponsor director
+7,2018-09-30,SUNLIFEINS,Sale Declaration of a Sponsor Director,1,1,0,sale declaration of a sponsor director
+8,2018-09-30,SUNLIFEINS,Prohibition on providing loan facilities to purchase securities,1,1,0,prohibition on providing loan facilities to purchase securities
+9,2018-09-30,SUNLIFEINS,Category Change,1,1,0,category change
+10,2018-09-30,SUNLIFEINS,Dividend Disbursement,1,1,0,dividend disbursement
+11,2018-08-28,SUNLIFEINS,Resumption after record date,0,1,1,resumption after record date
+12,2018-08-27,SUNLIFEINS,Suspension for Record Date,0,0,1,suspension for record date
+13,2018-08-08,SUNLIFEINS,Spot News,0,0,0,spot news
+15,2018-08-01,SUNLIFEINS,Q2 Financials,0,1,0,q2 financials
+16,2018-08-01,SUNLIFEINS,Q1 Financials,0,1,0,q1 financials
+17,2018-08-01,SUNLIFEINS,Price Limit Open,0,1,0,price limit open
+18,2018-08-01,SUNLIFEINS,Dividend Declaration,0,1,0,dividend declaration
+19,2018-07-25,SUNLIFEINS,Board Meeting schedules under LR 16(1),0,0,0,board meeting schedules under lr 161
+20,2018-07-25,SUNLIFEINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+21,2018-01-22,SUNLIFEINS,Construction of a 20 Storied Building,0,1,0,construction of a 20 storied building
+22,2017-11-07,SUNLIFEINS,Decision to sell entire shares of BD Sunlife Securities Limited,1,1,0,decision to sell entire shares of bd sunlife securities limited
+23,2017-10-30,SUNLIFEINS,Q3 Financials,1,0,0,q3 financials
+24,2017-09-06,SUNLIFEINS,Resumption after Record Date,0,0,0,resumption after record date
+25,2017-09-05,SUNLIFEINS,Suspension for Record Date,0,0,0,suspension for record date
+26,2017-08-22,SUNLIFEINS,Spot News,0,0,1,spot news
+27,2017-08-16,SUNLIFEINS,Q2 Financials,0,1,0,q2 financials
+28,2017-08-16,SUNLIFEINS,Q1 Financials,0,1,0,q1 financials
+29,2017-08-16,SUNLIFEINS,Price Limit Open,0,1,0,price limit open
+30,2017-08-16,SUNLIFEINS,Dividend Declaration,0,1,0,dividend declaration
+31,2017-08-07,SUNLIFEINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+32,2017-08-07,SUNLIFEINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+33,2017-03-23,SUNLIFEINS,Credit Rating Result,1,0,0,credit rating result
+34,2016-11-01,SUNLIFEINS,Q3 Financials,1,0,1,q3 financials
+35,2016-09-18,SUNLIFEINS,Confirmation of sale by a Sponsor/Director,1,1,0,confirmation of sale by a sponsordirector
+36,2016-09-01,SUNLIFEINS,Declaration of sale by a Sponsor/Director,0,0,0,declaration of sale by a sponsordirector
+37,2016-08-21,SUNLIFEINS, Resumption after record date,0,0,0,resumption after record date
+38,2016-08-18,SUNLIFEINS,Suspension news for record date,1,0,0,suspension news for record date
+39,2016-08-04,SUNLIFEINS,Spot for AGM,0,0,0,spot for agm
+40,2016-07-31,SUNLIFEINS,Q2 Financials,0,1,0,q2 financials
+41,2016-07-31,SUNLIFEINS,Q1 Financials,0,1,0,q1 financials
+42,2016-07-31,SUNLIFEINS,Prohibition on providing loan,0,1,0,prohibition on providing loan
+43,2016-07-31,SUNLIFEINS,Category Change,0,1,0,category change
+44,2016-07-31,SUNLIFEINS,Price Limit Open,0,1,0,price limit open
+45,2016-07-31,SUNLIFEINS,Dividend Declaration,0,1,0,dividend declaration
+46,2016-07-25,SUNLIFEINS,Board Meeting,0,0,0,board meeting
+47,2016-07-21,SUNLIFEINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+48,2015-11-02,SUNLIFEINS,Confirmation of sale by a Sponsor/Director,1,1,0,confirmation of sale by a sponsordirector
+49,2015-11-02,SUNLIFEINS,Confirmation of sale by a Sponsor/Director,1,1,0,confirmation of sale by a sponsordirector
+50,2015-11-01,SUNLIFEINS,Confirmation of sale (Correction),0,1,1,confirmation of sale correction
+51,2015-11-01,SUNLIFEINS,Confirmation of sale,0,1,1,confirmation of sale
+52,2015-11-01,SUNLIFEINS,Q3,0,1,1,q3
+53,2015-10-28,SUNLIFEINS,Declaration of sale by a Sponsor,0,0,0,declaration of sale by a sponsor
+54,2015-10-28,SUNLIFEINS,Confirmation of sale by Sponsors/Directors,0,0,0,confirmation of sale by sponsorsdirectors
+55,2015-10-27,SUNLIFEINS,Board Meeting,0,0,0,board meeting
+56,2015-10-26,SUNLIFEINS,Declaration of Transfer by a Sponsor/Director,0,0,0,declaration of transfer by a sponsordirector
+57,2015-10-26,SUNLIFEINS,Declaration of sale by a Sponsor,0,0,0,declaration of sale by a sponsor
+58,2015-10-21,SUNLIFEINS,Confirmation of sale by Sponsors/Directors,1,0,0,confirmation of sale by sponsorsdirectors
+59,2015-10-18,SUNLIFEINS,Confirmation of sale by a Sponsor/Director,0,0,1,confirmation of sale by a sponsordirector
+60,2015-10-15,SUNLIFEINS,Declaration of sale by Sponsors/Directors,0,0,0,declaration of sale by sponsorsdirectors
+61,2015-10-15,SUNLIFEINS,Declaration of sale by a Sponsor/Director,0,0,0,declaration of sale by a sponsordirector
+62,2015-10-11,SUNLIFEINS,Declaration of sale By a Sponsor/Director,0,0,0,declaration of sale by a sponsordirector
+63,2015-10-11,SUNLIFEINS,Confirmation of sale by Sponsors/Directors,0,0,0,confirmation of sale by sponsorsdirectors
+64,2015-09-30,SUNLIFEINS,Declaration of sale by Sponsors/Directors,1,1,0,declaration of sale by sponsorsdirectors
+65,2015-09-22,SUNLIFEINS,Dividend Disbursement,1,0,0,dividend disbursement
+66,2015-08-18,SUNLIFEINS,Resumption News after Record Date,0,1,1,resumption news after record date
+67,2015-08-17,SUNLIFEINS,Suspension News for Record Date,0,0,1,suspension news for record date
+68,2015-08-16,SUNLIFEINS,Q2 Financials,1,0,0,q2 financials
+69,2015-08-13,SUNLIFEINS,Spot News,0,0,0,spot news
+70,2015-07-30,SUNLIFEINS,Q1 Financials,0,0,0,q1 financials
+71,2015-07-29,SUNLIFEINS,Price Limit Open,1,0,0,price limit open
+72,2015-07-29,SUNLIFEINS,Dividend Declaration,1,0,0,dividend declaration
+73,2015-07-26,SUNLIFEINS,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+74,2015-05-14,SUNLIFEINS,Credit Rating result,0,0,0,credit rating result
+75,2015-03-24,SUNLIFEINS,Land Purchase,1,0,0,land purchase
+76,2014-11-02,SUNLIFEINS,Sponsors Buy/Sell/Transfer,1,1,0,sponsors buyselltransfer
+77,2014-10-30,SUNLIFEINS,Q3 Earnings,0,0,0,q3 earnings
+78,2014-10-30,SUNLIFEINS,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+79,2014-10-28,SUNLIFEINS,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+80,2014-10-15,SUNLIFEINS,Sponsors/Directors intention to share sell,0,0,0,sponsorsdirectors intention to share sell
+81,2014-10-13,SUNLIFEINS,Sponsors  intention to sell share,0,0,0,sponsors  intention to sell share
+82,2014-09-23,SUNLIFEINS,credited bonus shares,0,1,1,credited bonus shares
+83,2014-09-15,SUNLIFEINS,Sponsors sale,0,0,0,sponsors sale
+84,2014-08-19,SUNLIFEINS,H/Y Earnings,1,0,0,hy earnings
+85,2014-08-13,SUNLIFEINS,Sponsor/Director Share Sale,0,1,0,sponsordirector share sale
+86,2014-08-07,SUNLIFEINS,trade resume,0,0,0,trade resume
+87,2014-08-06,SUNLIFEINS,trade suspension,1,0,0,trade suspension
+88,2014-08-04,SUNLIFEINS,Spot Market Transaction,0,1,1,spot market transaction
+89,2014-07-23,SUNLIFEINS,Q1 Earnings,0,0,0,q1 earnings
+90,2014-07-21,SUNLIFEINS,no price limit,1,1,0,no price limit
+91,2014-07-21,SUNLIFEINS,5% stock dividend,1,1,0,5 stock dividend
+92,2014-07-16,SUNLIFEINS,Board meeting,0,1,0,board meeting
+93,2013-12-24,SUNLIFEINS,Credit Rating,0,0,0,credit rating
+94,2013-11-03,SUNLIFEINS,Share sell,0,1,0,share sell
+95,2013-11-03,SUNLIFEINS,Share sell,0,1,0,share sell
+96,2013-10-29,SUNLIFEINS,Q3 Earnings,1,0,1,q3 earnings
+97,2013-10-28,SUNLIFEINS,Sponsors Share Sell,0,1,0,sponsors share sell
+98,2013-10-20,SUNLIFEINS,Sponsors Share Sell,1,1,1,sponsors share sell
+99,2013-10-08,SUNLIFEINS,Sponsors Share Sell,0,0,0,sponsors share sell
+100,2013-10-07,SUNLIFEINS,sponsor/director sell announcement,1,0,0,sponsordirector sell announcement
+101,2013-10-03,SUNLIFEINS,Sponsors Share Sell,1,0,0,sponsors share sell
+102,2013-10-02,SUNLIFEINS,Sponsors Share Sell,1,1,0,sponsors share sell
+103,2013-09-26,SUNLIFEINS,Sponsors Share Sell,0,0,0,sponsors share sell
+104,2013-09-23,SUNLIFEINS,Sponsors Sahre Sell,1,0,0,sponsors sahre sell
+105,2013-09-22,SUNLIFEINS,Sponsors Share Sell,0,1,0,sponsors share sell
+106,2013-09-19,SUNLIFEINS,Sponsors Share Sell,0,0,0,sponsors share sell
+107,2013-09-11,SUNLIFEINS,Credited Bonus Share to The BO Account,0,1,0,credited bonus share to the bo account
+108,2013-09-11,SUNLIFEINS,Category Change,0,1,0,category change
+109,2013-09-11,SUNLIFEINS,Credited Bonus Share,0,1,0,credited bonus share
+110,2013-07-28,SUNLIFEINS,Q2 Earnings,0,0,0,q2 earnings
+111,2013-07-11,SUNLIFEINS,Trade Resume after Record Date,0,0,0,trade resume after record date
+112,2013-07-10,SUNLIFEINS,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+113,2013-07-07,SUNLIFEINS,Trade suspended on record date,0,0,1,trade suspended on record date
+114,2013-07-02,SUNLIFEINS,qualified opinion,0,0,1,qualified opinion
+115,2013-06-30,SUNLIFEINS,no price limit,1,0,0,no price limit
+116,2013-06-30,SUNLIFEINS,Corporate Action,1,0,0,corporate action
+117,2013-06-24,SUNLIFEINS,Q1 Earnings,0,0,0,q1 earnings
+118,2013-06-23,SUNLIFEINS,meeting of the Board of Directors,0,0,0,meeting of the board of directors
+119,2013-01-31,SUNLIFEINS,instruction for trading,0,0,0,instruction for trading
+120,2013-01-31,SUNLIFEINS,trading will commence today,0,0,0,trading will commence today
+121,2013-01-31,SUNLIFEINS,Q3 earnings 2012,0,0,0,q3 earnings 2012
+122,2013-01-28,SUNLIFEINS,listing to DSE,0,0,0,listing to dse

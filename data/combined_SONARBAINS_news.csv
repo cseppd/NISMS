@@ -1,0 +1,122 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-28,SONARBAINS,Q1 Financials,0,1,0,q1 financials
+1,2019-04-28,SONARBAINS,Price Limit Open,0,1,0,price limit open
+2,2019-04-28,SONARBAINS,Dividend Declaration,0,1,0,dividend declaration
+3,2019-04-21,SONARBAINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2019-04-21,SONARBAINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+5,2019-01-15,SONARBAINS,Query Response,0,0,0,query response
+6,2018-10-23,SONARBAINS,Q3 Financials,0,1,0,q3 financials
+7,2018-10-15,SONARBAINS,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+8,2018-08-07,SONARBAINS,Dividend Disbursement,0,0,0,dividend disbursement
+9,2018-07-26,SONARBAINS,Q2 Financials,0,0,0,q2 financials
+10,2018-07-22,SONARBAINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+11,2018-06-25,SONARBAINS,Credit Rating Result,1,0,1,credit rating result
+12,2018-05-24,SONARBAINS,Resumption after record date,0,0,0,resumption after record date
+13,2018-05-23,SONARBAINS,Suspension for Record Date,0,0,0,suspension for record date
+14,2018-05-21,SONARBAINS,Spot News,1,0,0,spot news
+15,2018-05-03,SONARBAINS,Q1 Financials,0,0,0,q1 financials
+16,2018-05-03,SONARBAINS,Price Limit Open,0,0,0,price limit open
+17,2018-05-03,SONARBAINS,Dividend Declaration,0,0,0,dividend declaration
+18,2018-04-23,SONARBAINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+19,2017-10-31,SONARBAINS,Q3 Financials,0,0,0,q3 financials
+20,2017-10-23,SONARBAINS,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+21,2017-08-17,SONARBAINS,Dividend Disbursement,0,0,0,dividend disbursement
+22,2017-08-17,SONARBAINS,Buy confirmations of Sponsors Directors,0,0,0,buy confirmations of sponsors directors
+23,2017-08-17,SONARBAINS,Buy confirmation of a Corporate Director,0,0,0,buy confirmation of a corporate director
+24,2017-08-08,SONARBAINS,Buy declarations of Sponsors Directors,0,0,0,buy declarations of sponsors directors
+25,2017-08-08,SONARBAINS,Buy declaration of a Corporate Director,0,0,0,buy declaration of a corporate director
+28,2017-07-27,SONARBAINS,Qualified Opinion and Emphasis of Matter,0,0,0,qualified opinion and emphasis of matter
+29,2017-07-27,SONARBAINS,Q2 Financials,0,0,0,q2 financials
+30,2017-07-19,SONARBAINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+31,2017-06-13,SONARBAINS,Credit Rating Result,0,1,1,credit rating result
+32,2017-06-06,SONARBAINS,Change of AGM date,0,1,0,change of agm date
+33,2017-05-25,SONARBAINS,Resumption after Record Date,0,0,0,resumption after record date
+34,2017-05-24,SONARBAINS,Suspension for Record Date,1,0,0,suspension for record date
+35,2017-05-22,SONARBAINS,Spot News,0,1,1,spot news
+36,2017-05-02,SONARBAINS,Q1 Financials,0,0,0,q1 financials
+37,2017-05-02,SONARBAINS,Price Limit Open,0,0,0,price limit open
+38,2017-05-02,SONARBAINS,Dividend Declaration,0,0,0,dividend declaration
+39,2017-04-24,SONARBAINS,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+40,2017-04-24,SONARBAINS,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+41,2016-10-31,SONARBAINS,Q3 Financials,1,0,1,q3 financials
+42,2016-10-24,SONARBAINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+43,2016-08-01,SONARBAINS,Q2 Financials,0,0,1,q2 financials
+44,2016-07-26,SONARBAINS,Board Meeting,0,1,1,board meeting
+45,2016-07-20,SONARBAINS,Appointment of CEO,1,0,0,appointment of ceo
+46,2016-06-23,SONARBAINS,Confirmation of sale by a Sponsor,1,0,0,confirmation of sale by a sponsor
+47,2016-06-14,SONARBAINS,Credit Rating Result,0,1,1,credit rating result
+48,2016-06-14,SONARBAINS,Declaration of sale by a Sponsor,0,1,1,declaration of sale by a sponsor
+49,2016-05-25,SONARBAINS,Resumption after Record,0,1,0,resumption after record
+50,2016-05-24,SONARBAINS,Suspension news,1,0,1,suspension news
+51,2016-05-19,SONARBAINS,Spot News for AGM,1,0,0,spot news for agm
+52,2016-05-03,SONARBAINS,Q1 Financials,0,0,0,q1 financials
+53,2016-05-03,SONARBAINS,Q1 Financials,0,0,0,q1 financials
+54,2016-05-02,SONARBAINS,Price Limit Open,0,0,0,price limit open
+55,2016-05-02,SONARBAINS,Dividend Declaration,0,0,0,dividend declaration
+56,2016-04-21,SONARBAINS,Board Meeting,0,0,0,board meeting
+57,2016-04-21,SONARBAINS,Board Meeting (Q1),0,0,0,board meeting q1
+58,2015-11-01,SONARBAINS,Q3 Financials,0,0,1,q3 financials
+59,2015-10-26,SONARBAINS,Board Meeting,0,1,1,board meeting
+60,2015-09-03,SONARBAINS,Confirmation of sale by a Sponsor/Director,1,0,0,confirmation of sale by a sponsordirector
+61,2015-08-20,SONARBAINS,Sale declaration of a Sponsor/Director,1,0,0,sale declaration of a sponsordirector
+62,2015-08-02,SONARBAINS,Q2 Financials,0,0,1,q2 financials
+63,2015-07-13,SONARBAINS,Credit Rating,0,1,0,credit rating
+64,2015-05-19,SONARBAINS,Resumption News after Record Date,0,0,1,resumption news after record date
+65,2015-05-18,SONARBAINS,Suspension News for Record Date,1,0,0,suspension news for record date
+66,2015-05-14,SONARBAINS,Q1 Financials,1,0,0,q1 financials
+67,2015-05-14,SONARBAINS,Spot News for AGM,1,0,0,spot news for agm
+68,2015-04-29,SONARBAINS,Price Limit Open,1,1,0,price limit open
+69,2015-04-29,SONARBAINS,Dividend Declaration,1,1,0,dividend declaration
+70,2015-04-22,SONARBAINS,Board Meeting,1,1,0,board meeting
+71,2014-11-02,SONARBAINS,Q3 earnings,0,0,0,q3 earnings
+72,2014-09-02,SONARBAINS,Sponsor/Director Share Sale,0,1,1,sponsordirector share sale
+73,2014-07-24,SONARBAINS,H/Y Earnings,0,0,0,hy earnings
+74,2014-07-13,SONARBAINS,Sponsors/Directors intention to share sell,0,0,0,sponsorsdirectors intention to share sell
+75,2014-07-08,SONARBAINS,credited the bonus shares,1,0,0,credited the bonus shares
+76,2014-06-01,SONARBAINS,Credit Rating report,0,0,0,credit rating report
+77,2014-06-01,SONARBAINS,Credit Rating report,0,0,0,credit rating report
+78,2014-05-11,SONARBAINS,will resume on after record date,0,1,0,will resume on after record date
+79,2014-05-08,SONARBAINS,trade suspension,1,0,0,trade suspension
+80,2014-05-06,SONARBAINS,Spot Market and Block/Odd lot transactions,1,0,1,spot market and blockodd lot transactions
+81,2014-04-29,SONARBAINS,Q1 Earning,1,0,0,q1 earning
+82,2014-04-29,SONARBAINS,no price limit,1,0,0,no price limit
+83,2014-04-29,SONARBAINS,Dividend Declaration,1,0,0,dividend declaration
+84,2014-04-21,SONARBAINS,Board Meeting,1,1,0,board meeting
+85,2013-11-03,SONARBAINS,Q3,0,1,0,q3
+86,2013-09-08,SONARBAINS,Credit Rating,0,0,0,credit rating
+87,2013-08-01,SONARBAINS,Q2 Earnings,0,0,0,q2 earnings
+88,2013-07-10,SONARBAINS,Credited Bonus Shares,0,0,0,credited bonus shares
+89,2013-05-21,SONARBAINS,Trade Resume after Record Date,0,0,0,trade resume after record date
+90,2013-05-20,SONARBAINS,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+91,2013-05-15,SONARBAINS,Spot Market Tradeing,0,1,0,spot market tradeing
+92,2013-05-08,SONARBAINS,no price limit,1,0,0,no price limit
+93,2013-05-08,SONARBAINS,Corporate Declaration,1,0,0,corporate declaration
+94,2013-05-02,SONARBAINS,Board meeting,1,0,0,board meeting
+95,2013-05-02,SONARBAINS,Q1 Earnings,1,0,0,q1 earnings
+96,2012-12-05,SONARBAINS,new MD,1,1,0,new md
+97,2012-10-22,SONARBAINS,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+98,2012-07-19,SONARBAINS,- Mr. Delowar Hossain Raja...,1,0,0,mr. delowar hossain raja
+99,2012-07-12,SONARBAINS,- The Rating Committee of CRISL...,1,0,0,the rating committee of crisl
+100,2012-05-14,SONARBAINS,- Normal trading of the shares...,0,0,1,normal trading of the shares
+101,2012-05-08,SONARBAINS,- Trading of the shares...,1,0,1,trading of the shares
+102,2012-04-25,SONARBAINS,- The Company has further informed...,0,0,0,the company has further informed
+103,2012-04-23,SONARBAINS,- As per regulation...,0,0,0,as per regulation
+104,2012-04-23,SONARBAINS,- Mr. Kailash Chandra Barai...,0,0,0,mr. kailash chandra barai
+105,2012-04-22,SONARBAINS,- Mr. Ram Chandra Barai...,1,0,0,mr. ram chandra barai
+106,2012-04-19,SONARBAINS,- Mr. Mohammad Haroon Kamal...,0,0,0,mr. mohammad haroon kamal
+107,2012-04-09,SONARBAINS,- Mrs. Nargis Akter and Mr. Sheikh Kabir Hossain...,0,1,0,mrs. nargis akter and mr. sheikh kabir hossain
+108,2012-04-01,SONARBAINS,- Mr. Mohammad Haroon Kamal...,1,0,0,mr. mohammad haroon kamal
+109,2012-03-15,SONARBAINS,- Mr. Md. Shamsul Haque...,0,0,0,mr. md. shamsul haque
+110,2012-03-13,SONARBAINS,- Mr. Kailash Chandra Barai...,1,1,0,mr. kailash chandra barai
+111,2012-03-12,SONARBAINS,- Mrs. Shahida Alamin...,0,1,1,mrs. shahida alamin
+112,2012-01-30,SONARBAINS,- Mr. Md. Rajjab Sharif...,1,0,0,mr. md. rajjab sharif
+113,2011-10-31,SONARBAINS,- As per un-audited...,0,1,0,as per un-audited
+114,2011-10-31,SONARBAINS,- Normal trading of the shares...,0,1,0,normal trading of the shares
+115,2011-10-30,SONARBAINS,- Trading of the shares...,0,0,1,trading of the shares
+116,2011-10-25,SONARBAINS,- Trading of the shares...,1,0,0,trading of the shares
+117,2011-10-23,SONARBAINS,- The Company has informed...,0,0,1,the company has informed
+118,2011-09-21,SONARBAINS,- The Company has informed...,0,0,0,the company has informed
+119,2011-09-12,SONARBAINS,- Mr. Md. Rajjab Sharif...,0,1,0,mr. md. rajjab sharif
+120,2011-08-02,SONARBAINS,- (H/Y): (Revised): As per un-audited...,0,1,0,hy: revised: as per un-audited
+121,2011-08-01,SONARBAINS,- (H/Y): As per un-audited...,0,0,1,hy: as per un-audited
+122,2011-07-07,SONARBAINS,- The Rating Committee...,0,0,0,the rating committee
