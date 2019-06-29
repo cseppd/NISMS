@@ -1,0 +1,60 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-29,ITC,Q3 Financials,0,0,0,q3 financials
+1,2019-04-23,ITC,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+2,2019-02-11,ITC,Credit Rating Result,0,1,0,credit rating result
+3,2019-01-29,ITC,Q2 Financials,0,0,0,q2 financials
+4,2019-01-22,ITC,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+5,2018-12-26,ITC,Dividend Disbursement,0,1,0,dividend disbursement
+7,2018-12-03,ITC,Emphasis of Matter,0,1,0,emphasis of matter
+8,2018-11-15,ITC,Resumption after Record Date,0,0,0,resumption after record date
+9,2018-11-14,ITC,Suspension for Record Date,1,0,0,suspension for record date
+10,2018-11-13,ITC,Q1 Financials,0,1,0,q1 financials
+11,2018-11-12,ITC,Spot News,0,0,1,spot news
+12,2018-11-06,ITC,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+13,2018-10-28,ITC,Price Limit Open,0,1,1,price limit open
+14,2018-10-28,ITC,Dividend Declaration,0,1,1,dividend declaration
+15,2018-10-10,ITC,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+16,2018-07-18,ITC,Query Response,1,0,0,query response
+17,2018-06-27,ITC,Query Response,1,1,0,query response
+18,2018-04-30,ITC,Q3 Financials,0,0,0,q3 financials
+19,2018-04-23,ITC,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+20,2018-01-28,ITC,Q2 Financials,1,0,0,q2 financials
+21,2018-01-21,ITC,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+22,2018-01-04,ITC,Dividend Disbursement,0,0,0,dividend disbursement
+23,2017-12-21,ITC,Credit Rating Result,0,0,0,credit rating result
+24,2017-12-12,ITC,Stock Dividend Disbursement,0,0,1,stock dividend disbursement
+27,2017-11-14,ITC,Emphasis of Matter,1,1,1,emphasis of matter
+28,2017-11-12,ITC,Q1 Financials,0,0,1,q1 financials
+29,2017-11-06,ITC,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+30,2017-11-05,ITC,Resumption after record date,0,1,0,resumption after record date
+31,2017-11-02,ITC,Suspension for Record Date,1,0,0,suspension for record date
+32,2017-10-31,ITC,Spot News,1,1,1,spot news
+33,2017-10-12,ITC,Price Limit Open,0,0,0,price limit open
+34,2017-10-12,ITC,Dividend Declaration,0,0,0,dividend declaration
+35,2017-10-02,ITC,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+36,2017-04-26,ITC,Q3 Financials,1,0,0,q3 financials
+37,2017-04-20,ITC,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+38,2017-01-29,ITC,Q2 Financials,0,0,0,q2 financials
+39,2017-01-23,ITC,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+40,2016-12-29,ITC,Credit Rating Result,0,0,0,credit rating result
+41,2016-12-29,ITC,Credit Rating Result,0,0,0,credit rating result
+42,2016-12-11,ITC,Category Change,0,0,0,category change
+43,2016-12-11,ITC,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+44,2016-12-07,ITC,Dividend Disbursement,1,0,0,dividend disbursement
+45,2016-11-14,ITC,Q1 Financials,0,0,1,q1 financials
+46,2016-11-08,ITC,Resumption after record date,1,1,0,resumption after record date
+47,2016-11-08,ITC,Board Meeting,1,1,0,board meeting
+48,2016-11-07,ITC,Suspension for record date,1,1,1,suspension for record date
+49,2016-11-03,ITC,Spot for AGM,1,0,0,spot for agm
+50,2016-10-18,ITC,Price Limit Open,1,0,1,price limit open
+51,2016-10-18,ITC,Dividend Declaration,1,0,1,dividend declaration
+52,2016-10-02,ITC,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+53,2016-05-02,ITC,Q3 Financials,0,0,0,q3 financials
+54,2016-04-24,ITC,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+55,2016-03-31,ITC,Credit Rating Result,1,0,0,credit rating result
+56,2016-01-28,ITC,Q2 Financials,1,0,0,q2 financials
+57,2016-01-25,ITC,Board Meeting,0,0,1,board meeting
+58,2016-01-13,ITC,Query Response,1,1,0,query response
+59,2016-01-10,ITC,Q1 Financials (Repeat),1,1,1,q1 financials repeat
+60,2016-01-10,ITC,Prohibition on providing loan,1,1,1,prohibition on providing loan
+61,2016-01-10,ITC,Trading of New Security,1,1,1,trading of new security

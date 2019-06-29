@@ -1,0 +1,164 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-01-27,KEYACOSMET,Address Change of Corporate and Share Liaison Office,0,0,0,address change of corporate and share liaison office
+1,2019-01-23,KEYACOSMET,Postponement of 22nd AGM,0,0,0,postponement of 22nd agm
+2,2019-01-01,KEYACOSMET,Prohibition on providing loan facilities to purchase securities,0,0,1,prohibition on providing loan facilities to purchase securities
+3,2019-01-01,KEYACOSMET,Category Change,0,0,1,category change
+4,2018-12-18,KEYACOSMET,Sale Declaration of a Sponsor Director,0,0,1,sale declaration of a sponsor director
+5,2018-12-12,KEYACOSMET,Resumption after record date,0,0,0,resumption after record date
+6,2018-12-11,KEYACOSMET,Suspension for Record date,0,0,0,suspension for record date
+7,2018-12-09,KEYACOSMET,Spot News,0,0,0,spot news
+8,2018-11-20,KEYACOSMET,Price Limit Open,0,0,0,price limit open
+9,2018-11-20,KEYACOSMET,Dividend Declaration,0,0,0,dividend declaration
+10,2018-11-13,KEYACOSMET,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+11,2018-10-28,KEYACOSMET,Q3 Financials,0,0,1,q3 financials
+12,2018-10-25,KEYACOSMET,Q2 Financials,1,0,0,q2 financials
+13,2018-10-22,KEYACOSMET,Board Meeting schedule under LR 16(1) (Correction),0,0,0,board meeting schedule under lr 161 correction
+14,2018-10-22,KEYACOSMET,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+15,2018-10-18,KEYACOSMET,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+16,2018-09-25,KEYACOSMET,Fine Imposed on Directors of the Company,0,0,0,fine imposed on directors of the company
+21,2018-07-11,KEYACOSMET,Query Response on a news published in the online newspaper,0,0,0,query response on a news published in the online newspaper
+22,2018-05-06,KEYACOSMET,Sale Confirmation of a Corporate Director,0,0,0,sale confirmation of a corporate director
+23,2018-04-24,KEYACOSMET,Sale confirmation of a Corporate Director,0,0,0,sale confirmation of a corporate director
+24,2018-04-23,KEYACOSMET,Sale Declaration of a Corporate Director,0,0,0,sale declaration of a corporate director
+25,2018-04-18,KEYACOSMET,Sale Declaration of a Corporate Director,0,0,0,sale declaration of a corporate director
+26,2018-04-15,KEYACOSMET,Sale Confirmation of a Sponsor Director,0,1,0,sale confirmation of a sponsor director
+27,2018-04-15,KEYACOSMET,Sale Confirmation of a Corporate Director,0,1,0,sale confirmation of a corporate director
+28,2018-04-08,KEYACOSMET,Sale Declaration of a Corporate Director,0,0,1,sale declaration of a corporate director
+29,2018-04-02,KEYACOSMET,Sale Confirmation of a Corporate Director,0,0,0,sale confirmation of a corporate director
+30,2018-03-18,KEYACOSMET,Sale Declaration of a Sponsor Director,0,0,0,sale declaration of a sponsor director
+31,2018-02-26,KEYACOSMET,Sale Declaration of a Corporate Director,0,0,0,sale declaration of a corporate director
+32,2018-02-26,KEYACOSMET,Sale confirmation of a Director,0,0,0,sale confirmation of a director
+33,2018-02-25,KEYACOSMET,Sale Confirmation of a Sponsor Director,0,0,0,sale confirmation of a sponsor director
+34,2018-02-19,KEYACOSMET,Sale Declaration of a Director,0,0,0,sale declaration of a director
+35,2018-02-14,KEYACOSMET,Sale Confirmation of a Sponsor,1,0,0,sale confirmation of a sponsor
+36,2018-02-12,KEYACOSMET,Sale Declaration of a Sponsor Director,0,0,1,sale declaration of a sponsor director
+37,2018-01-31,KEYACOSMET,Sale confirmation of a Corporate Director,0,0,0,sale confirmation of a corporate director
+38,2018-01-25,KEYACOSMET,Sale Declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+39,2018-01-11,KEYACOSMET,Sale Declaration of a Corporate Director,0,0,0,sale declaration of a corporate director
+40,2018-01-09,KEYACOSMET,Sale confirmation of a Corporate Director,0,0,0,sale confirmation of a corporate director
+41,2018-01-08,KEYACOSMET,Dividend Disbursement,0,0,0,dividend disbursement
+42,2018-01-01,KEYACOSMET,Sale Declaration of a Corporate Director,1,0,0,sale declaration of a corporate director
+43,2017-12-20,KEYACOSMET,Q1 Financials,0,0,0,q1 financials
+44,2017-12-17,KEYACOSMET,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+45,2017-12-11,KEYACOSMET,Address Change of Corporate and Share Liaison Office,0,0,0,address change of corporate and share liaison office
+46,2017-11-28,KEYACOSMET,Resumption after record date,0,0,0,resumption after record date
+47,2017-11-27,KEYACOSMET,Suspension for Record Date,0,0,0,suspension for record date
+48,2017-11-23,KEYACOSMET,Spot News,0,0,0,spot news
+49,2017-11-09,KEYACOSMET,Price Limit Open,0,0,0,price limit open
+51,2017-11-09,KEYACOSMET,Dividend Declaration & Increase of Authorized Capital,0,0,0,dividend declaration  increase of authorized capital
+52,2017-11-01,KEYACOSMET,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+53,2017-07-12,KEYACOSMET,Query Response,1,1,0,query response
+54,2017-07-10,KEYACOSMET,Query Response,1,0,1,query response
+55,2017-06-21,KEYACOSMET,Q3 Financials,0,0,0,q3 financials
+56,2017-06-14,KEYACOSMET,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+57,2017-03-08,KEYACOSMET,Q2,1,0,0,q2
+58,2017-03-01,KEYACOSMET,Board Meeting,0,1,0,board meeting
+59,2017-01-25,KEYACOSMET,Q1 Financials,1,0,0,q1 financials
+60,2017-01-22,KEYACOSMET,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+61,2017-01-17,KEYACOSMET,Expansion of business by the company,1,0,0,expansion of business by the company
+62,2016-12-15,KEYACOSMET,Dividend Disbursement,1,0,0,dividend disbursement
+63,2016-11-02,KEYACOSMET,Completion of sale,0,1,0,completion of sale
+64,2016-10-27,KEYACOSMET,Declaration of sale by a Corporate Sponsor,0,0,0,declaration of sale by a corporate sponsor
+65,2016-09-21,KEYACOSMET,Resumption after record date,0,0,0,resumption after record date
+66,2016-08-28,KEYACOSMET,Price Limit Open,0,0,0,price limit open
+67,2016-08-28,KEYACOSMET,Dividend Declaration & Increase of Authorized Capital,0,0,0,dividend declaration  increase of authorized capital
+68,2016-08-22,KEYACOSMET, Board Meeting,1,0,1,board meeting
+69,2016-05-03,KEYACOSMET,Confirmation of sale by a Corporate Sponsor,1,0,0,confirmation of sale by a corporate sponsor
+70,2016-04-27,KEYACOSMET,Declaration of sale by a Corporate Sponsor,0,0,0,declaration of sale by a corporate sponsor
+71,2016-04-18,KEYACOSMET,Q3 Financials,0,0,0,q3 financials
+72,2016-04-12,KEYACOSMET,Board Meeting,1,0,0,board meeting
+73,2016-04-11,KEYACOSMET,Q2 Financials (additional information),0,1,0,q2 financials additional information
+74,2016-04-11,KEYACOSMET,Q2,0,1,0,q2
+75,2016-04-05,KEYACOSMET,Board Meeting,0,1,0,board meeting
+76,2016-03-30,KEYACOSMET,Confirmation of sale,0,1,0,confirmation of sale
+77,2016-03-23,KEYACOSMET, Declaration of sale by a Corporate Sponsor,1,0,0,declaration of sale by a corporate sponsor
+78,2016-03-20,KEYACOSMET,Q1 Financials,0,0,1,q1 financials
+79,2016-03-13,KEYACOSMET,Board Meeting,1,1,0,board meeting
+80,2016-02-25,KEYACOSMET,Dividend Disbursement,1,0,0,dividend disbursement
+81,2015-12-30,KEYACOSMET,Resumption after Record date,0,0,0,resumption after record date
+82,2015-12-29,KEYACOSMET,Suspension for Record Date,0,0,0,suspension for record date
+83,2015-12-27,KEYACOSMET,Spot for AGM,0,1,0,spot for agm
+84,2015-12-09,KEYACOSMET,Price Limit Open,0,0,0,price limit open
+85,2015-12-09,KEYACOSMET,Dividend Declaration and increase of Authorized Capital,0,0,0,dividend declaration and increase of authorized capital
+86,2015-12-07,KEYACOSMET,Board Meeting,1,1,0,board meeting
+87,2015-11-30,KEYACOSMET,Board Meeting,0,1,0,board meeting
+88,2015-11-26,KEYACOSMET,Board Meeting,0,0,0,board meeting
+89,2015-11-24,KEYACOSMET,Board Meeting,0,0,0,board meeting
+90,2015-11-10,KEYACOSMET,Credit Rating Result,1,0,1,credit rating result
+91,2015-09-17,KEYACOSMET,Q3,0,0,0,q3
+92,2015-05-24,KEYACOSMET,Category Change,0,0,0,category change
+93,2015-05-21,KEYACOSMET,Dividend Disbursement,0,0,0,dividend disbursement
+94,2015-05-18,KEYACOSMET,Changing mode of dividend for the year ended 30th June 2014 in AGM,0,1,0,changing mode of dividend for the year ended 30th june 2014 in agm
+95,2015-04-26,KEYACOSMET,AGM,1,0,0,agm
+96,2015-04-13,KEYACOSMET,18th AGM,0,0,0,18th agm
+97,2015-04-12,KEYACOSMET,Board meeting for fixing pending AGM date,1,0,0,board meeting for fixing pending agm date
+98,2015-03-25,KEYACOSMET,Crediting Amalgamated shares,1,0,0,crediting amalgamated shares
+99,2015-02-26,KEYACOSMET,Raising paid-up capital through merge and amalgamation,0,0,0,raising paid-up capital through merge and amalgamation
+100,2015-02-01,KEYACOSMET,Half Yearly Financials,0,0,1,half yearly financials
+101,2015-01-14,KEYACOSMET,share sale/buy,0,1,0,share salebuy
+102,2015-01-12,KEYACOSMET,AGM,0,1,0,agm
+103,2015-01-07,KEYACOSMET,company news,0,0,0,company news
+104,2014-12-30,KEYACOSMET,non marginable,0,0,1,non marginable
+105,2014-12-30,KEYACOSMET,will be placed in Z category,0,0,1,will be placed in z category
+106,2014-12-29,KEYACOSMET,office address changed,1,0,0,office address changed
+107,2014-12-29,KEYACOSMET,AGM,1,0,0,agm
+108,2014-12-21,KEYACOSMET,will resume,0,0,0,will resume
+109,2014-12-18,KEYACOSMET,trade suspeded on record date,1,0,0,trade suspeded on record date
+110,2014-12-17,KEYACOSMET,Sponsors/Directors intention to sell,0,1,0,sponsorsdirectors intention to sell
+111,2014-12-15,KEYACOSMET,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+112,2014-12-09,KEYACOSMET,Q1,0,0,0,q1
+113,2014-12-08,KEYACOSMET,company news,0,0,0,company news
+114,2014-12-04,KEYACOSMET,no price limit,0,0,0,no price limit
+115,2014-12-04,KEYACOSMET,dividend declaration,0,0,0,dividend declaration
+116,2014-12-03,KEYACOSMET,Board Meeting rescheduled,1,0,0,board meeting rescheduled
+117,2014-12-01,KEYACOSMET, Board meeting,0,0,1,board meeting
+118,2014-11-09,KEYACOSMET,DSE query,1,0,0,dse query
+119,2014-09-11,KEYACOSMET,Credit Rating,0,0,0,credit rating
+120,2014-06-30,KEYACOSMET,extension of the validity of amalgamation,0,0,0,extension of the validity of amalgamation
+121,2014-04-30,KEYACOSMET,purchase of land,1,0,0,purchase of land
+122,2014-04-30,KEYACOSMET,Q3 Earning,1,0,0,q3 earning
+123,2014-02-23,KEYACOSMET,Sponsors/Directors sale,0,1,0,sponsorsdirectors sale
+124,2014-02-10,KEYACOSMET,Sponsors/Directors sale,0,0,0,sponsorsdirectors sale
+125,2014-01-30,KEYACOSMET,H/Y Earnings,1,0,0,hy earnings
+126,2014-01-19,KEYACOSMET,Sponsors/Directors sale,1,0,0,sponsorsdirectors sale
+127,2014-01-12,KEYACOSMET,Sponsors/Directors sale,0,0,0,sponsorsdirectors sale
+128,2014-01-01,KEYACOSMET,Sponsors/Directors sale,0,0,0,sponsorsdirectors sale
+129,2013-12-22,KEYACOSMET,Sponsors/Directors sale,0,0,0,sponsorsdirectors sale
+130,2013-11-18,KEYACOSMET,Bonus Share Has Been Credited To The BO Account,0,1,0,bonus share has been credited to the bo account
+131,2013-10-31,KEYACOSMET,Sponsors Share Sell,0,0,0,sponsors share sell
+132,2013-10-28,KEYACOSMET,Q1 Earnings,1,0,1,q1 earnings
+133,2013-10-20,KEYACOSMET,AGM,0,0,1,agm
+134,2013-09-22,KEYACOSMET,Trade Resume After Record Date,0,1,0,trade resume after record date
+135,2013-09-19,KEYACOSMET,Trade Suspension On Record Date,0,0,0,trade suspension on record date
+136,2013-09-16,KEYACOSMET,Trade Suspenion on Record Date,0,1,0,trade suspenion on record date
+137,2013-09-03,KEYACOSMET,Credit Rating,1,0,0,credit rating
+138,2013-08-25,KEYACOSMET,No Price Limit,1,0,0,no price limit
+139,2013-08-25,KEYACOSMET,Corporate Action,1,0,0,corporate action
+140,2013-08-20,KEYACOSMET,Board Meeting,0,0,0,board meeting
+141,2013-04-30,KEYACOSMET,Q3 Earnings,0,0,1,q3 earnings
+142,2012-10-30,KEYACOSMET,Q1 Earnings 2012,1,0,1,q1 earnings 2012
+143,2012-10-30,KEYACOSMET,corporate declaration,1,0,1,corporate declaration
+144,2012-10-21,KEYACOSMET,Board Meeting,0,0,0,board meeting
+145,2012-06-25,KEYACOSMET,- The Company has informed...,1,1,1,the company has informed
+146,2012-04-18,KEYACOSMET,- As per un-audited quarterly accounts...,1,0,0,as per un-audited quarterly accounts
+147,2012-04-09,KEYACOSMET,- Trading of the shares of the Company...,1,0,1,trading of the shares of the company
+148,2012-03-28,KEYACOSMET,- Normal trading of the shares...,0,1,0,normal trading of the shares
+149,2012-03-27,KEYACOSMET,- Trading of the shares,1,0,1,trading of the shares
+150,2012-03-21,KEYACOSMET,- Trading of the shares of the Company...,0,0,0,trading of the shares of the company
+151,2012-03-21,KEYACOSMET,- The Company has further informed...,0,0,0,the company has further informed
+152,2012-03-20,KEYACOSMET,- SEC has approved the Rights offer...,0,0,0,sec has approved the rights offer
+153,2012-03-19,KEYACOSMET,- The Company has further informed...,1,0,0,the company has further informed
+154,2012-03-15,KEYACOSMET,- The Company has informed...,0,0,0,the company has informed
+155,2012-01-31,KEYACOSMET, -As per un-audited...,0,0,0,-as per un-audited
+156,2011-12-05,KEYACOSMET,- Keya Yarn Mills Ltd...,0,0,1,keya yarn mills ltd
+157,2011-10-31,KEYACOSMET,- The Company has informed...,1,1,1,the company has informed
+158,2011-10-31,KEYACOSMET,- As per un-audited...,1,1,1,as per un-audited
+159,2011-10-16,KEYACOSMET,- The Credit Rating...,0,1,0,the credit rating
+160,2011-10-16,KEYACOSMET,- The Company has informed...,0,1,0,the company has informed
+161,2011-09-29,KEYACOSMET,- Keya Yarn Mills Ltd...,1,0,0,keya yarn mills ltd
+162,2011-09-08,KEYACOSMET,- Normal trading of the shares...,0,0,0,normal trading of the shares
+163,2011-09-07,KEYACOSMET,- Trading of the shares ...,1,0,0,trading of the shares
+164,2011-09-04,KEYACOSMET,- Trading of the shares...,0,0,0,trading of the shares
+165,2011-08-23,KEYACOSMET,- There will be no price...,0,0,0,there will be no price
+166,2011-08-23,KEYACOSMET,- The Board of Directors...,0,0,0,the board of directors
+167,2011-07-07,KEYACOSMET,-SEC has issued show cause...,1,0,0,-sec has issued show cause

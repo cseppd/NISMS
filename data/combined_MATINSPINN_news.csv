@@ -1,0 +1,97 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,MATINSPINN,Q3 Financials,0,0,0,q3 financials
+1,2019-04-21,MATINSPINN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+2,2019-04-17,MATINSPINN,Address Change of Corporate Office,0,1,0,address change of corporate office
+3,2019-04-17,MATINSPINN,Address Change of Corporate Office,0,1,0,address change of corporate office
+4,2019-01-20,MATINSPINN,Q2 Financials,1,1,1,q2 financials
+5,2019-01-16,MATINSPINN,Dividend Disbursement,1,1,0,dividend disbursement
+6,2019-01-14,MATINSPINN,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+7,2018-12-27,MATINSPINN,Credit Rating Result,1,0,0,credit rating result
+12,2018-12-04,MATINSPINN,Emphasis of Matters (Revised),1,1,0,emphasis of matters revised
+13,2018-12-03,MATINSPINN,Emphasis of Matters,0,1,1,emphasis of matters
+14,2018-11-29,MATINSPINN,Resumption after record date,0,0,0,resumption after record date
+15,2018-11-28,MATINSPINN,Suspension for Record date,1,0,0,suspension for record date
+16,2018-11-26,MATINSPINN,Spot News,1,0,1,spot news
+17,2018-11-05,MATINSPINN,Decision to purchase Gas Generators,0,0,1,decision to purchase gas generators
+18,2018-11-05,MATINSPINN,Q1 Financials,0,0,1,q1 financials
+19,2018-11-05,MATINSPINN,Price Limit Open,0,0,1,price limit open
+20,2018-11-05,MATINSPINN,Dividend Declaration,0,0,1,dividend declaration
+21,2018-10-25,MATINSPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+22,2018-10-25,MATINSPINN,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+23,2018-04-26,MATINSPINN,Q3 Financials,0,0,0,q3 financials
+24,2018-04-19,MATINSPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+25,2018-02-01,MATINSPINN,Dividend Disbursement,0,0,0,dividend disbursement
+26,2018-01-28,MATINSPINN,Q2 Financials,0,1,0,q2 financials
+28,2018-01-23,MATINSPINN,Emphasis of Matter,0,0,1,emphasis of matter
+29,2018-01-22,MATINSPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+30,2017-12-28,MATINSPINN,Credit Rating Result,1,0,0,credit rating result
+31,2017-11-30,MATINSPINN,Resumption after record date,0,0,0,resumption after record date
+32,2017-11-29,MATINSPINN,Suspension for Record Date,1,0,0,suspension for record date
+33,2017-11-27,MATINSPINN,Spot News,0,0,1,spot news
+34,2017-11-07,MATINSPINN,Q1 Financials,0,0,0,q1 financials
+35,2017-11-07,MATINSPINN,Price Limit Open,0,0,0,price limit open
+36,2017-11-07,MATINSPINN,Dividend Declaration,0,0,0,dividend declaration
+37,2017-10-29,MATINSPINN,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+38,2017-10-29,MATINSPINN,Board Meeting schedule under LR 19(1),1,1,1,board meeting schedule under lr 191
+39,2017-06-04,MATINSPINN,Selling of Shares held in DBL Ceramics Ltd.,0,1,1,selling of shares held in dbl ceramics ltd.
+40,2017-04-25,MATINSPINN,Q3 Financials,0,1,0,q3 financials
+41,2017-04-17,MATINSPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+42,2017-03-05,MATINSPINN,DSE query,1,0,0,dse query
+43,2017-01-26,MATINSPINN,Full commercial operation of Synthetic Unit,0,0,0,full commercial operation of synthetic unit
+44,2017-01-25,MATINSPINN,Q2 Financials,0,0,0,q2 financials
+45,2017-01-24,MATINSPINN,Dividend Disbursement,0,0,0,dividend disbursement
+46,2017-01-22,MATINSPINN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+47,2017-01-01,MATINSPINN,Emphasis of Matter,1,1,0,emphasis of matter
+48,2017-01-01,MATINSPINN,Credit Rating Result,1,1,0,credit rating result
+49,2016-12-20,MATINSPINN,Contracts for sale of Yarn,0,0,1,contracts for sale of yarn
+50,2016-11-30,MATINSPINN,Resumption after record date,0,0,0,resumption after record date
+51,2016-11-30,MATINSPINN,Resumption after record date,0,0,0,resumption after record date
+52,2016-11-29,MATINSPINN,Suspension for record date,1,0,0,suspension for record date
+53,2016-11-27,MATINSPINN,Spot for AGM,1,1,1,spot for agm
+54,2016-11-10,MATINSPINN,commercial production of synthetic yarn unit,0,0,0,commercial production of synthetic yarn unit
+55,2016-11-10,MATINSPINN,Q1,0,0,0,q1
+56,2016-11-10,MATINSPINN,Price Limit Open,0,0,0,price limit open
+57,2016-11-10,MATINSPINN,Dividend Declaration,0,0,0,dividend declaration
+58,2016-10-31,MATINSPINN,Board Meeting,1,0,1,board meeting
+59,2016-10-31,MATINSPINN,Board Meeting,1,0,1,board meeting
+60,2016-05-09,MATINSPINN,Imposing Fine on Directors of the Company,0,1,0,imposing fine on directors of the company
+61,2016-04-26,MATINSPINN,Enhancement of Production Capacity,0,1,1,enhancement of production capacity
+62,2016-04-25,MATINSPINN,Q3 Financials,0,0,1,q3 financials
+63,2016-04-19,MATINSPINN,Board Meeting,1,0,1,board meeting
+64,2016-03-21,MATINSPINN,Commencement of production of Melange Unit,0,0,0,commencement of production of melange unit
+65,2016-03-20,MATINSPINN,Commencement of production of Melange Unit,1,0,0,commencement of production of melange unit
+66,2016-01-21,MATINSPINN,Q2,1,0,0,q2
+67,2016-01-17,MATINSPINN,Board Meeting,1,0,1,board meeting
+68,2015-12-31,MATINSPINN,Credit Rating Result,1,0,0,credit rating result
+69,2015-11-30,MATINSPINN,Dividend Disbursement,0,0,1,dividend disbursement
+70,2015-11-09,MATINSPINN,Q1 Financials,0,0,0,q1 financials
+71,2015-11-03,MATINSPINN,Board Meeting,0,1,1,board meeting
+72,2015-10-14,MATINSPINN,Confirmation of sale,1,0,0,confirmation of sale
+73,2015-10-08,MATINSPINN,Resumption News,0,0,0,resumption news
+74,2015-10-07,MATINSPINN,Suspension News,1,0,0,suspension news
+75,2015-10-05,MATINSPINN,Spot News,0,0,1,spot news
+76,2015-10-04,MATINSPINN,Declaration of sale,1,0,0,declaration of sale
+77,2015-09-13,MATINSPINN,Price Limit Open,0,0,0,price limit open
+78,2015-09-13,MATINSPINN,Dividend Declaration,0,0,0,dividend declaration
+79,2015-09-03,MATINSPINN,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+80,2015-05-05,MATINSPINN,Confirmation of Transfer by Sponsor/Director,1,1,0,confirmation of transfer by sponsordirector
+81,2015-04-26,MATINSPINN,Q3,0,1,0,q3
+82,2015-04-21,MATINSPINN,Intention to buy/sell by Sponsor/Director,1,0,0,intention to buysell by sponsordirector
+83,2015-04-07,MATINSPINN,Confirmation of buy by Independent Director,1,1,0,confirmation of buy by independent director
+84,2015-03-11,MATINSPINN,Buy Confirmation of Sponsor /Director,0,1,0,buy confirmation of sponsor director
+85,2015-03-04,MATINSPINN,Buy Declaration of Independent Director,0,1,0,buy declaration of independent director
+86,2015-02-02,MATINSPINN,Sponsor/Director Buy,0,1,1,sponsordirector buy
+87,2015-01-29,MATINSPINN,Independent Director share buy,1,0,0,independent director share buy
+88,2015-01-18,MATINSPINN,Q2 Earning,0,0,1,q2 earning
+89,2014-12-07,MATINSPINN,Category Change,1,1,1,category change
+90,2014-11-06,MATINSPINN,Directors decision,0,0,0,directors decision
+91,2014-10-29,MATINSPINN,Credit Rating,0,0,0,credit rating
+92,2014-10-29,MATINSPINN,Q1 Earnings,0,0,0,q1 earnings
+93,2014-10-02,MATINSPINN,trade resume,0,0,0,trade resume
+94,2014-10-01,MATINSPINN,trade suspension,1,0,0,trade suspension
+95,2014-09-29,MATINSPINN,Spot Market Transaction,0,0,1,spot market transaction
+96,2014-09-18,MATINSPINN,has no price limited today,1,0,0,has no price limited today
+97,2014-09-18,MATINSPINN,25% cash dividend,1,0,0,25 cash dividend
+98,2014-09-14,MATINSPINN,board meeting,0,1,0,board meeting
+99,2014-04-29,MATINSPINN,Q3 Earning,0,1,0,q3 earning
+100,2014-04-08,MATINSPINN,H/Y,0,1,0,hy

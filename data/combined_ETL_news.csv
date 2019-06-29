@@ -1,0 +1,66 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,ETL,Sale Confirmation,0,0,0,sale confirmation
+1,2019-04-25,ETL,Sale Intimation,0,0,0,sale intimation
+2,2019-04-16,ETL,Q3 Financials,0,1,1,q3 financials
+3,2019-04-10,ETL,Credit Rating Result,0,0,0,credit rating result
+4,2019-04-10,ETL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+5,2019-01-29,ETL,Q2 Financials,0,0,0,q2 financials
+6,2019-01-22,ETL,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+7,2018-11-14,ETL,Q1 Financials,0,1,0,q1 financials
+8,2018-11-07,ETL,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+9,2018-11-07,ETL,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+10,2018-10-11,ETL,Time and Venue of the AGM,0,0,0,time and venue of the agm
+11,2018-10-11,ETL,Resumption after Record Date,0,0,0,resumption after record date
+12,2018-10-10,ETL,Suspension for Record Date,0,0,0,suspension for record date
+14,2018-10-08,ETL,Invest for BMRE &Voluntary Forgoing of accumulated remuneration of Directors,1,0,0,invest for bmre voluntary forgoing of accumulated remuneration of directors
+15,2018-09-27,ETL,Spot News,0,0,0,spot news
+16,2018-09-23,ETL,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+17,2018-09-23,ETL,Category Change,0,0,0,category change
+18,2018-09-23,ETL,Price Limit Open,0,0,0,price limit open
+19,2018-09-23,ETL,Dividend Declaration,0,0,0,dividend declaration
+20,2018-09-11,ETL,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+21,2018-05-30,ETL,Credit Rating Result,0,0,0,credit rating result
+22,2018-04-30,ETL,Q3 Financials,0,0,0,q3 financials
+23,2018-04-19,ETL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+24,2018-01-28,ETL,Q2 Financials,0,0,0,q2 financials
+25,2018-01-22,ETL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+26,2017-11-14,ETL,Dividend Disbursement,0,1,1,dividend disbursement
+27,2017-11-06,ETL,Q1 Financials,0,0,0,q1 financials
+28,2017-10-26,ETL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+29,2017-10-15,ETL,Time and Venue of the AGM,0,0,1,time and venue of the agm
+30,2017-10-12,ETL,Resumption after Record Date,0,0,0,resumption after record date
+31,2017-10-11,ETL,Suspension for Record Date,0,0,0,suspension for record date
+32,2017-10-09,ETL,Spot News,0,0,0,spot news
+33,2017-09-21,ETL,Price Limit Open,0,0,0,price limit open
+34,2017-09-21,ETL,Dividend Declaration,0,0,0,dividend declaration
+35,2017-09-12,ETL,Board Meeting schedule under LR 19(1),1,0,1,board meeting schedule under lr 191
+36,2017-07-20,ETL,Withdrawal of Authorized Representative,0,0,0,withdrawal of authorized representative
+37,2017-05-29,ETL,Time and Venue of the EGM,0,1,0,time and venue of the egm
+38,2017-05-09,ETL,Resumption after Record Date,0,0,1,resumption after record date
+39,2017-05-08,ETL,Suspension for Record Date for EGM,0,0,0,suspension for record date for egm
+40,2017-05-04,ETL,Spot News for EGM,0,0,0,spot news for egm
+41,2017-04-26,ETL,Q3 Financials,1,0,0,q3 financials
+42,2017-04-19,ETL,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+43,2017-04-17,ETL,EGM for Increasing Authorized Capital,0,0,0,egm for increasing authorized capital
+44,2017-03-23,ETL,Decision to purchase new capital machineries,1,0,0,decision to purchase new capital machineries
+45,2017-03-23,ETL,Decision to purchase new capital machineries,1,0,0,decision to purchase new capital machineries
+46,2017-02-19,ETL,Credit Rating Result,1,0,0,credit rating result
+47,2017-01-26,ETL,Q2 Financials,0,0,0,q2 financials
+48,2017-01-19,ETL,Board Meeting,1,0,0,board meeting
+49,2017-01-02,ETL,Prohibition on providing loan,0,0,0,prohibition on providing loan
+50,2017-01-02,ETL,Category Change,0,0,0,category change
+51,2017-01-02,ETL,Dividend Disbursement,0,0,0,dividend disbursement
+52,2016-12-26,ETL,Withdrawal of Authorized Representative,1,0,0,withdrawal of authorized representative
+53,2016-11-03,ETL,Resumption after record date,0,0,0,resumption after record date
+54,2016-11-02,ETL,Venue and time of AGM,0,0,0,venue and time of agm
+55,2016-11-02,ETL,Suspension for record date,0,0,0,suspension for record date
+56,2016-10-31,ETL,Spot for AGM,0,0,0,spot for agm
+57,2016-10-31,ETL,Q1 Financials,0,0,0,q1 financials
+58,2016-10-25,ETL,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+59,2016-10-04,ETL,Price Limit Open,0,0,1,price limit open
+60,2016-10-04,ETL,Dividend Declaration,0,0,1,dividend declaration
+61,2016-09-26,ETL,Board Meeting,1,0,1,board meeting
+62,2016-07-17,ETL,Evince Textiles Limited: Q1 Financials (Repeat),1,0,0,evince textiles limited: q1 financials repeat
+63,2016-07-17,ETL,Prohibition on providing loan facilities to purchase securities,1,0,0,prohibition on providing loan facilities to purchase securities
+64,2016-07-17,ETL,Trading of New Security,1,0,0,trading of new security
+65,2016-07-14,ETL,Q1,0,0,0,q1

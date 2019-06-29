@@ -1,0 +1,194 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,MARICO,Price Limit Open,0,0,0,price limit open
+2,2019-04-30,MARICO,Dividend Declaration,0,0,0,dividend declaration
+3,2019-04-23,MARICO,Resumption after record date,0,1,0,resumption after record date
+4,2019-04-23,MARICO,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+5,2019-04-21,MARICO,Suspension for Record Date,0,0,0,suspension for record date
+6,2019-04-17,MARICO,Spot News,0,0,0,spot news
+7,2019-04-01,MARICO,Revised Record Date,0,1,1,revised record date
+8,2019-04-01,MARICO,Price Limit Open,0,1,1,price limit open
+9,2019-04-01,MARICO,Interim Dividend Declaration,0,1,1,interim dividend declaration
+10,2019-03-19,MARICO,Query Response,0,1,0,query response
+11,2019-03-03,MARICO,Board decision to invest Tk. 29.40 crore,0,0,1,board decision to invest tk. 29.40 crore
+12,2019-01-27,MARICO,Q3 Financials,0,0,0,q3 financials
+13,2019-01-13,MARICO,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+14,2018-12-03,MARICO,Interim Cash Dividend Disbursement,1,0,0,interim cash dividend disbursement
+15,2018-11-15,MARICO,Resumption after Record Date,0,0,0,resumption after record date
+16,2018-11-14,MARICO,Suspension for Record Date,1,0,0,suspension for record date
+17,2018-11-12,MARICO,Spot for Interim dividend entitlement,1,0,1,spot for interim dividend entitlement
+18,2018-10-28,MARICO,Q2 Financials,0,1,0,q2 financials
+19,2018-10-28,MARICO,Price Limit Open,0,1,0,price limit open
+20,2018-10-28,MARICO,Interim Dividend Declaration,0,1,0,interim dividend declaration
+21,2018-10-21,MARICO,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+22,2018-09-03,MARICO,Dividend Disbursement,1,1,1,dividend disbursement
+23,2018-08-30,MARICO,Dividend Disbursement,1,0,0,dividend disbursement
+24,2018-08-09,MARICO,Resumption after record date,0,0,0,resumption after record date
+25,2018-08-08,MARICO,Suspension for Record Date,1,0,0,suspension for record date
+26,2018-08-06,MARICO,Spot News,1,1,1,spot news
+27,2018-07-19,MARICO,Updating information,1,0,0,updating information
+28,2018-07-19,MARICO,Board approval of proposal to dispose immovable property,1,0,0,board approval of proposal to dispose immovable property
+29,2018-07-19,MARICO,Q1 Financials,1,0,0,q1 financials
+30,2018-07-19,MARICO,Price Limit Open,1,0,0,price limit open
+31,2018-07-19,MARICO,Interim Dividend Declaration,1,0,0,interim dividend declaration
+32,2018-07-05,MARICO,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+33,2018-06-07,MARICO,Resumption after record date,0,0,0,resumption after record date
+34,2018-06-06,MARICO,Suspension for Record Date,0,0,0,suspension for record date
+35,2018-06-04,MARICO,Spot News,1,1,0,spot news
+36,2018-04-26,MARICO,Price Limit Open,1,0,0,price limit open
+38,2018-04-26,MARICO,Dividend Declaration,1,0,0,dividend declaration
+39,2018-04-16,MARICO,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+40,2018-03-04,MARICO,Interim Dividend Disbursement,0,0,0,interim dividend disbursement
+41,2018-02-12,MARICO,Resumption after record date,0,0,0,resumption after record date
+42,2018-02-11,MARICO,Suspension for Record Date,1,0,0,suspension for record date
+43,2018-02-07,MARICO,Spot for Interim dividend entitlement,0,0,0,spot for interim dividend entitlement
+44,2018-01-23,MARICO,Q3 Financials,1,1,1,q3 financials
+45,2018-01-23,MARICO,Price Limit Open,1,1,1,price limit open
+46,2018-01-23,MARICO,Interim Dividend Declaration,1,1,1,interim dividend declaration
+47,2018-01-14,MARICO,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+48,2017-12-03,MARICO,Interim Dividend Disbursement,1,1,0,interim dividend disbursement
+49,2017-11-14,MARICO,Resumption after record date,0,1,0,resumption after record date
+50,2017-11-13,MARICO,Suspension for Record Date,0,0,1,suspension for record date
+51,2017-11-09,MARICO,Spot for interim dividend entitlement,1,0,0,spot for interim dividend entitlement
+52,2017-10-26,MARICO,Q2 Financials,1,0,0,q2 financials
+53,2017-10-26,MARICO,Price Limit Open,1,0,0,price limit open
+54,2017-10-26,MARICO,Interim Dividend Declaration,1,0,0,interim dividend declaration
+55,2017-10-19,MARICO,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+56,2017-09-20,MARICO,Query Response,0,1,0,query response
+57,2017-08-24,MARICO,Dividend Disbursement,1,0,0,dividend disbursement
+58,2017-07-17,MARICO,Q1 Financials,1,0,0,q1 financials
+59,2017-07-11,MARICO,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+60,2017-06-05,MARICO,Resumption after Record Date,0,1,0,resumption after record date
+61,2017-06-04,MARICO,Suspension for Record Date,0,0,1,suspension for record date
+62,2017-05-31,MARICO,Spot News,0,0,0,spot news
+63,2017-04-25,MARICO,Updating information,1,1,1,updating information
+64,2017-04-25,MARICO,Price Limit Open,1,1,1,price limit open
+66,2017-04-25,MARICO,Dividend Declaration,1,1,1,dividend declaration
+67,2017-04-23,MARICO,Reschedule of Board Meeting under LR 19(1),0,0,1,reschedule of board meeting under lr 191
+68,2017-04-16,MARICO,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+69,2017-01-17,MARICO,Board Meeting,1,1,0,board meeting
+70,2016-12-27,MARICO,Query Response,0,0,0,query response
+71,2016-11-28,MARICO,Interim Dividend Disbursement,1,1,1,interim dividend disbursement
+72,2016-11-24,MARICO,Final Dividend Disbursement,0,0,0,final dividend disbursement
+73,2016-11-10,MARICO,Suspension for record date,0,0,0,suspension for record date
+74,2016-11-09,MARICO,Suspension for record date,0,0,0,suspension for record date
+75,2016-11-07,MARICO,Spot for AGM,0,1,0,spot for agm
+76,2016-10-20,MARICO,Furnishing 12 digits e-TIN Number,0,0,0,furnishing 12 digits e-tin number
+77,2016-10-19,MARICO,Price Limit Open,0,0,0,price limit open
+78,2016-10-19,MARICO,Q2 Financials,0,0,0,q2 financials
+79,2016-10-19,MARICO,Interim Dividend Declaration,0,0,0,interim dividend declaration
+80,2016-08-17,MARICO,Resumption after record date,0,1,0,resumption after record date
+81,2016-08-16,MARICO,Suspension news for record date,0,0,1,suspension news for record date
+82,2016-08-11,MARICO,Spot for Interim Dividend entitlement,1,0,0,spot for interim dividend entitlement
+83,2016-07-26,MARICO,Re-fixation of postponed AGM date,0,0,0,re-fixation of postponed agm date
+84,2016-07-26,MARICO,Q1 Financials,0,0,0,q1 financials
+85,2016-07-26,MARICO,Price Limit Open,0,0,0,price limit open
+86,2016-07-26,MARICO,Interim Dividend Declaration,0,0,0,interim dividend declaration
+87,2016-07-21,MARICO,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+88,2016-07-11,MARICO,Postponement of AGM,0,0,0,postponement of agm
+89,2016-05-22,MARICO,Resumption after Record date,0,0,1,resumption after record date
+90,2016-05-17,MARICO,Spot News,0,0,0,spot news
+91,2016-04-26,MARICO,Price Limit Open,0,0,1,price limit open
+92,2016-04-26,MARICO,Dividend Declaration,0,0,1,dividend declaration
+93,2016-04-18,MARICO, Board Meeting,0,0,1,board meeting
+94,2016-03-02,MARICO,Cash Dividend Disbursement,0,1,0,cash dividend disbursement
+95,2016-02-15,MARICO,Resumption after Record date,0,0,0,resumption after record date
+96,2016-02-14,MARICO,Suspension for interim dividend,1,0,0,suspension for interim dividend
+97,2016-02-10,MARICO,Record date for interim dividend,1,1,0,record date for interim dividend
+98,2016-01-26,MARICO,Q3 Financials (Correction),0,0,0,q3 financials correction
+99,2016-01-26,MARICO,Interim Dividend Declaration,0,0,0,interim dividend declaration
+100,2016-01-26,MARICO,Price Limit Open,0,0,0,price limit open
+101,2016-01-26,MARICO,Q3,0,0,0,q3
+102,2016-01-18,MARICO,Board Meeting,0,1,1,board meeting
+103,2015-11-23,MARICO,Dividend Disbursement,0,0,1,dividend disbursement
+104,2015-11-08,MARICO,Resumption News,0,0,1,resumption news
+105,2015-11-05,MARICO,Suspension News for Record Date,1,0,0,suspension news for record date
+106,2015-11-03,MARICO,Spot News,0,0,1,spot news
+107,2015-10-18,MARICO,Interim Dividend Declaration and expansion of the plants,0,0,0,interim dividend declaration and expansion of the plants
+108,2015-10-18,MARICO,Q2 Financials,0,0,0,q2 financials
+109,2015-10-18,MARICO,Price Limit Open,0,0,0,price limit open
+110,2015-10-18,MARICO,Interim Dividend Declaration,0,0,0,interim dividend declaration
+111,2015-10-13,MARICO,Board Meeting,1,0,1,board meeting
+112,2015-09-17,MARICO,Final Cash Dividend Disbursement,0,0,0,final cash dividend disbursement
+113,2015-09-15,MARICO,Query Response,1,0,0,query response
+114,2015-08-04,MARICO,Q1 Financials,1,0,0,q1 financials
+115,2015-06-18,MARICO,Resumption News after Record Date,0,0,0,resumption news after record date
+116,2015-06-17,MARICO,Suspension News for Record Date,1,0,0,suspension news for record date
+117,2015-06-15,MARICO,Spot News for AGM,0,0,1,spot news for agm
+118,2015-04-23,MARICO,BO Account update request,0,0,0,bo account update request
+119,2015-04-23,MARICO,Dividend Declaration (Correction),0,0,0,dividend declaration correction
+120,2015-04-23,MARICO,no price limit totay,0,0,0,no price limit totay
+121,2015-04-23,MARICO,Dividend,0,0,0,dividend
+122,2015-04-21,MARICO,Board Meeting,1,0,0,board meeting
+123,2015-03-22,MARICO,Query Response,1,1,1,query response
+124,2015-01-29,MARICO,Resumption News after Record Date,0,0,0,resumption news after record date
+125,2015-01-28,MARICO,Suspension News for Record date,0,0,0,suspension news for record date
+126,2015-01-26,MARICO,Spot for Interim Dividend,0,1,0,spot for interim dividend
+127,2015-01-20,MARICO,Q3 Earning,0,0,0,q3 earning
+128,2015-01-20,MARICO,no price limit,0,0,0,no price limit
+129,2015-01-20,MARICO,declared 225% interim cash dividend,0,0,0,declared 225 interim cash dividend
+130,2015-01-18,MARICO,meeting of the Board of Directors,1,1,0,meeting of the board of directors
+131,2014-10-26,MARICO,H/Y Earnings,0,0,0,hy earnings
+132,2014-09-01,MARICO,company news,0,0,1,company news
+133,2014-08-07,MARICO,trade resume,0,0,0,trade resume
+134,2014-08-06,MARICO,trade suspension,1,0,0,trade suspension
+135,2014-08-04,MARICO,Spot Market Transaction,1,0,1,spot market transaction
+136,2014-07-22,MARICO,AGM,0,0,0,agm
+137,2014-07-22,MARICO,Q1 Earnings,0,0,0,q1 earnings
+138,2014-07-22,MARICO,no price limit,0,0,0,no price limit
+139,2014-07-22,MARICO,declared 150% interim cash dividend,0,0,0,declared 150 interim cash dividend
+140,2014-07-20,MARICO,Board Meeting,0,1,0,board meeting
+141,2014-07-02,MARICO,trade resume,0,0,0,trade resume
+142,2014-06-30,MARICO,trade suspension,1,0,0,trade suspension
+143,2014-06-26,MARICO,Spot Market and Block/Odd lot transactions,1,0,0,spot market and blockodd lot transactions
+144,2014-04-28,MARICO,no price limit,0,1,0,no price limit
+145,2014-04-28,MARICO,50% final cash dividend,0,1,0,50 final cash dividend
+146,2014-04-23,MARICO,Board Meeting,0,1,0,board meeting
+147,2014-03-12,MARICO,trade resume,0,1,0,trade resume
+148,2014-03-11,MARICO,trade suspension on record date,1,0,1,trade suspension on record date
+149,2014-03-06,MARICO,Spot Market and Block/Odd lot transactions,1,0,0,spot market and blockodd lot transactions
+150,2014-03-02,MARICO,declared 500% interim cash dividend,1,0,0,declared 500 interim cash dividend
+151,2014-03-02,MARICO,no price limit,1,0,0,no price limit
+152,2014-01-22,MARICO,Q3 earnings,1,0,0,q3 earnings
+153,2013-11-06,MARICO,trade resume after record date,0,1,0,trade resume after record date
+154,2013-11-05,MARICO,trade suspension on record date,0,0,1,trade suspension on record date
+155,2013-10-31,MARICO,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+156,2013-10-24,MARICO,Q2 Earnings,0,0,0,q2 earnings
+157,2013-10-24,MARICO,No Price limit,0,0,0,no price limit
+158,2013-10-24,MARICO,Corporate Action,0,0,0,corporate action
+159,2013-10-22,MARICO,Board Meeting,1,1,0,board meeting
+160,2013-08-04,MARICO,AGM,0,0,0,agm
+161,2013-08-04,MARICO,Trade Resume After Record Date,0,0,0,trade resume after record date
+162,2013-08-01,MARICO,Trade Suapension on Record Date,1,0,0,trade suapension on record date
+163,2013-07-29,MARICO,trade suspended on record date,1,0,1,trade suspended on record date
+164,2013-07-24,MARICO,Q1 Earnings,1,1,0,q1 earnings
+165,2013-07-24,MARICO,No Price limit,1,1,0,no price limit
+166,2013-07-24,MARICO,Corporate Action,1,1,0,corporate action
+167,2013-07-02,MARICO,trade resume after record date,0,0,0,trade resume after record date
+168,2013-06-30,MARICO,trade suspension on record date,1,0,0,trade suspension on record date
+169,2013-06-24,MARICO,trade suspension on record date,0,0,1,trade suspension on record date
+170,2013-04-24,MARICO,Corporate Declaration,1,1,0,corporate declaration
+171,2013-04-21,MARICO,Board meeting,1,0,1,board meeting
+172,2013-03-27,MARICO,for sale of Fixed Assets,0,1,0,for sale of fixed assets
+173,2013-01-23,MARICO,Q3 Earnings 2012-13,0,1,0,q3 earnings 2012-13
+174,2012-11-05,MARICO,Spot Market,1,1,1,spot market
+175,2012-10-23,MARICO,HY Earnings 2012,1,0,0,hy earnings 2012
+176,2012-10-23,MARICO,corporate declaration,1,0,0,corporate declaration
+177,2012-10-21,MARICO,Board Meeting,0,0,1,board meeting
+178,2012-10-10,MARICO,decided to exit Kaya clinics prototype from Bangladesh,0,1,0,decided to exit kaya clinics prototype from bangladesh
+179,2012-07-19,MARICO,- (Q1): As per un-audited quarterly accounts...,0,0,0,q1: as per un-audited quarterly accounts
+180,2012-07-04,MARICO,- The Company has further informed ...,0,0,0,the company has further informed
+181,2012-05-21,MARICO,- Normal trading of the shares...,0,1,1,normal trading of the shares
+182,2012-05-15,MARICO,- Trading of the shares...,0,1,1,trading of the shares
+183,2012-04-25,MARICO,-The Board of Directors ...,1,0,0,-the board of directors
+184,2012-04-25,MARICO,- There will be no price limit...,1,0,0,there will be no price limit
+185,2012-04-25,MARICO,- The Company has informed...,1,0,0,the company has informed
+186,2012-04-24,MARICO,- As per regulation ...,0,1,0,as per regulation
+187,2012-01-31,MARICO,- Trading of the shares...,0,0,0,trading of the shares
+188,2012-01-26,MARICO,- Trading of the shares...,1,0,0,trading of the shares
+189,2012-01-24,MARICO,- As per quarterly accounts...,0,1,1,as per quarterly accounts
+190,2012-01-24,MARICO,- The Board of Directors...,0,1,1,the board of directors
+191,2012-01-24,MARICO,- There will be no price...,0,1,1,there will be no price
+192,2011-10-25,MARICO,- As per un-audited...,0,0,0,as per un-audited
+193,2011-09-08,MARICO,- (Continued)...,0,0,0,continued
+194,2011-09-08,MARICO,- The Company has informed...,0,0,0,the company has informed
+195,2011-07-26,MARICO,- (Q1): As per un-audited quarterly...,0,1,0,q1: as per un-audited quarterly

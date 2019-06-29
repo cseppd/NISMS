@@ -1,0 +1,69 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-01-17,FIRSTFIN,Query Response,1,0,0,query response
+2,2018-10-30,FIRSTFIN,Q3 Financials,1,0,1,q3 financials
+6,2018-10-24,FIRSTFIN,Qualified Opinion and Emphasis of Matter,0,0,0,qualified opinion and emphasis of matter
+7,2018-10-24,FIRSTFIN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+8,2018-10-14,FIRSTFIN,Credit Rating Result,1,0,0,credit rating result
+10,2018-09-13,FIRSTFIN,Postponed 24th and 25th AGMs,0,0,0,postponed 24th and 25th agms
+11,2018-08-30,FIRSTFIN,Resumption after record date,0,0,0,resumption after record date
+12,2018-08-29,FIRSTFIN,Suspension for Record Date,0,0,0,suspension for record date
+13,2018-08-12,FIRSTFIN,Spot News,1,1,1,spot news
+14,2018-07-31,FIRSTFIN,Q2 Financials,1,0,0,q2 financials
+15,2018-07-31,FIRSTFIN,Price Limit Open,1,0,0,price limit open
+17,2018-07-31,FIRSTFIN,Dividend Declaration for 2017 and holding of AGMs for 2017 & 2018,1,0,0,dividend declaration for 2017 and holding of agms for 2017  2018
+18,2018-07-23,FIRSTFIN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+19,2018-07-23,FIRSTFIN,Board Meeting schedule for Pending AGMs and Declaration of Dividend,0,0,0,board meeting schedule for pending agms and declaration of dividend
+20,2018-05-16,FIRSTFIN,Q1 Financials,0,1,0,q1 financials
+21,2018-05-08,FIRSTFIN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+23,2018-04-30,FIRSTFIN,Audited accounts approval & deferral of dividend declaration for 2017,1,0,0,audited accounts approval  deferral of dividend declaration for 2017
+24,2018-04-22,FIRSTFIN,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+25,2018-02-15,FIRSTFIN,Elected Chairman,0,0,0,elected chairman
+26,2018-01-23,FIRSTFIN,Appointment of Managing Director & CEO,0,0,0,appointment of managing director  ceo
+27,2017-11-01,FIRSTFIN,Q3 Financials,1,0,0,q3 financials
+28,2017-10-25,FIRSTFIN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+29,2017-08-30,FIRSTFIN,Postponement of AGM of the Company,0,0,0,postponement of agm of the company
+30,2017-08-24,FIRSTFIN,Credit Rating Result,0,0,0,credit rating result
+31,2017-08-17,FIRSTFIN,Re-fixation of AGM date,0,0,0,re-fixation of agm date
+32,2017-08-13,FIRSTFIN,Vacating the Stay Order of the 24th AGM of the Company,1,0,0,vacating the stay order of the 24th agm of the company
+33,2017-07-31,FIRSTFIN,Q2 Financials,0,0,0,q2 financials
+36,2017-07-30,FIRSTFIN,Emphasis of Matter,0,0,0,emphasis of matter
+37,2017-07-24,FIRSTFIN,Board Meeting schedule under LR 16(1),1,1,0,board meeting schedule under lr 161
+38,2017-06-15,FIRSTFIN,Stay Order on holding of the 24th AGM,0,0,0,stay order on holding of the 24th agm
+39,2017-05-23,FIRSTFIN,Resumption after Record Date,0,0,0,resumption after record date
+40,2017-05-22,FIRSTFIN,Suspension for Record Date,0,0,0,suspension for record date
+41,2017-05-15,FIRSTFIN,Q1 Financials,0,0,0,q1 financials
+43,2017-05-11,FIRSTFIN,Basis for Qualified Opinion,0,0,0,basis for qualified opinion
+44,2017-05-08,FIRSTFIN,Spot News,1,1,0,spot news
+45,2017-05-07,FIRSTFIN,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+46,2017-04-30,FIRSTFIN,Price Limit Open,0,0,0,price limit open
+47,2017-04-30,FIRSTFIN,Dividend Declaration,0,0,0,dividend declaration
+48,2017-04-20,FIRSTFIN,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+49,2017-01-18,FIRSTFIN,Appointment of Managing Director and CEO,0,0,0,appointment of managing director and ceo
+50,2017-01-16,FIRSTFIN,Query Response,0,1,0,query response
+51,2016-12-21,FIRSTFIN,Credit Rating Result,0,1,0,credit rating result
+52,2016-10-31,FIRSTFIN,Q3 Financials,1,1,0,q3 financials
+53,2016-10-25,FIRSTFIN,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+54,2016-08-01,FIRSTFIN,Q2 Financials,0,1,1,q2 financials
+55,2016-07-26,FIRSTFIN,Board Meeting,0,0,0,board meeting
+56,2016-05-18,FIRSTFIN,Suspension for Record date,0,0,0,suspension for record date
+57,2016-05-10,FIRSTFIN,Elected Chairman,1,0,1,elected chairman
+58,2016-05-05,FIRSTFIN,Spot News,0,0,0,spot news
+59,2016-04-28,FIRSTFIN,Prohibition on providing loan facilities to purchase securities (Correction),0,0,0,prohibition on providing loan facilities to purchase securities correction
+60,2016-04-28,FIRSTFIN,Category Change (correction),0,0,0,category change correction
+61,2016-04-28,FIRSTFIN,Q1 Financials,0,0,0,q1 financials
+62,2016-04-28,FIRSTFIN,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+63,2016-04-28,FIRSTFIN,Category Change,0,0,0,category change
+64,2016-04-28,FIRSTFIN,Price Limit Open,0,0,0,price limit open
+65,2016-04-28,FIRSTFIN,Dividend Declaration,0,0,0,dividend declaration
+66,2016-04-26,FIRSTFIN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+67,2016-04-21,FIRSTFIN,Board Meeting,0,0,0,board meeting
+68,2015-12-01,FIRSTFIN,Qualified Audit Opinion,1,0,1,qualified audit opinion
+69,2015-10-29,FIRSTFIN,Q3 Financials,0,0,0,q3 financials
+70,2015-10-21,FIRSTFIN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+71,2015-08-11,FIRSTFIN,Credit Rating,1,1,0,credit rating
+72,2015-07-29,FIRSTFIN,Q2 Financials,0,0,0,q2 financials
+73,2015-06-15,FIRSTFIN,Confirmation of sale by Sponsor/Director,0,0,1,confirmation of sale by sponsordirector
+74,2015-05-26,FIRSTFIN,Declaration of sale by Sponsor/Director,0,0,1,declaration of sale by sponsordirector
+75,2015-05-04,FIRSTFIN,has credited the bonus,1,1,1,has credited the bonus
+76,2015-04-30,FIRSTFIN,Q1,1,0,0,q1
+77,2015-04-16,FIRSTFIN,Category changed,0,0,0,category changed

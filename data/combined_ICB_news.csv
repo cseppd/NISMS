@@ -1,0 +1,263 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,ICB,Q3 Financials Additional information (Reason for Deviation in EPS),0,0,0,q3 financials additional information reason for deviation in eps
+1,2019-04-29,ICB,Q3 Financials,0,0,0,q3 financials
+2,2019-04-23,ICB,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+3,2019-01-30,ICB,Reason for deviation in EPS,0,1,0,reason for deviation in eps
+4,2019-01-30,ICB,Q2 Financials,0,1,0,q2 financials
+5,2019-01-22,ICB,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+6,2019-01-03,ICB,Dividend Disbursement,1,0,0,dividend disbursement
+7,2018-12-20,ICB,Stock Dividend Disbursement,0,0,0,stock dividend disbursement
+8,2018-11-15,ICB,Credit Rating Result,0,0,0,credit rating result
+9,2018-11-14,ICB,Resumption after Record Date,0,0,0,resumption after record date
+10,2018-11-13,ICB,Suspension for Record Date,0,0,0,suspension for record date
+11,2018-11-11,ICB,Spot News,0,0,0,spot news
+12,2018-11-11,ICB,Q1 Financials,0,0,0,q1 financials
+13,2018-11-04,ICB,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+14,2018-10-24,ICB,Price Limit Open,1,0,0,price limit open
+16,2018-10-24,ICB,Dividend Declaration,1,0,0,dividend declaration
+17,2018-10-16,ICB,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+18,2018-07-18,ICB,Consent accorded by the BSEC to ICB for issuing ICB Subordinated Bond,1,0,0,consent accorded by the bsec to icb for issuing icb subordinated bond
+19,2018-05-28,ICB,Interest rebate facilities for affected investors by ICB & its Subsidiaries,0,0,1,interest rebate facilities for affected investors by icb  its subsidiaries
+20,2018-04-24,ICB,Q3 Financials,0,0,0,q3 financials
+21,2018-04-16,ICB,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+24,2018-04-08,ICB,Board decision to issue ICB Subordinated Bond,1,0,0,board decision to issue icb subordinated bond
+25,2018-01-25,ICB,Q2 Financials,0,0,0,q2 financials
+26,2018-01-16,ICB,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+27,2018-01-04,ICB,Dividend Disbursement,0,0,0,dividend disbursement
+28,2017-11-26,ICB,Resumption after record date,0,0,1,resumption after record date
+29,2017-11-23,ICB,Suspension for Record Date,1,0,0,suspension for record date
+30,2017-11-21,ICB,Spot News,0,0,1,spot news
+31,2017-11-12,ICB,Q1 Financials,0,1,0,q1 financials
+32,2017-11-05,ICB,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+33,2017-11-05,ICB,Price Limit Open,0,0,0,price limit open
+35,2017-11-05,ICB,Dividend Declaration,0,0,0,dividend declaration
+36,2017-10-26,ICB,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+37,2017-10-05,ICB,Credit Rating Result,1,0,0,credit rating result
+38,2017-04-26,ICB,Q3 Financials,0,0,0,q3 financials
+39,2017-04-19,ICB,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+40,2017-04-11,ICB,Query Response,0,0,0,query response
+41,2017-01-30,ICB,Q2 Financials,0,1,0,q2 financials
+42,2017-01-23,ICB,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+43,2017-01-18,ICB,Dividend Disbursement,1,0,0,dividend disbursement
+44,2017-01-10,ICB,Query Response,1,1,0,query response
+45,2016-12-07,ICB,MOU Signing,0,0,0,mou signing
+46,2016-11-14,ICB,Resumption after record,0,0,1,resumption after record
+47,2016-11-13,ICB,Suspension for record,0,0,0,suspension for record
+48,2016-11-13,ICB,Q1 Financials,0,0,0,q1 financials
+49,2016-11-13,ICB,Q1 Financials,0,0,0,q1 financials
+50,2016-11-09,ICB,Spot for AGM,1,1,0,spot for agm
+51,2016-11-08,ICB,Board Meeting,0,1,1,board meeting
+52,2016-10-25,ICB,Price Limit Open,1,0,0,price limit open
+53,2016-10-25,ICB,Dividend Declaration,1,0,0,dividend declaration
+54,2016-10-18,ICB,Board Meeting,0,1,0,board meeting
+55,2016-10-03,ICB,Credit Rating Result,1,0,1,credit rating result
+56,2016-07-10,ICB,Appointment of Managing Director,0,0,0,appointment of managing director
+57,2016-04-27,ICB,Q3 Financials,0,0,0,q3 financials
+58,2016-04-24,ICB,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+59,2016-02-01,ICB,Q2 Financials (additional information),1,1,0,q2 financials additional information
+60,2016-01-31,ICB,Q2 Financials,0,1,1,q2 financials
+61,2016-01-25,ICB,Cash Dividend Disbursement,0,1,0,cash dividend disbursement
+62,2015-11-30,ICB,Resumption after Record date,0,0,1,resumption after record date
+63,2015-11-29,ICB,Suspension for Record Date,0,0,0,suspension for record date
+64,2015-11-25,ICB,Spot for AGM,0,0,0,spot for agm
+65,2015-11-10,ICB,Q1 Financials,0,0,0,q1 financials
+66,2015-11-10,ICB,Price Limit Open,0,0,0,price limit open
+67,2015-11-10,ICB,Dividend Declaration,0,0,0,dividend declaration
+68,2015-11-03,ICB,Board Meeting,1,1,0,board meeting
+69,2015-07-02,ICB,Credit Rating Result,0,0,0,credit rating result
+70,2015-04-30,ICB,Q3,0,0,0,q3
+71,2015-02-03,ICB,Resumption after Record Date,0,1,0,resumption after record date
+72,2015-02-02,ICB,Suspension News for Record date,1,0,1,suspension news for record date
+73,2015-02-01,ICB,Half Yearly Financials,0,1,0,half yearly financials
+74,2015-01-29,ICB,Spot for changing the Face Value,0,0,0,spot for changing the face value
+75,2015-01-22,ICB,denomination of share,1,0,0,denomination of share
+76,2015-01-22,ICB,credited the Rights shares,1,0,0,credited the rights shares
+77,2015-01-01,ICB,got permission regarding liquidation,1,0,0,got permission regarding liquidation
+78,2014-12-15,ICB,Qualified Opinion,0,0,0,qualified opinion
+79,2014-12-07,ICB,M. FUNDS NAV,0,1,0,m. funds nav
+80,2014-12-03,ICB,trade resume,0,0,0,trade resume
+81,2014-12-02,ICB,trade suspension,1,0,0,trade suspension
+82,2014-11-30,ICB,Spot Market Transaction,0,0,1,spot market transaction
+83,2014-11-30,ICB,M. FUNDS NAV,0,0,1,m. funds nav
+84,2014-11-30,ICB,Q1 Earnings,0,0,1,q1 earnings
+85,2014-11-24,ICB,no price limit,0,0,0,no price limit
+86,2014-11-24,ICB,dividend declaration,0,0,0,dividend declaration
+87,2014-11-23,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+88,2014-11-20,ICB,meeting of the Board of Directors,0,0,0,meeting of the board of directors
+89,2014-11-16,ICB,M. FUNDS Nav,1,0,0,m. funds nav
+90,2014-11-09,ICB,M. FUNDS NAV,0,1,0,m. funds nav
+91,2014-11-02,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+92,2014-10-26,ICB,M. FUNDS NAV,1,1,0,m. funds nav
+93,2014-10-19,ICB,M.FUNDS Nav,0,1,0,m.funds nav
+94,2014-10-12,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+95,2014-09-28,ICB,M. FUNDS NAV,1,1,1,m. funds nav
+96,2014-09-21,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+97,2014-09-14,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+98,2014-09-09,ICB,shares of the Corporation will resume,0,0,0,shares of the corporation will resume
+99,2014-09-08,ICB,Trade suspended on record date,1,0,0,trade suspended on record date
+100,2014-09-07,ICB,M. FUNDS Nav,0,1,0,m. funds nav
+101,2014-09-04,ICB,Spot Market Transaction,0,0,0,spot market transaction
+102,2014-08-31,ICB,M. FUNDS NAV,0,0,1,m. funds nav
+103,2014-08-24,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+104,2014-08-18,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+105,2014-08-14,ICB,subscription period for rights issue,0,0,0,subscription period for rights issue
+106,2014-08-12,ICB,Right issue approved by BSEC,0,0,0,right issue approved by bsec
+107,2014-08-12,ICB,AMCL Dividend Notification,0,0,0,amcl dividend notification
+108,2014-08-10,ICB,M. FUNDS Nav,0,1,0,m. funds nav
+109,2014-08-03,ICB,M. FUNDS NAV,1,1,0,m. funds nav
+110,2014-07-20,ICB,M. FUNDS NAV,1,1,1,m. funds nav
+111,2014-07-13,ICB,M. FUNDS NAV,0,1,1,m. funds nav
+112,2014-07-06,ICB,M. FUNDS NAV,1,1,0,m. funds nav
+113,2014-06-29,ICB,M. FUNDS NAV,1,1,0,m. funds nav
+114,2014-06-22,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+115,2014-06-15,ICB,M. FUNDS NAV,0,0,1,m. funds nav
+116,2014-06-08,ICB,M. FUNDS NAV,1,1,1,m. funds nav
+117,2014-06-01,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+118,2014-05-26,ICB,Credit Rating,0,0,0,credit rating
+119,2014-05-25,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+120,2014-05-18,ICB,M. FUNDS NAV,0,0,1,m. funds nav
+121,2014-05-11,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+122,2014-05-04,ICB,M. FUNDS Nav,0,0,0,m. funds nav
+123,2014-04-28,ICB,Q3 Earning,0,0,0,q3 earning
+124,2014-04-27,ICB,M. FUNDS Nav,1,0,0,m. funds nav
+125,2014-04-20,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+126,2014-04-13,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+127,2014-04-06,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+128,2014-03-30,ICB,M. FUNDS NAV,0,1,0,m. funds nav
+129,2014-03-23,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+130,2014-03-16,ICB,M. FUNDS NAV,0,0,1,m. funds nav
+131,2014-03-09,ICB,M. FUNDS NAV,1,0,1,m. funds nav
+132,2014-03-02,ICB,M. FUNDS NAV,1,1,0,m. funds nav
+133,2014-02-23,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+134,2014-02-16,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+135,2014-02-09,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+136,2014-02-02,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+137,2014-01-28,ICB,H/Y Earnings,0,0,1,hy earnings
+138,2014-01-26,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+139,2014-01-19,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+140,2014-01-12,ICB,M. FUNDS NAV,1,1,0,m. funds nav
+141,2014-01-06,ICB,M. FUNDS NAV,0,0,1,m. funds nav
+142,2014-01-01,ICB,M. FUNDS extended term,0,0,0,m. funds extended term
+143,2013-12-29,ICB,M. FUNDS NAV,0,1,0,m. funds nav
+144,2013-12-22,ICB,M. FUNDS NAV,0,0,1,m. funds nav
+145,2013-12-15,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+146,2013-12-08,ICB,M. FUNDS NAV,1,1,1,m. funds nav
+147,2013-12-05,ICB,EGM,0,0,0,egm
+148,2013-12-02,ICB,clarification,0,0,1,clarification
+149,2013-12-01,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+150,2013-12-01,ICB,AGM & EGM postponded,0,0,0,agm  egm postponded
+151,2013-11-24,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+152,2013-11-17,ICB,M. FUNDS NAV,1,1,1,m. funds nav
+153,2013-11-12,ICB,trade resume after record date,0,0,0,trade resume after record date
+154,2013-11-11,ICB,trade suspension on record date,0,0,0,trade suspension on record date
+155,2013-11-10,ICB,Q1 Earnings,1,0,0,q1 earnings
+156,2013-11-10,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+157,2013-11-06,ICB,trade suspension on record date,0,1,0,trade suspension on record date
+158,2013-11-03,ICB,EGM,0,0,0,egm
+159,2013-10-27,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+160,2013-10-24,ICB,Trade Will Resume After Record Date,0,0,0,trade will resume after record date
+161,2013-10-23,ICB,Trade Suspension on Record Date,1,0,0,trade suspension on record date
+162,2013-10-20,ICB,Trade Suspension on Record Date,0,1,1,trade suspension on record date
+163,2013-10-20,ICB,M. FUNDS NAV,0,1,1,m. funds nav
+164,2013-10-07,ICB,no price limit,0,0,1,no price limit
+165,2013-10-07,ICB,40% Cash Dividend declared,0,0,1,40 cash dividend declared
+166,2013-10-06,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+167,2013-09-29,ICB,M. FUNDS NAV,0,0,1,m. funds nav
+168,2013-09-22,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+169,2013-09-15,ICB,M. FUNDS NAV,0,0,1,m. funds nav
+170,2013-09-15,ICB,Directors News,0,0,1,directors news
+171,2013-09-08,ICB,M. FUNDS NAV,1,1,0,m. funds nav
+172,2013-09-04,ICB,Board Meeting,0,0,0,board meeting
+173,2013-09-01,ICB,M. FUNDS NAV,1,0,1,m. funds nav
+174,2013-08-25,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+175,2013-08-04,ICB,M. FUNDS NAV,0,1,0,m. funds nav
+176,2013-07-28,ICB,M. FUNDS NAV,1,1,0,m. funds nav
+177,2013-07-21,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+178,2013-07-14,ICB,M. FUNDS NAV,0,1,0,m. funds nav
+179,2013-07-07,ICB,M. FUNDS NAV,1,0,1,m. funds nav
+180,2013-06-30,ICB,M. FUNDS NAV,0,0,1,m. funds nav
+181,2013-06-23,ICB,M. FUNDS NAV,0,1,0,m. funds nav
+182,2013-06-16,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+183,2013-06-09,ICB,M. FUNDS NAV,0,1,0,m. funds nav
+184,2013-06-02,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+185,2013-05-26,ICB,M. FUNDS NAV,0,0,1,m. funds nav
+186,2013-05-19,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+187,2013-05-12,ICB,M. FUNDS NAV,1,1,1,m. funds nav
+188,2013-05-05,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+189,2013-04-28,ICB,M. FUNDS NAV,1,0,0,m. funds nav
+190,2013-04-28,ICB,Q3 earnings,1,0,0,q3 earnings
+191,2013-04-21,ICB,M. FUNDS NAV,0,0,0,m. funds nav
+192,2013-03-31,ICB,M. FUNDS Weekly NAV,1,0,0,m. funds weekly nav
+193,2013-03-18,ICB,M. FUNDS Weekly NAV,1,1,1,m. funds weekly nav
+194,2013-03-10,ICB,M. FUNDS weekly NAV,0,0,1,m. funds weekly nav
+195,2013-03-03,ICB,M. FUNDS weekly NAV,0,1,1,m. funds weekly nav
+196,2013-02-24,ICB,M. FUNDS weekly NAV,0,0,1,m. funds weekly nav
+197,2013-02-17,ICB,M. FUNDS weekly NAV,0,0,0,m. funds weekly nav
+198,2013-02-03,ICB,M. FUNDS weekly NAV,0,0,0,m. funds weekly nav
+199,2013-01-31,ICB,H/Y Earnings 2012-13,1,0,0,hy earnings 2012-13
+200,2013-01-27,ICB,M. FUNDS weekly NAV,0,0,1,m. funds weekly nav
+201,2013-01-20,ICB,M. FUNDS Weekly NAV,0,0,0,m. funds weekly nav
+202,2013-01-06,ICB,M. FUNDS NAV,0,0,1,m. funds nav
+203,2012-12-23,ICB,M. FUNDS Weekly NAV,1,0,0,m. funds weekly nav
+204,2012-12-17,ICB,M. FUNDS Weekly NAV,0,1,1,m. funds weekly nav
+205,2012-12-02,ICB,M. FUNDS NAV declaration,0,0,0,m. funds nav declaration
+206,2012-11-28,ICB,Authorized Capital Increase,1,1,0,authorized capital increase
+207,2012-11-27,ICB,M. FUNDS Weekly NAV,0,1,1,m. funds weekly nav
+208,2012-11-18,ICB,M. FUNDS Weekly NAV,0,0,0,m. funds weekly nav
+209,2012-11-14,ICB,Q1 Earnings 2012,0,1,0,q1 earnings 2012
+210,2012-11-11,ICB,M. FUNDS Weekly NAV,0,0,0,m. funds weekly nav
+211,2012-11-08,ICB,bonus share credited,0,0,0,bonus share credited
+212,2012-11-07,ICB,responses to DSE query,0,0,0,responses to dse query
+213,2012-11-04,ICB,M. FUNDS Weekly NAV,1,1,0,m. funds weekly nav
+214,2012-10-30,ICB,M. FUNDS Weekly NAV,1,1,0,m. funds weekly nav
+215,2012-10-21,ICB,M. FUNDS Weekly NAV,0,1,1,m. funds weekly nav
+216,2012-10-07,ICB,M. FUNDS weekly NAV,0,0,1,m. funds weekly nav
+217,2012-10-03,ICB,trading will resume after record date,0,1,0,trading will resume after record date
+218,2012-09-30,ICB,M. FUNDS weekly NAV,0,1,1,m. funds weekly nav
+219,2012-09-27,ICB,spot market trading,1,0,0,spot market trading
+220,2012-09-23,ICB,M. FUNDS weekly NAV,0,0,0,m. funds weekly nav
+221,2012-09-23,ICB,will have no price limit today,0,0,0,will have no price limit today
+222,2012-09-23,ICB,corporate declaration,0,0,0,corporate declaration
+223,2012-09-16,ICB,M. FUNDS weekly NAV published,0,0,1,m. funds weekly nav published
+224,2012-09-12,ICB,Board meeting,0,0,0,board meeting
+225,2012-07-22,ICB,M. FUNDS - On the close of operation...,0,0,1,m. funds on the close of operation
+226,2012-07-22,ICB,M. FUNDS - Company- ICB Mutual Funds (LC#20) (Correction)...,0,0,1,m. funds companyicb mutual funds lc20 correction
+227,2012-07-03,ICB,M. FUNDS - On the close of operation...,0,1,0,m. funds on the close of operation
+228,2012-04-22,ICB,M. FUNDS - On the close of operation...,0,0,0,m. funds on the close of operation
+229,2012-04-09,ICB,M. FUNDS - On the close of operation...,0,1,1,m. funds on the close of operation
+230,2012-04-01,ICB,M. FUNDS - On the close of operation on 27.03.2012...,1,0,0,m. funds on the close of operation on 27.03.2012
+231,2012-03-19,ICB,M. FUNDS - On the close of operation...,0,1,0,m. funds on the close of operation
+232,2012-03-04,ICB,M. FUNDS - On the close of operation...,1,0,1,m. funds on the close of operation
+233,2012-01-22,ICB,M. FUNDS - On the close of operation...,0,0,0,m. funds on the close of operation
+234,2012-01-08,ICB,M. FUNDS - On the close of operation...,0,0,0,m. funds on the close of operation
+235,2012-01-01,ICB,M. FUNDS - On the close of operation...,1,1,1,m. funds on the close of operation
+236,2011-12-18,ICB,M. FUNDS - On the close of operation...,1,0,0,m. funds on the close of operation
+237,2011-12-11,ICB,M. FUNDS - On the close of operation...,0,0,1,m. funds on the close of operation
+238,2011-11-27,ICB,- Trading of shares...,0,1,0,trading of shares
+239,2011-11-27,ICB,M. FUNDS,0,1,0,m. funds
+240,2011-11-20,ICB,"M. FUNDS - On the close of operation,..",1,1,0,"m. funds on the close of operation,.."
+241,2011-11-13,ICB,-  As per un-audited...,0,1,0,as per un-audited
+242,2011-11-13,ICB,- continuation of news of ICB-Q1...,0,1,0,continuation of news of icb-q1
+243,2011-11-13,ICB,M. FUNDS - On the close of operation...,0,1,0,m. funds on the close of operation
+244,2011-10-30,ICB,M. FUNDS,0,0,1,m. funds
+245,2011-10-30,ICB,- The Corporation has informed...,0,0,1,the corporation has informed
+246,2011-10-27,ICB,- Normal trading of the shares...,0,0,0,normal trading of the shares
+247,2011-10-26,ICB,- Trading of the shares...,0,0,0,trading of the shares
+248,2011-10-16,ICB,M. FUNDS - On the close of operation...,0,0,0,m. funds on the close of operation
+249,2011-10-16,ICB,- The Corporation has informed...,0,0,0,the corporation has informed
+250,2011-10-09,ICB,M. FUNDS - On the close of operation...,0,0,1,m. funds on the close of operation
+251,2011-10-02,ICB,"M. FUNDS - On the close of operation,..",0,0,0,"m. funds on the close of operation,.."
+252,2011-09-28,ICB,- Normal trading of the shares...,0,1,0,normal trading of the shares
+253,2011-09-27,ICB,- Trading of the shares...,0,0,1,trading of the shares
+254,2011-09-25,ICB,M. FUNDS -  On the close of operation...,1,0,0,m. funds  on the close of operation
+255,2011-09-22,ICB,- Trading of the shares...,0,0,0,trading of the shares
+256,2011-09-19,ICB,- The Board of Directors...,0,0,0,the board of directors
+257,2011-09-19,ICB,- There will be no price...,0,0,0,there will be no price
+258,2011-09-18,ICB,M. FUNDS - On the close of operation...,0,0,0,m. funds on the close of operation
+259,2011-09-04,ICB,M. FUNDS - On the close of operation...,1,0,0,m. funds on the close of operation
+260,2011-08-07,ICB,M. FUNDS - On the close of operation...,0,0,1,m. funds on the close of operation
+261,2011-07-31,ICB,M. FUNDS - On the close of operation...,0,0,0,m. funds on the close of operation
+262,2011-07-24,ICB,M. FUNDS - On the close of operation...,1,1,0,m. funds on the close of operation
+263,2011-07-17,ICB,M. FUNDS - On the close of operation....,1,0,0,m. funds on the close of operation.
+264,2011-07-10,ICB,M. FUNDS - On the close of operation ...,0,1,1,m. funds on the close of operation
+265,2011-07-03,ICB,M. FUNDS -On the close of operation...,1,0,0,m. funds -on the close of operation

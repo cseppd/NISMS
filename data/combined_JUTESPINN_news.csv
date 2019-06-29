@@ -1,0 +1,117 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-28,JUTESPINN,Q3 Financials,0,0,0,q3 financials
+1,2019-04-21,JUTESPINN,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+2,2019-01-27,JUTESPINN,Q2 Financials,1,0,1,q2 financials
+3,2019-01-23,JUTESPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2018-12-11,JUTESPINN,Query Response,0,0,0,query response
+5,2018-12-06,JUTESPINN,Resumption after record date,0,0,0,resumption after record date
+6,2018-12-05,JUTESPINN,Suspension for Record date,0,0,0,suspension for record date
+7,2018-12-04,JUTESPINN,Basis for Qualified Opinion,1,0,0,basis for qualified opinion
+16,2018-12-04,JUTESPINN,Basis for Qualified Opinion,1,0,0,basis for qualified opinion
+17,2018-11-29,JUTESPINN,Query Response,0,0,0,query response
+18,2018-11-27,JUTESPINN,Q1 Financials (Repeat News),0,0,0,q1 financials repeat news
+19,2018-11-22,JUTESPINN,Spot News,0,0,0,spot news
+20,2018-11-18,JUTESPINN,Q1 Financials,0,0,0,q1 financials
+21,2018-11-15,JUTESPINN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+22,2018-11-13,JUTESPINN,Price Limit Open,1,0,1,price limit open
+23,2018-11-13,JUTESPINN,Dividend Declaration,1,0,1,dividend declaration
+24,2018-11-06,JUTESPINN,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+25,2018-10-07,JUTESPINN,Query Response (Repeat News),1,0,1,query response repeat news
+26,2018-10-04,JUTESPINN,Query Response,1,0,0,query response
+27,2018-08-30,JUTESPINN,Query Response,0,0,0,query response
+28,2018-08-06,JUTESPINN,Message for the investors on their Share Price Hike,0,0,1,message for the investors on their share price hike
+29,2018-07-19,JUTESPINN,Revised information on the operational status of mill of the Company,0,0,0,revised information on the operational status of mill of the company
+30,2018-07-03,JUTESPINN,Query Response,0,0,0,query response
+31,2018-04-30,JUTESPINN,Q3 Financials,0,0,0,q3 financials
+32,2018-04-24,JUTESPINN,Query Response,0,1,1,query response
+33,2018-04-23,JUTESPINN,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+34,2018-01-30,JUTESPINN,Q2 Financials,1,0,1,q2 financials
+35,2018-01-25,JUTESPINN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+36,2018-01-14,JUTESPINN,Query Response,1,0,1,query response
+37,2018-01-07,JUTESPINN,Company's message to its shareholders (Repeat News),1,0,1,company's message to its shareholders repeat news
+38,2018-01-03,JUTESPINN,Company's message to its shareholders,1,0,0,company's message to its shareholders
+41,2017-12-21,JUTESPINN,Basis for Qualified Opinion,0,0,0,basis for qualified opinion
+42,2017-12-18,JUTESPINN,AGM Postponed of the Company,0,0,0,agm postponed of the company
+43,2017-11-23,JUTESPINN,Query Response,0,0,0,query response
+44,2017-11-20,JUTESPINN,Resumption after record date,0,0,1,resumption after record date
+45,2017-11-19,JUTESPINN,Suspension for Record Date,1,0,0,suspension for record date
+46,2017-11-15,JUTESPINN,Q1 Financials,0,1,0,q1 financials
+47,2017-11-14,JUTESPINN,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+48,2017-11-06,JUTESPINN,Spot News,0,0,0,spot news
+49,2017-10-31,JUTESPINN,Price Limit Open,1,0,0,price limit open
+50,2017-10-31,JUTESPINN,Dividend Declaration,1,0,0,dividend declaration
+51,2017-10-26,JUTESPINN,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+52,2017-07-24,JUTESPINN,Company's message to its shareholders,1,0,0,company's message to its shareholders
+53,2017-07-23,JUTESPINN,Query Response (Repeat News),1,1,0,query response repeat news
+54,2017-07-20,JUTESPINN,Query Response,0,0,0,query response
+55,2017-07-18,JUTESPINN,Q3 Financials (Repeat),1,1,0,q3 financials repeat
+56,2017-05-18,JUTESPINN,Query Response,0,0,0,query response
+57,2017-04-30,JUTESPINN,Q3 Financials,1,0,0,q3 financials
+58,2017-04-26,JUTESPINN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+59,2017-03-16,JUTESPINN,Change of Office Address,1,0,0,change of office address
+60,2017-01-30,JUTESPINN,Q2 Financials,0,0,1,q2 financials
+61,2017-01-25,JUTESPINN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+62,2016-12-15,JUTESPINN,Basis for Qualified Opinion,0,0,0,basis for qualified opinion
+63,2016-11-30,JUTESPINN,Resumption after record date,0,1,0,resumption after record date
+64,2016-11-30,JUTESPINN,Resumption after record date,0,1,0,resumption after record date
+65,2016-11-29,JUTESPINN,Suspension for record date,0,0,1,suspension for record date
+66,2016-11-16,JUTESPINN,Spot for AGM,1,0,0,spot for agm
+67,2016-11-14,JUTESPINN,Q1 Financials (additional information),1,0,1,q1 financials additional information
+68,2016-11-14,JUTESPINN,Q1 Financials,1,0,1,q1 financials
+69,2016-11-09,JUTESPINN, No Price Limit,0,1,0,no price limit
+70,2016-11-09,JUTESPINN, No Dividend,0,1,0,no dividend
+71,2016-11-03,JUTESPINN,Board Meeting,0,0,0,board meeting
+72,2016-08-03,JUTESPINN,Q3 Financials,1,0,0,q3 financials
+73,2016-04-28,JUTESPINN,Q3 Financials,0,0,0,q3 financials
+74,2016-04-24,JUTESPINN,Board Meeting,1,0,1,board meeting
+75,2016-04-11,JUTESPINN,Credit Rating Result,0,0,0,credit rating result
+76,2016-01-28,JUTESPINN,Q2 Financials,0,0,0,q2 financials
+77,2016-01-25,JUTESPINN,Board Meeting,1,0,0,board meeting
+78,2015-11-15,JUTESPINN,Q1,0,0,1,q1
+79,2015-11-12,JUTESPINN,Resumption News,0,0,0,resumption news
+80,2015-11-11,JUTESPINN,Suspension News,0,0,0,suspension news
+81,2015-10-29,JUTESPINN,Spot News for AGM,0,0,0,spot news for agm
+82,2015-10-26,JUTESPINN,Price Limit Open,0,1,0,price limit open
+83,2015-10-26,JUTESPINN,Dividend Declaration,0,1,0,dividend declaration
+84,2015-10-18,JUTESPINN,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+85,2015-08-20,JUTESPINN,Query Response,0,0,0,query response
+86,2015-05-04,JUTESPINN,Q3 Financials,0,0,1,q3 financials
+87,2015-01-29,JUTESPINN,H/Y,0,0,0,hy
+88,2014-12-14,JUTESPINN,company news,1,1,0,company news
+89,2014-11-20,JUTESPINN,audit report,0,0,0,audit report
+90,2014-11-19,JUTESPINN,Trade Resume,0,0,0,trade resume
+91,2014-11-18,JUTESPINN,Trade Suspended,0,0,0,trade suspended
+92,2014-11-17,JUTESPINN,Q1 Earning,1,0,0,q1 earning
+93,2014-11-05,JUTESPINN,trade suspension,0,0,0,trade suspension
+94,2014-10-28,JUTESPINN,did not recommend any dividend,0,1,0,did not recommend any dividend
+95,2014-10-23,JUTESPINN,meeting of the Board of Directors,1,0,0,meeting of the board of directors
+96,2014-06-29,JUTESPINN,DSE query,0,0,0,dse query
+97,2014-04-29,JUTESPINN,Q3 earning,0,0,0,q3 earning
+98,2014-01-30,JUTESPINN,H/Y Earnings,0,0,0,hy earnings
+99,2013-12-15,JUTESPINN,category change,0,0,1,category change
+100,2013-11-14,JUTESPINN,Auditors Observation,0,0,0,auditors observation
+101,2013-11-14,JUTESPINN,Q1 Earnings,0,0,0,q1 earnings
+102,2013-11-10,JUTESPINN,trade resume after record date,0,1,0,trade resume after record date
+103,2013-11-07,JUTESPINN,trade suspension on record date,0,0,0,trade suspension on record date
+104,2013-11-04,JUTESPINN,trade suspension on record date,0,0,0,trade suspension on record date
+105,2013-10-28,JUTESPINN,No Price limit,0,0,1,no price limit
+106,2013-10-28,JUTESPINN,Corporate Action,0,0,1,corporate action
+107,2013-10-23,JUTESPINN,Board Meeting,0,0,0,board meeting
+108,2013-04-30,JUTESPINN,Q3 Earnings,0,0,1,q3 earnings
+109,2013-01-28,JUTESPINN,H/Y Earnings 2012-13,1,1,0,hy earnings 2012-13
+110,2012-11-13,JUTESPINN,Q1 Earnings 2012,1,0,0,q1 earnings 2012
+111,2012-11-05,JUTESPINN,spot market trading,1,0,0,spot market trading
+112,2012-10-22,JUTESPINN,corporate declaration,0,0,0,corporate declaration
+113,2012-09-30,JUTESPINN,responses to DSE query,1,1,0,responses to dse query
+114,2012-04-19,JUTESPINN,- Mrs. Shahida Hossain...,0,0,0,mrs. shahida hossain
+115,2012-01-31,JUTESPINN,- As per un-audited...,0,1,0,as per un-audited
+116,2011-12-22,JUTESPINN,- Ms. Shahida Hossain...,0,0,0,ms. shahida hossain
+117,2011-11-15,JUTESPINN,- As per un-audited...,0,0,1,as per un-audited
+118,2011-11-13,JUTESPINN,- Normal trading of the shares...,0,1,0,normal trading of the shares
+119,2011-11-03,JUTESPINN,- Trading of the shares...,0,0,0,trading of the shares
+120,2011-10-31,JUTESPINN,-Trading of the shares...,0,1,0,-trading of the shares
+121,2011-10-27,JUTESPINN,- There will be no price...,0,0,0,there will be no price
+122,2011-10-27,JUTESPINN,- The Board of Directors...,0,0,0,the board of directors
+123,2011-10-13,JUTESPINN,- Normal trading of the shares...,0,0,0,normal trading of the shares
+124,2011-10-12,JUTESPINN,- Trading of the shares...,1,0,0,trading of the shares
+125,2011-10-04,JUTESPINN,- The Company has informed...,0,1,0,the company has informed

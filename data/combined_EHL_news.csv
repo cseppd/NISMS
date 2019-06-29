@@ -1,0 +1,104 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-24,EHL,Q3 Financials,0,1,0,q3 financials
+1,2019-04-16,EHL,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+2,2019-01-23,EHL,Q2 Financials,0,1,0,q2 financials
+3,2019-01-16,EHL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2018-12-13,EHL,Credit Rating Result,0,0,0,credit rating result
+5,2018-12-13,EHL,Cash Dividend Disbursement,0,0,0,cash dividend disbursement
+6,2018-11-12,EHL,Q1 Financials,0,0,1,q1 financials
+7,2018-11-06,EHL,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+8,2018-10-11,EHL,Resumption after Record Date,0,0,0,resumption after record date
+9,2018-10-10,EHL,Suspension for Record Date,0,0,0,suspension for record date
+10,2018-10-08,EHL,Spot News,1,0,0,spot news
+11,2018-09-18,EHL,Price Limit Open,1,0,0,price limit open
+12,2018-09-18,EHL,Dividend Declaration,1,0,0,dividend declaration
+13,2018-09-09,EHL,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+14,2018-04-25,EHL,Q3 Financials,1,1,0,q3 financials
+15,2018-04-18,EHL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+16,2018-01-21,EHL,Q2 Financials,0,0,0,q2 financials
+17,2018-01-15,EHL,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+18,2017-12-17,EHL,Credit Rating Result,0,0,1,credit rating result
+19,2017-12-14,EHL,Dividend Disbursement,1,0,0,dividend disbursement
+20,2017-11-02,EHL,Q1 Financials,0,0,0,q1 financials
+21,2017-10-25,EHL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+22,2017-10-11,EHL,Resumption after Record Date,0,0,0,resumption after record date
+23,2017-10-10,EHL,Suspension for Record Date,0,0,0,suspension for record date
+24,2017-10-08,EHL,Spot News,1,1,0,spot news
+25,2017-09-17,EHL,Price Limit Open,0,0,0,price limit open
+27,2017-09-17,EHL,Dividend Declaration,0,0,0,dividend declaration
+28,2017-09-07,EHL,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+29,2017-04-25,EHL,Q3 Financials,0,1,0,q3 financials
+30,2017-04-17,EHL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+31,2017-01-30,EHL,Q2 Financials,1,1,0,q2 financials
+32,2017-01-23,EHL,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+33,2016-11-20,EHL,Credit Rating Result,0,0,1,credit rating result
+34,2016-11-10,EHL,Q1,1,0,0,q1
+35,2016-11-03,EHL,Board Meeting,0,0,0,board meeting
+36,2016-11-02,EHL,Dividend Disbursement,1,0,0,dividend disbursement
+37,2016-10-05,EHL,Resumption after record date,0,1,0,resumption after record date
+38,2016-10-04,EHL,Suspension for record date,1,0,1,suspension for record date
+39,2016-10-02,EHL,Spot for AGM,1,0,1,spot for agm
+40,2016-09-08,EHL,Price Limit Open,0,0,0,price limit open
+41,2016-09-08,EHL,Dividend Declaration,0,0,0,dividend declaration
+42,2016-08-31,EHL,Board Meeting,1,0,0,board meeting
+43,2016-05-22,EHL,Q3 Financials,1,0,0,q3 financials
+44,2016-05-15,EHL,Board Meeting,0,0,1,board meeting
+45,2016-02-25,EHL,Q2,1,0,0,q2
+46,2016-02-17,EHL, Board Meeting,0,0,0,board meeting
+47,2015-12-17,EHL,Cash Dividend Disbursement,0,0,0,cash dividend disbursement
+48,2015-12-14,EHL,Q1 Financials,0,1,0,q1 financials
+49,2015-12-07,EHL,Board Meeting,0,0,0,board meeting
+50,2015-11-19,EHL,Dividend Disbursement,1,0,0,dividend disbursement
+51,2015-10-25,EHL,Resumption of Trade,0,0,0,resumption of trade
+52,2015-10-25,EHL,Halt for Price Adjustment,0,0,0,halt for price adjustment
+53,2015-10-21,EHL,Resumption News after Record,0,0,0,resumption news after record
+54,2015-10-20,EHL,Suspension News for Record Date,1,0,0,suspension news for record date
+55,2015-10-18,EHL,Spot News for AGM,0,0,1,spot news for agm
+56,2015-10-01,EHL,Price Limit Open,1,0,0,price limit open
+57,2015-10-01,EHL,Dividend Declaration,1,0,0,dividend declaration
+58,2015-09-22,EHL,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+59,2015-09-08,EHL,Credit Rating,1,0,0,credit rating
+60,2015-05-28,EHL,Q3 Financials,0,0,0,q3 financials
+61,2015-02-22,EHL,Half Yearly Financials,1,0,1,half yearly financials
+62,2014-12-08,EHL,Q1,0,0,0,q1
+63,2014-11-10,EHL,credited the bonus,1,0,0,credited the bonus
+64,2014-10-02,EHL,trade resume,0,0,0,trade resume
+65,2014-10-01,EHL,trade suspension,1,0,0,trade suspension
+66,2014-09-29,EHL,Credit Rating,0,1,1,credit rating
+67,2014-09-29,EHL,Spot Market Transaction,0,1,1,spot market transaction
+68,2014-09-22,EHL,no price limit,1,0,0,no price limit
+69,2014-09-22,EHL,dividend declaration,1,0,0,dividend declaration
+70,2014-09-16,EHL, Board meeting,0,1,0,board meeting
+71,2014-05-28,EHL,investment in IG Health Care Limited,0,1,0,investment in ig health care limited
+72,2014-05-28,EHL,Q3 Earnings,0,1,0,q3 earnings
+73,2014-04-29,EHL,Valuation Report Approval,0,1,0,valuation report approval
+74,2014-03-02,EHL,H/Y Earnings,0,0,1,hy earnings
+75,2013-12-08,EHL,Q1 Earnings,0,0,0,q1 earnings
+76,2013-11-18,EHL,Trade Resume After Record Date,0,0,1,trade resume after record date
+77,2013-11-17,EHL,Trade Suspension on Record Date,1,0,0,trade suspension on record date
+78,2013-11-12,EHL,trade suspension on record date,0,1,1,trade suspension on record date
+79,2013-11-05,EHL,no price limit,1,0,1,no price limit
+80,2013-11-05,EHL,cash and stock dividend,1,0,1,cash and stock dividend
+81,2013-11-03,EHL,Meeting,1,0,1,meeting
+82,2013-09-30,EHL,Credit Rating,0,0,1,credit rating
+83,2013-05-29,EHL,Q3 Earnings,0,0,0,q3 earnings
+84,2013-02-28,EHL,H/Y Earnings 2012-13,1,0,0,hy earnings 2012-13
+85,2012-12-17,EHL,Q1 Earnings 2012,0,0,0,q1 earnings 2012
+86,2012-11-11,EHL,spot market trading,0,0,1,spot market trading
+87,2012-11-07,EHL,credit rating,1,0,0,credit rating
+88,2012-11-07,EHL,will have no price limit today,1,0,0,will have no price limit today
+89,2012-11-07,EHL,corporate declaration,1,0,0,corporate declaration
+90,2012-11-05,EHL,Board Meeting,0,0,1,board meeting
+91,2012-05-24,EHL,- (Q3): As per un-audited...,0,0,0,q3: as per un-audited
+92,2012-01-02,EHL,- Mr. Manzurul Islam...,0,1,0,mr. manzurul islam
+93,2011-12-14,EHL,- The Company has informed...,0,0,0,the company has informed
+94,2011-12-13,EHL,- As per un-audited...,1,0,0,as per un-audited
+95,2011-11-29,EHL,- Mr. Manzurul Islam...,0,1,0,mr. manzurul islam
+96,2011-11-03,EHL,- Normal trading...,0,0,0,normal trading
+97,2011-11-02,EHL,- Trading of the shares...,0,0,0,trading of the shares
+98,2011-10-30,EHL,- Trading of the shares...,0,0,1,trading of the shares
+99,2011-10-27,EHL,- The National Credit...,0,0,0,the national credit
+100,2011-10-26,EHL,- The Board of Directors...,0,0,0,the board of directors
+101,2011-10-26,EHL,- There will be no price...,0,0,0,there will be no price
+102,2011-10-24,EHL,- As per regulation...,0,0,0,as per regulation
+103,2011-07-19,EHL,- SEC has issued show cause...,1,0,0,sec has issued show cause

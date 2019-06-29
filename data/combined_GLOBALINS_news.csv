@@ -1,0 +1,128 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,GLOBALINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+1,2019-01-22,GLOBALINS,Query Response,0,1,1,query response
+2,2018-10-28,GLOBALINS,Q3 Financials,0,1,0,q3 financials
+3,2018-10-21,GLOBALINS,Reschedule of Board Meeting under LR 16(1),0,0,0,reschedule of board meeting under lr 161
+4,2018-10-21,GLOBALINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+5,2018-10-18,GLOBALINS,Credit Rating Result,0,0,0,credit rating result
+6,2018-09-30,GLOBALINS,Appointment of Chief Executive Officer,1,0,0,appointment of chief executive officer
+7,2018-09-19,GLOBALINS,Query Response (Repeat News),0,0,0,query response repeat news
+8,2018-09-18,GLOBALINS,Query Response,1,0,0,query response
+9,2018-08-09,GLOBALINS,Dividend Disbursement,1,0,0,dividend disbursement
+10,2018-08-09,GLOBALINS,Buy confirmation of a Sponsor,1,0,0,buy confirmation of a sponsor
+11,2018-07-30,GLOBALINS,Q2 Financials,0,0,1,q2 financials
+12,2018-07-29,GLOBALINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+13,2018-07-16,GLOBALINS,Buy declaration of a Sponsor,0,0,0,buy declaration of a sponsor
+14,2018-05-30,GLOBALINS,Resumption after record date,0,0,0,resumption after record date
+15,2018-05-29,GLOBALINS,Suspension for Record Date,0,0,0,suspension for record date
+16,2018-05-27,GLOBALINS,Spot News,0,0,0,spot news
+17,2018-05-14,GLOBALINS,Q1 Financials,0,1,0,q1 financials
+18,2018-05-10,GLOBALINS,Price Limit Open,1,0,0,price limit open
+19,2018-05-10,GLOBALINS,Dividend Declaration,1,0,0,dividend declaration
+20,2018-05-08,GLOBALINS,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+21,2018-04-30,GLOBALINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+22,2018-04-30,GLOBALINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+23,2018-04-26,GLOBALINS,Credit Rating Result,1,0,0,credit rating result
+24,2017-10-30,GLOBALINS,Q3 Financials,0,1,0,q3 financials
+25,2017-10-26,GLOBALINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+26,2017-09-17,GLOBALINS,Buy Confirmation of Sponsor,1,0,0,buy confirmation of sponsor
+27,2017-08-08,GLOBALINS,Buy declaration of a Sponsor,1,0,0,buy declaration of a sponsor
+28,2017-08-03,GLOBALINS,Sale/Buy confirmation of Sponsors,0,0,0,salebuy confirmation of sponsors
+29,2017-07-27,GLOBALINS,Sale/Buy declaration of Sponsors,0,0,0,salebuy declaration of sponsors
+30,2017-07-19,GLOBALINS,Q2 Financials,0,1,0,q2 financials
+31,2017-07-13,GLOBALINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+32,2017-06-22,GLOBALINS,Dividend Disbursement,0,0,0,dividend disbursement
+33,2017-06-19,GLOBALINS,Elected Chairman and Vice-Chairman,1,1,0,elected chairman and vice-chairman
+34,2017-06-04,GLOBALINS,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+35,2017-06-04,GLOBALINS,Category Change,0,0,0,category change
+36,2017-05-15,GLOBALINS,Q1 Financials,0,0,0,q1 financials
+37,2017-05-09,GLOBALINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+38,2017-04-24,GLOBALINS,Resumption after record date,0,1,1,resumption after record date
+39,2017-04-23,GLOBALINS,Suspension for Record Date,0,0,1,suspension for record date
+40,2017-04-19,GLOBALINS,Spot News,1,0,0,spot news
+41,2017-04-02,GLOBALINS,Price Limit Open,1,0,0,price limit open
+42,2017-04-02,GLOBALINS,Dividend Declaration,1,0,0,dividend declaration
+43,2017-04-02,GLOBALINS,Price Limit Open (Correction),1,0,0,price limit open correction
+44,2017-03-23,GLOBALINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+45,2017-03-01,GLOBALINS,Credit Rating Result,0,0,0,credit rating result
+46,2017-01-15,GLOBALINS,Query Response,1,1,0,query response
+47,2016-10-31,GLOBALINS,Q3 Financials,0,0,1,q3 financials
+48,2016-10-26,GLOBALINS,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+49,2016-10-26,GLOBALINS,Buy Confirmation of a Sponsor,1,0,0,buy confirmation of a sponsor
+50,2016-10-13,GLOBALINS,Buy Declaration of a Sponsor,1,0,0,buy declaration of a sponsor
+51,2016-08-31,GLOBALINS,Buy Confirmation of a Sponsor,1,1,0,buy confirmation of a sponsor
+52,2016-08-04,GLOBALINS,Buy Declaration,0,0,0,buy declaration
+53,2016-07-28,GLOBALINS,Q2 Financials,0,0,0,q2 financials
+54,2016-07-25,GLOBALINS,Board Meeting,0,0,1,board meeting
+55,2016-06-15,GLOBALINS,Dividend Disbursement,0,0,0,dividend disbursement
+56,2016-06-06,GLOBALINS,Appointment of CEO,1,0,1,appointment of ceo
+57,2016-05-12,GLOBALINS,Q1,1,0,0,q1
+58,2016-04-11,GLOBALINS,Resumption after Record date,0,0,0,resumption after record date
+59,2016-04-06,GLOBALINS,Spot for AGM,0,1,0,spot for agm
+60,2016-03-23,GLOBALINS, Price Limit Open,0,1,0,price limit open
+61,2016-03-23,GLOBALINS,Dividend Declaration,0,1,0,dividend declaration
+62,2016-03-13,GLOBALINS,Board Meeting,1,0,0,board meeting
+63,2016-02-10,GLOBALINS,Credit Rating,0,0,0,credit rating
+64,2015-10-28,GLOBALINS,Q3 Financials,0,1,0,q3 financials
+65,2015-09-09,GLOBALINS,Buy Declaration,0,0,0,buy declaration
+66,2015-08-06,GLOBALINS,Credit Rating Result,0,0,0,credit rating result
+67,2015-08-06,GLOBALINS,Newly Elected Chairman and Vice Chairman,0,0,0,newly elected chairman and vice chairman
+68,2015-08-02,GLOBALINS,Q2 Financials,0,1,1,q2 financials
+69,2015-07-27,GLOBALINS,Dividend Disbursement,1,1,0,dividend disbursement
+70,2015-05-17,GLOBALINS,Q1 Financials,0,1,1,q1 financials
+71,2015-05-10,GLOBALINS,Resumption News after Record Date,0,0,1,resumption news after record date
+72,2015-05-07,GLOBALINS,Suspension News for Record Date,1,0,0,suspension news for record date
+73,2015-05-05,GLOBALINS,Spot Market Trading,1,1,1,spot market trading
+74,2015-04-29,GLOBALINS,Price Limit Open,1,1,0,price limit open
+75,2015-04-29,GLOBALINS,Dividend Declaration,1,1,0,dividend declaration
+76,2015-04-23,GLOBALINS,Board Meeting,1,0,0,board meeting
+77,2014-12-11,GLOBALINS,Credit Ratings,1,0,0,credit ratings
+78,2014-11-02,GLOBALINS,Q3 earnings,0,1,0,q3 earnings
+79,2014-08-03,GLOBALINS,H/Y Earnings,0,0,0,hy earnings
+80,2014-05-22,GLOBALINS,new Chairman,0,0,0,new chairman
+81,2014-05-14,GLOBALINS,Q1 Earnings,1,0,0,q1 earnings
+82,2014-04-07,GLOBALINS,trade resume,0,0,1,trade resume
+83,2014-04-06,GLOBALINS,trade suspension,0,0,0,trade suspension
+84,2014-04-01,GLOBALINS,Spot Market Transaction,0,1,0,spot market transaction
+85,2014-03-19,GLOBALINS,No price Limit,1,0,0,no price limit
+86,2014-03-19,GLOBALINS,10% Stock Dividend,1,0,0,10 stock dividend
+87,2014-03-12,GLOBALINS,Board Meeting,0,0,0,board meeting
+88,2013-11-04,GLOBALINS,sponsor share sell,1,0,0,sponsor share sell
+89,2013-10-29,GLOBALINS,Sponsors Share Sell,0,1,0,sponsors share sell
+90,2013-10-28,GLOBALINS,Q3 Earnings,0,0,1,q3 earnings
+91,2013-07-29,GLOBALINS,Q2 Earnings,1,0,0,q2 earnings
+92,2013-07-08,GLOBALINS,Credited Bonus Share,1,1,0,credited bonus share
+93,2013-07-02,GLOBALINS,Chairman Election,1,1,1,chairman election
+94,2013-05-15,GLOBALINS,Q1 Earnings,0,0,0,q1 earnings
+95,2013-04-21,GLOBALINS,Trading resume after record date,0,1,0,trading resume after record date
+96,2013-04-15,GLOBALINS,Spot Market Trading,0,0,1,spot market trading
+97,2013-04-07,GLOBALINS,Corporate declaration,0,1,0,corporate declaration
+98,2013-04-01,GLOBALINS,Board Meeting,1,0,0,board meeting
+99,2012-10-31,GLOBALINS,Q3 Earnings 2012,1,1,0,q3 earnings 2012
+100,2012-07-26,GLOBALINS,- (H/Y): As per un-audited half yearly accounts...,0,0,0,hy: as per un-audited half yearly accounts
+101,2012-07-22,GLOBALINS,- National Credit Ratings Ltd...,0,1,1,national credit ratings ltd
+102,2012-06-20,GLOBALINS,- Mr. Mahbub Morshed Talukder...,0,1,0,mr. mahbub morshed talukder
+103,2012-06-13,GLOBALINS,- Mr. Md. Abdul Khaleque...,0,1,0,mr. md. abdul khaleque
+104,2012-05-15,GLOBALINS,- (Q1): As per un-audited quarterly accounts ...,1,1,1,q1: as per un-audited quarterly accounts
+105,2012-05-09,GLOBALINS,- Mr. Md. Abdul Muktadir...,0,1,0,mr. md. abdul muktadir
+106,2012-04-19,GLOBALINS,- Mr. Syed Badrul Alam...,0,0,0,mr. syed badrul alam
+107,2012-04-17,GLOBALINS,- Mr. Monoj Kumar Roy...,1,0,0,mr. monoj kumar roy
+108,2012-03-07,GLOBALINS,- Normal trading of the shares...,0,1,0,normal trading of the shares
+109,2012-01-26,GLOBALINS,- The National Credit Ratings...,0,0,0,the national credit ratings
+110,2011-10-31,GLOBALINS,- As per un-audited...,0,1,0,as per un-audited
+111,2011-09-14,GLOBALINS,- Mr. Syed Badrul Alam...,0,1,0,mr. syed badrul alam
+112,2011-09-13,GLOBALINS,- Mr. Syed Badrul Alam...,1,0,1,mr. syed badrul alam
+113,2011-09-09,GLOBALINS,- Mr. Syed Badrul Alam...,0,0,0,mr. syed badrul alam
+114,2011-09-05,GLOBALINS,- Mr. Mohammad Abdul Muhit...,0,0,1,mr. mohammad abdul muhit
+115,2011-09-05,GLOBALINS,- Mr. Syed Badrul Alam...,0,0,1,mr. syed badrul alam
+116,2011-09-04,GLOBALINS,- Mr. Syed Badrul Alam...,0,0,0,mr. syed badrul alam
+117,2011-08-16,GLOBALINS,- Mr. Mohammad Abdul Muhit...,0,0,1,mr. mohammad abdul muhit
+118,2011-08-08,GLOBALINS,- Mr. Syed Badrul Alam...,0,0,0,mr. syed badrul alam
+119,2011-08-07,GLOBALINS,- The Company has informed...,1,0,0,the company has informed
+120,2011-08-01,GLOBALINS,- (H/Y): As per un-audited...,0,0,0,hy: as per un-audited
+121,2011-07-14,GLOBALINS,- Mr. Md. Anwarul Haque...,0,0,0,mr. md. anwarul haque
+122,2011-07-14,GLOBALINS,- Mr. Md. Harunur Rashid...,0,0,0,mr. md. harunur rashid
+123,2011-07-13,GLOBALINS,- Mr. Md. Harunur Rashid...,1,0,0,mr. md. harunur rashid
+124,2011-07-05,GLOBALINS,- Mr. Md. Anwarul Haque...,1,1,0,mr. md. anwarul haque
+125,2011-07-05,GLOBALINS,- Mr. S M Abdul Mannan...,1,1,0,mr. s m abdul mannan
+126,2011-07-05,GLOBALINS,- Mr. Md. Nasiruddin Choudhury...,1,1,0,mr. md. nasiruddin choudhury

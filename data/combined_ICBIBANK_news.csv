@@ -1,0 +1,85 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-24,ICBIBANK,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+1,2019-04-23,ICBIBANK,Reschedule of Board Meeting under LR 19(1),0,0,0,reschedule of board meeting under lr 191
+2,2019-03-12,ICBIBANK,Postponement of Board Meeting under LR 19(1),1,0,0,postponement of board meeting under lr 191
+3,2019-03-05,ICBIBANK,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+5,2018-12-04,ICBIBANK,Basis for Qualified Opinion,0,1,0,basis for qualified opinion
+6,2018-10-04,ICBIBANK,Q3 Financials,0,0,0,q3 financials
+7,2018-09-30,ICBIBANK,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+8,2018-07-19,ICBIBANK,Q2 Financials,0,0,0,q2 financials
+9,2018-07-15,ICBIBANK,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+10,2018-05-16,ICBIBANK,Q1 Financials,0,0,0,q1 financials
+11,2018-05-09,ICBIBANK,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+12,2018-04-25,ICBIBANK,Resumption after record date,0,1,0,resumption after record date
+13,2018-04-24,ICBIBANK,Suspension for Record Date,0,0,1,suspension for record date
+14,2018-04-11,ICBIBANK,Spot News,0,0,0,spot news
+15,2018-04-05,ICBIBANK,Price Limit Open,0,0,0,price limit open
+16,2018-04-05,ICBIBANK,Dividend Declaration,0,0,0,dividend declaration
+17,2018-04-01,ICBIBANK,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+18,2017-11-23,ICBIBANK,Query Response (Repeat News),1,0,0,query response repeat news
+19,2017-11-20,ICBIBANK,Query Response,1,0,0,query response
+20,2017-10-26,ICBIBANK,Q3 Financials,1,0,0,q3 financials
+21,2017-10-22,ICBIBANK,Reschedule of Board Meeting under LR 16(1),0,0,0,reschedule of board meeting under lr 161
+22,2017-10-17,ICBIBANK,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+23,2017-08-03,ICBIBANK,Q2 Financials,0,0,0,q2 financials
+24,2017-07-25,ICBIBANK,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+25,2017-04-26,ICBIBANK,Q1 Financials,0,1,0,q1 financials
+26,2017-04-23,ICBIBANK,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+27,2017-04-04,ICBIBANK,Resumption after record date,0,0,1,resumption after record date
+28,2017-04-03,ICBIBANK,Suspension for Record Date,0,0,0,suspension for record date
+29,2017-03-20,ICBIBANK,Spot News,0,0,0,spot news
+30,2017-03-02,ICBIBANK,Dividend Declaration,0,0,0,dividend declaration
+31,2017-03-02,ICBIBANK,Price Limit Open,0,0,0,price limit open
+32,2017-02-23,ICBIBANK,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+33,2017-01-26,ICBIBANK,Query Response,0,0,0,query response
+34,2016-10-27,ICBIBANK,Q3 Financials,1,0,0,q3 financials
+35,2016-10-23,ICBIBANK,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+36,2016-07-20,ICBIBANK,Q2 Financials,0,0,0,q2 financials
+37,2016-07-14,ICBIBANK,Board Meeting,1,0,1,board meeting
+38,2016-04-26,ICBIBANK,Q1 Financials,0,0,0,q1 financials
+39,2016-04-19,ICBIBANK,Board Meeting,0,0,1,board meeting
+40,2016-04-17,ICBIBANK,Resumption after Record date,0,1,0,resumption after record date
+41,2016-04-13,ICBIBANK,Suspension for Record date,1,0,0,suspension for record date
+42,2016-03-31,ICBIBANK,Spot for AGM,0,0,0,spot for agm
+43,2016-03-09,ICBIBANK,Price Limit Open,0,0,0,price limit open
+44,2016-03-09,ICBIBANK,Dividend Declaration,0,0,0,dividend declaration
+45,2016-03-01,ICBIBANK,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+46,2015-10-28,ICBIBANK,Q3 Financials,0,0,0,q3 financials
+47,2015-07-28,ICBIBANK,Half Yearly Financials,1,0,0,half yearly financials
+48,2015-04-29,ICBIBANK,Change of AGM Date of the Company,0,0,0,change of agm date of the company
+49,2015-04-27,ICBIBANK,Q1,0,0,0,q1
+50,2015-04-15,ICBIBANK,Trade resume,0,1,0,trade resume
+51,2015-04-13,ICBIBANK,Trade suspended on record date,1,0,0,trade suspended on record date
+52,2015-03-31,ICBIBANK,Spot News for AGM,0,0,0,spot news for agm
+53,2015-03-23,ICBIBANK,Price Limit Open,0,0,0,price limit open
+54,2015-03-23,ICBIBANK,Dividend Declaration,0,0,0,dividend declaration
+55,2015-03-19,ICBIBANK, Board Meeting schedule under LR 30,0,0,0,board meeting schedule under lr 30
+56,2014-10-28,ICBIBANK,Q3 Earnings,0,0,0,q3 earnings
+57,2014-07-22,ICBIBANK,H/Y Earnings,1,0,0,hy earnings
+58,2014-05-22,ICBIBANK,Audit Opinion,0,0,0,audit opinion
+59,2014-05-12,ICBIBANK,Q1 Earnings,0,0,0,q1 earnings
+60,2014-04-16,ICBIBANK,trade resume,0,0,0,trade resume
+61,2014-04-15,ICBIBANK,trade suspension,0,0,0,trade suspension
+62,2014-04-01,ICBIBANK,Spot Market Transaction,0,0,0,spot market transaction
+63,2014-03-25,ICBIBANK,no price limit,0,0,0,no price limit
+64,2014-03-25,ICBIBANK,recommended no dividend,0,0,0,recommended no dividend
+65,2014-03-20,ICBIBANK,Board Meeting,0,0,0,board meeting
+66,2013-12-02,ICBIBANK,clarification,0,0,0,clarification
+67,2013-11-19,ICBIBANK,Appointment of New MD & CEO,0,0,0,appointment of new md  ceo
+68,2013-10-21,ICBIBANK,Q3 Earnings,1,0,1,q3 earnings
+69,2013-08-01,ICBIBANK,Q2 Earnings,0,0,0,q2 earnings
+70,2013-05-15,ICBIBANK,Trade Resume after Record Date,0,1,0,trade resume after record date
+71,2013-05-02,ICBIBANK,Spot Market Trading,1,0,0,spot market trading
+72,2013-04-23,ICBIBANK,Corporate Declaration,1,0,0,corporate declaration
+73,2013-04-21,ICBIBANK,Board meeting,0,0,1,board meeting
+74,2012-10-30,ICBIBANK,Q3 Earnings 2012,1,1,0,q3 earnings 2012
+75,2012-10-30,ICBIBANK,cancelled agreement with Summit Group,1,1,0,cancelled agreement with summit group
+76,2012-05-13,ICBIBANK,- (Q1): As per un-audited quarterly accounts...,0,1,1,q1: as per un-audited quarterly accounts
+77,2012-04-16,ICBIBANK,- Normal trading of the shares...,0,0,0,normal trading of the shares
+78,2012-04-02,ICBIBANK,- Trading of the shares...,0,0,0,trading of the shares
+79,2012-03-27,ICBIBANK,- The Board of Directors...,0,0,0,the board of directors
+80,2012-03-27,ICBIBANK,- There will be no price limit...,0,0,0,there will be no price limit
+81,2012-03-22,ICBIBANK,- As per regulation 30 of DSE Listing Regulations..,0,0,0,as per regulation 30 of dse listing regulations..
+82,2011-10-30,ICBIBANK,- As per un-audited...,0,0,0,as per un-audited
+83,2011-07-26,ICBIBANK,- (H/Y): As per un-audited...,0,0,0,hy: as per un-audited
+84,2011-07-14,ICBIBANK,- In response to a DSE query...,1,0,0,in response to a dse query

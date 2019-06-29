@@ -1,0 +1,162 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-15,JANATAINS,Price Limit Open,1,0,1,price limit open
+1,2019-04-15,JANATAINS,Dividend Declaration,1,0,1,dividend declaration
+2,2019-04-03,JANATAINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+3,2019-01-23,JANATAINS,Query Response,1,1,0,query response
+4,2018-10-30,JANATAINS,Q3 Financials,1,0,0,q3 financials
+5,2018-10-24,JANATAINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+6,2018-10-24,JANATAINS,Appointment of Managing Director and CEO,0,0,0,appointment of managing director and ceo
+7,2018-10-22,JANATAINS,Credit Rating Result,0,0,0,credit rating result
+8,2018-09-24,JANATAINS,Query Response,0,1,1,query response
+9,2018-09-18,JANATAINS,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+10,2018-09-18,JANATAINS,Category Change,0,0,0,category change
+11,2018-09-18,JANATAINS,Dividend Disbursement,0,0,0,dividend disbursement
+12,2018-08-20,JANATAINS,Venue of the AGM,0,0,0,venue of the agm
+13,2018-07-31,JANATAINS,Resumption after record date,0,0,0,resumption after record date
+14,2018-07-30,JANATAINS,Suspension for Record Date,0,0,0,suspension for record date
+15,2018-07-30,JANATAINS,Q2 Financials,0,0,0,q2 financials
+16,2018-07-25,JANATAINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+17,2018-07-17,JANATAINS,Spot News,0,0,0,spot news
+18,2018-07-09,JANATAINS,Q1 Financials,0,0,0,q1 financials
+19,2018-07-09,JANATAINS,Price Limit Open,0,0,0,price limit open
+20,2018-07-09,JANATAINS,Dividend Declaration,0,0,0,dividend declaration
+21,2018-07-05,JANATAINS,Reschedule of Board Meeting under LR 19(1),0,0,0,reschedule of board meeting under lr 191
+22,2018-07-05,JANATAINS,Reschedule of Board Meeting under LR 16(1),0,0,0,reschedule of board meeting under lr 161
+23,2018-07-02,JANATAINS,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+24,2018-07-02,JANATAINS,Board Meeting schedule under LR 19(1),0,0,1,board meeting schedule under lr 191
+25,2018-04-30,JANATAINS,Deferral of board decision for adopting audited accounts for 2017,0,0,0,deferral of board decision for adopting audited accounts for 2017
+26,2018-04-19,JANATAINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+27,2018-04-19,JANATAINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+28,2017-10-29,JANATAINS,Q3 Financials,0,0,0,q3 financials
+29,2017-10-25,JANATAINS,Credit Rating Result,0,1,0,credit rating result
+30,2017-10-22,JANATAINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+31,2017-07-31,JANATAINS,Q2 Financials,1,1,0,q2 financials
+32,2017-07-25,JANATAINS,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+33,2017-06-11,JANATAINS,Buy declaration of a Director,1,1,1,buy declaration of a director
+34,2017-06-01,JANATAINS,Time and Venue of the AGM,1,0,0,time and venue of the agm
+35,2017-05-25,JANATAINS,Resumption after Record Date,0,0,0,resumption after record date
+36,2017-05-24,JANATAINS,Suspension for Record Date,1,0,0,suspension for record date
+37,2017-05-24,JANATAINS,Buy declaration of the Directors,1,0,0,buy declaration of the directors
+38,2017-05-14,JANATAINS,Q1 Financials,0,0,1,q1 financials
+39,2017-05-11,JANATAINS,Spot News,0,0,0,spot news
+40,2017-05-04,JANATAINS,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+41,2017-05-02,JANATAINS,Prohibition on providing loan facilities to purchase securities,0,1,0,prohibition on providing loan facilities to purchase securities
+42,2017-05-02,JANATAINS,Category Change,0,1,0,category change
+43,2017-05-02,JANATAINS,Price Limit Open,0,1,0,price limit open
+44,2017-05-02,JANATAINS,Dividend Declaration,0,1,0,dividend declaration
+45,2017-04-24,JANATAINS,Reschedule of Board Meeting under LR 19(1),0,1,0,reschedule of board meeting under lr 191
+46,2017-04-20,JANATAINS,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+47,2016-12-05,JANATAINS,Credit Rating Result,0,1,1,credit rating result
+48,2016-10-25,JANATAINS,Q3 Financials,0,0,1,q3 financials
+49,2016-10-19,JANATAINS,Completion of Transfer by a Sponsor,0,1,0,completion of transfer by a sponsor
+50,2016-10-19,JANATAINS,Board Meeting,0,1,0,board meeting
+51,2016-10-18,JANATAINS,Declaration of Transfer by a Sponsor,1,0,1,declaration of transfer by a sponsor
+52,2016-10-10,JANATAINS,Confirmation of sale/buy of Sponsors,1,0,0,confirmation of salebuy of sponsors
+53,2016-09-29,JANATAINS,Declaration of sale/buy,0,0,0,declaration of salebuy
+54,2016-07-31,JANATAINS,Q2 Financials,1,1,0,q2 financials
+55,2016-07-28,JANATAINS,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+56,2016-07-28,JANATAINS,Category Change,0,0,0,category change
+57,2016-07-25,JANATAINS,Board Meeting,0,0,0,board meeting
+58,2016-06-23,JANATAINS,Confirmation of sale of a Sponsor,1,0,0,confirmation of sale of a sponsor
+59,2016-06-23,JANATAINS,Confirmation of sale of a Sponsor,1,0,0,confirmation of sale of a sponsor
+60,2016-06-22,JANATAINS,Buy Confirmation of a Sponsor,1,1,0,buy confirmation of a sponsor
+61,2016-06-14,JANATAINS,Time & Venue of the 30th AGM,0,0,0,time  venue of the 30th agm
+62,2016-06-14,JANATAINS,Declaration of sale/buy of Sponsors,0,0,0,declaration of salebuy of sponsors
+63,2016-05-29,JANATAINS,Resumption after record date,0,0,0,resumption after record date
+64,2016-05-26,JANATAINS,Suspension news,1,0,0,suspension news
+65,2016-05-24,JANATAINS,Spot News,0,1,1,spot news
+66,2016-05-12,JANATAINS,Q1,1,0,0,q1
+67,2016-05-08,JANATAINS,Board Meeting,1,0,1,board meeting
+68,2016-05-08,JANATAINS,Price Limit Open,1,0,1,price limit open
+69,2016-05-08,JANATAINS,Dividend Declaration,1,0,1,dividend declaration
+70,2016-05-04,JANATAINS,Board Meeting,0,1,0,board meeting
+71,2015-12-06,JANATAINS,Credit Rating Result,1,0,0,credit rating result
+72,2015-11-02,JANATAINS,Emphasis of Matter,1,0,1,emphasis of matter
+73,2015-11-01,JANATAINS,Q3 Financials,1,1,0,q3 financials
+74,2015-08-13,JANATAINS,Dividend Disbursement,1,0,0,dividend disbursement
+75,2015-08-02,JANATAINS,Q2 Financials,0,1,1,q2 financials
+76,2015-07-05,JANATAINS,Venue of 29th AGM,0,0,1,venue of 29th agm
+77,2015-06-17,JANATAINS,Share acquisition by a Sponsor,1,1,0,share acquisition by a sponsor
+78,2015-05-21,JANATAINS,Resumption News after Record Date,0,0,0,resumption news after record date
+79,2015-05-20,JANATAINS,Suspension News for Record Date,1,0,0,suspension news for record date
+80,2015-05-18,JANATAINS,Spot News for AGM,1,0,1,spot news for agm
+81,2015-05-14,JANATAINS,Q1 Financials,1,0,0,q1 financials
+82,2015-05-11,JANATAINS,Price Limit Open,1,0,0,price limit open
+83,2015-05-11,JANATAINS,Dividend Declaration,1,0,0,dividend declaration
+84,2015-05-07,JANATAINS,Board Meeting,1,0,0,board meeting
+85,2014-11-18,JANATAINS,Credit Rating,0,0,0,credit rating
+86,2014-11-02,JANATAINS,Q3 earnings,1,1,0,q3 earnings
+87,2014-08-03,JANATAINS,H/Y Earnings,1,0,0,hy earnings
+88,2014-07-08,JANATAINS,credited the bonus shares,0,0,0,credited the bonus shares
+89,2014-06-02,JANATAINS,AGM,0,0,0,agm
+90,2014-05-15,JANATAINS,Q1 Earning,0,0,0,q1 earning
+91,2014-05-15,JANATAINS,will resume after record date,0,0,0,will resume after record date
+92,2014-05-15,JANATAINS,will resume after record date,0,0,0,will resume after record date
+93,2014-05-11,JANATAINS,Emphasis of Matter,0,0,0,emphasis of matter
+94,2014-05-11,JANATAINS,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+95,2014-04-29,JANATAINS,no price limit,0,0,0,no price limit
+96,2014-04-29,JANATAINS,Dividend Declaration,0,0,0,dividend declaration
+97,2014-04-27,JANATAINS,Board Meeting,0,0,0,board meeting
+98,2013-11-07,JANATAINS,trade resume after record date,0,0,0,trade resume after record date
+99,2013-11-06,JANATAINS,trade suspension on record date,0,0,0,trade suspension on record date
+100,2013-11-03,JANATAINS,Record Date,1,1,0,record date
+101,2013-10-31,JANATAINS,Q3 Earnings,0,0,0,q3 earnings
+102,2013-10-23,JANATAINS,Face Value Has Been Changes,0,1,0,face value has been changes
+103,2013-10-09,JANATAINS,Credit Rating,1,0,0,credit rating
+104,2013-09-25,JANATAINS,Chairman and Vice Chairman Has Been Elected,1,0,0,chairman and vice chairman has been elected
+105,2013-09-16,JANATAINS,Sponsors Share Buy,0,1,0,sponsors share buy
+106,2013-08-25,JANATAINS,Bonus Share Has Been Credited,0,0,1,bonus share has been credited
+107,2013-08-14,JANATAINS,Sponsors share Buy,1,0,0,sponsors share buy
+108,2013-08-14,JANATAINS,Sponsors Share buy,1,0,0,sponsors share buy
+109,2013-07-30,JANATAINS,Q2 Earnings,0,0,0,q2 earnings
+110,2013-06-05,JANATAINS,trade resume after record date,0,0,0,trade resume after record date
+111,2013-06-04,JANATAINS,Trade Suspension on Record Date,1,0,0,trade suspension on record date
+112,2013-05-30,JANATAINS,Spot Market Trading,0,0,0,spot market trading
+113,2013-05-21,JANATAINS,Corporate Declaration,0,0,0,corporate declaration
+114,2013-05-19,JANATAINS,Board meeting,1,0,0,board meeting
+115,2013-05-16,JANATAINS,Q1 Earnings,1,0,0,q1 earnings
+116,2012-12-20,JANATAINS,Cedit rating,0,0,0,cedit rating
+117,2012-12-02,JANATAINS,Bonus share credited,0,0,0,bonus share credited
+118,2012-11-18,JANATAINS,director Sale completed,0,0,0,director sale completed
+119,2012-11-18,JANATAINS,director buy completed,0,0,0,director buy completed
+120,2012-11-18,JANATAINS,director sell completed,0,0,0,director sell completed
+121,2012-11-05,JANATAINS,director share transfer completed,1,0,0,director share transfer completed
+122,2012-11-05,JANATAINS,director share transfer completed,1,0,0,director share transfer completed
+123,2012-11-04,JANATAINS,EGM,0,1,0,egm
+124,2012-10-31,JANATAINS,Sponsor Share Sale Completed,0,0,0,sponsor share sale completed
+125,2012-10-31,JANATAINS,Sponsor Share Sale Completed,0,0,0,sponsor share sale completed
+126,2012-10-31,JANATAINS,Directors Share Transfer Announcement,0,0,0,directors share transfer announcement
+127,2012-10-23,JANATAINS,Q3 Earnings 2012,1,0,0,q3 earnings 2012
+128,2012-10-22,JANATAINS,director sell completed,0,1,0,director sell completed
+129,2012-10-22,JANATAINS,director sell announcement,0,1,0,director sell announcement
+130,2012-10-22,JANATAINS,director buy completed,0,1,0,director buy completed
+131,2012-10-22,JANATAINS,director sell announcement,0,1,0,director sell announcement
+132,2012-10-18,JANATAINS,director buy announcement,0,0,0,director buy announcement
+133,2012-10-18,JANATAINS,director sell announcement,0,0,0,director sell announcement
+134,2012-10-18,JANATAINS,director sell announcement,0,0,0,director sell announcement
+135,2012-10-09,JANATAINS,director share transfer announcement,1,0,0,director share transfer announcement
+136,2012-10-08,JANATAINS,transfer of Sponser's share,1,1,0,transfer of sponser's share
+137,2012-10-07,JANATAINS,trade will resume after record date,0,1,1,trade will resume after record date
+138,2012-10-04,JANATAINS,director share transfer,1,0,0,director share transfer
+139,2012-10-04,JANATAINS,trade will remain suspended on record date,1,0,0,trade will remain suspended on record date
+140,2012-10-01,JANATAINS,spot market trading,1,0,1,spot market trading
+141,2012-09-19,JANATAINS,will have no price limit today,0,0,0,will have no price limit today
+142,2012-09-19,JANATAINS,corporate declaration,0,0,0,corporate declaration
+143,2012-09-15,JANATAINS,Board meeting,0,1,0,board meeting
+144,2012-08-13,JANATAINS,- As per un-audited half yearly accounts...,0,0,0,as per un-audited half yearly accounts
+145,2012-07-03,JANATAINS,- In continuation to the Company's...,0,0,1,in continuation to the company's
+146,2012-07-03,JANATAINS,- (continuation of news...,0,0,1,continuation of news
+147,2012-06-25,JANATAINS,- Referring to the Company's letter...,0,1,1,referring to the company's letter
+148,2012-06-13,JANATAINS,- The Company has informed...,0,1,0,the company has informed
+149,2012-05-31,JANATAINS,- Upon receiving ...,0,0,0,upon receiving
+150,2012-05-15,JANATAINS,- DSE has issued show cause...,0,0,0,dse has issued show cause
+151,2012-05-14,JANATAINS,- Trading of shares ...,0,0,0,trading of shares
+152,2012-05-10,JANATAINS,- As per regulation...,1,0,0,as per regulation
+153,2011-12-29,JANATAINS,- DSE NEWS: The Stock Brokers...,0,0,0,dse news: the stock brokers
+154,2011-12-29,JANATAINS,- The Company will be placed...,0,0,0,the company will be placed
+155,2011-11-27,JANATAINS,- Trading of shares...,0,1,0,trading of shares
+156,2011-11-14,JANATAINS,- The Rating Committee...,0,0,1,the rating committee
+157,2011-11-13,JANATAINS,- SEC has issued...,0,0,0,sec has issued
+158,2011-11-01,JANATAINS,- As per un-audited...,1,0,1,as per un-audited
+160,2011-07-25,JANATAINS,- The company has further...,1,0,0,the company has further
+161,2011-07-12,JANATAINS,- In response to a DSE query...,0,1,0,in response to a dse query

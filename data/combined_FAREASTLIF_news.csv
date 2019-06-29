@@ -1,0 +1,148 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-01-09,FAREASTLIF,Dividend Disbursement,1,1,0,dividend disbursement
+1,2018-12-03,FAREASTLIF,Emphasis of Matters,0,0,1,emphasis of matters
+2,2018-11-12,FAREASTLIF,Resumption after Record Date,0,0,1,resumption after record date
+3,2018-11-11,FAREASTLIF,Suspension for Record Date,0,0,0,suspension for record date
+4,2018-11-07,FAREASTLIF,Spot News,1,1,0,spot news
+5,2018-10-31,FAREASTLIF,Q3 Financials,1,1,0,q3 financials
+6,2018-10-31,FAREASTLIF,Q2 Financials,1,1,0,q2 financials
+7,2018-10-31,FAREASTLIF,Q2 Financials,1,1,0,q2 financials
+8,2018-10-31,FAREASTLIF,Q1 Financials,1,1,0,q1 financials
+9,2018-10-24,FAREASTLIF,Board Meeting schedules under LR 16(1),1,0,0,board meeting schedules under lr 161
+10,2018-10-23,FAREASTLIF,Price Limit Open,0,1,0,price limit open
+11,2018-10-23,FAREASTLIF,Dividend Declaration,0,1,0,dividend declaration
+12,2018-10-14,FAREASTLIF,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+13,2017-11-28,FAREASTLIF,Dividend Disbursement,1,0,1,dividend disbursement
+14,2017-10-31,FAREASTLIF,Buy confirmation of a Shareholder Director,0,1,0,buy confirmation of a shareholder director
+15,2017-10-31,FAREASTLIF,Q3 Financials,0,1,0,q3 financials
+16,2017-10-29,FAREASTLIF,Buy declaration of a Shareholder Director,0,1,0,buy declaration of a shareholder director
+17,2017-10-25,FAREASTLIF,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+18,2017-09-26,FAREASTLIF,Q2 Financials,0,0,0,q2 financials
+19,2017-09-26,FAREASTLIF,Q2 Financials,0,0,0,q2 financials
+20,2017-09-26,FAREASTLIF,Q1 Financials,0,0,0,q1 financials
+21,2017-09-21,FAREASTLIF,Resumption after Record Date,0,0,0,resumption after record date
+22,2017-09-20,FAREASTLIF,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+23,2017-09-20,FAREASTLIF,Suspension for Record Date,0,0,0,suspension for record date
+24,2017-09-18,FAREASTLIF,Updating information,1,0,0,updating information
+25,2017-09-18,FAREASTLIF,Spot News,1,0,0,spot news
+26,2017-08-20,FAREASTLIF,Price Limit Open,1,0,0,price limit open
+27,2017-08-20,FAREASTLIF,Dividend Declaration,1,0,0,dividend declaration
+28,2017-08-13,FAREASTLIF,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+29,2016-10-26,FAREASTLIF,Q3 Financials,1,0,0,q3 financials
+30,2016-10-23,FAREASTLIF,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+31,2016-09-29,FAREASTLIF,Cash Dividend Disbursement,1,0,0,cash dividend disbursement
+32,2016-08-07,FAREASTLIF,Resumption after record date,0,0,1,resumption after record date
+33,2016-08-04,FAREASTLIF,Suspension news,0,0,0,suspension news
+34,2016-08-03,FAREASTLIF,Sale and Buy Confirmation,0,0,0,sale and buy confirmation
+35,2016-08-02,FAREASTLIF,Spot News for AGM,0,0,0,spot news for agm
+36,2016-08-01,FAREASTLIF,Q2 Financials,0,0,0,q2 financials
+37,2016-07-31,FAREASTLIF,Buy Declaration,0,0,0,buy declaration
+38,2016-07-31,FAREASTLIF,Declaration of sale/buy,0,0,0,declaration of salebuy
+39,2016-07-26,FAREASTLIF,Board Meeting,1,0,0,board meeting
+40,2016-07-26,FAREASTLIF,Board Meeting,1,0,0,board meeting
+41,2016-07-20,FAREASTLIF,Furnishing 12 digits e-TIN Number,0,0,0,furnishing 12 digits e-tin number
+42,2016-06-29,FAREASTLIF,Q1 Financials,1,1,0,q1 financials
+43,2016-06-29,FAREASTLIF,Price Limit Open,1,1,0,price limit open
+44,2016-06-29,FAREASTLIF,Dividend Declaration,1,1,0,dividend declaration
+45,2016-06-23,FAREASTLIF,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+46,2016-06-22,FAREASTLIF,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+47,2015-12-28,FAREASTLIF,Land Purchase,1,0,0,land purchase
+48,2015-11-04,FAREASTLIF,Completion of Transfer by a Sponsor,0,1,0,completion of transfer by a sponsor
+49,2015-11-01,FAREASTLIF,Q3,1,1,1,q3
+50,2015-10-25,FAREASTLIF,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+51,2015-10-25,FAREASTLIF,Declaration of Transfer,1,0,1,declaration of transfer
+52,2015-10-18,FAREASTLIF,Buy confirmation of a Shareholder Director,1,1,0,buy confirmation of a shareholder director
+53,2015-10-18,FAREASTLIF,Confirmation of sale by a Sponsor,1,1,0,confirmation of sale by a sponsor
+54,2015-10-07,FAREASTLIF,Buy Declaration,0,1,0,buy declaration
+55,2015-09-30,FAREASTLIF,Declaration of sale by Sponsors in the Block Market,1,1,0,declaration of sale by sponsors in the block market
+56,2015-09-16,FAREASTLIF,Dividend Disbursement,1,1,0,dividend disbursement
+57,2015-08-04,FAREASTLIF,Q2 Financials,1,0,1,q2 financials
+58,2015-07-29,FAREASTLIF,Q1 Financials,0,1,0,q1 financials
+59,2015-07-26,FAREASTLIF,Confirmation of sale by Sponsors,0,0,1,confirmation of sale by sponsors
+60,2015-07-23,FAREASTLIF,Resumption News after Record Date,0,0,0,resumption news after record date
+61,2015-07-22,FAREASTLIF,Suspension News for Record Date,1,0,0,suspension news for record date
+62,2015-07-21,FAREASTLIF,12 digits e-TIN Number,1,1,0,12 digits e-tin number
+63,2015-07-14,FAREASTLIF,Declaration of Sale,1,0,0,declaration of sale
+64,2015-07-14,FAREASTLIF,Spot News,1,0,0,spot news
+65,2015-07-13,FAREASTLIF,Declaration of sale,0,1,0,declaration of sale
+66,2015-07-05,FAREASTLIF,Price Limit Open,1,0,1,price limit open
+67,2015-07-05,FAREASTLIF,Dividend Declaration,1,0,1,dividend declaration
+68,2015-07-02,FAREASTLIF,Board Meeting schedule under LR 30,0,0,0,board meeting schedule under lr 30
+69,2015-04-01,FAREASTLIF,Land Purchase,1,0,0,land purchase
+70,2015-03-24,FAREASTLIF,Address Change,1,0,0,address change
+71,2015-01-14,FAREASTLIF,Fixed Asset Acquisition,0,1,0,fixed asset acquisition
+72,2014-12-04,FAREASTLIF,Sponsors Buy/Sell/Transfer,1,0,0,sponsors buyselltransfer
+73,2014-12-01,FAREASTLIF,no dividend,1,0,1,no dividend
+74,2014-10-30,FAREASTLIF,Director share buy/Sale,0,0,0,director share buysale
+75,2014-10-30,FAREASTLIF,Q3 Earnings,0,0,0,q3 earnings
+76,2014-10-28,FAREASTLIF,to sell Floor Space of Fareast Tower,0,0,0,to sell floor space of fareast tower
+77,2014-10-28,FAREASTLIF,Director share buy,0,0,0,director share buy
+78,2014-10-27,FAREASTLIF,H/Y Earnings,0,0,0,hy earnings
+79,2014-10-27,FAREASTLIF,Director share Sale,0,0,0,director share sale
+80,2014-10-26,FAREASTLIF,Director share buy,0,0,0,director share buy
+81,2014-10-16,FAREASTLIF, will resume on 19.10.2014,0,0,0,will resume on 19.10.2014
+82,2014-10-15,FAREASTLIF,Sponsors intention to buy,1,0,0,sponsors intention to buy
+83,2014-10-15,FAREASTLIF,will trade suspended,1,0,0,will trade suspended
+84,2014-10-14,FAREASTLIF,Sponsors intention to sell,0,1,0,sponsors intention to sell
+85,2014-10-13,FAREASTLIF,Spot Market,0,0,1,spot market
+86,2014-10-02,FAREASTLIF,Director share transfer,0,0,0,director share transfer
+87,2014-09-30,FAREASTLIF,Q1,1,1,0,q1
+88,2014-09-25,FAREASTLIF,no price limit,0,0,0,no price limit
+89,2014-09-25,FAREASTLIF,dividend declaration,0,0,0,dividend declaration
+90,2014-09-23,FAREASTLIF,Board Meeting,1,0,0,board meeting
+91,2014-04-21,FAREASTLIF,decided to form a subsidiary Company,0,1,0,decided to form a subsidiary company
+92,2014-03-04,FAREASTLIF,cost price of 33.56 decimals land,0,0,1,cost price of 33.56 decimals land
+93,2014-03-04,FAREASTLIF,has decided to purchase a land,0,0,1,has decided to purchase a land
+94,2013-11-06,FAREASTLIF,sponsor share buy,1,1,0,sponsor share buy
+95,2013-11-06,FAREASTLIF,sponsor share buy,1,1,0,sponsor share buy
+96,2013-11-03,FAREASTLIF,Share Sell,0,1,0,share sell
+97,2013-11-03,FAREASTLIF,Share Sell,0,1,0,share sell
+98,2013-10-31,FAREASTLIF,Q3 Earnings,1,0,0,q3 earnings
+99,2013-10-28,FAREASTLIF,Sponsors Share Buy,0,0,0,sponsors share buy
+100,2013-10-28,FAREASTLIF,Sponsors Share Buy,0,0,0,sponsors share buy
+101,2013-10-28,FAREASTLIF,Sponsors Share Sell,0,0,0,sponsors share sell
+102,2013-10-23,FAREASTLIF,Sponsors Share Buy,1,0,0,sponsors share buy
+103,2013-10-22,FAREASTLIF,Sponsors Share Sell,1,1,0,sponsors share sell
+104,2013-10-22,FAREASTLIF,Sponsors Share Sell,1,1,0,sponsors share sell
+105,2013-10-21,FAREASTLIF,Sponsors Share Sell,0,1,1,sponsors share sell
+106,2013-09-25,FAREASTLIF,Sponsors Share Sell,1,1,0,sponsors share sell
+107,2013-09-23,FAREASTLIF,Q2 Earnings,0,1,1,q2 earnings
+108,2013-09-17,FAREASTLIF,Trade Resume After Record Date,0,0,0,trade resume after record date
+109,2013-09-16,FAREASTLIF,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+110,2013-09-16,FAREASTLIF,Sponsors Share Sell,0,0,0,sponsors share sell
+111,2013-09-11,FAREASTLIF,Trade Suspension on Record Date,0,1,0,trade suspension on record date
+112,2013-09-09,FAREASTLIF,No Price limit,0,0,0,no price limit
+113,2013-09-09,FAREASTLIF,Corporate Action,0,0,0,corporate action
+114,2013-09-08,FAREASTLIF,Board Meeting,0,0,0,board meeting
+115,2013-06-30,FAREASTLIF,Q1 Earning,0,0,1,q1 earning
+116,2013-04-21,FAREASTLIF,Share purchase,0,0,1,share purchase
+117,2013-04-04,FAREASTLIF,trade resume after record date,0,0,0,trade resume after record date
+118,2013-04-03,FAREASTLIF,trade suspension on record date,1,0,0,trade suspension on record date
+119,2013-03-31,FAREASTLIF,spot market trading,1,0,1,spot market trading
+120,2013-03-27,FAREASTLIF,Authorized Capital,0,1,0,authorized capital
+121,2012-07-05,FAREASTLIF,- The Company has further informed...,0,0,0,the company has further informed
+122,2012-07-03,FAREASTLIF,- Mr. M.A. Khaleque...,0,0,0,mr. m.a. khaleque
+123,2012-07-03,FAREASTLIF,- Trading of the shares...,0,0,0,trading of the shares
+124,2012-06-26,FAREASTLIF,- Trading of the shares...,1,1,0,trading of the shares
+125,2012-06-26,FAREASTLIF,- (Q1): As per un-audited quarterly accounts...,1,1,0,q1: as per un-audited quarterly accounts
+126,2012-06-20,FAREASTLIF,- As per regulation...,0,0,0,as per regulation
+127,2012-05-24,FAREASTLIF,- The Company has informed...,0,0,0,the company has informed
+128,2012-05-21,FAREASTLIF,- Mr. Khandakar Mostaque Mahmud...,1,0,0,mr. khandakar mostaque mahmud
+129,2012-05-21,FAREASTLIF,- Ms. Ayesha Husne Jahan...,1,0,0,ms. ayesha husne jahan
+130,2012-05-17,FAREASTLIF,- Dr. Md. Mokaddes Hossain...,1,0,0,dr. md. mokaddes hossain
+131,2012-05-14,FAREASTLIF,- Mr. Khandakar Mostaque Mahmud...,0,0,1,mr. khandakar mostaque mahmud
+132,2012-05-10,FAREASTLIF,- Mr. Khandakar Mostaque Mahmud...,1,0,0,mr. khandakar mostaque mahmud
+133,2012-04-25,FAREASTLIF,-  Mrs. Nazneen Hossain...,0,0,0,mrs. nazneen hossain
+134,2012-04-18,FAREASTLIF,- The Company has informed...,1,0,0,the company has informed
+135,2012-04-10,FAREASTLIF,-  Dr. Md. Mokaddes Hossain...,1,0,1,dr. md. mokaddes hossain
+136,2012-03-28,FAREASTLIF,-  Mr. Md. Nazrul Islam...,1,0,0,mr. md. nazrul islam
+137,2012-03-14,FAREASTLIF,- Al-Haj Md. Helal Miah...,1,0,0,al-haj md. helal miah
+138,2011-11-14,FAREASTLIF,- The Company has informed...,0,0,1,the company has informed
+139,2011-10-27,FAREASTLIF,- As per un-audited...,1,0,0,as per un-audited
+140,2011-09-29,FAREASTLIF,- Normal trading of the shares...,0,0,0,normal trading of the shares
+141,2011-09-28,FAREASTLIF,- Trading of the shares...,0,0,0,trading of the shares
+142,2011-09-25,FAREASTLIF,- Trading of the shares...,0,1,0,trading of the shares
+143,2011-09-18,FAREASTLIF,- The Board of Directors...,0,0,0,the board of directors
+144,2011-09-18,FAREASTLIF,- There will be no price...,0,0,0,there will be no price
+145,2011-09-14,FAREASTLIF,- As per regulation...,0,0,0,as per regulation
+146,2011-08-01,FAREASTLIF,- (H/Y): As per un-audited half...,0,0,1,hy: as per un-audited half

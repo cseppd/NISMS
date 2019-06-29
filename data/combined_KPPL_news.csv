@@ -1,0 +1,86 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-28,KPPL,Q3 Financials,1,0,0,q3 financials
+1,2019-04-21,KPPL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-01-29,KPPL,Q2 Financials,0,0,0,q2 financials
+3,2019-01-21,KPPL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+4,2018-12-02,KPPL,Resumption of Production and Operation,1,1,1,resumption of production and operation
+5,2018-11-25,KPPL,Resumption after record date,0,0,1,resumption after record date
+6,2018-11-22,KPPL,Suspension for Record date,1,0,0,suspension for record date
+7,2018-11-14,KPPL,Q1 Financials,1,0,0,q1 financials
+8,2018-11-08,KPPL,Spot News,0,0,0,spot news
+9,2018-11-05,KPPL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+10,2018-10-29,KPPL,Price Limit Open,0,1,1,price limit open
+11,2018-10-29,KPPL,Dividend Declaration,0,1,1,dividend declaration
+12,2018-10-17,KPPL,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+13,2018-09-20,KPPL,Query Response (Repeat News),1,0,0,query response repeat news
+14,2018-09-19,KPPL,Query Response,1,1,0,query response
+15,2018-08-05,KPPL,Credit Rating Result,0,1,0,credit rating result
+16,2018-07-25,KPPL,Tentative resumption date of production,0,1,0,tentative resumption date of production
+17,2018-07-23,KPPL,"Decision to re-open factory & to start production, commercial operation",0,0,0,"decision to re-open factory  to start production, commercial operation"
+18,2018-07-09,KPPL,Query Response,1,0,0,query response
+19,2018-07-09,KPPL,Q3 Financials (Repeat News),1,0,0,q3 financials repeat news
+20,2018-06-26,KPPL,Query Response,0,1,0,query response
+21,2018-04-24,KPPL,Q3 Financials,0,0,0,q3 financials
+22,2018-04-18,KPPL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+23,2018-02-13,KPPL,Query Response,1,1,0,query response
+24,2018-02-12,KPPL,Q2 Financials (Repeat),1,1,1,q2 financials repeat
+25,2018-01-30,KPPL,Q2 Financials,0,0,1,q2 financials
+26,2018-01-24,KPPL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+27,2017-11-23,KPPL,Resumption after record date,0,0,0,resumption after record date
+28,2017-11-22,KPPL,Suspension for record date,0,0,0,suspension for record date
+29,2017-11-14,KPPL,Q1 Financials,1,0,1,q1 financials
+30,2017-11-09,KPPL,Spot News,0,0,0,spot news
+31,2017-11-06,KPPL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+32,2017-10-30,KPPL,Price Limit Open,1,1,0,price limit open
+33,2017-10-30,KPPL,Dividend Declaration,1,1,0,dividend declaration
+34,2017-10-22,KPPL,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+35,2017-09-17,KPPL,Query Response,1,0,1,query response
+36,2017-07-25,KPPL,Enquiry Committee formed by BSEC,0,1,0,enquiry committee formed by bsec
+37,2017-06-28,KPPL,Query Response,1,1,0,query response
+38,2017-04-30,KPPL,Q3 Financials,0,0,0,q3 financials
+39,2017-04-25,KPPL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+40,2017-02-01,KPPL,Q2 Financials,1,0,0,q2 financials
+41,2017-01-26,KPPL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+42,2017-01-18,KPPL,Letter from NBR concerning KPPL's statement on status of their production,0,0,0,letter from nbr concerning kppl's statement on status of their production
+43,2017-01-03,KPPL,Decision to stop production temporally,0,0,1,decision to stop production temporally
+44,2016-11-23,KPPL,Resumption after record date,0,0,0,resumption after record date
+45,2016-11-15,KPPL,Q1 Financials,1,0,0,q1 financials
+46,2016-11-09,KPPL,Spot for AGM,0,0,0,spot for agm
+47,2016-11-09,KPPL,Board Meeting,0,0,0,board meeting
+48,2016-10-30,KPPL,Price Limit Open,0,0,0,price limit open
+49,2016-10-30,KPPL,Dividend Declaration,0,0,0,dividend declaration
+50,2016-10-20,KPPL,Board Meeting,0,0,0,board meeting
+51,2016-05-02,KPPL,Q3 Financials,0,1,0,q3 financials
+52,2016-04-20,KPPL,Board Meeting,0,0,0,board meeting
+53,2016-02-28,KPPL,Dividend Disbursement,0,0,0,dividend disbursement
+54,2016-02-08,KPPL,Prohibition on providing loan,0,0,1,prohibition on providing loan
+55,2016-02-08,KPPL,Category Change,0,0,1,category change
+56,2016-01-31,KPPL,Q2 Financials,0,1,0,q2 financials
+57,2016-01-27,KPPL,Credit Rating Result,0,1,0,credit rating result
+58,2016-01-21,KPPL,Board Meeting,1,0,0,board meeting
+59,2015-11-19,KPPL,Resumption News after Record date,0,0,0,resumption news after record date
+60,2015-11-18,KPPL,Suspension News for Record Date,1,0,0,suspension news for record date
+61,2015-11-16,KPPL,Spot News for AGM,1,0,1,spot news for agm
+62,2015-11-09,KPPL,Board Meeting,0,0,0,board meeting
+63,2015-10-29,KPPL,Price Limit Open,0,0,0,price limit open
+64,2015-10-29,KPPL,Dividend Declaration,0,0,0,dividend declaration
+65,2015-10-21,KPPL,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+66,2015-05-21,KPPL,Query Response,0,0,0,query response
+67,2015-05-20,KPPL,Q3 Financials (Repeat),1,0,0,q3 financials repeat
+68,2015-04-30,KPPL,Q3,0,0,0,q3
+69,2015-02-22,KPPL,Machinery Import,0,0,0,machinery import
+70,2015-02-01,KPPL,Half Yearly Financials,0,0,1,half yearly financials
+71,2015-01-18,KPPL,category Change,0,0,0,category change
+72,2015-01-18,KPPL,credited the bonus shares,0,0,0,credited the bonus shares
+73,2015-01-11,KPPL,requested all its stake holders,1,1,0,requested all its stake holders
+74,2014-11-25,KPPL,trade resume,0,0,0,trade resume
+75,2014-11-24,KPPL,trade suspension,0,0,0,trade suspension
+76,2014-11-20,KPPL,Spot Market and Block/Odd lot transactions,0,0,0,spot market and blockodd lot transactions
+77,2014-11-18,KPPL,14th AGM,0,0,0,14th agm
+78,2014-11-18,KPPL,new Registered Office,0,0,0,new registered office
+79,2014-11-12,KPPL,Q1,0,0,0,q1
+80,2014-11-02,KPPL,Credit Rating,0,1,0,credit rating
+81,2014-10-27,KPPL,has no price Limit on Tomorrow,1,0,1,has no price limit on tomorrow
+82,2014-10-27,KPPL,Dividend,1,0,1,dividend
+83,2014-10-26,KPPL,Board Meeting,0,1,0,board meeting
+84,2014-08-14,KPPL,Q3 Earnings,0,0,0,q3 earnings

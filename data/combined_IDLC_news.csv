@@ -1,0 +1,137 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-25,IDLC,Dividend Disbursement,1,0,0,dividend disbursement
+2,2019-04-03,IDLC,Consent from BSEC for issuing Non-Convertible Zero Coupon Bonds,0,1,0,consent from bsec for issuing non-convertible zero coupon bonds
+4,2019-04-02,IDLC,Decision to Receive Entitled Cash Dividend,0,0,1,decision to receive entitled cash dividend
+6,2019-03-12,IDLC,Resumption after record date,0,0,1,resumption after record date
+7,2019-03-11,IDLC,Suspension for Record date,1,0,0,suspension for record date
+8,2019-03-07,IDLC,Spot News,1,0,0,spot news
+10,2019-02-27,IDLC,Updating information,0,0,0,updating information
+11,2019-02-18,IDLC,Price Limit Open,0,0,0,price limit open
+13,2019-02-18,IDLC,Dividend Declaration,0,0,0,dividend declaration
+14,2019-02-14,IDLC,Conference on unaudited 4th quarterly financial statements,0,0,0,conference on unaudited 4th quarterly financial statements
+15,2019-02-07,IDLC,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+17,2019-01-17,IDLC,Decision to enhance the issue size of Non-Convertible Zero Coupon Bonds,1,0,0,decision to enhance the issue size of non-convertible zero coupon bonds
+18,2018-11-25,IDLC,Decision for issuance of Non-Convertible Zero Coupon Bonds,1,0,0,decision for issuance of non-convertible zero coupon bonds
+19,2018-10-15,IDLC,Q3 Financials,0,0,0,q3 financials
+20,2018-10-11,IDLC,Conference on unaudited quarterly financial statements,1,0,0,conference on unaudited quarterly financial statements
+21,2018-10-09,IDLC,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+22,2018-07-30,IDLC,Q2 Financials,1,0,1,q2 financials
+23,2018-07-24,IDLC,Schedule of Conference on unaudited quarterly financial statements,0,0,1,schedule of conference on unaudited quarterly financial statements
+24,2018-07-24,IDLC,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+25,2018-07-22,IDLC,Obtaining Fund Manager registration certificate by a subsidiary,0,1,0,obtaining fund manager registration certificate by a subsidiary
+26,2018-05-23,IDLC,Credit Rating Result,0,1,0,credit rating result
+27,2018-04-26,IDLC,Q1 Financials,0,0,0,q1 financials
+28,2018-04-25,IDLC,Dividend Disbursement,1,0,0,dividend disbursement
+29,2018-04-19,IDLC,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+30,2018-03-08,IDLC,Resumption after record date,0,0,0,resumption after record date
+31,2018-03-07,IDLC,Suspension for Record Date,1,0,0,suspension for record date
+32,2018-03-05,IDLC,Spot News,0,0,1,spot news
+35,2018-02-28,IDLC,Furnishing e-TIN Number and Information relating to Margin Loan,0,1,0,furnishing e-tin number and information relating to margin loan
+36,2018-02-15,IDLC,Price Limit Open,0,0,0,price limit open
+38,2018-02-15,IDLC,Dividend Declaration,0,0,0,dividend declaration
+39,2018-02-06,IDLC,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+40,2017-11-02,IDLC,Sale confirmation of a Corporate Sponsor,1,0,0,sale confirmation of a corporate sponsor
+41,2017-10-31,IDLC,Sale confirmation of a Nominated Director,1,1,1,sale confirmation of a nominated director
+42,2017-10-19,IDLC,Sale declaration of a Nominated Director,1,0,0,sale declaration of a nominated director
+44,2017-10-17,IDLC,Land Purchase and a subsidiary of the Company will apply as Fund Manager,0,0,1,land purchase and a subsidiary of the company will apply as fund manager
+45,2017-10-17,IDLC,Q3 Financials,0,0,1,q3 financials
+46,2017-10-16,IDLC,Sale declaration of a Corporate Sponsor,0,0,0,sale declaration of a corporate sponsor
+47,2017-10-08,IDLC,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+48,2017-08-24,IDLC,Sale confirmation of a Corporate Nominated Director,1,0,0,sale confirmation of a corporate nominated director
+49,2017-08-20,IDLC,Sale declaration of a Nominated Director,1,1,1,sale declaration of a nominated director
+50,2017-07-20,IDLC,Q2 Financials,0,0,0,q2 financials
+51,2017-07-05,IDLC,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+52,2017-05-07,IDLC,Dividend Disbursement,0,1,1,dividend disbursement
+53,2017-04-26,IDLC,Q1 Financials,1,0,0,q1 financials
+54,2017-04-18,IDLC,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+55,2017-03-14,IDLC,Resumption after record date,0,0,1,resumption after record date
+56,2017-03-13,IDLC,Suspension for Record Date,0,0,0,suspension for record date
+57,2017-03-12,IDLC,Furnishing e-TIN Number and Information relating to Margin Loan,0,0,0,furnishing e-tin number and information relating to margin loan
+58,2017-03-09,IDLC,Spot News,0,0,0,spot news
+59,2017-02-22,IDLC,Dividend Declaration,0,1,0,dividend declaration
+60,2016-12-29,IDLC,Dispatching Rights Offer Document of the Company,1,0,0,dispatching rights offer document of the company
+61,2016-12-15,IDLC,Resumption after record date,0,0,0,resumption after record date
+62,2016-12-14,IDLC,Suspension for Record Date for Rights entitlement,0,0,0,suspension for record date for rights entitlement
+63,2016-12-11,IDLC,Record date for Rights entitlement,1,1,0,record date for rights entitlement
+64,2016-11-28,IDLC,Subscription period and Record Date for Rights Issuance,1,1,0,subscription period and record date for rights issuance
+65,2016-11-23,IDLC,Approval of BSEC for issuance of Right Shares,0,1,0,approval of bsec for issuance of right shares
+66,2016-10-18,IDLC,Q3 Financials,0,0,0,q3 financials
+67,2016-10-09,IDLC, Board Meeting,1,0,0,board meeting
+68,2016-07-31,IDLC,Q2 Financials,0,0,1,q2 financials
+69,2016-07-17,IDLC,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+70,2016-06-30,IDLC,Confirmation of sale by a Corporate Sponsor,1,0,0,confirmation of sale by a corporate sponsor
+71,2016-06-28,IDLC,Declaration of sale by a Corporate Sponsor,0,1,1,declaration of sale by a corporate sponsor
+72,2016-06-12,IDLC,License received to act as an Asset Management Company,0,0,0,license received to act as an asset management company
+73,2016-05-04,IDLC,Credit Rating,0,0,0,credit rating
+74,2016-05-03,IDLC,Dividend Disbursement,1,0,0,dividend disbursement
+75,2016-04-28,IDLC,Q1 Financials,0,0,0,q1 financials
+76,2016-04-21,IDLC,Board Meeting (Q3),1,0,0,board meeting q3
+77,2016-03-13,IDLC,Resumption after Record date,0,1,0,resumption after record date
+78,2016-03-10,IDLC,Suspension for Record,1,0,0,suspension for record
+79,2016-03-08,IDLC,Spot for AGM,0,1,1,spot for agm
+80,2016-03-03,IDLC,Appointment of CEO & Managing Director,0,0,0,appointment of ceo  managing director
+81,2016-02-22,IDLC, Price Limit Open,0,1,0,price limit open
+82,2016-02-22,IDLC,Dividend Declaration and Increase of Authorized Capital,0,1,0,dividend declaration and increase of authorized capital
+83,2016-02-11,IDLC,Board Meeting,0,0,0,board meeting
+84,2015-10-14,IDLC,Q3,0,0,0,q3
+85,2015-09-03,IDLC,Consent of BSEC to issue Infrastructure & SME Zero Coupon Bond,0,0,0,consent of bsec to issue infrastructure  sme zero coupon bond
+86,2015-07-28,IDLC,Half Yearly Financials,0,0,1,half yearly financials
+87,2015-07-23,IDLC,Confirmation of sale by a Corporate Sponsor,1,0,0,confirmation of sale by a corporate sponsor
+88,2015-07-09,IDLC,Setting up an Asset Management Company,1,0,0,setting up an asset management company
+89,2015-06-23,IDLC,Declaration of sale by a Corporate Sponsor,0,0,0,declaration of sale by a corporate sponsor
+90,2015-05-07,IDLC,Q1 Financials,1,0,0,q1 financials
+91,2015-04-19,IDLC,Credit Rating changed,0,0,0,credit rating changed
+92,2015-04-12,IDLC,credited the bonus shares,0,0,0,credited the bonus shares
+93,2015-04-12,IDLC,Issuance of Bonds,0,0,0,issuance of bonds
+94,2015-03-09,IDLC,Resumption News after Record Date,0,0,0,resumption news after record date
+95,2015-03-08,IDLC,Suspension News for Record date,0,0,0,suspension news for record date
+96,2015-02-26,IDLC,Price Limit Open,0,0,0,price limit open
+97,2015-02-26,IDLC,Dividend Declaration,0,0,0,dividend declaration
+98,2015-02-18,IDLC,Board Meeting schedule under LR 30,1,1,0,board meeting schedule under lr 30
+99,2015-01-13,IDLC,DSE query,1,1,0,dse query
+100,2014-10-23,IDLC,Q3 Earning,0,0,0,q3 earning
+101,2014-10-14,IDLC,Sponsors sale,0,1,1,sponsors sale
+102,2014-09-24,IDLC,Sponsors Buy/Sell/Transfer,0,1,0,sponsors buyselltransfer
+103,2014-09-22,IDLC,Sponsors Buy/Sell/Transfer,0,0,0,sponsors buyselltransfer
+104,2014-09-11,IDLC,intention to sell share sell,0,0,0,intention to sell share sell
+105,2014-09-10,IDLC,sponsored share sell,0,0,0,sponsored share sell
+106,2014-08-31,IDLC,Sponsor/Director Share Sale,0,1,0,sponsordirector share sale
+107,2014-07-22,IDLC,H/Y Earnings,1,0,1,hy earnings
+108,2014-05-20,IDLC,Credit Rating,0,1,0,credit rating
+109,2014-05-14,IDLC,to purchase a commercial floor space,0,1,0,to purchase a commercial floor space
+110,2014-05-14,IDLC,Q1 Earinings,0,1,0,q1 earinings
+111,2014-04-27,IDLC,Sponsors share sell,0,0,0,sponsors share sell
+112,2014-04-16,IDLC,credited the bonus shares,0,1,0,credited the bonus shares
+113,2014-03-30,IDLC,Right Issue not approved,0,1,0,right issue not approved
+114,2014-03-20,IDLC,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+115,2014-03-19,IDLC,Sponsors share sell,1,0,0,sponsors share sell
+116,2014-03-06,IDLC,trade resume,0,0,0,trade resume
+117,2014-03-05,IDLC,trade suspension,0,0,0,trade suspension
+118,2014-03-02,IDLC,Spot Market Transaction,0,0,0,spot market transaction
+119,2014-03-02,IDLC,Sponsor/Director Share Sale,0,0,0,sponsordirector share sale
+120,2014-02-23,IDLC,no price limit,1,0,0,no price limit
+121,2014-02-23,IDLC,recommended 5% cash and 25% stock and 1R:2 Right,1,0,0,recommended 5 cash and 25 stock and 1r:2 right
+122,2014-02-18,IDLC,Board meeting,0,0,1,board meeting
+123,2013-10-30,IDLC,Q3 Earnings,1,0,0,q3 earnings
+124,2013-10-30,IDLC,Decided to set up a wholly-owned subsidiary Company,1,0,0,decided to set up a wholly-owned subsidiary company
+125,2013-07-25,IDLC,Q 2 Earnings,0,0,0,q 2 earnings
+126,2013-05-12,IDLC,Q1 Earnings,1,0,1,q1 earnings
+127,2013-03-28,IDLC,Non-Convertible Zero Coupon Bond,0,0,0,non-convertible zero coupon bond
+128,2013-02-28,IDLC,trade resume after record date,0,0,0,trade resume after record date
+129,2013-02-24,IDLC,spot market trading,1,0,1,spot market trading
+130,2013-02-17,IDLC,Corporate Declaration,0,0,0,corporate declaration
+131,2013-02-12,IDLC,Board meeting,1,0,0,board meeting
+132,2012-10-23,IDLC,issue Non-Convertible Zero Coupon Bonds,0,0,0,issue non-convertible zero coupon bonds
+133,2012-10-23,IDLC,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+134,2012-07-17,IDLC,- As per un-audited half yearly accounts...,1,1,0,as per un-audited half yearly accounts
+135,2012-05-14,IDLC,- (Q1): As per un-audited quarterly accounts...,1,0,0,q1: as per un-audited quarterly accounts
+136,2012-05-10,IDLC,- Emerging Credit Rating Limited...,1,0,0,emerging credit rating limited
+137,2012-04-05,IDLC,- The Company has informed...,1,0,0,the company has informed
+138,2012-03-15,IDLC,- The Company has further...,0,0,0,the company has further
+139,2012-03-05,IDLC,- Trading of the shares ...,0,0,0,trading of the shares
+140,2012-03-04,IDLC,- The Company has further...,1,0,0,the company has further
+141,2011-10-27,IDLC,- As per un-audited...,0,0,0,as per un-audited
+143,2011-10-05,IDLC,- Trading of the shares...,0,0,0,trading of the shares
+144,2011-09-28,IDLC,- The Company has informed...,0,0,0,the company has informed
+145,2011-07-27,IDLC,-(H/Y): As per un-audited...,1,0,0,-hy: as per un-audited
+147,2011-07-11,IDLC,- In response to a DSE query...,1,0,1,in response to a dse query

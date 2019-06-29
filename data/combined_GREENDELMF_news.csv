@@ -1,0 +1,443 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-28,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+1,2019-04-24,GREENDELMF,Q3 Financials,1,0,0,q3 financials
+2,2019-04-21,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+3,2019-04-17,GREENDELMF,Trustee Committee Meeting schedule under LR 16(1),1,0,0,trustee committee meeting schedule under lr 161
+4,2019-04-15,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+5,2019-04-07,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+6,2019-03-31,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+7,2019-03-24,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+8,2019-03-18,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+9,2019-03-10,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+10,2019-03-03,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+11,2019-02-24,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+12,2019-02-17,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+13,2019-02-10,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+14,2019-02-03,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+15,2019-01-27,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+16,2019-01-20,GREENDELMF,Q2 Financials,1,1,0,q2 financials
+17,2019-01-20,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+18,2019-01-15,GREENDELMF,Trustee Committee Meeting schedule under LR 16(1),0,0,1,trustee committee meeting schedule under lr 161
+19,2019-01-13,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+20,2019-01-06,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+21,2019-01-01,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+22,2018-12-23,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+23,2018-12-17,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+24,2018-12-09,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+25,2018-12-02,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+26,2018-11-25,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+27,2018-11-18,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+28,2018-11-11,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+29,2018-11-04,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+30,2018-10-28,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+31,2018-10-21,GREENDELMF,Q1 Financials,0,1,1,q1 financials
+32,2018-10-21,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+33,2018-10-14,GREENDELMF,Trustee Committee Meeting schedule under LR 16(1),1,0,0,trustee committee meeting schedule under lr 161
+34,2018-10-14,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+35,2018-10-07,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+36,2018-09-30,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+37,2018-09-24,GREENDELMF,Dividend Disbursement,1,1,0,dividend disbursement
+38,2018-09-23,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+39,2018-09-16,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+40,2018-09-09,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+41,2018-09-03,GREENDELMF,Resumption after record date,0,0,0,resumption after record date
+43,2018-09-03,GREENDELMF,Furnishing e-TIN Number and Information for Margin Account Holders,0,0,0,furnishing e-tin number and information for margin account holders
+44,2018-09-03,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+45,2018-08-30,GREENDELMF,Suspension for Record Date,0,0,0,suspension for record date
+46,2018-08-28,GREENDELMF,Spot News,0,0,0,spot news
+47,2018-08-26,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+48,2018-08-19,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+49,2018-08-12,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+50,2018-08-06,GREENDELMF,Price Limit Open,1,0,1,price limit open
+51,2018-08-06,GREENDELMF,Dividend Declaration,1,0,1,dividend declaration
+52,2018-08-05,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+53,2018-07-30,GREENDELMF,Trustee Committee Meeting schedule under LR 19(1),1,1,1,trustee committee meeting schedule under lr 191
+54,2018-07-29,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+55,2018-07-22,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+56,2018-07-15,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+57,2018-07-08,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+58,2018-07-02,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+59,2018-06-24,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+60,2018-06-18,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+61,2018-06-10,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+62,2018-06-03,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+63,2018-05-27,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+64,2018-05-20,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+65,2018-05-13,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+66,2018-05-06,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+67,2018-04-30,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+68,2018-04-22,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+69,2018-04-18,GREENDELMF,Q3 Financials,0,1,0,q3 financials
+70,2018-04-15,GREENDELMF,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+71,2018-04-15,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+72,2018-04-08,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+73,2018-04-01,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+74,2018-03-25,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+75,2018-03-18,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+76,2018-03-11,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+77,2018-03-04,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+78,2018-02-25,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+79,2018-02-18,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+80,2018-02-11,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+81,2018-02-04,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+82,2018-01-28,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+83,2018-01-23,GREENDELMF,Q2 Financials,0,0,0,q2 financials
+84,2018-01-21,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+85,2018-01-17,GREENDELMF,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+86,2018-01-14,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+87,2018-01-07,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+88,2018-01-07,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+89,2018-01-01,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+90,2017-12-24,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+91,2017-12-17,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+92,2017-12-10,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+93,2017-12-03,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+94,2017-11-26,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+95,2017-11-19,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+96,2017-11-12,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+97,2017-11-05,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+98,2017-10-29,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+99,2017-10-25,GREENDELMF,Q1 Financials,0,0,0,q1 financials
+100,2017-10-22,GREENDELMF,Trustee Meeting schedule under LR 16(1),0,0,0,trustee meeting schedule under lr 161
+101,2017-10-22,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+102,2017-10-15,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+103,2017-10-08,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+104,2017-10-02,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+105,2017-09-25,GREENDELMF,Dividend Disbursement,0,1,0,dividend disbursement
+106,2017-09-24,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+107,2017-09-17,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+108,2017-09-10,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+109,2017-09-04,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+110,2017-08-31,GREENDELMF,Resumption after Record Date,0,0,0,resumption after record date
+111,2017-08-31,GREENDELMF,Furnishing e-TIN Number and Information for Margin Account Holders,0,0,0,furnishing e-tin number and information for margin account holders
+112,2017-08-31,GREENDELMF,Furnishing e-TIN Number and Information for Margin Account Holders,0,0,0,furnishing e-tin number and information for margin account holders
+113,2017-08-30,GREENDELMF,Suspension for Record Date,0,0,0,suspension for record date
+114,2017-08-28,GREENDELMF,Spot News,0,1,0,spot news
+115,2017-08-27,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+116,2017-08-20,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+117,2017-08-13,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+118,2017-08-09,GREENDELMF,Price Limit Open,1,1,0,price limit open
+119,2017-08-09,GREENDELMF,Dividend Declaration,1,1,0,dividend declaration
+120,2017-08-06,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+121,2017-08-01,GREENDELMF,Board Meeting schedule under LR 19(1),1,1,1,board meeting schedule under lr 191
+122,2017-07-30,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+123,2017-07-23,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+124,2017-07-16,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+125,2017-07-09,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+126,2017-07-02,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+127,2017-06-28,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+128,2017-06-18,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+129,2017-06-11,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+130,2017-06-04,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+131,2017-05-28,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+132,2017-05-21,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+133,2017-05-14,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+134,2017-05-07,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+135,2017-04-30,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+136,2017-04-27,GREENDELMF,"Revised EPU for July, 2015 to March, 2016",1,0,0,"revised epu for july, 2015 to march, 2016"
+137,2017-04-27,GREENDELMF,Q3 Financials,1,0,0,q3 financials
+138,2017-04-23,GREENDELMF,Trustee Committee Meeting schedule under LR 16(1),0,1,1,trustee committee meeting schedule under lr 161
+139,2017-04-23,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+140,2017-04-16,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+141,2017-04-09,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+142,2017-04-02,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+143,2017-03-27,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+144,2017-03-19,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+145,2017-03-12,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+146,2017-03-05,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+147,2017-02-26,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+148,2017-02-05,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+149,2017-01-29,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+150,2017-01-24,GREENDELMF,Q2 Financials,1,0,1,q2 financials
+151,2017-01-22,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+152,2017-01-15,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+153,2017-01-08,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+154,2017-01-01,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+155,2016-12-26,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+156,2016-12-18,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+157,2016-12-11,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+158,2016-12-04,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+159,2016-11-27,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+160,2016-11-20,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+161,2016-11-13,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+162,2016-11-06,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+163,2016-10-30,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+164,2016-10-25,GREENDELMF,Q1 Financials,0,1,1,q1 financials
+165,2016-10-23,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+166,2016-10-20,GREENDELMF,Trustee Meeting,0,0,0,trustee meeting
+167,2016-10-16,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+168,2016-10-09,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+169,2016-10-04,GREENDELMF,Cash Dividend Disbursement,1,1,1,cash dividend disbursement
+170,2016-10-02,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+171,2016-09-24,GREENDELMF, Weekly NAV,1,1,1,weekly nav
+172,2016-09-18,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+173,2016-09-18,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+174,2016-09-04,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+175,2016-09-04,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+176,2016-09-01,GREENDELMF,Resumption after record date,0,0,0,resumption after record date
+177,2016-08-31,GREENDELMF,Suspension for record date,1,0,0,suspension for record date
+178,2016-08-29,GREENDELMF,Spot for Dividend,0,1,1,spot for dividend
+179,2016-08-28,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+180,2016-08-21,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+181,2016-08-14,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+182,2016-08-10,GREENDELMF,Price Limit Open,0,1,0,price limit open
+183,2016-08-10,GREENDELMF,Dividend Declaration,0,1,0,dividend declaration
+184,2016-08-07,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+185,2016-08-02,GREENDELMF,Meeting of Trustee,0,1,1,meeting of trustee
+186,2016-07-31,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+187,2016-07-24,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+188,2016-07-16,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+189,2016-07-10,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+190,2016-06-26,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+191,2016-06-19,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+192,2016-06-12,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+193,2016-06-05,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+194,2016-05-22,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+195,2016-05-15,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+196,2016-05-08,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+197,2016-04-24,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+198,2016-04-19,GREENDELMF,Trustee Meeting,0,0,0,trustee meeting
+199,2016-04-17,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+200,2016-04-10,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+201,2016-04-03,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+202,2016-03-20,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+203,2016-03-13,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+204,2016-03-06,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+205,2016-02-28,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+206,2016-02-22,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+207,2016-02-14,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+208,2016-02-07,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+209,2016-01-31,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+210,2016-01-28,GREENDELMF,Q2 Financials,1,0,0,q2 financials
+211,2016-01-25,GREENDELMF,Trustee Meeting schedule,0,0,0,trustee meeting schedule
+212,2016-01-24,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+213,2016-01-17,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+214,2016-01-10,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+215,2016-01-03,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+216,2015-12-27,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+217,2015-12-20,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+218,2015-12-13,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+219,2015-12-06,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+220,2015-11-29,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+221,2015-11-22,GREENDELMF,Weekly NAV,1,1,0,weekly nav
+222,2015-11-15,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+223,2015-11-08,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+224,2015-11-01,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+225,2015-10-25,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+226,2015-10-18,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+227,2015-10-11,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+228,2015-10-08,GREENDELMF,Q1 Financials,1,0,0,q1 financials
+229,2015-10-04,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+230,2015-10-01,GREENDELMF,Dividend Disbursement,1,0,0,dividend disbursement
+231,2015-09-28,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+232,2015-09-20,GREENDELMF, Weekly NAV,0,0,0,weekly nav
+233,2015-09-13,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+234,2015-09-07,GREENDELMF,Information for Margin Account Holders,0,0,1,information for margin account holders
+235,2015-09-06,GREENDELMF,Resumption News,0,0,0,resumption news
+236,2015-09-06,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+237,2015-09-03,GREENDELMF,Suspension News for Record Date,1,0,0,suspension news for record date
+238,2015-09-01,GREENDELMF,Spot News,0,0,1,spot news
+239,2015-08-30,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+240,2015-08-23,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+241,2015-08-16,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+242,2015-08-16,GREENDELMF,Price Limit Open,0,1,0,price limit open
+243,2015-08-16,GREENDELMF,Dividend Declaration,0,1,0,dividend declaration
+244,2015-08-13,GREENDELMF,Meeting of Trustee,0,0,0,meeting of trustee
+245,2015-08-09,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+246,2015-08-02,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+247,2015-07-26,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+248,2015-07-21,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+249,2015-07-12,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+250,2015-07-05,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+251,2015-06-28,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+252,2015-06-21,GREENDELMF,Weekly NAV,1,1,1,weekly nav
+253,2015-06-14,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+254,2015-06-07,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+255,2015-05-31,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+256,2015-05-24,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+257,2015-05-17,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+258,2015-05-10,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+259,2015-05-04,GREENDELMF,Weekly Nav,0,1,1,weekly nav
+260,2015-04-26,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+261,2015-04-19,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+262,2015-04-12,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+263,2015-04-07,GREENDELMF,Q3 Financials,0,0,0,q3 financials
+264,2015-04-05,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+265,2015-03-29,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+266,2015-03-22,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+267,2015-03-15,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+268,2015-03-08,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+269,2015-03-08,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+270,2015-03-01,GREENDELMF,Weekly NAV,1,0,1,weekly nav
+271,2015-02-22,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+272,2015-02-15,GREENDELMF,Weekly NAV,0,1,1,weekly nav
+273,2015-02-08,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+274,2015-01-27,GREENDELMF,H/Y,0,0,0,hy
+275,2015-01-25,GREENDELMF,NAV,0,0,0,nav
+276,2015-01-18,GREENDELMF,Nav,0,0,0,nav
+277,2015-01-11,GREENDELMF,NAV,1,0,0,nav
+278,2015-01-05,GREENDELMF,NAV,0,0,1,nav
+279,2014-12-28,GREENDELMF,NAV,0,0,1,nav
+280,2014-12-21,GREENDELMF,NAV,1,1,0,nav
+281,2014-12-14,GREENDELMF,Nav,1,0,0,nav
+282,2014-12-07,GREENDELMF,NAV,1,0,0,nav
+283,2014-11-30,GREENDELMF,NAV,0,0,0,nav
+284,2014-11-23,GREENDELMF,NAV,0,0,0,nav
+285,2014-11-16,GREENDELMF,Nav,0,0,0,nav
+286,2014-11-09,GREENDELMF,NAV,0,0,0,nav
+287,2014-11-02,GREENDELMF,NAV,0,0,0,nav
+288,2014-10-26,GREENDELMF,NAV,0,0,0,nav
+289,2014-10-19,GREENDELMF,Nav,0,0,0,nav
+290,2014-10-15,GREENDELMF,Q1,0,0,0,q1
+291,2014-09-28,GREENDELMF,NAV,0,0,0,nav
+292,2014-09-21,GREENDELMF,NAV,1,0,1,nav
+293,2014-09-14,GREENDELMF,NAV,0,0,0,nav
+294,2014-09-07,GREENDELMF,Nav,0,0,0,nav
+295,2014-08-31,GREENDELMF,NAV,0,0,0,nav
+296,2014-08-24,GREENDELMF,NAV,0,0,1,nav
+297,2014-08-18,GREENDELMF,NAV,0,0,0,nav
+298,2014-08-18,GREENDELMF,has no dividend,0,0,0,has no dividend
+299,2014-08-13,GREENDELMF,meeting of the Trustees Committee,0,0,0,meeting of the trustees committee
+300,2014-08-10,GREENDELMF,NAV,0,0,1,nav
+301,2014-08-03,GREENDELMF,NAV,1,0,0,nav
+302,2014-07-20,GREENDELMF,NAV,0,0,0,nav
+303,2014-07-13,GREENDELMF,NAV,0,0,0,nav
+304,2014-06-29,GREENDELMF,NAV,1,0,0,nav
+305,2014-06-22,GREENDELMF,NAV,1,1,0,nav
+306,2014-06-15,GREENDELMF,NAV,1,0,0,nav
+307,2014-06-08,GREENDELMF,NAV,1,0,0,nav
+308,2014-06-01,GREENDELMF,NAV,0,0,0,nav
+309,2014-05-25,GREENDELMF,NAV,0,0,1,nav
+310,2014-05-18,GREENDELMF,NAV,1,1,0,nav
+311,2014-05-11,GREENDELMF,NAV,0,0,0,nav
+312,2014-05-04,GREENDELMF,Nav,0,0,0,nav
+313,2014-04-27,GREENDELMF,NAV,0,0,0,nav
+314,2014-04-20,GREENDELMF,NAV,1,0,0,nav
+315,2014-04-13,GREENDELMF,NAV,0,0,0,nav
+316,2014-04-08,GREENDELMF,Q3 Earnings,0,0,0,q3 earnings
+317,2014-04-06,GREENDELMF,NAV,0,0,0,nav
+318,2014-03-30,GREENDELMF,NAV,1,0,1,nav
+319,2014-03-23,GREENDELMF,NAV,0,0,1,nav
+320,2014-03-16,GREENDELMF,NAV,0,0,0,nav
+321,2014-03-09,GREENDELMF,NAV,0,0,0,nav
+322,2014-03-02,GREENDELMF,NAV,0,0,0,nav
+323,2014-02-23,GREENDELMF,NAV,0,0,0,nav
+324,2014-02-16,GREENDELMF,NAV,0,0,0,nav
+325,2014-02-09,GREENDELMF,NAV,0,0,0,nav
+326,2014-02-02,GREENDELMF,NAV,1,1,0,nav
+327,2014-01-26,GREENDELMF,NAV,0,0,0,nav
+328,2014-01-23,GREENDELMF,Q2 earnings,1,0,0,q2 earnings
+329,2014-01-19,GREENDELMF,NAV,0,0,1,nav
+330,2014-01-12,GREENDELMF,NAV,0,0,0,nav
+331,2014-01-06,GREENDELMF,NAV,0,0,0,nav
+332,2013-12-29,GREENDELMF,NAV,0,0,0,nav
+333,2013-12-22,GREENDELMF,NAV,0,0,0,nav
+334,2013-12-15,GREENDELMF,NAV,0,0,0,nav
+335,2013-12-08,GREENDELMF,NAV,0,0,1,nav
+336,2013-12-01,GREENDELMF,NAV,0,0,0,nav
+337,2013-11-24,GREENDELMF,NAV,0,0,0,nav
+338,2013-11-17,GREENDELMF,NAV,1,0,0,nav
+339,2013-11-10,GREENDELMF,NAV,0,1,0,nav
+340,2013-11-03,GREENDELMF,NAV,0,0,0,nav
+341,2013-10-27,GREENDELMF,NAV,0,0,0,nav
+342,2013-10-20,GREENDELMF,NAV,0,0,0,nav
+343,2013-10-07,GREENDELMF,Q1 earnings,0,0,0,q1 earnings
+344,2013-10-06,GREENDELMF,NAV,0,0,0,nav
+345,2013-09-29,GREENDELMF,NAV,1,0,0,nav
+346,2013-09-22,GREENDELMF,NAV,0,0,0,nav
+347,2013-09-15,GREENDELMF,NAV,0,0,0,nav
+348,2013-09-08,GREENDELMF,NAV,0,0,0,nav
+349,2013-09-01,GREENDELMF,NAV,0,0,0,nav
+350,2013-08-25,GREENDELMF,NAV,0,0,0,nav
+351,2013-08-18,GREENDELMF,NAV,0,0,1,nav
+352,2013-08-12,GREENDELMF,NAV,0,0,1,nav
+353,2013-08-04,GREENDELMF,NAV,1,0,0,nav
+354,2013-08-01,GREENDELMF,No Price Limit,0,0,0,no price limit
+355,2013-08-01,GREENDELMF,Corporate Action,0,0,0,corporate action
+356,2013-07-31,GREENDELMF,Trustee Meeting,0,0,0,trustee meeting
+357,2013-07-28,GREENDELMF,NAV,0,1,0,nav
+358,2013-07-21,GREENDELMF,NAV,0,0,0,nav
+359,2013-07-14,GREENDELMF,NAV,0,0,0,nav
+360,2013-07-07,GREENDELMF,NAV,1,0,0,nav
+361,2013-06-30,GREENDELMF,NAV,0,0,1,nav
+362,2013-06-23,GREENDELMF,NAV,0,0,0,nav
+363,2013-06-16,GREENDELMF,NAV,0,0,1,nav
+364,2013-06-09,GREENDELMF,NAV,0,1,0,nav
+365,2013-06-02,GREENDELMF,NAV,1,0,0,nav
+366,2013-05-26,GREENDELMF,NAV,0,1,1,nav
+367,2013-05-19,GREENDELMF,NAV,0,0,0,nav
+368,2013-05-12,GREENDELMF,NAV,1,0,1,nav
+369,2013-05-05,GREENDELMF,NAV,0,0,1,nav
+370,2013-04-28,GREENDELMF,NAV,0,0,0,nav
+371,2013-04-21,GREENDELMF,NAV,0,1,0,nav
+372,2013-04-07,GREENDELMF,Q3 Earnings,1,1,0,q3 earnings
+373,2013-04-07,GREENDELMF,weekly NAV,1,1,0,weekly nav
+374,2013-03-31,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+375,2013-03-24,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+376,2013-03-18,GREENDELMF,Weekly NAV,1,0,0,weekly nav
+377,2013-03-10,GREENDELMF,weekly NAV,0,0,1,weekly nav
+378,2013-03-03,GREENDELMF,weekly NAV,0,1,0,weekly nav
+379,2013-02-24,GREENDELMF,weekly NAV,0,0,0,weekly nav
+380,2013-02-17,GREENDELMF,weekly NAV,0,0,0,weekly nav
+381,2013-02-03,GREENDELMF,weekly NAV,0,0,1,weekly nav
+382,2013-01-27,GREENDELMF,weekly NAV,0,0,0,weekly nav
+383,2013-01-24,GREENDELMF,HY Earnings,0,0,0,hy earnings
+384,2013-01-20,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+385,2013-01-06,GREENDELMF,NAV,0,0,0,nav
+386,2012-12-23,GREENDELMF,Weekly NAV,0,1,0,weekly nav
+387,2012-12-17,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+388,2012-12-03,GREENDELMF,Weekly NAV declaration,0,0,0,weekly nav declaration
+389,2012-11-27,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+390,2012-11-18,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+391,2012-11-11,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+392,2012-11-04,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+393,2012-10-30,GREENDELMF,Weekly NAV,0,0,0,weekly nav
+394,2012-10-21,GREENDELMF,Weekly NAV,0,0,1,weekly nav
+395,2012-10-07,GREENDELMF,Q1 earnings,0,1,1,q1 earnings
+396,2012-10-07,GREENDELMF,weekly NAV,0,1,1,weekly nav
+397,2012-10-03,GREENDELMF,sponsor sell announcement,0,1,0,sponsor sell announcement
+398,2012-09-30,GREENDELMF,weekly NAV,0,1,1,weekly nav
+399,2012-09-23,GREENDELMF,weekly NAV,0,0,1,weekly nav
+400,2012-09-16,GREENDELMF,weekly NAV,1,1,1,weekly nav
+401,2012-08-13,GREENDELMF,- There will be no price limit...,0,1,0,there will be no price limit
+402,2012-08-13,GREENDELMF,- The Trustee Committee of the Fund ...,0,1,0,the trustee committee of the fund
+403,2012-07-22,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+404,2012-07-03,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+405,2012-04-22,GREENDELMF,- On the close of operation...,1,0,1,on the close of operation
+406,2012-04-22,GREENDELMF,- On the close of operation...,1,0,1,on the close of operation
+407,2012-04-09,GREENDELMF,- On the close of operation...,1,0,0,on the close of operation
+408,2012-04-09,GREENDELMF,- As per un-audited quarterly accounts...,1,0,0,as per un-audited quarterly accounts
+409,2012-04-01,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+410,2012-03-19,GREENDELMF,- On the close of operation...,1,0,0,on the close of operation
+411,2012-03-04,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+412,2012-01-23,GREENDELMF,- As per un-audited...,0,0,0,as per un-audited
+413,2012-01-22,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+414,2012-01-08,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+415,2012-01-01,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+416,2011-12-18,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+417,2011-12-11,GREENDELMF,- On the close of operation...,0,0,1,on the close of operation
+418,2011-11-27,GREENDELMF,- On the close of operation...,0,1,0,on the close of operation
+419,2011-11-20,GREENDELMF,- On the close of operation...,0,0,1,on the close of operation
+420,2011-11-13,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+421,2011-10-30,GREENDELMF,- On the close of operation...,0,0,1,on the close of operation
+422,2011-10-27,GREENDELMF,- As per un-audited...,0,0,0,as per un-audited
+423,2011-10-23,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+424,2011-10-16,GREENDELMF,- On the close of operation...,0,1,0,on the close of operation
+425,2011-10-09,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+426,2011-10-02,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+427,2011-09-25,GREENDELMF,- On the close of operation...,0,1,0,on the close of operation
+428,2011-09-18,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+429,2011-09-11,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+430,2011-09-04,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+431,2011-08-14,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+432,2011-08-11,GREENDELMF,- With reference to their earlier...,1,0,0,with reference to their earlier
+433,2011-08-11,GREENDELMF,- The Trustee Committee...,1,0,0,the trustee committee
+434,2011-08-11,GREENDELMF,- There will be no price limit...,1,0,0,there will be no price limit
+435,2011-08-07,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+436,2011-08-04,GREENDELMF,- As per Regulation 30 of DSE...,0,0,0,as per regulation 30 of dse
+437,2011-07-31,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+438,2011-07-24,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+439,2011-07-17,GREENDELMF,- In response to a CSE query...,0,0,0,in response to a cse query
+440,2011-07-17,GREENDELMF,- On the close of operation...,0,0,0,on the close of operation
+441,2011-07-10,GREENDELMF,- On the close of operation ...,0,0,1,on the close of operation
+442,2011-07-03,GREENDELMF,- On the close of operation...,1,0,0,on the close of operation

@@ -1,0 +1,38 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-25,IBBLPBOND,Price Limit Open,1,0,0,price limit open
+1,2019-04-25,IBBLPBOND,Declaration of annual profit,1,0,0,declaration of annual profit
+2,2018-07-24,IBBLPBOND,Profit Disbursement,0,1,0,profit disbursement
+3,2018-05-21,IBBLPBOND,Resumption after record date,0,1,1,resumption after record date
+4,2018-05-20,IBBLPBOND,Suspension for Record Date,0,0,1,suspension for record date
+5,2018-05-16,IBBLPBOND,Spot News for entitlement of Annual Profit,1,0,0,spot news for entitlement of annual profit
+6,2018-04-26,IBBLPBOND,Price Limit Open,0,0,0,price limit open
+7,2018-04-26,IBBLPBOND,Declaration of annual profit,0,0,0,declaration of annual profit
+8,2017-06-21,IBBLPBOND,Profit Disbursement,1,1,0,profit disbursement
+9,2017-04-23,IBBLPBOND,Resumption after record date,0,0,0,resumption after record date
+10,2017-04-20,IBBLPBOND,Suspension for Record Date,0,0,0,suspension for record date
+11,2017-04-18,IBBLPBOND,Spot News,1,0,0,spot news
+12,2017-04-02,IBBLPBOND,Declaration of annual profit,1,0,0,declaration of annual profit
+13,2017-04-02,IBBLPBOND,Price Limit Open,1,0,0,price limit open
+14,2016-06-30,IBBLPBOND,Profit Disbursement,1,0,0,profit disbursement
+15,2016-05-11,IBBLPBOND,Resumption News after Record Date,0,0,0,resumption news after record date
+16,2016-05-10,IBBLPBOND,Suspension for Record date,0,0,0,suspension for record date
+17,2016-05-08,IBBLPBOND,Spot News for Annual Profit,1,0,0,spot news for annual profit
+18,2016-04-20,IBBLPBOND,Price Limit Open,0,1,0,price limit open
+19,2016-04-20,IBBLPBOND,Annual Profit Declaration,0,1,0,annual profit declaration
+20,2015-04-16,IBBLPBOND,Trade Resume,0,0,0,trade resume
+21,2015-04-15,IBBLPBOND,Trade suspended on record date,0,0,0,trade suspended on record date
+22,2015-04-12,IBBLPBOND,Spot Market and Block/Odd lot transactions,1,0,0,spot market and blockodd lot transactions
+23,2015-03-22,IBBLPBOND,Price Limit Open,1,0,1,price limit open
+24,2015-03-22,IBBLPBOND,Profit Declaration,1,0,1,profit declaration
+25,2014-04-03,IBBLPBOND,trade resume,0,0,0,trade resume
+26,2014-04-02,IBBLPBOND,trade suspension,0,0,0,trade suspension
+27,2014-03-30,IBBLPBOND,Spot Market Transaction,1,0,1,spot market transaction
+28,2014-03-23,IBBLPBOND,no price limit,0,1,1,no price limit
+29,2014-03-23,IBBLPBOND,recommended annual profit rate of 12.80%,0,1,1,recommended annual profit rate of 12.80
+30,2013-04-11,IBBLPBOND,trade resume after record date,0,0,0,trade resume after record date
+31,2013-04-10,IBBLPBOND,trade suspension on record date,1,0,0,trade suspension on record date
+32,2013-04-07,IBBLPBOND,spot market trading,1,1,1,spot market trading
+33,2013-03-31,IBBLPBOND,annual profit,1,0,1,annual profit
+34,2012-04-24,IBBLPBOND,- Normal trading ...,0,0,0,normal trading
+35,2012-04-23,IBBLPBOND,- Trading of IBBL Mudaraba Perpetual Bond...,1,0,0,trading of ibbl mudaraba perpetual bond
+36,2012-04-18,IBBLPBOND,- Trading of IBBL Mudaraba Perpetual Bond...,1,1,0,trading of ibbl mudaraba perpetual bond

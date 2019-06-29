@@ -1,0 +1,121 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-15,GSPFINANCE,Resumption after record date,0,0,0,resumption after record date
+1,2019-04-11,GSPFINANCE,Suspension for Record Date,1,0,0,suspension for record date
+2,2019-04-09,GSPFINANCE,Spot News,0,0,1,spot news
+5,2019-03-24,GSPFINANCE,Updating information,0,0,0,updating information
+6,2019-03-24,GSPFINANCE,Decision to issue Non-Convertible Fully Redeemable Coupon Bond,0,0,0,decision to issue non-convertible fully redeemable coupon bond
+7,2019-03-24,GSPFINANCE,Price Limit Open,0,0,0,price limit open
+8,2019-03-24,GSPFINANCE,Dividend Declaration,0,0,0,dividend declaration
+9,2019-03-13,GSPFINANCE,Reschedule of Board Meeting under LR 19(1),0,0,0,reschedule of board meeting under lr 191
+10,2019-03-05,GSPFINANCE,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+11,2018-10-28,GSPFINANCE,Q3 Financials,1,1,1,q3 financials
+12,2018-10-21,GSPFINANCE,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+13,2018-07-30,GSPFINANCE,Q2 Financials,0,1,1,q2 financials
+14,2018-07-23,GSPFINANCE,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+15,2018-06-12,GSPFINANCE,Credit Rating Result,1,0,0,credit rating result
+16,2018-05-15,GSPFINANCE,Q1 Financials,0,1,0,q1 financials
+17,2018-05-08,GSPFINANCE,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+18,2018-04-11,GSPFINANCE,Dividend Disbursement,0,0,0,dividend disbursement
+19,2018-02-25,GSPFINANCE,Resumption after record date,0,0,0,resumption after record date
+20,2018-02-22,GSPFINANCE,Suspension for Record Date,0,0,0,suspension for record date
+21,2018-02-19,GSPFINANCE,Spot News,0,0,0,spot news
+22,2018-02-04,GSPFINANCE,Price Limit Open,0,1,0,price limit open
+24,2018-02-04,GSPFINANCE,Dividend Declaration,0,1,0,dividend declaration
+25,2018-01-24,GSPFINANCE,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+26,2017-10-29,GSPFINANCE,Q3 Financials,1,0,1,q3 financials
+27,2017-10-26,GSPFINANCE,Sale confirmation of an Independent Director,1,0,0,sale confirmation of an independent director
+28,2017-10-24,GSPFINANCE,Board Meeting schedule under LR 16(1),1,1,1,board meeting schedule under lr 161
+29,2017-10-19,GSPFINANCE,Sale declaration of an Independent Director,1,0,0,sale declaration of an independent director
+30,2017-08-01,GSPFINANCE,Q2 Financials,1,0,0,q2 financials
+31,2017-07-27,GSPFINANCE,Credit Rating Result,0,0,0,credit rating result
+32,2017-07-25,GSPFINANCE,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+33,2017-06-28,GSPFINANCE,Dividend Disbursement,1,0,0,dividend disbursement
+34,2017-05-15,GSPFINANCE,Q1 Financials,1,1,0,q1 financials
+35,2017-05-08,GSPFINANCE,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+36,2017-04-30,GSPFINANCE,Resumption after Record Date,0,0,1,resumption after record date
+37,2017-04-27,GSPFINANCE,Suspension for Record Date,0,0,0,suspension for record date
+38,2017-04-25,GSPFINANCE,Spot for EGM and AGM,0,1,0,spot for egm and agm
+39,2017-04-10,GSPFINANCE,Revised date and time of EGM and AGM,0,0,0,revised date and time of egm and agm
+40,2017-04-10,GSPFINANCE,Updating information,0,0,0,updating information
+41,2017-04-10,GSPFINANCE,Price Limit Open,0,0,0,price limit open
+43,2017-04-10,GSPFINANCE,Dividend Declaration & amending sections of Articles of Association,0,0,0,dividend declaration  amending sections of articles of association
+44,2017-03-30,GSPFINANCE,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+45,2017-02-26,GSPFINANCE,Query Response,1,1,1,query response
+46,2016-12-08,GSPFINANCE,revaluation of land,0,0,0,revaluation of land
+47,2016-10-30,GSPFINANCE,Q3 Financials,1,0,0,q3 financials
+48,2016-10-24,GSPFINANCE,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+49,2016-09-25,GSPFINANCE, Query Response,1,1,0,query response
+50,2016-08-07,GSPFINANCE,Appointment of Managing Director & CEO,0,0,1,appointment of managing director  ceo
+51,2016-07-28,GSPFINANCE, Q2 Financials,0,0,0,q2 financials
+52,2016-07-24,GSPFINANCE,Board Meeting,0,1,0,board meeting
+53,2016-06-21,GSPFINANCE, Dividend Disbursement,1,0,1,dividend disbursement
+54,2016-05-15,GSPFINANCE,Q1 Financials,0,0,1,q1 financials
+55,2016-05-09,GSPFINANCE,Board Meeting,1,1,1,board meeting
+56,2016-04-26,GSPFINANCE,Resumption after Record date,0,0,0,resumption after record date
+57,2016-04-25,GSPFINANCE,Suspension,0,0,0,suspension
+58,2016-04-21,GSPFINANCE,Spot News for AGM,0,0,0,spot news for agm
+59,2016-04-05,GSPFINANCE,Updating information,1,1,1,updating information
+60,2016-04-05,GSPFINANCE,Price Limit Open,1,1,1,price limit open
+61,2016-04-05,GSPFINANCE,Dividend Declaration,1,1,1,dividend declaration
+62,2016-03-27,GSPFINANCE,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+63,2015-11-01,GSPFINANCE,Q3,1,0,0,q3
+64,2015-10-26,GSPFINANCE,Board Meeting,0,0,0,board meeting
+65,2015-08-24,GSPFINANCE,Confirmation of sale by a Sponsor,0,0,0,confirmation of sale by a sponsor
+66,2015-08-05,GSPFINANCE,Credit Rating Result,1,0,0,credit rating result
+67,2015-07-30,GSPFINANCE,Q2 Financials,1,0,0,q2 financials
+68,2015-07-23,GSPFINANCE,Confirmation of sale by a Corporate Sponsor,0,0,0,confirmation of sale by a corporate sponsor
+69,2015-07-23,GSPFINANCE,Declaration of sale by a Sponsor,0,0,0,declaration of sale by a sponsor
+70,2015-07-22,GSPFINANCE,Appointment of MD and CEO,0,0,0,appointment of md and ceo
+71,2015-07-13,GSPFINANCE,Appointment of MD & CEO,0,0,0,appointment of md  ceo
+72,2015-07-08,GSPFINANCE,Declaration of sale by a Corporate Sponsor,1,1,0,declaration of sale by a corporate sponsor
+73,2015-05-14,GSPFINANCE,Q1 Financials,0,0,0,q1 financials
+74,2015-03-19,GSPFINANCE,Dividend Disbursement,0,0,0,dividend disbursement
+75,2015-02-05,GSPFINANCE,Resumption after Record Date,0,0,0,resumption after record date
+76,2015-02-04,GSPFINANCE,Suspension News for Record date,0,0,0,suspension news for record date
+77,2015-02-02,GSPFINANCE,Spot News for AGM,0,1,0,spot news for agm
+78,2015-01-27,GSPFINANCE,Price Limit Open,0,0,0,price limit open
+79,2015-01-27,GSPFINANCE,Dividend Declaration,0,0,0,dividend declaration
+80,2015-01-22,GSPFINANCE,meeting of the Board of Directors,1,0,0,meeting of the board of directors
+81,2014-10-30,GSPFINANCE,Q3 Earnings,0,0,0,q3 earnings
+82,2014-08-03,GSPFINANCE,H/Y Earnings,0,0,0,hy earnings
+83,2014-07-02,GSPFINANCE,Credit Rating,1,0,0,credit rating
+84,2014-05-15,GSPFINANCE,Q1 Earning,0,0,0,q1 earning
+85,2014-03-18,GSPFINANCE,Sponsors shares sale,0,0,1,sponsors shares sale
+86,2014-03-16,GSPFINANCE,credited bonus shares,0,0,0,credited bonus shares
+87,2014-02-12,GSPFINANCE,Rights Issue Rejected by BSEC,1,0,0,rights issue rejected by bsec
+88,2014-02-09,GSPFINANCE,appointed new MD,0,1,0,appointed new md
+89,2014-02-06,GSPFINANCE,sponsor share sell,0,0,0,sponsor share sell
+90,2014-02-03,GSPFINANCE,trade resume,0,0,0,trade resume
+91,2014-02-02,GSPFINANCE,trade suspension,1,0,0,trade suspension
+92,2014-01-28,GSPFINANCE,spot market trade,1,1,0,spot market trade
+93,2014-01-23,GSPFINANCE,recommended 12% stock dividend,1,0,0,recommended 12 stock dividend
+94,2014-01-23,GSPFINANCE,no price limit,1,0,0,no price limit
+95,2014-01-19,GSPFINANCE,Board meeting,0,1,0,board meeting
+96,2013-10-30,GSPFINANCE,Q3 Earnings,0,0,0,q3 earnings
+97,2013-09-24,GSPFINANCE,Trade Resume After Record Date,0,1,1,trade resume after record date
+98,2013-09-23,GSPFINANCE,Trade Suspension on Record Date,0,0,1,trade suspension on record date
+99,2013-09-18,GSPFINANCE,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+100,2013-09-15,GSPFINANCE,Directors News,0,0,1,directors news
+101,2013-07-29,GSPFINANCE,Q2 Earnings,0,0,0,q2 earnings
+102,2013-05-15,GSPFINANCE,Trade Resume after Record Date,0,1,0,trade resume after record date
+103,2013-05-14,GSPFINANCE,Q1 Earnings,1,0,1,q1 earnings
+104,2013-05-09,GSPFINANCE,Spot Market Trading,1,0,0,spot market trading
+105,2013-04-30,GSPFINANCE,Corporate Declaration,0,0,1,corporate declaration
+106,2013-04-24,GSPFINANCE,Board meeting,1,0,0,board meeting
+107,2012-10-23,GSPFINANCE,Q3 Earnings 2012,0,0,0,q3 earnings 2012
+108,2012-10-07,GSPFINANCE,land purchase for office construction,0,0,0,land purchase for office construction
+109,2012-09-15,GSPFINANCE,credit rating,0,1,0,credit rating
+110,2012-09-13,GSPFINANCE,responses to DSE query,0,0,0,responses to dse query
+111,2012-07-23,GSPFINANCE,- The Company has informed ...,1,1,0,the company has informed
+112,2012-07-23,GSPFINANCE,- Ms. Silwat A. Haider...,1,1,0,ms. silwat a. haider
+113,2012-07-22,GSPFINANCE,- Mr. Feroz U. Haider...,1,1,1,mr. feroz u. haider
+114,2012-07-22,GSPFINANCE,- Mrs. Shahin Haider...,1,1,1,mrs. shahin haider
+115,2012-06-28,GSPFINANCE,- Ms. Silwat A. Haider...,0,0,0,ms. silwat a. haider
+116,2012-06-11,GSPFINANCE,- The Company has informed...,1,1,0,the company has informed
+117,2012-04-24,GSPFINANCE,- Normal trading of the shares ...,0,0,0,normal trading of the shares
+118,2012-04-23,GSPFINANCE,- Trading of the shares ...,0,0,0,trading of the shares
+119,2012-04-18,GSPFINANCE,- Trading of the shares...,0,0,0,trading of the shares
+120,2012-04-09,GSPFINANCE,- Trading of the shares ...,1,0,0,trading of the shares
+121,2012-04-09,GSPFINANCE,- All the Hon'ble members...,1,0,0,all the hon'ble members
+122,2012-04-09,GSPFINANCE,- The Stock Brokers and Merchant Bankers...,1,0,0,the stock brokers and merchant bankers
+123,2012-04-09,GSPFINANCE,- As per un-audited quarterly accounts...,1,0,0,as per un-audited quarterly accounts

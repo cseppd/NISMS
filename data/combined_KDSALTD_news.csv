@@ -1,0 +1,72 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-21,KDSALTD,Q3 Financials,1,0,0,q3 financials
+1,2019-04-15,KDSALTD,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-01-27,KDSALTD,Q2 Financials,1,0,1,q2 financials
+3,2019-01-20,KDSALTD,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+4,2018-11-29,KDSALTD,Dividend Disbursement,0,0,0,dividend disbursement
+5,2018-11-13,KDSALTD,Q1 Financials,0,1,0,q1 financials
+6,2018-11-05,KDSALTD,Sale confirmation of a Sponsor Director,0,0,1,sale confirmation of a sponsor director
+7,2018-11-05,KDSALTD,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+8,2018-10-14,KDSALTD,Confirmation of share transfer by a Sponsor,0,0,0,confirmation of share transfer by a sponsor
+9,2018-10-09,KDSALTD,Declaration of share transfer of a Sponsor,1,0,0,declaration of share transfer of a sponsor
+10,2018-10-01,KDSALTD,Credit Rating Result,0,0,0,credit rating result
+11,2018-09-23,KDSALTD,Sale Declaration of a Sponsor Director,0,0,1,sale declaration of a sponsor director
+12,2018-09-20,KDSALTD,Confirmation of share receipt by a Sponsor,0,0,0,confirmation of share receipt by a sponsor
+13,2018-09-18,KDSALTD,Resumption after Record Date,0,1,0,resumption after record date
+14,2018-09-17,KDSALTD,Suspension for Record Date,0,0,1,suspension for record date
+15,2018-09-13,KDSALTD,Declaration of share receipt by a Sponsor,0,0,0,declaration of share receipt by a sponsor
+16,2018-09-13,KDSALTD,Spot News,0,0,0,spot news
+17,2018-08-26,KDSALTD,Price Limit Open,0,1,0,price limit open
+18,2018-08-26,KDSALTD,Dividend Declaration,0,1,0,dividend declaration
+19,2018-08-13,KDSALTD,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+20,2018-07-15,KDSALTD,Query Response,1,1,0,query response
+21,2018-04-30,KDSALTD,Q3 Financials,1,0,0,q3 financials
+22,2018-04-23,KDSALTD,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+23,2018-01-31,KDSALTD,Q2 Financials,0,0,0,q2 financials
+24,2018-01-24,KDSALTD,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+25,2017-12-04,KDSALTD,Dividend Disbursement,0,0,0,dividend disbursement
+26,2017-11-15,KDSALTD,Q1 Financials,0,0,0,q1 financials
+27,2017-11-09,KDSALTD,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+28,2017-10-11,KDSALTD,Resumption after Record Date,0,1,0,resumption after record date
+29,2017-10-10,KDSALTD,Suspension for Record Date,0,0,1,suspension for record date
+30,2017-10-08,KDSALTD,Spot News,0,1,0,spot news
+31,2017-10-03,KDSALTD,Credit Rating Result,1,0,1,credit rating result
+32,2017-09-19,KDSALTD,Price Limit Open,0,1,0,price limit open
+33,2017-09-19,KDSALTD,Dividend Declaration,0,1,0,dividend declaration
+34,2017-09-12,KDSALTD,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+36,2017-08-13,KDSALTD,Commencement of expansion of Button and addition of Hanger project,1,0,0,commencement of expansion of button and addition of hanger project
+37,2017-04-30,KDSALTD,Q3 Financials,0,0,0,q3 financials
+38,2017-04-20,KDSALTD,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+39,2017-01-30,KDSALTD,Q2 Financials,0,0,1,q2 financials
+40,2017-01-23,KDSALTD,Postponement of Board Meeting schedule under LR 16(1),0,0,0,postponement of board meeting schedule under lr 161
+41,2017-01-17,KDSALTD,Board Meeting,1,1,1,board meeting
+42,2017-01-05,KDSALTD,Expansion of the existing and addition,0,0,0,expansion of the existing and addition
+43,2016-11-01,KDSALTD,Q1 Financials,1,0,0,q1 financials
+44,2016-10-26,KDSALTD,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+45,2016-10-03,KDSALTD,Prohibition on providing loan facilities to purchase securities,0,1,0,prohibition on providing loan facilities to purchase securities
+46,2016-10-03,KDSALTD,Category Change,0,1,0,category change
+47,2016-09-27,KDSALTD,Starting of commercial production of new packaging line,0,1,0,starting of commercial production of new packaging line
+48,2016-09-25,KDSALTD,Starting of commercial production of new packaging line,0,0,0,starting of commercial production of new packaging line
+49,2016-09-18,KDSALTD,Buy Declaration of a Corporate Sponsor,1,1,1,buy declaration of a corporate sponsor
+50,2016-08-23,KDSALTD,Information for Brokerage houses relating to Margin Loan holders,0,0,0,information for brokerage houses relating to margin loan holders
+51,2016-08-11,KDSALTD,Credit Rating Result,1,0,0,credit rating result
+52,2016-08-10,KDSALTD,18 Months Financials,1,1,0,18 months financials
+53,2016-08-10,KDSALTD,Re-fixation of postponed AGM,1,1,0,re-fixation of postponed agm
+54,2016-08-02,KDSALTD,Board meeting for Re-fixation,1,0,0,board meeting for re-fixation
+55,2016-05-16,KDSALTD,"Postponement of AGM, unchanged Record date.",1,1,1,"postponement of agm, unchanged record date."
+56,2016-05-12,KDSALTD,Unaudited Financial Information,0,0,0,unaudited financial information
+57,2016-05-05,KDSALTD,Board Meeting,1,0,0,board meeting
+58,2016-04-21,KDSALTD,Resumption after Record date,0,0,0,resumption after record date
+59,2016-04-20,KDSALTD,Suspension for Record date,0,0,0,suspension for record date
+60,2016-04-18,KDSALTD,Spot News for AGM,0,0,0,spot news for agm
+61,2016-03-31,KDSALTD,Price Limit,0,0,0,price limit
+62,2016-03-31,KDSALTD,Dividend Declaration,0,0,0,dividend declaration
+63,2016-03-30,KDSALTD,Price Limit Open,1,0,0,price limit open
+64,2016-03-30,KDSALTD,Dividend Declaration,1,0,0,dividend declaration
+65,2016-03-20,KDSALTD, Board Meeting schedule under LR 19(1),0,0,1,board meeting schedule under lr 191
+66,2015-12-06,KDSALTD,Expansion Project,0,0,1,expansion project
+67,2015-10-25,KDSALTD,Q3 Financials,0,0,1,q3 financials
+68,2015-10-18,KDSALTD,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+69,2015-10-15,KDSALTD,Q2,1,0,0,q2
+70,2015-10-15,KDSALTD,Trading of New Security,1,0,0,trading of new security
+71,2015-10-14,KDSALTD,Q2 Financials,0,1,0,q2 financials

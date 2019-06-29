@@ -1,0 +1,100 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-02-06,FAREASTFIN,Credit Rating Result,0,0,0,credit rating result
+1,2019-01-23,FAREASTFIN,Query Response,1,0,0,query response
+2,2018-12-19,FAREASTFIN,Elected   Chairman,1,0,0,elected   chairman
+3,2018-10-28,FAREASTFIN,Q3 Financials,0,0,0,q3 financials
+4,2018-10-22,FAREASTFIN,Buy Confirmation of a Sponsor,0,0,0,buy confirmation of a sponsor
+5,2018-10-22,FAREASTFIN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+6,2018-10-11,FAREASTFIN,Buy declaration of a Sponsor,0,0,0,buy declaration of a sponsor
+7,2018-07-31,FAREASTFIN,Q2 Financials,0,0,0,q2 financials
+8,2018-07-24,FAREASTFIN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+9,2018-07-17,FAREASTFIN,Sale Confirmation of a Director,0,0,0,sale confirmation of a director
+10,2018-06-07,FAREASTFIN,Sale Declaration of a Director,0,0,0,sale declaration of a director
+11,2018-06-04,FAREASTFIN,Sale Confirmation of a Sponsor,0,0,1,sale confirmation of a sponsor
+12,2018-05-24,FAREASTFIN,Sale Declaration of a Sponsor,0,0,0,sale declaration of a sponsor
+13,2018-05-22,FAREASTFIN,Q1 Financials,1,1,0,q1 financials
+14,2018-05-15,FAREASTFIN,Resumption after record date,0,0,0,resumption after record date
+15,2018-05-15,FAREASTFIN,Reschedule of Board Meeting under LR 16(1),0,0,0,reschedule of board meeting under lr 161
+16,2018-05-14,FAREASTFIN,Suspension for Record Date,0,0,0,suspension for record date
+17,2018-05-07,FAREASTFIN,Board Meeting schedule under LR 16(1),0,1,1,board meeting schedule under lr 161
+18,2018-04-26,FAREASTFIN,Spot News,0,0,0,spot news
+19,2018-04-18,FAREASTFIN,Prohibition on providing loan facilities to purchase securities,0,1,0,prohibition on providing loan facilities to purchase securities
+20,2018-04-18,FAREASTFIN,Category Change,0,1,0,category change
+21,2018-04-18,FAREASTFIN,Price Limit Open,0,1,0,price limit open
+23,2018-04-18,FAREASTFIN,Dividend Declaration,0,1,0,dividend declaration
+24,2018-04-08,FAREASTFIN,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+25,2018-01-17,FAREASTFIN,Credit Rating Result,0,1,0,credit rating result
+26,2017-10-30,FAREASTFIN,Q3 Financials,0,1,1,q3 financials
+27,2017-10-23,FAREASTFIN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+28,2017-08-06,FAREASTFIN,Sale confirmation of a Sponsor,0,0,0,sale confirmation of a sponsor
+29,2017-07-31,FAREASTFIN,Sale declaration of a Sponsor,0,1,1,sale declaration of a sponsor
+30,2017-07-25,FAREASTFIN,Q2 Financials,0,1,0,q2 financials
+31,2017-07-18,FAREASTFIN,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+32,2017-07-09,FAREASTFIN,Dividend Disbursement,1,1,0,dividend disbursement
+33,2017-07-09,FAREASTFIN,Q1 Financials (Repeat),1,1,0,q1 financials repeat
+34,2017-06-11,FAREASTFIN,Prohibition on providing loan facilities to purchase securities,0,0,0,prohibition on providing loan facilities to purchase securities
+35,2017-06-11,FAREASTFIN,Category Change,0,0,0,category change
+36,2017-05-11,FAREASTFIN,Q1 Financials,0,0,0,q1 financials
+37,2017-05-03,FAREASTFIN,Resumption after Record Date,0,1,0,resumption after record date
+38,2017-05-03,FAREASTFIN,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+39,2017-05-02,FAREASTFIN,Suspension for Record Date,1,0,1,suspension for record date
+40,2017-04-27,FAREASTFIN,Spot News,0,0,0,spot news
+41,2017-04-11,FAREASTFIN,Dividend Declaration (additional information),1,0,0,dividend declaration additional information
+42,2017-04-11,FAREASTFIN,Price Limit Open,1,0,0,price limit open
+43,2017-04-11,FAREASTFIN,Dividend Declaration,1,0,0,dividend declaration
+44,2017-04-04,FAREASTFIN,Reschedule of Board Meeting under LR 19(1),1,0,0,reschedule of board meeting under lr 191
+45,2017-03-23,FAREASTFIN,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+46,2017-01-23,FAREASTFIN,Credit Rating Result,1,1,0,credit rating result
+47,2016-10-31,FAREASTFIN,Q3 Financials,0,0,1,q3 financials
+48,2016-10-26,FAREASTFIN,Buy Confirmation of a Sponsor,1,0,0,buy confirmation of a sponsor
+49,2016-10-24,FAREASTFIN,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+50,2016-10-20,FAREASTFIN,Buy Declaration of a Sponsor,1,0,0,buy declaration of a sponsor
+51,2016-10-19,FAREASTFIN,Confirmation of sale by a Sponsor,0,1,0,confirmation of sale by a sponsor
+52,2016-10-19,FAREASTFIN,Buy Confirmation of a Sponsor,0,1,0,buy confirmation of a sponsor
+53,2016-10-16,FAREASTFIN,Buy Confirmation of a Sponsor,1,1,1,buy confirmation of a sponsor
+54,2016-10-16,FAREASTFIN,Buy Declaration of a Sponsor,1,1,1,buy declaration of a sponsor
+55,2016-10-09,FAREASTFIN,Buy Declaration of a Sponsor,1,1,0,buy declaration of a sponsor
+56,2016-10-05,FAREASTFIN,Declaration of sale/buy of Sponsors,0,1,0,declaration of salebuy of sponsors
+57,2016-07-31,FAREASTFIN,Q2 Financials,0,0,1,q2 financials
+58,2016-07-24,FAREASTFIN,Board Meeting,0,0,1,board meeting
+59,2016-06-22,FAREASTFIN,Correction News on Board Meeting schedule under LR 19(1),0,1,0,correction news on board meeting schedule under lr 191
+60,2016-06-22,FAREASTFIN,Board Meeting schedule under LR 19(1),0,1,0,board meeting schedule under lr 191
+61,2016-05-26,FAREASTFIN,Spot News for AGM,1,0,0,spot news for agm
+62,2016-04-28,FAREASTFIN,Q1 Financials,1,0,0,q1 financials
+63,2016-04-28,FAREASTFIN,Price Limit Open,1,0,0,price limit open
+64,2016-04-28,FAREASTFIN,Dividend Declaration,1,0,0,dividend declaration
+65,2016-04-21,FAREASTFIN,Board Meeting,0,0,0,board meeting
+66,2016-04-20,FAREASTFIN,Board Meeting,0,0,0,board meeting
+67,2016-03-03,FAREASTFIN,Credit Rating Result,0,0,0,credit rating result
+68,2015-10-29,FAREASTFIN,Q3 Financials,0,0,0,q3 financials
+69,2015-10-21,FAREASTFIN,Board Meeting schedule under LR 16(1),1,0,0,board meeting schedule under lr 161
+70,2015-10-12,FAREASTFIN,Record Date for EGM,0,0,0,record date for egm
+71,2015-10-11,FAREASTFIN,Suspension News for Record Date,1,0,0,suspension news for record date
+72,2015-10-07,FAREASTFIN,Spot News,0,0,0,spot news
+73,2015-09-16,FAREASTFIN,EGM,0,1,0,egm
+74,2015-07-30,FAREASTFIN,Q2 Financials,1,0,0,q2 financials
+75,2015-05-24,FAREASTFIN,Space Purchase,0,0,0,space purchase
+76,2015-05-05,FAREASTFIN,Catagory Change,1,0,0,catagory change
+77,2015-05-05,FAREASTFIN,Bonus Shares Credited,1,0,0,bonus shares credited
+78,2015-04-20,FAREASTFIN,Quarterly Earnings,0,0,0,quarterly earnings
+79,2015-03-05,FAREASTFIN,Resumption News after Record Date,0,0,0,resumption news after record date
+80,2015-03-04,FAREASTFIN,Suspension  for Record date,0,0,0,suspension  for record date
+81,2015-02-19,FAREASTFIN,Spot News for AGM,0,0,0,spot news for agm
+82,2015-02-12,FAREASTFIN,Change of Record Date,0,0,0,change of record date
+83,2015-02-12,FAREASTFIN,Price Limit Open,0,0,0,price limit open
+84,2015-02-12,FAREASTFIN,Dividend Declaration,0,0,0,dividend declaration
+85,2015-02-08,FAREASTFIN,Adjournment of Board Meeting schedule under LR 30,0,0,1,adjournment of board meeting schedule under lr 30
+86,2014-12-18,FAREASTFIN,	Credit Rating,1,0,0,credit rating
+87,2014-10-26,FAREASTFIN,Q3 Earnings,1,0,0,q3 earnings
+88,2014-07-20,FAREASTFIN,H/Y Earnings,1,0,0,hy earnings
+89,2014-07-17,FAREASTFIN,DSE query,1,0,0,dse query
+90,2014-05-08,FAREASTFIN,trade resume,0,0,0,trade resume
+91,2014-05-07,FAREASTFIN,trade suspended,0,0,0,trade suspended
+92,2014-04-23,FAREASTFIN,Q1 Earnings,0,0,0,q1 earnings
+93,2014-04-23,FAREASTFIN,will be non marginable,0,0,0,will be non marginable
+94,2014-04-23,FAREASTFIN,Spot Market Transaction,0,0,0,spot market transaction
+95,2014-04-23,FAREASTFIN,no price limit,0,0,0,no price limit
+96,2014-04-23,FAREASTFIN,did not recommend any dividend,0,0,0,did not recommend any dividend
+97,2014-04-20,FAREASTFIN,Board Meeting,1,1,0,board meeting
+98,2013-10-30,FAREASTFIN,Q3 Earnings,0,0,0,q3 earnings
+99,2013-09-17,FAREASTFIN,Q2 Earnings,0,0,1,q2 earnings

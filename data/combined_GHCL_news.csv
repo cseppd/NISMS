@@ -1,0 +1,78 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-04-30,GHCL,Q3 Financials,0,0,0,q3 financials
+1,2019-04-18,GHCL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-02-05,GHCL,Credit Rating Result,0,0,0,credit rating result
+3,2019-01-30,GHCL,Q2 Financials,1,1,0,q2 financials
+4,2019-01-24,GHCL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+5,2019-01-20,GHCL,Dividend Disbursement,1,0,0,dividend disbursement
+6,2018-11-26,GHCL,Resumption after record date,0,1,1,resumption after record date
+7,2018-11-25,GHCL,Suspension for Record date,1,0,1,suspension for record date
+8,2018-11-20,GHCL,Spot News,0,0,1,spot news
+9,2018-11-14,GHCL,Q1 Financials,0,0,0,q1 financials
+10,2018-11-06,GHCL,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+11,2018-10-29,GHCL,Price Limit Open,1,0,0,price limit open
+13,2018-10-29,GHCL,Dividend Declaration,1,0,0,dividend declaration
+14,2018-10-16,GHCL,Board Meeting schedule under LR 19(1),1,0,0,board meeting schedule under lr 191
+15,2018-07-25,GHCL,Query Response,1,0,0,query response
+16,2018-04-30,GHCL,Q3 Financials,0,0,0,q3 financials
+17,2018-04-19,GHCL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+18,2018-01-31,GHCL,Q2 Financials,0,1,0,q2 financials
+19,2018-01-24,GHCL,Dividend Disbursement,1,1,0,dividend disbursement
+20,2018-01-23,GHCL,Credit Rating Result,1,1,1,credit rating result
+21,2018-01-21,GHCL,Board Meeting schedule under LR 16(1),1,0,1,board meeting schedule under lr 161
+22,2018-01-15,GHCL,Dividend Disbursement,0,0,1,dividend disbursement
+23,2017-11-22,GHCL,Resumption after record date,0,1,0,resumption after record date
+24,2017-11-21,GHCL,Suspension for Record Date,0,0,1,suspension for record date
+25,2017-11-19,GHCL,Spot for AGM,1,1,0,spot for agm
+26,2017-11-15,GHCL,Q1 Financials,0,1,0,q1 financials
+27,2017-11-12,GHCL,Board Meeting schedule under LR 16(1),0,1,0,board meeting schedule under lr 161
+28,2017-10-29,GHCL,Price Limit Open,0,1,0,price limit open
+30,2017-10-29,GHCL,Dividend Declaration,0,1,0,dividend declaration
+31,2017-10-17,GHCL,Board Meeting schedule under LR 19(1),1,1,0,board meeting schedule under lr 191
+32,2017-04-30,GHCL,Q3 Financials,0,0,0,q3 financials
+33,2017-04-24,GHCL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+34,2017-01-30,GHCL,Q2 Financials,1,1,0,q2 financials
+35,2017-01-23,GHCL,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+36,2017-01-09,GHCL,Request to collect Cash Dividend Warrants,1,0,1,request to collect cash dividend warrants
+37,2016-11-17,GHCL,Spot for AGM,0,0,0,spot for agm
+38,2016-11-14,GHCL,Q1 Financials,0,0,1,q1 financials
+39,2016-11-09,GHCL,Board Meeting,0,0,0,board meeting
+40,2016-10-30,GHCL,Price Limit Open,1,0,0,price limit open
+41,2016-10-30,GHCL,Dividend Declaration,1,0,0,dividend declaration
+42,2015-10-29,GHCL,Q3 Financials,0,0,0,q3 financials
+43,2015-10-25,GHCL,Board Meeting schedule under LR 16(1),0,0,1,board meeting schedule under lr 161
+44,2015-08-05,GHCL,Dividend Disbursement,1,1,0,dividend disbursement
+45,2015-08-02,GHCL,Q2 Financials,0,0,0,q2 financials
+46,2015-06-24,GHCL,Buy confirmation of Directors,1,1,0,buy confirmation of directors
+47,2015-06-15,GHCL,Buy Declaration of Directors,0,1,0,buy declaration of directors
+48,2015-05-18,GHCL,Resumption News after Record Date,0,1,1,resumption news after record date
+49,2015-05-18,GHCL,Q1 Financials,0,1,1,q1 financials
+50,2015-05-17,GHCL,Suspension News for Record Date,0,0,1,suspension news for record date
+51,2015-05-13,GHCL,Spot News for AGM,1,1,0,spot news for agm
+52,2015-04-30,GHCL,no price limit today,0,0,0,no price limit today
+53,2015-04-30,GHCL,Dividend,0,0,0,dividend
+54,2015-04-26,GHCL,Board Meeting,0,1,0,board meeting
+55,2014-10-30,GHCL,Q3 Earnings,0,0,0,q3 earnings
+56,2014-08-04,GHCL,dividend warrants,0,0,0,dividend warrants
+57,2014-08-03,GHCL,H/Y Earnings,1,0,0,hy earnings
+58,2014-06-25,GHCL,Sponsor/Director Share Buy,1,1,0,sponsordirector share buy
+59,2014-05-15,GHCL,will resume after record date,0,0,0,will resume after record date
+60,2014-05-15,GHCL,Q1 Earning,0,0,0,q1 earning
+61,2014-05-14,GHCL,trade suspended,1,0,0,trade suspended
+62,2014-05-11,GHCL,Spot Market,1,0,0,spot market
+63,2014-04-27,GHCL,no price limit,1,0,0,no price limit
+64,2014-04-27,GHCL,10% Cash Dividend,1,0,0,10 cash dividend
+65,2014-04-20,GHCL,Board Meeting,1,0,1,board meeting
+66,2013-10-30,GHCL,Q3 Earnings,0,0,0,q3 earnings
+67,2013-08-04,GHCL,Category Change,0,1,0,category change
+68,2013-07-31,GHCL,Q2 Earnings,0,0,0,q2 earnings
+69,2013-07-28,GHCL,dividend warrants,0,1,0,dividend warrants
+70,2013-05-16,GHCL,Trade Resume after Record Date,0,0,0,trade resume after record date
+71,2013-05-15,GHCL,Trade Suspension on Record Date,0,0,0,trade suspension on record date
+72,2013-05-14,GHCL,Q1 Earnings,1,0,0,q1 earnings
+73,2013-05-12,GHCL,Spot Market Trading,1,0,1,spot market trading
+74,2013-04-28,GHCL,Corporate Declaration,0,1,0,corporate declaration
+75,2013-03-06,GHCL,listing,1,0,0,listing
+76,2013-03-06,GHCL,Q3 Earnings,1,0,0,q3 earnings
+77,2013-03-05,GHCL,Q3 Earnings,0,1,0,q3 earnings
+78,2013-03-04,GHCL,listing,0,0,1,listing

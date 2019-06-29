@@ -1,0 +1,76 @@
+,PublishDate,Scrip,Title,today,tomorrow,day_after_tomorrow,normalized_headline
+0,2019-02-07,FAMILYTEX,Q2 Financials,0,0,0,q2 financials
+1,2019-02-03,FAMILYTEX,Board Meeting schedule under LR 16(1),0,0,0,board meeting schedule under lr 161
+2,2019-01-16,FAMILYTEX,Dividend Disbursement,0,0,0,dividend disbursement
+3,2018-11-25,FAMILYTEX,Resumption after record date,0,0,0,resumption after record date
+4,2018-11-22,FAMILYTEX,Suspension for Record date,0,0,0,suspension for record date
+5,2018-11-20,FAMILYTEX,Q1 Financials,1,0,0,q1 financials
+6,2018-11-19,FAMILYTEX,Spot News,0,1,0,spot news
+7,2018-10-31,FAMILYTEX,Price Limit Open,1,0,0,price limit open
+8,2018-10-31,FAMILYTEX,Dividend Declaration,1,0,0,dividend declaration
+9,2018-10-21,FAMILYTEX,Board Meeting schedule under LR 19(1),0,0,0,board meeting schedule under lr 191
+10,2018-04-30,FAMILYTEX,Q3 Financials,0,0,0,q3 financials
+11,2018-02-11,FAMILYTEX,Q2 Financials,1,0,1,q2 financials
+12,2018-02-11,FAMILYTEX,Q1 Financials,1,0,1,q1 financials
+13,2018-01-22,FAMILYTEX,Dividend Disbursement,0,0,1,dividend disbursement
+14,2017-12-10,FAMILYTEX,Resumption after record date,0,0,0,resumption after record date
+15,2017-12-07,FAMILYTEX,Suspension for Record Date,0,0,0,suspension for record date
+16,2017-12-05,FAMILYTEX,Spot News,0,0,0,spot news
+17,2017-11-19,FAMILYTEX,Price Limit Open,0,0,1,price limit open
+18,2017-11-19,FAMILYTEX,Dividend Declaration,0,0,1,dividend declaration
+19,2017-11-12,FAMILYTEX,Board Meeting schedule under LR 19(1),0,0,1,board meeting schedule under lr 191
+20,2017-05-21,FAMILYTEX,Q3 Financials,0,0,0,q3 financials
+21,2017-01-01,FAMILYTEX,Category Change,1,0,0,category change
+22,2016-12-15,FAMILYTEX,Resumption after record date,0,0,0,resumption after record date
+23,2016-12-14,FAMILYTEX,Suspension for Record Date,1,0,0,suspension for record date
+24,2016-12-11,FAMILYTEX,Spot for EGM & AGM,0,0,0,spot for egm  agm
+25,2016-11-27,FAMILYTEX,Price Limit Open,0,1,0,price limit open
+26,2016-11-27,FAMILYTEX,Dividend Declaration,0,1,0,dividend declaration
+27,2016-11-21,FAMILYTEX, Board Meeting,1,1,0,board meeting
+28,2015-11-17,FAMILYTEX,Q3 Financials,0,0,1,q3 financials
+29,2015-09-16,FAMILYTEX,Dividend Disbursement,0,0,0,dividend disbursement
+30,2015-08-19,FAMILYTEX,Q2 Financials,0,0,0,q2 financials
+31,2015-07-09,FAMILYTEX,Resumption News after Record Date,0,0,0,resumption news after record date
+32,2015-07-08,FAMILYTEX,Suspension News for Record Date,1,0,0,suspension news for record date
+33,2015-07-06,FAMILYTEX,Spot News for AGM and EGM,0,0,1,spot news for agm and egm
+34,2015-06-24,FAMILYTEX,Credit Rating Result,0,0,0,credit rating result
+35,2015-06-23,FAMILYTEX,Q1,1,0,0,q1
+36,2015-06-17,FAMILYTEX,Confirmation of sale by a Sponsor,1,0,0,confirmation of sale by a sponsor
+37,2015-06-15,FAMILYTEX,Declaration of sale by Sponsor/Director,1,1,1,declaration of sale by sponsordirector
+38,2015-06-14,FAMILYTEX,Confirmation of sale by Sponsor/Director,0,1,1,confirmation of sale by sponsordirector
+39,2015-06-09,FAMILYTEX,Declaration of sale by Sponsor/Director,0,1,0,declaration of sale by sponsordirector
+40,2015-06-02,FAMILYTEX,Confirmation of sale by Sponsors/Directors,0,0,0,confirmation of sale by sponsorsdirectors
+41,2015-06-01,FAMILYTEX, Declaration of sale by Sponsor/Director,0,0,0,declaration of sale by sponsordirector
+42,2015-05-31,FAMILYTEX,Declaration of sale by Sponsor/Director,0,0,0,declaration of sale by sponsordirector
+43,2015-05-24,FAMILYTEX,Dividend Declaration,0,1,0,dividend declaration
+44,2015-05-21,FAMILYTEX,Board Meeting schedule under LR 30,0,0,0,board meeting schedule under lr 30
+45,2015-04-29,FAMILYTEX,Postponement of Board Meeting schedule under LR 30,0,0,0,postponement of board meeting schedule under lr 30
+46,2015-04-26,FAMILYTEX,Board Meeting,0,1,0,board meeting
+47,2014-10-30,FAMILYTEX,Q3 Earnings,0,0,0,q3 earnings
+48,2014-08-03,FAMILYTEX,H/Y Earnings,0,0,0,hy earnings
+49,2014-05-22,FAMILYTEX,credited the bonus shares,1,0,0,credited the bonus shares
+50,2014-05-04,FAMILYTEX,Q1 Earning,0,1,0,q1 earning
+51,2014-04-22,FAMILYTEX,trade resume,0,0,0,trade resume
+52,2014-04-21,FAMILYTEX,trade suspension,0,0,0,trade suspension
+53,2014-04-07,FAMILYTEX, Spot Market transactions,0,1,0,spot market transactions
+54,2014-04-01,FAMILYTEX,no price limit,0,0,0,no price limit
+55,2014-04-01,FAMILYTEX,recommended 100% stock dividend,0,0,0,recommended 100 stock dividend
+56,2014-03-25,FAMILYTEX,Board Meeting,1,0,0,board meeting
+57,2014-01-02,FAMILYTEX,trade resume after record date,0,0,0,trade resume after record date
+58,2014-01-01,FAMILYTEX,trade suspension,0,0,0,trade suspension
+59,2013-12-17,FAMILYTEX,spot market trade,0,0,0,spot market trade
+60,2013-12-09,FAMILYTEX,EGM,1,1,1,egm
+61,2013-12-09,FAMILYTEX,EGM for IPO fund utilization,1,1,1,egm for ipo fund utilization
+62,2013-10-31,FAMILYTEX,Q3 Earnings,0,0,0,q3 earnings
+63,2013-08-04,FAMILYTEX,Category Change,0,0,0,category change
+64,2013-08-04,FAMILYTEX,DSE News,0,0,0,dse news
+65,2013-07-31,FAMILYTEX,Q2 Earnings,1,1,0,q2 earnings
+66,2013-07-11,FAMILYTEX,Trade Resume after Record Date,0,0,0,trade resume after record date
+67,2013-07-10,FAMILYTEX,Trade Suspension on Record Date,1,0,0,trade suspension on record date
+68,2013-07-03,FAMILYTEX,Directors News,0,1,0,directors news
+69,2013-06-18,FAMILYTEX,Financial Statements Audit,1,0,1,financial statements audit
+70,2013-06-18,FAMILYTEX,Q1 Earnings,1,0,1,q1 earnings
+71,2013-06-18,FAMILYTEX,Commences Trading at DSE,1,0,1,commences trading at dse
+72,2013-06-17,FAMILYTEX,Q1 Earnings,0,1,0,q1 earnings
+73,2013-06-16,FAMILYTEX,Commence at DSE,0,0,1,commence at dse
+74,2013-03-07,Familytex,Ltd. prospectus,0,0,0,ltd. prospectus
