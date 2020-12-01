@@ -1,6 +1,8 @@
 # NISMS
 News impact on Stock Movements System resources 
+
 ABSTRACT
+
 Stock price forecasting is a popular and important topic in financial and academic studies. Share Market is an untidy place for predicting since there are no significant rules to estimate or predict the price of share in the share market. Many methods like technical analysis, fundamental analysis, time series analysis and statistical analysis, etc. are all used to attempt to predict the price in the share market but none of these methods are proved as a consistently acceptable prediction tool.
 
 In this project I attempt to implement a Convolutional Neural Network (CNN) with LSTM (Long Short-Term Memory Networks) approach to predict stock market prices based on Share Market news. Convolutional Neural Networks are very effectively implemented in forecasting stock prices, returns, and stock modeling, and the most frequent methodology is the Backpropagation algorithm. 
